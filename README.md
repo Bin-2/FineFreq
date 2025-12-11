@@ -3,6 +3,7 @@
 **FineFreq: A Multilingual Character Frequency Dataset from Web-Scale Text**
 
 **FineFreq** provides large-scale, per-language character frequency tables derived from 96.6 trillion characters across 1900+ languages, covering Common Crawl-based corpora from 2013 to 2025 (FineWeb v1.4 and FineWeb2 v2.1.0). It includes aggregate and year-resolved frequency data, enabling diachronic and cross-linguistic analysis.
+[https://arxiv.org/abs/2512.09701](https://arxiv.org/abs/2512.09701)
 
 - Languages 1900+
 - Total characters 96.6 trillion
