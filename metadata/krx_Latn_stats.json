@@ -1,0 +1,15 @@
+{
+  "language_code": "krx_Latn",
+  "iso_639_3": "krx",
+  "script": "Latn",
+  "language_name": "Karon",
+  "total_characters": 83,
+  "total_frequency": 26666,
+  "years_covered": [
+    "2019",
+    "2022",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:00.518746"
+}

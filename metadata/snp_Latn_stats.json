@@ -1,0 +1,17 @@
+{
+  "language_code": "snp_Latn",
+  "iso_639_3": "snp",
+  "script": "Latn",
+  "language_name": "Siane",
+  "total_characters": 77,
+  "total_frequency": 2611904,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.795503"
+}

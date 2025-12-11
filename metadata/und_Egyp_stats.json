@@ -1,0 +1,21 @@
+{
+  "language_code": "und_Egyp",
+  "iso_639_3": "und",
+  "script": "Egyp",
+  "language_name": "Undetermined",
+  "total_characters": 8556,
+  "total_frequency": 3454506,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:14.002230"
+}

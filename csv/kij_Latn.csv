@@ -1,0 +1,76 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2022_frequency,year_2023_frequency,year_2024_frequency
+kij,Latn,kij_Latn,Kilivila,a,Ll,LATIN SMALL LETTER A,253018,3,"2022,2023,2024",70736,181467,815
+kij,Latn,kij_Latn,Kilivila, ,Zs,SPACE,168106,3,"2022,2023,2024",47343,120209,554
+kij,Latn,kij_Latn,Kilivila,i,Ll,LATIN SMALL LETTER I,157054,3,"2022,2023,2024",44823,111744,487
+kij,Latn,kij_Latn,Kilivila,l,Ll,LATIN SMALL LETTER L,78429,3,"2022,2023,2024",21616,56540,273
+kij,Latn,kij_Latn,Kilivila,u,Ll,LATIN SMALL LETTER U,73902,3,"2022,2023,2024",19902,53651,349
+kij,Latn,kij_Latn,Kilivila,o,Ll,LATIN SMALL LETTER O,53121,3,"2022,2023,2024",14853,38088,180
+kij,Latn,kij_Latn,Kilivila,k,Ll,LATIN SMALL LETTER K,52110,3,"2022,2023,2024",13980,37885,245
+kij,Latn,kij_Latn,Kilivila,m,Ll,LATIN SMALL LETTER M,47000,3,"2022,2023,2024",13028,33816,156
+kij,Latn,kij_Latn,Kilivila,t,Ll,LATIN SMALL LETTER T,45439,3,"2022,2023,2024",12527,32785,127
+kij,Latn,kij_Latn,Kilivila,s,Ll,LATIN SMALL LETTER S,43133,3,"2022,2023,2024",12306,30718,109
+kij,Latn,kij_Latn,Kilivila,b,Ll,LATIN SMALL LETTER B,37299,3,"2022,2023,2024",10715,26434,150
+kij,Latn,kij_Latn,Kilivila,w,Ll,LATIN SMALL LETTER W,36367,3,"2022,2023,2024",9805,26406,156
+kij,Latn,kij_Latn,Kilivila,e,Ll,LATIN SMALL LETTER E,32092,3,"2022,2023,2024",8990,22998,104
+kij,Latn,kij_Latn,Kilivila,n,Ll,LATIN SMALL LETTER N,30091,3,"2022,2023,2024",8407,21593,91
+kij,Latn,kij_Latn,Kilivila,g,Ll,LATIN SMALL LETTER G,30079,3,"2022,2023,2024",8558,21400,121
+kij,Latn,kij_Latn,Kilivila,v,Ll,LATIN SMALL LETTER V,20093,3,"2022,2023,2024",5765,14242,86
+kij,Latn,kij_Latn,Kilivila,d,Ll,LATIN SMALL LETTER D,19393,3,"2022,2023,2024",6025,13326,42
+kij,Latn,kij_Latn,Kilivila,y,Ll,LATIN SMALL LETTER Y,14892,3,"2022,2023,2024",3854,10968,70
+kij,Latn,kij_Latn,Kilivila,p,Ll,LATIN SMALL LETTER P,12357,3,"2022,2023,2024",3428,8894,35
+kij,Latn,kij_Latn,Kilivila,",",Po,COMMA,12289,3,"2022,2023,2024",3453,8807,29
+kij,Latn,kij_Latn,Kilivila,.,Po,FULL STOP,12231,3,"2022,2023,2024",3964,8223,44
+kij,Latn,kij_Latn,Kilivila,Y,Lu,LATIN CAPITAL LETTER Y,5126,3,"2022,2023,2024",1714,3391,21
+kij,Latn,kij_Latn,Kilivila,r,Ll,LATIN SMALL LETTER R,4898,3,"2022,2023,2024",1551,3343,4
+kij,Latn,kij_Latn,Kilivila,1,Nd,DIGIT ONE,4721,3,"2022,2023,2024",2015,2693,13
+kij,Latn,kij_Latn,Kilivila,E,Lu,LATIN CAPITAL LETTER E,4680,3,"2022,2023,2024",1286,3381,13
+kij,Latn,kij_Latn,Kilivila,M,Lu,LATIN CAPITAL LETTER M,3383,3,"2022,2023,2024",1014,2365,4
+kij,Latn,kij_Latn,Kilivila,K,Lu,LATIN CAPITAL LETTER K,3220,3,"2022,2023,2024",1096,2111,13
+kij,Latn,kij_Latn,Kilivila,2,Nd,DIGIT TWO,2805,3,"2022,2023,2024",1024,1769,12
+kij,Latn,kij_Latn,Kilivila,G,Lu,LATIN CAPITAL LETTER G,2474,3,"2022,2023,2024",690,1767,17
+kij,Latn,kij_Latn,Kilivila,B,Lu,LATIN CAPITAL LETTER B,2140,3,"2022,2023,2024",808,1326,6
+kij,Latn,kij_Latn,Kilivila,I,Lu,LATIN CAPITAL LETTER I,2091,3,"2022,2023,2024",638,1451,2
+kij,Latn,kij_Latn,Kilivila,“,Pi,LEFT DOUBLE QUOTATION MARK,1680,3,"2022,2023,2024",384,1289,7
+kij,Latn,kij_Latn,Kilivila,A,Lu,LATIN CAPITAL LETTER A,1662,3,"2022,2023,2024",504,1157,1
+kij,Latn,kij_Latn,Kilivila,3,Nd,DIGIT THREE,1626,3,"2022,2023,2024",601,1022,3
+kij,Latn,kij_Latn,Kilivila,”,Pf,RIGHT DOUBLE QUOTATION MARK,1468,3,"2022,2023,2024",346,1115,7
+kij,Latn,kij_Latn,Kilivila,S,Lu,LATIN CAPITAL LETTER S,1219,3,"2022,2023,2024",374,844,1
+kij,Latn,kij_Latn,Kilivila,4,Nd,DIGIT FOUR,1204,3,"2022,2023,2024",468,732,4
+kij,Latn,kij_Latn,Kilivila,T,Lu,LATIN CAPITAL LETTER T,1178,3,"2022,2023,2024",475,700,3
+kij,Latn,kij_Latn,Kilivila,0,Nd,DIGIT ZERO,1056,3,"2022,2023,2024",323,731,2
+kij,Latn,kij_Latn,Kilivila,5,Nd,DIGIT FIVE,1050,3,"2022,2023,2024",402,645,3
+kij,Latn,kij_Latn,Kilivila,P,Lu,LATIN CAPITAL LETTER P,961,2,"2022,2023",474,487,0
+kij,Latn,kij_Latn,Kilivila,6,Nd,DIGIT SIX,891,3,"2022,2023,2024",330,558,3
+kij,Latn,kij_Latn,Kilivila,7,Nd,DIGIT SEVEN,822,3,"2022,2023,2024",279,540,3
+kij,Latn,kij_Latn,Kilivila,8,Nd,DIGIT EIGHT,784,3,"2022,2023,2024",270,512,2
+kij,Latn,kij_Latn,Kilivila,9,Nd,DIGIT NINE,742,3,"2022,2023,2024",256,484,2
+kij,Latn,kij_Latn,Kilivila,L,Lu,LATIN CAPITAL LETTER L,673,2,"2022,2023",252,421,0
+kij,Latn,kij_Latn,Kilivila,!,Po,EXCLAMATION MARK,615,3,"2022,2023,2024",164,444,7
+kij,Latn,kij_Latn,Kilivila,?,Po,QUESTION MARK,544,3,"2022,2023,2024",146,397,1
+kij,Latn,kij_Latn,Kilivila,-,Pd,HYPHEN-MINUS,517,3,"2022,2023,2024",285,230,2
+kij,Latn,kij_Latn,Kilivila,O,Lu,LATIN CAPITAL LETTER O,501,3,"2022,2023,2024",144,356,1
+kij,Latn,kij_Latn,Kilivila,D,Lu,LATIN CAPITAL LETTER D,372,2,"2022,2023",141,231,0
+kij,Latn,kij_Latn,Kilivila,N,Lu,LATIN CAPITAL LETTER N,331,2,"2022,2023",116,215,0
+kij,Latn,kij_Latn,Kilivila,;,Po,SEMICOLON,309,3,"2022,2023,2024",127,180,2
+kij,Latn,kij_Latn,Kilivila,),Pe,RIGHT PARENTHESIS,234,2,"2022,2023",125,109,0
+kij,Latn,kij_Latn,Kilivila,W,Lu,LATIN CAPITAL LETTER W,212,3,"2022,2023,2024",56,154,2
+kij,Latn,kij_Latn,Kilivila,R,Lu,LATIN CAPITAL LETTER R,198,2,"2022,2023",72,126,0
+kij,Latn,kij_Latn,Kilivila,—,Pd,EM DASH,187,2,"2022,2023",185,2,0
+kij,Latn,kij_Latn,Kilivila,V,Lu,LATIN CAPITAL LETTER V,180,3,"2022,2023,2024",71,107,2
+kij,Latn,kij_Latn,Kilivila,(,Ps,LEFT PARENTHESIS,175,2,"2022,2023",66,109,0
+kij,Latn,kij_Latn,Kilivila,‘,Pi,LEFT SINGLE QUOTATION MARK,152,2,"2022,2023",45,107,0
+kij,Latn,kij_Latn,Kilivila,U,Lu,LATIN CAPITAL LETTER U,146,2,"2022,2023",63,83,0
+kij,Latn,kij_Latn,Kilivila,’,Pf,RIGHT SINGLE QUOTATION MARK,146,2,"2022,2023",45,101,0
+kij,Latn,kij_Latn,Kilivila,:,Po,COLON,143,2,"2022,2023",116,27,0
+kij,Latn,kij_Latn,Kilivila,|,Sm,VERTICAL LINE,132,1,2022,132,0,0
+kij,Latn,kij_Latn,Kilivila,ʹ,Lm,MODIFIER LETTER PRIME,120,2,"2022,2023",20,100,0
+kij,Latn,kij_Latn,Kilivila,c,Ll,LATIN SMALL LETTER C,51,2,"2022,2023",49,2,0
+kij,Latn,kij_Latn,Kilivila,C,Lu,LATIN CAPITAL LETTER C,19,1,2022,19,0,0
+kij,Latn,kij_Latn,Kilivila,f,Ll,LATIN SMALL LETTER F,18,2,"2022,2023",16,2,0
+kij,Latn,kij_Latn,Kilivila,h,Ll,LATIN SMALL LETTER H,13,2,"2022,2023",11,2,0
+kij,Latn,kij_Latn,Kilivila,j,Ll,LATIN SMALL LETTER J,7,2,"2022,2023",4,3,0
+kij,Latn,kij_Latn,Kilivila,q,Ll,LATIN SMALL LETTER Q,7,2,"2022,2023",5,2,0
+kij,Latn,kij_Latn,Kilivila,x,Ll,LATIN SMALL LETTER X,1,1,2022,1,0,0
+kij,Latn,kij_Latn,Kilivila,z,Ll,LATIN SMALL LETTER Z,1,1,2022,1,0,0
+kij,Latn,kij_Latn,Kilivila,J,Lu,LATIN CAPITAL LETTER J,1,1,2022,1,0,0
+kij,Latn,kij_Latn,Kilivila,"""",Po,QUOTATION MARK,1,1,2023,0,1,0

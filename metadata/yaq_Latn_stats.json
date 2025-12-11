@@ -1,0 +1,17 @@
+{
+  "language_code": "yaq_Latn",
+  "iso_639_3": "yaq",
+  "script": "Latn",
+  "language_name": "Yaqui",
+  "total_characters": 69,
+  "total_frequency": 462926,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2018",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.106607"
+}

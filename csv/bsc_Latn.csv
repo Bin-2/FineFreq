@@ -1,0 +1,81 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency,year_2022_frequency
+bsc,Latn,bsc_Latn,Bassari, ,Zs,SPACE,3043,3,"2019,2020,2022",1211,647,1185
+bsc,Latn,bsc_Latn,Bassari,a,Ll,LATIN SMALL LETTER A,1606,3,"2019,2020,2022",645,312,649
+bsc,Latn,bsc_Latn,Bassari,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,1423,3,"2019,2020,2022",506,340,577
+bsc,Latn,bsc_Latn,Bassari,n,Ll,LATIN SMALL LETTER N,1161,3,"2019,2020,2022",405,196,560
+bsc,Latn,bsc_Latn,Bassari,e,Ll,LATIN SMALL LETTER E,925,3,"2019,2020,2022",345,187,393
+bsc,Latn,bsc_Latn,Bassari,o,Ll,LATIN SMALL LETTER O,735,3,"2019,2020,2022",315,183,237
+bsc,Latn,bsc_Latn,Bassari,r,Ll,LATIN SMALL LETTER R,683,3,"2019,2020,2022",276,135,272
+bsc,Latn,bsc_Latn,Bassari,i,Ll,LATIN SMALL LETTER I,608,3,"2019,2020,2022",212,125,271
+bsc,Latn,bsc_Latn,Bassari,k,Ll,LATIN SMALL LETTER K,516,3,"2019,2020,2022",181,141,194
+bsc,Latn,bsc_Latn,Bassari,d,Ll,LATIN SMALL LETTER D,446,3,"2019,2020,2022",185,89,172
+bsc,Latn,bsc_Latn,Bassari,x,Ll,LATIN SMALL LETTER X,427,3,"2019,2020,2022",165,78,184
+bsc,Latn,bsc_Latn,Bassari,g,Ll,LATIN SMALL LETTER G,426,3,"2019,2020,2022",176,92,158
+bsc,Latn,bsc_Latn,Bassari,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,423,3,"2019,2020,2022",144,117,162
+bsc,Latn,bsc_Latn,Bassari,l,Ll,LATIN SMALL LETTER L,326,3,"2019,2020,2022",127,60,139
+bsc,Latn,bsc_Latn,Bassari,m,Ll,LATIN SMALL LETTER M,308,3,"2019,2020,2022",157,40,111
+bsc,Latn,bsc_Latn,Bassari,w,Ll,LATIN SMALL LETTER W,242,3,"2019,2020,2022",81,65,96
+bsc,Latn,bsc_Latn,Bassari,ŋ,Ll,LATIN SMALL LETTER ENG,238,3,"2019,2020,2022",86,58,94
+bsc,Latn,bsc_Latn,Bassari,",",Po,COMMA,233,3,"2019,2020,2022",107,54,72
+bsc,Latn,bsc_Latn,Bassari,t,Ll,LATIN SMALL LETTER T,214,3,"2019,2020,2022",83,57,74
+bsc,Latn,bsc_Latn,Bassari,.,Po,FULL STOP,187,3,"2019,2020,2022",84,50,53
+bsc,Latn,bsc_Latn,Bassari,y,Ll,LATIN SMALL LETTER Y,185,3,"2019,2020,2022",77,44,64
+bsc,Latn,bsc_Latn,Bassari,s,Ll,LATIN SMALL LETTER S,176,3,"2019,2020,2022",110,42,24
+bsc,Latn,bsc_Latn,Bassari,b,Ll,LATIN SMALL LETTER B,137,3,"2019,2020,2022",81,38,18
+bsc,Latn,bsc_Latn,Bassari,u,Ll,LATIN SMALL LETTER U,136,3,"2019,2020,2022",70,19,47
+bsc,Latn,bsc_Latn,Bassari,A,Lu,LATIN CAPITAL LETTER A,136,3,"2019,2020,2022",60,37,39
+bsc,Latn,bsc_Latn,Bassari,̃,Mn,COMBINING TILDE,108,3,"2019,2020,2022",44,43,21
+bsc,Latn,bsc_Latn,Bassari,c,Ll,LATIN SMALL LETTER C,88,3,"2019,2020,2022",38,10,40
+bsc,Latn,bsc_Latn,Bassari,ƴ,Ll,LATIN SMALL LETTER Y WITH HOOK,88,3,"2019,2020,2022",17,14,57
+bsc,Latn,bsc_Latn,Bassari,ŝ,Ll,LATIN SMALL LETTER S WITH CIRCUMFLEX,80,3,"2019,2020,2022",20,20,40
+bsc,Latn,bsc_Latn,Bassari,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,80,3,"2019,2020,2022",43,7,30
+bsc,Latn,bsc_Latn,Bassari,f,Ll,LATIN SMALL LETTER F,68,3,"2019,2020,2022",19,14,35
+bsc,Latn,bsc_Latn,Bassari,p,Ll,LATIN SMALL LETTER P,66,3,"2019,2020,2022",23,14,29
+bsc,Latn,bsc_Latn,Bassari,h,Ll,LATIN SMALL LETTER H,60,3,"2019,2020,2022",35,11,14
+bsc,Latn,bsc_Latn,Bassari,1,Nd,DIGIT ONE,60,3,"2019,2020,2022",28,16,16
+bsc,Latn,bsc_Latn,Bassari,K,Lu,LATIN CAPITAL LETTER K,54,3,"2019,2020,2022",35,5,14
+bsc,Latn,bsc_Latn,Bassari,2,Nd,DIGIT TWO,52,3,"2019,2020,2022",22,14,16
+bsc,Latn,bsc_Latn,Bassari,ỹ,Ll,LATIN SMALL LETTER Y WITH TILDE,40,3,"2019,2020,2022",5,6,29
+bsc,Latn,bsc_Latn,Bassari,E,Lu,LATIN CAPITAL LETTER E,39,3,"2019,2020,2022",22,6,11
+bsc,Latn,bsc_Latn,Bassari,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,38,3,"2019,2020,2022",20,5,13
+bsc,Latn,bsc_Latn,Bassari,j,Ll,LATIN SMALL LETTER J,36,3,"2019,2020,2022",11,11,14
+bsc,Latn,bsc_Latn,Bassari,Y,Lu,LATIN CAPITAL LETTER Y,34,3,"2019,2020,2022",30,2,2
+bsc,Latn,bsc_Latn,Bassari,:,Po,COLON,33,3,"2019,2020,2022",16,6,11
+bsc,Latn,bsc_Latn,Bassari,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,32,3,"2019,2020,2022",18,5,9
+bsc,Latn,bsc_Latn,Bassari,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,31,3,"2019,2020,2022",18,5,8
+bsc,Latn,bsc_Latn,Bassari,3,Nd,DIGIT THREE,29,3,"2019,2020,2022",8,6,15
+bsc,Latn,bsc_Latn,Bassari,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,27,3,"2019,2020,2022",7,4,16
+bsc,Latn,bsc_Latn,Bassari,4,Nd,DIGIT FOUR,24,3,"2019,2020,2022",6,3,15
+bsc,Latn,bsc_Latn,Bassari,!,Po,EXCLAMATION MARK,24,3,"2019,2020,2022",6,4,14
+bsc,Latn,bsc_Latn,Bassari,N,Lu,LATIN CAPITAL LETTER N,23,3,"2019,2020,2022",5,8,10
+bsc,Latn,bsc_Latn,Bassari,S,Lu,LATIN CAPITAL LETTER S,22,3,"2019,2020,2022",13,7,2
+bsc,Latn,bsc_Latn,Bassari,M,Lu,LATIN CAPITAL LETTER M,21,3,"2019,2020,2022",12,6,3
+bsc,Latn,bsc_Latn,Bassari,R,Lu,LATIN CAPITAL LETTER R,17,2,"2019,2020",4,13,0
+bsc,Latn,bsc_Latn,Bassari,5,Nd,DIGIT FIVE,15,3,"2019,2020,2022",6,3,6
+bsc,Latn,bsc_Latn,Bassari,8,Nd,DIGIT EIGHT,13,3,"2019,2020,2022",5,3,5
+bsc,Latn,bsc_Latn,Bassari,7,Nd,DIGIT SEVEN,13,3,"2019,2020,2022",5,3,5
+bsc,Latn,bsc_Latn,Bassari,D,Lu,LATIN CAPITAL LETTER D,13,2,"2019,2022",10,0,3
+bsc,Latn,bsc_Latn,Bassari,G,Lu,LATIN CAPITAL LETTER G,13,3,"2019,2020,2022",6,3,4
+bsc,Latn,bsc_Latn,Bassari,6,Nd,DIGIT SIX,13,3,"2019,2020,2022",5,3,5
+bsc,Latn,bsc_Latn,Bassari,9,Nd,DIGIT NINE,12,3,"2019,2020,2022",5,3,4
+bsc,Latn,bsc_Latn,Bassari,0,Nd,DIGIT ZERO,12,3,"2019,2020,2022",5,3,4
+bsc,Latn,bsc_Latn,Bassari,Ŝ,Lu,LATIN CAPITAL LETTER S WITH CIRCUMFLEX,11,2,"2019,2020",2,9,0
+bsc,Latn,bsc_Latn,Bassari,“,Pi,LEFT DOUBLE QUOTATION MARK,11,2,"2019,2022",1,0,10
+bsc,Latn,bsc_Latn,Bassari,”,Pf,RIGHT DOUBLE QUOTATION MARK,11,2,"2019,2022",1,0,10
+bsc,Latn,bsc_Latn,Bassari,T,Lu,LATIN CAPITAL LETTER T,9,2,"2019,2020",1,8,0
+bsc,Latn,bsc_Latn,Bassari,B,Lu,LATIN CAPITAL LETTER B,7,2,"2019,2020",6,1,0
+bsc,Latn,bsc_Latn,Bassari,X,Lu,LATIN CAPITAL LETTER X,7,1,2020,0,7,0
+bsc,Latn,bsc_Latn,Bassari,P,Lu,LATIN CAPITAL LETTER P,7,3,"2019,2020,2022",2,4,1
+bsc,Latn,bsc_Latn,Bassari,W,Lu,LATIN CAPITAL LETTER W,6,2,"2020,2022",0,2,4
+bsc,Latn,bsc_Latn,Bassari,?,Po,QUESTION MARK,6,1,2022,0,0,6
+bsc,Latn,bsc_Latn,Bassari,I,Lu,LATIN CAPITAL LETTER I,5,1,2019,5,0,0
+bsc,Latn,bsc_Latn,Bassari,O,Lu,LATIN CAPITAL LETTER O,5,2,"2019,2022",4,0,1
+bsc,Latn,bsc_Latn,Bassari,U,Lu,LATIN CAPITAL LETTER U,3,2,"2019,2020",1,2,0
+bsc,Latn,bsc_Latn,Bassari,-,Pd,HYPHEN-MINUS,3,3,"2019,2020,2022",1,1,1
+bsc,Latn,bsc_Latn,Bassari,L,Lu,LATIN CAPITAL LETTER L,3,2,"2019,2020",1,2,0
+bsc,Latn,bsc_Latn,Bassari,;,Po,SEMICOLON,3,1,2019,3,0,0
+bsc,Latn,bsc_Latn,Bassari,C,Lu,LATIN CAPITAL LETTER C,2,1,2019,2,0,0
+bsc,Latn,bsc_Latn,Bassari,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,2,1,2022,0,0,2
+bsc,Latn,bsc_Latn,Bassari,+,Sm,PLUS SIGN,1,1,2019,1,0,0
+bsc,Latn,bsc_Latn,Bassari,#,Po,NUMBER SIGN,1,1,2022,0,0,1
+bsc,Latn,bsc_Latn,Bassari,F,Lu,LATIN CAPITAL LETTER F,1,1,2022,0,0,1

@@ -1,0 +1,104 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2018_frequency,year_2020_frequency,year_2021_frequency,year_2023_frequency
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec, ,Zs,SPACE,7559,5,"2013,2018,2020,2021,2023",734,215,3113,978,2519
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,a,Ll,LATIN SMALL LETTER A,5473,5,"2013,2018,2020,2021,2023",343,117,2580,503,1930
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,n,Ll,LATIN SMALL LETTER N,3452,5,"2013,2018,2020,2021,2023",260,118,1462,419,1193
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,i,Ll,LATIN SMALL LETTER I,3065,5,"2013,2018,2020,2021,2023",299,108,1321,376,961
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,u,Ll,LATIN SMALL LETTER U,2356,5,"2013,2018,2020,2021,2023",225,50,936,345,800
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,s,Ll,LATIN SMALL LETTER S,1819,5,"2013,2018,2020,2021,2023",154,25,921,200,519
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,e,Ll,LATIN SMALL LETTER E,1751,5,"2013,2018,2020,2021,2023",268,58,451,349,625
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,o,Ll,LATIN SMALL LETTER O,1505,5,"2013,2018,2020,2021,2023",203,112,467,248,475
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,t,Ll,LATIN SMALL LETTER T,1463,5,"2013,2018,2020,2021,2023",124,51,630,176,482
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,d,Ll,LATIN SMALL LETTER D,1452,5,"2013,2018,2020,2021,2023",119,58,667,167,441
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,k,Ll,LATIN SMALL LETTER K,1426,5,"2013,2018,2020,2021,2023",66,50,633,110,567
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,765,2,"2020,2023",0,0,545,0,220
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,c,Ll,LATIN SMALL LETTER C,631,5,"2013,2018,2020,2021,2023",114,17,164,122,214
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,r,Ll,LATIN SMALL LETTER R,613,5,"2013,2018,2020,2021,2023",118,14,120,131,230
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,x,Ll,LATIN SMALL LETTER X,603,5,"2013,2018,2020,2021,2023",51,13,274,65,200
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,530,5,"2013,2018,2020,2021,2023",18,21,183,40,268
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,y,Ll,LATIN SMALL LETTER Y,473,5,"2013,2018,2020,2021,2023",46,17,198,56,156
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,l,Ll,LATIN SMALL LETTER L,454,5,"2013,2018,2020,2021,2023",107,17,76,115,139
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,",",Po,COMMA,386,5,"2013,2018,2020,2021,2023",55,14,131,66,120
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,.,Po,FULL STOP,372,5,"2013,2018,2020,2021,2023",47,15,122,47,141
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,h,Ll,LATIN SMALL LETTER H,338,5,"2013,2018,2020,2021,2023",32,7,136,50,113
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,',Po,APOSTROPHE,302,3,"2013,2018,2023",48,43,0,0,211
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,m,Ll,LATIN SMALL LETTER M,240,5,"2013,2018,2020,2021,2023",44,2,42,52,100
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,v,Ll,LATIN SMALL LETTER V,205,5,"2013,2018,2020,2021,2023",20,17,57,16,95
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,p,Ll,LATIN SMALL LETTER P,190,5,"2013,2018,2020,2021,2023",42,5,23,44,76
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,g,Ll,LATIN SMALL LETTER G,172,5,"2013,2018,2020,2021,2023",31,2,50,33,56
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,N,Lu,LATIN CAPITAL LETTER N,154,5,"2013,2018,2020,2021,2023",27,6,81,17,23
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,í,Ll,LATIN SMALL LETTER I WITH ACUTE,147,5,"2013,2018,2020,2021,2023",10,2,86,12,37
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,j,Ll,LATIN SMALL LETTER J,147,4,"2013,2020,2021,2023",8,0,58,10,71
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,S,Lu,LATIN CAPITAL LETTER S,131,5,"2013,2018,2020,2021,2023",15,14,61,14,27
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,á,Ll,LATIN SMALL LETTER A WITH ACUTE,111,4,"2013,2020,2021,2023",3,0,49,9,50
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,b,Ll,LATIN SMALL LETTER B,110,5,"2013,2018,2020,2021,2023",25,3,23,26,33
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,-,Pd,HYPHEN-MINUS,97,2,"2020,2023",0,0,77,0,20
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,’,Pf,RIGHT SINGLE QUOTATION MARK,90,3,"2013,2021,2023",2,0,0,87,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,D,Lu,LATIN CAPITAL LETTER D,84,5,"2013,2018,2020,2021,2023",16,10,46,3,9
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,f,Ll,LATIN SMALL LETTER F,83,5,"2013,2018,2020,2021,2023",21,3,14,27,18
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,A,Lu,LATIN CAPITAL LETTER A,82,4,"2013,2020,2021,2023",32,0,17,2,31
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,:,Po,COLON,72,5,"2013,2018,2020,2021,2023",3,4,39,3,23
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,T,Lu,LATIN CAPITAL LETTER T,68,5,"2013,2018,2020,2021,2023",20,5,14,10,19
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,w,Ll,LATIN SMALL LETTER W,66,4,"2013,2018,2021,2023",18,4,0,21,23
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,1,Nd,DIGIT ONE,62,5,"2013,2018,2020,2021,2023",1,2,53,5,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,K,Lu,LATIN CAPITAL LETTER K,62,4,"2013,2020,2021,2023",14,0,27,11,10
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,59,4,"2013,2020,2021,2023",15,0,3,11,30
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,I,Lu,LATIN CAPITAL LETTER I,58,5,"2013,2018,2020,2021,2023",26,11,14,3,4
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,E,Lu,LATIN CAPITAL LETTER E,57,5,"2013,2018,2020,2021,2023",12,2,30,4,9
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,J,Lu,LATIN CAPITAL LETTER J,56,5,"2013,2018,2020,2021,2023",3,1,47,2,3
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,M,Lu,LATIN CAPITAL LETTER M,54,5,"2013,2018,2020,2021,2023",17,5,19,1,12
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,2,Nd,DIGIT TWO,50,4,"2013,2018,2020,2021",3,3,42,2,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,é,Ll,LATIN SMALL LETTER E WITH ACUTE,48,5,"2013,2018,2020,2021,2023",9,1,16,4,18
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,45,3,"2020,2021,2023",0,0,33,1,11
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,C,Lu,LATIN CAPITAL LETTER C,44,5,"2013,2018,2020,2021,2023",10,3,6,3,22
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,40,1,2023,0,0,0,0,40
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,—,Pd,EM DASH,35,2,"2020,2023",0,0,25,0,10
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,0,Nd,DIGIT ZERO,34,4,"2013,2018,2020,2021",6,9,12,7,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,5,Nd,DIGIT FIVE,34,4,"2013,2018,2020,2021",1,1,27,5,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,34,5,"2013,2018,2020,2021,2023",14,1,1,6,12
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,3,Nd,DIGIT THREE,34,4,"2018,2020,2021,2023",0,2,29,2,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,4,Nd,DIGIT FOUR,33,4,"2013,2020,2021,2023",4,0,24,4,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,z,Ll,LATIN SMALL LETTER Z,31,4,"2013,2020,2021,2023",2,0,18,6,5
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,q,Ll,LATIN SMALL LETTER Q,31,5,"2013,2018,2020,2021,2023",7,1,2,10,11
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,7,Nd,DIGIT SEVEN,30,3,"2018,2020,2021",0,1,26,3,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,U,Lu,LATIN CAPITAL LETTER U,30,4,"2013,2020,2021,2023",19,0,9,1,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Y,Lu,LATIN CAPITAL LETTER Y,30,4,"2013,2020,2021,2023",15,0,2,7,6
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,6,Nd,DIGIT SIX,29,2,"2018,2020",0,4,25,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,L,Lu,LATIN CAPITAL LETTER L,26,4,"2013,2020,2021,2023",10,0,8,2,6
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,O,Lu,LATIN CAPITAL LETTER O,24,4,"2013,2020,2021,2023",11,0,3,3,7
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,9,Nd,DIGIT NINE,22,4,"2013,2018,2020,2021",1,1,17,3,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,|,Sm,VERTICAL LINE,22,2,"2013,2023",2,0,0,0,20
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,;,Po,SEMICOLON,21,4,"2013,2020,2021,2023",2,0,15,2,2
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,X,Lu,LATIN CAPITAL LETTER X,21,4,"2013,2018,2020,2021",8,5,3,5,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,H,Lu,LATIN CAPITAL LETTER H,20,4,"2013,2020,2021,2023",4,0,12,1,3
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Z,Lu,LATIN CAPITAL LETTER Z,19,1,2020,0,0,19,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,B,Lu,LATIN CAPITAL LETTER B,18,5,"2013,2018,2020,2021,2023",4,4,5,2,3
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,̶,Mn,COMBINING LONG STROKE OVERLAY,18,1,2020,0,0,18,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,(,Ps,LEFT PARENTHESIS,16,4,"2013,2018,2020,2023",1,2,4,0,9
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,8,Nd,DIGIT EIGHT,16,2,"2018,2020",0,1,15,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,),Pe,RIGHT PARENTHESIS,16,4,"2013,2018,2020,2023",1,2,4,0,9
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,?,Po,QUESTION MARK,13,1,2020,0,0,13,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,_,Pc,LOW LINE,12,1,2023,0,0,0,0,12
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,G,Lu,LATIN CAPITAL LETTER G,12,2,"2020,2023",0,0,6,0,6
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,R,Lu,LATIN CAPITAL LETTER R,11,3,"2013,2018,2020",5,1,5,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,à,Ll,LATIN SMALL LETTER A WITH GRAVE,11,1,2023,0,0,0,0,11
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,V,Lu,LATIN CAPITAL LETTER V,10,4,"2018,2020,2021,2023",0,1,1,1,7
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,/,Po,SOLIDUS,9,2,"2013,2018",8,1,0,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,F,Lu,LATIN CAPITAL LETTER F,9,4,"2013,2018,2021,2023",5,2,0,1,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,P,Lu,LATIN CAPITAL LETTER P,8,3,"2013,2021,2023",2,0,0,3,3
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,è,Ll,LATIN SMALL LETTER E WITH GRAVE,7,1,2023,0,0,0,0,7
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,”,Pf,RIGHT DOUBLE QUOTATION MARK,5,1,2020,0,0,5,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,đ,Ll,LATIN SMALL LETTER D WITH STROKE,5,1,2023,0,0,0,0,5
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,W,Lu,LATIN CAPITAL LETTER W,5,2,"2013,2021",4,0,0,1,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,“,Pi,LEFT DOUBLE QUOTATION MARK,5,1,2020,0,0,5,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,¡,Po,INVERTED EXCLAMATION MARK,4,2,"2013,2020",1,0,3,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,!,Po,EXCLAMATION MARK,3,1,2020,0,0,3,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Q,Lu,LATIN CAPITAL LETTER Q,3,1,2023,0,0,0,0,3
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,–,Pd,EN DASH,2,1,2023,0,0,0,0,2
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,2,1,2020,0,0,2,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,#,Po,NUMBER SIGN,2,1,2018,0,2,0,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,2,1,2023,0,0,0,0,2
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,1,1,2020,0,0,1,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,1,1,2020,0,0,1,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,Ꞌ,Lu,LATIN CAPITAL LETTER SALTILLO,1,1,2023,0,0,0,0,1
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,©,So,COPYRIGHT SIGN,1,1,2013,1,0,0,0,0
+mip,Latn,mip_Latn,Apasco-Apoala Mixtec,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,1,1,2023,0,0,0,0,1

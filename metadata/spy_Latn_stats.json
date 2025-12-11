@@ -1,0 +1,19 @@
+{
+  "language_code": "spy_Latn",
+  "iso_639_3": "spy",
+  "script": "Latn",
+  "language_name": "Sabaot",
+  "total_characters": 88,
+  "total_frequency": 1912853,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2019",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:11.025449"
+}

@@ -1,0 +1,16 @@
+{
+  "language_code": "kxm_Thai",
+  "iso_639_3": "kxm",
+  "script": "Thai",
+  "language_name": "Northern Khmer",
+  "total_characters": 156,
+  "total_frequency": 22631,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2019",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:01.015125"
+}

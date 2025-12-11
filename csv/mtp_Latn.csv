@@ -1,0 +1,83 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2015_frequency,year_2016_frequency,year_2017_frequency,year_2022_frequency
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten, ,Zs,SPACE,174902,5,"2014,2015,2016,2017,2022",134668,22857,9194,7167,1016
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,a,Ll,LATIN SMALL LETTER A,119212,5,"2014,2015,2016,2017,2022",91822,15293,6489,4817,791
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,e,Ll,LATIN SMALL LETTER E,106690,5,"2014,2015,2016,2017,2022",81915,13762,5658,4648,707
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,t,Ll,LATIN SMALL LETTER T,99827,5,"2014,2015,2016,2017,2022",76802,13146,5124,4183,572
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,h,Ll,LATIN SMALL LETTER H,97672,5,"2014,2015,2016,2017,2022",75077,12597,5402,4051,545
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,',Po,APOSTROPHE,93387,5,"2014,2015,2016,2017,2022",71515,12272,5146,3808,646
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,à,Ll,LATIN SMALL LETTER A WITH GRAVE,72650,5,"2014,2015,2016,2017,2022",56054,9360,3780,3042,414
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,y,Ll,LATIN SMALL LETTER Y,71773,5,"2014,2015,2016,2017,2022",55124,9409,4037,2737,466
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,i,Ll,LATIN SMALL LETTER I,68378,5,"2014,2015,2016,2017,2022",52286,9081,3715,2881,415
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,o,Ll,LATIN SMALL LETTER O,53747,5,"2014,2015,2016,2017,2022",41632,6824,2938,2034,319
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,l,Ll,LATIN SMALL LETTER L,53698,5,"2014,2015,2016,2017,2022",41289,6735,2902,2432,340
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,k,Ll,LATIN SMALL LETTER K,49462,5,"2014,2015,2016,2017,2022",37810,6640,2775,1858,379
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,n,Ll,LATIN SMALL LETTER N,44460,5,"2014,2015,2016,2017,2022",34101,5839,2486,1790,244
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,w,Ll,LATIN SMALL LETTER W,38152,5,"2014,2015,2016,2017,2022",29389,4909,1971,1658,225
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,j,Ll,LATIN SMALL LETTER J,32649,5,"2014,2015,2016,2017,2022",25328,4085,1795,1275,166
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,s,Ll,LATIN SMALL LETTER S,28732,5,"2014,2015,2016,2017,2022",22099,3866,1369,1235,163
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,m,Ll,LATIN SMALL LETTER M,26121,5,"2014,2015,2016,2017,2022",20180,3132,1494,1138,177
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,",",Po,COMMA,25016,5,"2014,2015,2016,2017,2022",19211,3227,1361,1104,113
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,u,Ll,LATIN SMALL LETTER U,20409,5,"2014,2015,2016,2017,2022",15950,2597,1076,672,114
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,p,Ll,LATIN SMALL LETTER P,19199,5,"2014,2015,2016,2017,2022",14634,2670,982,767,146
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,.,Po,FULL STOP,11369,5,"2014,2015,2016,2017,2022",8752,1484,658,408,67
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,q,Ll,LATIN SMALL LETTER Q,9187,5,"2014,2015,2016,2017,2022",7160,1124,466,366,71
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,-,Pd,HYPHEN-MINUS,8616,5,"2014,2015,2016,2017,2022",6553,1180,459,304,120
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,W,Lu,LATIN CAPITAL LETTER W,7132,5,"2014,2015,2016,2017,2022",5553,975,326,256,22
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,í,Ll,LATIN SMALL LETTER I WITH ACUTE,6876,5,"2014,2015,2016,2017,2022",5286,867,367,320,36
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,á,Ll,LATIN SMALL LETTER A WITH ACUTE,6627,5,"2014,2015,2016,2017,2022",5154,786,377,273,37
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,4895,5,"2014,2015,2016,2017,2022",3658,706,274,222,35
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,4383,5,"2014,2015,2016,2017,2022",3355,613,214,175,26
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,T,Lu,LATIN CAPITAL LETTER T,3783,5,"2014,2015,2016,2017,2022",2899,516,227,113,28
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,1,Nd,DIGIT ONE,3404,5,"2014,2015,2016,2017,2022",2625,433,195,136,15
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3196,5,"2014,2015,2016,2017,2022",2497,383,145,152,19
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,:,Po,COLON,2759,5,"2014,2015,2016,2017,2022",2190,333,137,78,21
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,Y,Lu,LATIN CAPITAL LETTER Y,2616,5,"2014,2015,2016,2017,2022",2081,324,110,93,8
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,2,Nd,DIGIT TWO,2536,5,"2014,2015,2016,2017,2022",1968,340,117,96,15
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,J,Lu,LATIN CAPITAL LETTER J,2318,5,"2014,2015,2016,2017,2022",1827,297,81,106,7
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,3,Nd,DIGIT THREE,1779,5,"2014,2015,2016,2017,2022",1373,243,81,67,15
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,1559,5,"2014,2015,2016,2017,2022",1216,202,78,53,10
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,4,Nd,DIGIT FOUR,1300,5,"2014,2015,2016,2017,2022",999,168,75,44,14
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,N,Lu,LATIN CAPITAL LETTER N,1245,5,"2014,2015,2016,2017,2022",948,140,76,77,4
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,K,Lu,LATIN CAPITAL LETTER K,1191,5,"2014,2015,2016,2017,2022",899,149,95,42,6
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,L,Lu,LATIN CAPITAL LETTER L,1095,5,"2014,2015,2016,2017,2022",856,112,57,61,9
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,I,Lu,LATIN CAPITAL LETTER I,1038,5,"2014,2015,2016,2017,2022",830,123,46,36,3
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,5,Nd,DIGIT FIVE,1002,5,"2014,2015,2016,2017,2022",764,133,64,35,6
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,?,Po,QUESTION MARK,968,4,"2014,2015,2016,2017",730,162,45,31,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,6,Nd,DIGIT SIX,853,5,"2014,2015,2016,2017,2022",658,116,43,31,5
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,H,Lu,LATIN CAPITAL LETTER H,848,5,"2014,2015,2016,2017,2022",675,107,34,24,8
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,7,Nd,DIGIT SEVEN,788,5,"2014,2015,2016,2017,2022",608,103,42,30,5
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,M,Lu,LATIN CAPITAL LETTER M,762,5,"2014,2015,2016,2017,2022",563,94,29,75,1
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,;,Po,SEMICOLON,753,5,"2014,2015,2016,2017,2022",525,80,46,94,8
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,8,Nd,DIGIT EIGHT,744,5,"2014,2015,2016,2017,2022",568,100,41,30,5
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,O,Lu,LATIN CAPITAL LETTER O,726,5,"2014,2015,2016,2017,2022",548,69,70,36,3
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,A,Lu,LATIN CAPITAL LETTER A,715,5,"2014,2015,2016,2017,2022",526,101,44,31,13
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,9,Nd,DIGIT NINE,708,5,"2014,2015,2016,2017,2022",545,93,38,28,4
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,0,Nd,DIGIT ZERO,691,5,"2014,2015,2016,2017,2022",534,90,37,26,4
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,S,Lu,LATIN CAPITAL LETTER S,517,4,"2014,2015,2016,2017",415,63,4,35,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,P,Lu,LATIN CAPITAL LETTER P,437,4,"2014,2015,2016,2017",349,64,6,18,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,E,Lu,LATIN CAPITAL LETTER E,372,4,"2014,2015,2016,2017",274,42,24,32,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,À,Lu,LATIN CAPITAL LETTER A WITH GRAVE,199,5,"2014,2015,2016,2017,2022",158,25,7,8,1
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,!,Po,EXCLAMATION MARK,169,4,"2014,2015,2016,2017",142,24,1,2,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,r,Ll,LATIN SMALL LETTER R,112,4,"2014,2015,2016,2017",60,15,15,22,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,c,Ll,LATIN SMALL LETTER C,98,2,"2014,2015",81,17,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,Q,Lu,LATIN CAPITAL LETTER Q,88,4,"2014,2015,2016,2017",67,14,2,5,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,),Pe,RIGHT PARENTHESIS,60,3,"2014,2015,2016",49,10,1,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,(,Ps,LEFT PARENTHESIS,60,3,"2014,2015,2016",49,10,1,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,C,Lu,LATIN CAPITAL LETTER C,58,4,"2014,2015,2016,2017",25,7,15,11,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,[,Ps,LEFT SQUARE BRACKET,45,3,"2014,2015,2017",38,3,0,4,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,],Pe,RIGHT SQUARE BRACKET,45,4,"2014,2015,2016,2017",37,3,1,4,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,U,Lu,LATIN CAPITAL LETTER U,45,3,"2014,2015,2016",37,5,3,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,g,Ll,LATIN SMALL LETTER G,36,3,"2014,2016,2017",8,0,15,13,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,d,Ll,LATIN SMALL LETTER D,29,4,"2014,2015,2016,2017",15,2,1,11,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,b,Ll,LATIN SMALL LETTER B,22,3,"2014,2015,2016",18,3,1,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,R,Lu,LATIN CAPITAL LETTER R,17,2,"2014,2015",14,3,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,f,Ll,LATIN SMALL LETTER F,12,3,"2014,2015,2017",9,1,0,2,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,G,Lu,LATIN CAPITAL LETTER G,6,1,2014,6,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,F,Lu,LATIN CAPITAL LETTER F,4,1,2014,4,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,3,1,2014,3,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,v,Ll,LATIN SMALL LETTER V,2,1,2014,2,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,1,1,2014,1,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,1,1,2014,1,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,1,1,2014,1,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,|,Sm,VERTICAL LINE,1,1,2014,1,0,0,0,0
+mtp,Latn,mtp_Latn,Wichí Lhamtés Nocten,B,Lu,LATIN CAPITAL LETTER B,1,1,2014,1,0,0,0,0

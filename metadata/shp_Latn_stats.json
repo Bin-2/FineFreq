@@ -1,0 +1,21 @@
+{
+  "language_code": "shp_Latn",
+  "iso_639_3": "shp",
+  "script": "Latn",
+  "language_name": "Shipibo-Conibo",
+  "total_characters": 113,
+  "total_frequency": 889613,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.285502"
+}

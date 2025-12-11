@@ -1,0 +1,17 @@
+{
+  "language_code": "ati_Latn",
+  "iso_639_3": "ati",
+  "script": "Latn",
+  "language_name": "Attié",
+  "total_characters": 117,
+  "total_frequency": 362040,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:47.772941"
+}

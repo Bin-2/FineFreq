@@ -1,0 +1,64 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2021_frequency,year_2022_frequency
+met,Latn,met_Latn,Mato,a,Ll,LATIN SMALL LETTER A,3787,2,"2021,2022",3546,241
+met,Latn,met_Latn,Mato, ,Zs,SPACE,2948,2,"2021,2022",2782,166
+met,Latn,met_Latn,Mato,n,Ll,LATIN SMALL LETTER N,1763,2,"2021,2022",1651,112
+met,Latn,met_Latn,Mato,i,Ll,LATIN SMALL LETTER I,1587,2,"2021,2022",1514,73
+met,Latn,met_Latn,Mato,g,Ll,LATIN SMALL LETTER G,1412,2,"2021,2022",1311,101
+met,Latn,met_Latn,Mato,u,Ll,LATIN SMALL LETTER U,1233,2,"2021,2022",1143,90
+met,Latn,met_Latn,Mato,b,Ll,LATIN SMALL LETTER B,734,2,"2021,2022",699,35
+met,Latn,met_Latn,Mato,m,Ll,LATIN SMALL LETTER M,656,2,"2021,2022",602,54
+met,Latn,met_Latn,Mato,l,Ll,LATIN SMALL LETTER L,610,2,"2021,2022",573,37
+met,Latn,met_Latn,Mato,s,Ll,LATIN SMALL LETTER S,469,2,"2021,2022",444,25
+met,Latn,met_Latn,Mato,t,Ll,LATIN SMALL LETTER T,458,2,"2021,2022",431,27
+met,Latn,met_Latn,Mato,x,Ll,LATIN SMALL LETTER X,448,2,"2021,2022",426,22
+met,Latn,met_Latn,Mato,o,Ll,LATIN SMALL LETTER O,448,2,"2021,2022",417,31
+met,Latn,met_Latn,Mato,d,Ll,LATIN SMALL LETTER D,416,2,"2021,2022",404,12
+met,Latn,met_Latn,Mato,e,Ll,LATIN SMALL LETTER E,305,2,"2021,2022",292,13
+met,Latn,met_Latn,Mato,r,Ll,LATIN SMALL LETTER R,303,2,"2021,2022",283,20
+met,Latn,met_Latn,Mato,.,Po,FULL STOP,238,2,"2021,2022",225,13
+met,Latn,met_Latn,Mato,h,Ll,LATIN SMALL LETTER H,193,2,"2021,2022",178,15
+met,Latn,met_Latn,Mato,p,Ll,LATIN SMALL LETTER P,183,2,"2021,2022",179,4
+met,Latn,met_Latn,Mato,",",Po,COMMA,180,2,"2021,2022",162,18
+met,Latn,met_Latn,Mato,k,Ll,LATIN SMALL LETTER K,172,2,"2021,2022",163,9
+met,Latn,met_Latn,Mato,w,Ll,LATIN SMALL LETTER W,103,2,"2021,2022",98,5
+met,Latn,met_Latn,Mato,y,Ll,LATIN SMALL LETTER Y,102,2,"2021,2022",93,9
+met,Latn,met_Latn,Mato,N,Lu,LATIN CAPITAL LETTER N,83,2,"2021,2022",78,5
+met,Latn,met_Latn,Mato,B,Lu,LATIN CAPITAL LETTER B,74,2,"2021,2022",72,2
+met,Latn,met_Latn,Mato,T,Lu,LATIN CAPITAL LETTER T,61,2,"2021,2022",54,7
+met,Latn,met_Latn,Mato,1,Nd,DIGIT ONE,60,2,"2021,2022",58,2
+met,Latn,met_Latn,Mato,Y,Lu,LATIN CAPITAL LETTER Y,53,2,"2021,2022",51,2
+met,Latn,met_Latn,Mato,U,Lu,LATIN CAPITAL LETTER U,53,2,"2021,2022",50,3
+met,Latn,met_Latn,Mato,“,Pi,LEFT DOUBLE QUOTATION MARK,43,2,"2021,2022",40,3
+met,Latn,met_Latn,Mato,”,Pf,RIGHT DOUBLE QUOTATION MARK,38,2,"2021,2022",37,1
+met,Latn,met_Latn,Mato,2,Nd,DIGIT TWO,37,2,"2021,2022",36,1
+met,Latn,met_Latn,Mato,A,Lu,LATIN CAPITAL LETTER A,25,1,2021,25,0
+met,Latn,met_Latn,Mato,S,Lu,LATIN CAPITAL LETTER S,22,1,2021,22,0
+met,Latn,met_Latn,Mato,I,Lu,LATIN CAPITAL LETTER I,21,2,"2021,2022",20,1
+met,Latn,met_Latn,Mato,M,Lu,LATIN CAPITAL LETTER M,21,2,"2021,2022",18,3
+met,Latn,met_Latn,Mato,0,Nd,DIGIT ZERO,20,2,"2021,2022",19,1
+met,Latn,met_Latn,Mato,?,Po,QUESTION MARK,18,1,2021,18,0
+met,Latn,met_Latn,Mato,3,Nd,DIGIT THREE,16,2,"2021,2022",15,1
+met,Latn,met_Latn,Mato,X,Lu,LATIN CAPITAL LETTER X,15,1,2021,15,0
+met,Latn,met_Latn,Mato,4,Nd,DIGIT FOUR,15,2,"2021,2022",14,1
+met,Latn,met_Latn,Mato,7,Nd,DIGIT SEVEN,14,2,"2021,2022",13,1
+met,Latn,met_Latn,Mato,D,Lu,LATIN CAPITAL LETTER D,14,1,2021,14,0
+met,Latn,met_Latn,Mato,6,Nd,DIGIT SIX,13,2,"2021,2022",12,1
+met,Latn,met_Latn,Mato,5,Nd,DIGIT FIVE,13,2,"2021,2022",12,1
+met,Latn,met_Latn,Mato,8,Nd,DIGIT EIGHT,12,2,"2021,2022",11,1
+met,Latn,met_Latn,Mato,9,Nd,DIGIT NINE,11,2,"2021,2022",10,1
+met,Latn,met_Latn,Mato,G,Lu,LATIN CAPITAL LETTER G,8,1,2021,8,0
+met,Latn,met_Latn,Mato,L,Lu,LATIN CAPITAL LETTER L,8,2,"2021,2022",7,1
+met,Latn,met_Latn,Mato,),Pe,RIGHT PARENTHESIS,7,1,2021,7,0
+met,Latn,met_Latn,Mato,(,Ps,LEFT PARENTHESIS,7,1,2021,7,0
+met,Latn,met_Latn,Mato,:,Po,COLON,7,2,"2021,2022",6,1
+met,Latn,met_Latn,Mato,W,Lu,LATIN CAPITAL LETTER W,7,1,2021,7,0
+met,Latn,met_Latn,Mato,',Po,APOSTROPHE,6,1,2021,6,0
+met,Latn,met_Latn,Mato,K,Lu,LATIN CAPITAL LETTER K,6,1,2021,6,0
+met,Latn,met_Latn,Mato,!,Po,EXCLAMATION MARK,6,2,"2021,2022",5,1
+met,Latn,met_Latn,Mato,;,Po,SEMICOLON,6,2,"2021,2022",4,2
+met,Latn,met_Latn,Mato,O,Lu,LATIN CAPITAL LETTER O,5,2,"2021,2022",4,1
+met,Latn,met_Latn,Mato,P,Lu,LATIN CAPITAL LETTER P,4,1,2021,4,0
+met,Latn,met_Latn,Mato,’,Pf,RIGHT SINGLE QUOTATION MARK,3,2,"2021,2022",2,1
+met,Latn,met_Latn,Mato,H,Lu,LATIN CAPITAL LETTER H,3,1,2021,3,0
+met,Latn,met_Latn,Mato,‘,Pi,LEFT SINGLE QUOTATION MARK,3,2,"2021,2022",2,1
+met,Latn,met_Latn,Mato,R,Lu,LATIN CAPITAL LETTER R,2,1,2021,2,0

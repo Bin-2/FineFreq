@@ -1,0 +1,91 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2020_frequency
+mzz,Latn,mzz_Latn,Maiadomu,a,Ll,LATIN SMALL LETTER A,27756,3,"2018,2019,2020",19550,6233,1973
+mzz,Latn,mzz_Latn,Maiadomu, ,Zs,SPACE,21857,3,"2018,2019,2020",15970,4429,1458
+mzz,Latn,mzz_Latn,Maiadomu,i,Ll,LATIN SMALL LETTER I,20661,3,"2018,2019,2020",14392,4805,1464
+mzz,Latn,mzz_Latn,Maiadomu,e,Ll,LATIN SMALL LETTER E,14391,3,"2018,2019,2020",10374,2992,1025
+mzz,Latn,mzz_Latn,Maiadomu,n,Ll,LATIN SMALL LETTER N,10529,3,"2018,2019,2020",7413,2367,749
+mzz,Latn,mzz_Latn,Maiadomu,o,Ll,LATIN SMALL LETTER O,9255,3,"2018,2019,2020",6680,1970,605
+mzz,Latn,mzz_Latn,Maiadomu,u,Ll,LATIN SMALL LETTER U,8219,3,"2018,2019,2020",5790,1865,564
+mzz,Latn,mzz_Latn,Maiadomu,t,Ll,LATIN SMALL LETTER T,5889,3,"2018,2019,2020",4354,1190,345
+mzz,Latn,mzz_Latn,Maiadomu,v,Ll,LATIN SMALL LETTER V,5754,3,"2018,2019,2020",4055,1291,408
+mzz,Latn,mzz_Latn,Maiadomu,k,Ll,LATIN SMALL LETTER K,5072,3,"2018,2019,2020",3577,1095,400
+mzz,Latn,mzz_Latn,Maiadomu,d,Ll,LATIN SMALL LETTER D,4787,3,"2018,2019,2020",3386,1054,347
+mzz,Latn,mzz_Latn,Maiadomu,m,Ll,LATIN SMALL LETTER M,4406,3,"2018,2019,2020",3177,923,306
+mzz,Latn,mzz_Latn,Maiadomu,w,Ll,LATIN SMALL LETTER W,4205,3,"2018,2019,2020",3018,898,289
+mzz,Latn,mzz_Latn,Maiadomu,l,Ll,LATIN SMALL LETTER L,4051,3,"2018,2019,2020",2941,879,231
+mzz,Latn,mzz_Latn,Maiadomu,s,Ll,LATIN SMALL LETTER S,3528,3,"2018,2019,2020",2733,604,191
+mzz,Latn,mzz_Latn,Maiadomu,q,Ll,LATIN SMALL LETTER Q,3501,3,"2018,2019,2020",2385,825,291
+mzz,Latn,mzz_Latn,Maiadomu,b,Ll,LATIN SMALL LETTER B,2925,3,"2018,2019,2020",2086,647,192
+mzz,Latn,mzz_Latn,Maiadomu,y,Ll,LATIN SMALL LETTER Y,2490,3,"2018,2019,2020",1758,557,175
+mzz,Latn,mzz_Latn,Maiadomu,g,Ll,LATIN SMALL LETTER G,2339,3,"2018,2019,2020",1713,438,188
+mzz,Latn,mzz_Latn,Maiadomu,p,Ll,LATIN SMALL LETTER P,2135,3,"2018,2019,2020",1564,454,117
+mzz,Latn,mzz_Latn,Maiadomu,",",Po,COMMA,1582,3,"2018,2019,2020",1209,260,113
+mzz,Latn,mzz_Latn,Maiadomu,.,Po,FULL STOP,1492,3,"2018,2019,2020",1066,324,102
+mzz,Latn,mzz_Latn,Maiadomu,r,Ll,LATIN SMALL LETTER R,932,1,2018,932,0,0
+mzz,Latn,mzz_Latn,Maiadomu,I,Lu,LATIN CAPITAL LETTER I,929,3,"2018,2019,2020",664,199,66
+mzz,Latn,mzz_Latn,Maiadomu,1,Nd,DIGIT ONE,687,3,"2018,2019,2020",536,119,32
+mzz,Latn,mzz_Latn,Maiadomu,W,Lu,LATIN CAPITAL LETTER W,671,3,"2018,2019,2020",478,149,44
+mzz,Latn,mzz_Latn,Maiadomu,h,Ll,LATIN SMALL LETTER H,610,1,2018,610,0,0
+mzz,Latn,mzz_Latn,Maiadomu,2,Nd,DIGIT TWO,569,3,"2018,2019,2020",431,104,34
+mzz,Latn,mzz_Latn,Maiadomu,K,Lu,LATIN CAPITAL LETTER K,553,3,"2018,2019,2020",397,131,25
+mzz,Latn,mzz_Latn,Maiadomu,',Po,APOSTROPHE,536,2,"2018,2019",479,57,0
+mzz,Latn,mzz_Latn,Maiadomu,T,Lu,LATIN CAPITAL LETTER T,522,3,"2018,2019,2020",407,80,35
+mzz,Latn,mzz_Latn,Maiadomu,“,Pi,LEFT DOUBLE QUOTATION MARK,439,3,"2018,2019,2020",313,91,35
+mzz,Latn,mzz_Latn,Maiadomu,”,Pf,RIGHT DOUBLE QUOTATION MARK,438,3,"2018,2019,2020",312,91,35
+mzz,Latn,mzz_Latn,Maiadomu,Y,Lu,LATIN CAPITAL LETTER Y,399,3,"2018,2019,2020",274,100,25
+mzz,Latn,mzz_Latn,Maiadomu,3,Nd,DIGIT THREE,385,3,"2018,2019,2020",290,67,28
+mzz,Latn,mzz_Latn,Maiadomu,V,Lu,LATIN CAPITAL LETTER V,365,3,"2018,2019,2020",313,35,17
+mzz,Latn,mzz_Latn,Maiadomu,M,Lu,LATIN CAPITAL LETTER M,343,3,"2018,2019,2020",260,66,17
+mzz,Latn,mzz_Latn,Maiadomu,D,Lu,LATIN CAPITAL LETTER D,318,3,"2018,2019,2020",210,89,19
+mzz,Latn,mzz_Latn,Maiadomu,4,Nd,DIGIT FOUR,292,3,"2018,2019,2020",212,67,13
+mzz,Latn,mzz_Latn,Maiadomu,c,Ll,LATIN SMALL LETTER C,273,1,2018,273,0,0
+mzz,Latn,mzz_Latn,Maiadomu,-,Pd,HYPHEN-MINUS,265,3,"2018,2019,2020",212,34,19
+mzz,Latn,mzz_Latn,Maiadomu,B,Lu,LATIN CAPITAL LETTER B,264,3,"2018,2019,2020",193,51,20
+mzz,Latn,mzz_Latn,Maiadomu,G,Lu,LATIN CAPITAL LETTER G,254,3,"2018,2019,2020",190,50,14
+mzz,Latn,mzz_Latn,Maiadomu,N,Lu,LATIN CAPITAL LETTER N,222,3,"2018,2019,2020",167,45,10
+mzz,Latn,mzz_Latn,Maiadomu,:,Po,COLON,219,3,"2018,2019,2020",184,30,5
+mzz,Latn,mzz_Latn,Maiadomu,S,Lu,LATIN CAPITAL LETTER S,207,3,"2018,2019,2020",188,17,2
+mzz,Latn,mzz_Latn,Maiadomu,P,Lu,LATIN CAPITAL LETTER P,206,3,"2018,2019,2020",178,23,5
+mzz,Latn,mzz_Latn,Maiadomu,E,Lu,LATIN CAPITAL LETTER E,203,3,"2018,2019,2020",179,23,1
+mzz,Latn,mzz_Latn,Maiadomu,0,Nd,DIGIT ZERO,194,3,"2018,2019,2020",152,31,11
+mzz,Latn,mzz_Latn,Maiadomu,*,Po,ASTERISK,188,3,"2018,2019,2020",109,73,6
+mzz,Latn,mzz_Latn,Maiadomu,5,Nd,DIGIT FIVE,187,3,"2018,2019,2020",141,36,10
+mzz,Latn,mzz_Latn,Maiadomu,6,Nd,DIGIT SIX,166,3,"2018,2019,2020",128,27,11
+mzz,Latn,mzz_Latn,Maiadomu,8,Nd,DIGIT EIGHT,161,3,"2018,2019,2020",124,25,12
+mzz,Latn,mzz_Latn,Maiadomu,?,Po,QUESTION MARK,158,3,"2018,2019,2020",119,28,11
+mzz,Latn,mzz_Latn,Maiadomu,f,Ll,LATIN SMALL LETTER F,154,1,2018,154,0,0
+mzz,Latn,mzz_Latn,Maiadomu,7,Nd,DIGIT SEVEN,146,3,"2018,2019,2020",111,26,9
+mzz,Latn,mzz_Latn,Maiadomu,9,Nd,DIGIT NINE,133,3,"2018,2019,2020",103,21,9
+mzz,Latn,mzz_Latn,Maiadomu,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,133,2,"2019,2020",0,87,46
+mzz,Latn,mzz_Latn,Maiadomu,L,Lu,LATIN CAPITAL LETTER L,122,3,"2018,2019,2020",91,27,4
+mzz,Latn,mzz_Latn,Maiadomu,),Pe,RIGHT PARENTHESIS,112,3,"2018,2019,2020",93,14,5
+mzz,Latn,mzz_Latn,Maiadomu,(,Ps,LEFT PARENTHESIS,112,3,"2018,2019,2020",93,14,5
+mzz,Latn,mzz_Latn,Maiadomu,!,Po,EXCLAMATION MARK,105,3,"2018,2019,2020",79,21,5
+mzz,Latn,mzz_Latn,Maiadomu,x,Ll,LATIN SMALL LETTER X,97,1,2018,97,0,0
+mzz,Latn,mzz_Latn,Maiadomu,;,Po,SEMICOLON,91,3,"2018,2019,2020",76,12,3
+mzz,Latn,mzz_Latn,Maiadomu,H,Lu,LATIN CAPITAL LETTER H,91,1,2018,91,0,0
+mzz,Latn,mzz_Latn,Maiadomu,▼,So,BLACK DOWN-POINTING TRIANGLE,87,1,2018,87,0,0
+mzz,Latn,mzz_Latn,Maiadomu,A,Lu,LATIN CAPITAL LETTER A,82,3,"2018,2019,2020",60,20,2
+mzz,Latn,mzz_Latn,Maiadomu,U,Lu,LATIN CAPITAL LETTER U,75,1,2018,75,0,0
+mzz,Latn,mzz_Latn,Maiadomu,‘,Pi,LEFT SINGLE QUOTATION MARK,60,3,"2018,2019,2020",49,6,5
+mzz,Latn,mzz_Latn,Maiadomu,’,Pf,RIGHT SINGLE QUOTATION MARK,59,3,"2018,2019,2020",48,6,5
+mzz,Latn,mzz_Latn,Maiadomu,J,Lu,LATIN CAPITAL LETTER J,49,1,2018,49,0,0
+mzz,Latn,mzz_Latn,Maiadomu,C,Lu,LATIN CAPITAL LETTER C,48,1,2018,48,0,0
+mzz,Latn,mzz_Latn,Maiadomu,Z,Lu,LATIN CAPITAL LETTER Z,33,1,2018,33,0,0
+mzz,Latn,mzz_Latn,Maiadomu,R,Lu,LATIN CAPITAL LETTER R,17,1,2018,17,0,0
+mzz,Latn,mzz_Latn,Maiadomu,`,Sk,GRAVE ACCENT,16,1,2018,16,0,0
+mzz,Latn,mzz_Latn,Maiadomu,©,So,COPYRIGHT SIGN,16,1,2018,16,0,0
+mzz,Latn,mzz_Latn,Maiadomu,F,Lu,LATIN CAPITAL LETTER F,16,1,2018,16,0,0
+mzz,Latn,mzz_Latn,Maiadomu,✡,So,STAR OF DAVID,16,2,"2019,2020",0,13,3
+mzz,Latn,mzz_Latn,Maiadomu,O,Lu,LATIN CAPITAL LETTER O,15,2,"2018,2019",14,1,0
+mzz,Latn,mzz_Latn,Maiadomu,&,Po,AMPERSAND,13,1,2018,13,0,0
+mzz,Latn,mzz_Latn,Maiadomu,—,Pd,EM DASH,13,3,"2018,2019,2020",8,1,4
+mzz,Latn,mzz_Latn,Maiadomu,+,Sm,PLUS SIGN,10,1,2019,0,10,0
+mzz,Latn,mzz_Latn,Maiadomu,†,Po,DAGGER,9,2,"2019,2020",0,7,2
+mzz,Latn,mzz_Latn,Maiadomu,–,Pd,EN DASH,7,1,2018,7,0,0
+mzz,Latn,mzz_Latn,Maiadomu,#,Po,NUMBER SIGN,6,1,2019,0,6,0
+mzz,Latn,mzz_Latn,Maiadomu,‡,Po,DOUBLE DAGGER,4,2,"2019,2020",0,3,1
+mzz,Latn,mzz_Latn,Maiadomu,§,Po,SECTION SIGN,4,2,"2019,2020",0,3,1
+mzz,Latn,mzz_Latn,Maiadomu,j,Ll,LATIN SMALL LETTER J,2,1,2018,2,0,0
+mzz,Latn,mzz_Latn,Maiadomu,[,Ps,LEFT SQUARE BRACKET,2,1,2018,2,0,0
+mzz,Latn,mzz_Latn,Maiadomu,],Pe,RIGHT SQUARE BRACKET,2,1,2018,2,0,0

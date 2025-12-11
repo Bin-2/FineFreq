@@ -1,0 +1,18 @@
+{
+  "language_code": "gdg_Latn",
+  "iso_639_3": "gdg",
+  "script": "Latn",
+  "language_name": "Ga'dang",
+  "total_characters": 88,
+  "total_frequency": 344526,
+  "years_covered": [
+    "2017",
+    "2019",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:54.096530"
+}

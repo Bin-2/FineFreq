@@ -1,0 +1,81 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2020_frequency
+tlb,Latn,tlb_Latn,Tobelo,a,Ll,LATIN SMALL LETTER A,16129,3,"2017,2019,2020",3011,12535,583
+tlb,Latn,tlb_Latn,Tobelo, ,Zs,SPACE,11209,3,"2017,2019,2020",2982,7610,617
+tlb,Latn,tlb_Latn,Tobelo,i,Ll,LATIN SMALL LETTER I,11142,3,"2017,2019,2020",1453,9472,217
+tlb,Latn,tlb_Latn,Tobelo,o,Ll,LATIN SMALL LETTER O,9082,3,"2017,2019,2020",1699,7010,373
+tlb,Latn,tlb_Latn,Tobelo,n,Ll,LATIN SMALL LETTER N,5623,3,"2017,2019,2020",1712,3695,216
+tlb,Latn,tlb_Latn,Tobelo,k,Ll,LATIN SMALL LETTER K,5219,3,"2017,2019,2020",596,4501,122
+tlb,Latn,tlb_Latn,Tobelo,h,Ll,LATIN SMALL LETTER H,5142,3,"2017,2019,2020",720,4292,130
+tlb,Latn,tlb_Latn,Tobelo,u,Ll,LATIN SMALL LETTER U,4928,3,"2017,2019,2020",780,4030,118
+tlb,Latn,tlb_Latn,Tobelo,m,Ll,LATIN SMALL LETTER M,4470,3,"2017,2019,2020",587,3754,129
+tlb,Latn,tlb_Latn,Tobelo,g,Ll,LATIN SMALL LETTER G,4037,3,"2017,2019,2020",1031,2861,145
+tlb,Latn,tlb_Latn,Tobelo,e,Ll,LATIN SMALL LETTER E,2938,3,"2017,2019,2020",530,2305,103
+tlb,Latn,tlb_Latn,Tobelo,t,Ll,LATIN SMALL LETTER T,2781,3,"2017,2019,2020",463,2264,54
+tlb,Latn,tlb_Latn,Tobelo,d,Ll,LATIN SMALL LETTER D,2672,3,"2017,2019,2020",537,2065,70
+tlb,Latn,tlb_Latn,Tobelo,r,Ll,LATIN SMALL LETTER R,2377,3,"2017,2019,2020",340,1964,73
+tlb,Latn,tlb_Latn,Tobelo,l,Ll,LATIN SMALL LETTER L,2007,3,"2017,2019,2020",151,1813,43
+tlb,Latn,tlb_Latn,Tobelo,b,Ll,LATIN SMALL LETTER B,1216,3,"2017,2019,2020",169,1007,40
+tlb,Latn,tlb_Latn,Tobelo,w,Ll,LATIN SMALL LETTER W,1213,3,"2017,2019,2020",273,900,40
+tlb,Latn,tlb_Latn,Tobelo,-,Pd,HYPHEN-MINUS,985,3,"2017,2019,2020",95,878,12
+tlb,Latn,tlb_Latn,Tobelo,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,776,3,"2017,2019,2020",102,668,6
+tlb,Latn,tlb_Latn,Tobelo,p,Ll,LATIN SMALL LETTER P,597,3,"2017,2019,2020",45,549,3
+tlb,Latn,tlb_Latn,Tobelo,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,439,3,"2017,2019,2020",76,335,28
+tlb,Latn,tlb_Latn,Tobelo,y,Ll,LATIN SMALL LETTER Y,397,3,"2017,2019,2020",166,200,31
+tlb,Latn,tlb_Latn,Tobelo,s,Ll,LATIN SMALL LETTER S,306,3,"2017,2019,2020",99,143,64
+tlb,Latn,tlb_Latn,Tobelo,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,274,3,"2017,2019,2020",116,139,19
+tlb,Latn,tlb_Latn,Tobelo,j,Ll,LATIN SMALL LETTER J,273,3,"2017,2019,2020",10,262,1
+tlb,Latn,tlb_Latn,Tobelo,",",Po,COMMA,242,2,"2017,2020",182,0,60
+tlb,Latn,tlb_Latn,Tobelo,',Po,APOSTROPHE,217,3,"2017,2019,2020",81,126,10
+tlb,Latn,tlb_Latn,Tobelo,ï,Ll,LATIN SMALL LETTER I WITH DIAERESIS,214,3,"2017,2019,2020",4,209,1
+tlb,Latn,tlb_Latn,Tobelo,.,Po,FULL STOP,190,2,"2017,2020",165,0,25
+tlb,Latn,tlb_Latn,Tobelo,M,Lu,LATIN CAPITAL LETTER M,170,2,"2017,2020",146,0,24
+tlb,Latn,tlb_Latn,Tobelo,J,Lu,LATIN CAPITAL LETTER J,125,3,"2017,2019,2020",117,2,6
+tlb,Latn,tlb_Latn,Tobelo,N,Lu,LATIN CAPITAL LETTER N,94,3,"2017,2019,2020",89,1,4
+tlb,Latn,tlb_Latn,Tobelo,f,Ll,LATIN SMALL LETTER F,89,2,"2019,2020",0,73,16
+tlb,Latn,tlb_Latn,Tobelo,A,Lu,LATIN CAPITAL LETTER A,83,2,"2017,2020",61,0,22
+tlb,Latn,tlb_Latn,Tobelo,O,Lu,LATIN CAPITAL LETTER O,69,2,"2017,2020",51,0,18
+tlb,Latn,tlb_Latn,Tobelo,1,Nd,DIGIT ONE,67,2,"2017,2020",57,0,10
+tlb,Latn,tlb_Latn,Tobelo,Y,Lu,LATIN CAPITAL LETTER Y,55,2,"2017,2020",20,0,35
+tlb,Latn,tlb_Latn,Tobelo,K,Lu,LATIN CAPITAL LETTER K,54,2,"2017,2020",48,0,6
+tlb,Latn,tlb_Latn,Tobelo,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,48,2,"2017,2019",7,41,0
+tlb,Latn,tlb_Latn,Tobelo,H,Lu,LATIN CAPITAL LETTER H,45,3,"2017,2019,2020",38,1,6
+tlb,Latn,tlb_Latn,Tobelo,2,Nd,DIGIT TWO,41,3,"2017,2019,2020",31,1,9
+tlb,Latn,tlb_Latn,Tobelo,D,Lu,LATIN CAPITAL LETTER D,40,2,"2017,2020",30,0,10
+tlb,Latn,tlb_Latn,Tobelo,I,Lu,LATIN CAPITAL LETTER I,34,3,"2017,2019,2020",22,1,11
+tlb,Latn,tlb_Latn,Tobelo,U,Lu,LATIN CAPITAL LETTER U,34,3,"2017,2019,2020",29,1,4
+tlb,Latn,tlb_Latn,Tobelo,W,Lu,LATIN CAPITAL LETTER W,24,2,"2017,2020",22,0,2
+tlb,Latn,tlb_Latn,Tobelo,R,Lu,LATIN CAPITAL LETTER R,19,2,"2017,2020",13,0,6
+tlb,Latn,tlb_Latn,Tobelo,:,Po,COLON,17,3,"2017,2019,2020",13,1,3
+tlb,Latn,tlb_Latn,Tobelo,c,Ll,LATIN SMALL LETTER C,15,1,2019,0,15,0
+tlb,Latn,tlb_Latn,Tobelo,;,Po,SEMICOLON,15,2,"2017,2020",14,0,1
+tlb,Latn,tlb_Latn,Tobelo,4,Nd,DIGIT FOUR,14,3,"2017,2019,2020",12,1,1
+tlb,Latn,tlb_Latn,Tobelo,6,Nd,DIGIT SIX,14,2,"2017,2020",10,0,4
+tlb,Latn,tlb_Latn,Tobelo,3,Nd,DIGIT THREE,13,2,"2017,2020",12,0,1
+tlb,Latn,tlb_Latn,Tobelo,5,Nd,DIGIT FIVE,12,2,"2017,2020",11,0,1
+tlb,Latn,tlb_Latn,Tobelo,0,Nd,DIGIT ZERO,12,3,"2017,2019,2020",9,2,1
+tlb,Latn,tlb_Latn,Tobelo,̄,Mn,COMBINING MACRON,12,2,"2017,2020",7,0,5
+tlb,Latn,tlb_Latn,Tobelo,9,Nd,DIGIT NINE,11,2,"2017,2020",10,0,1
+tlb,Latn,tlb_Latn,Tobelo,z,Ll,LATIN SMALL LETTER Z,11,2,"2019,2020",0,3,8
+tlb,Latn,tlb_Latn,Tobelo,8,Nd,DIGIT EIGHT,11,2,"2017,2020",10,0,1
+tlb,Latn,tlb_Latn,Tobelo,7,Nd,DIGIT SEVEN,11,2,"2017,2020",10,0,1
+tlb,Latn,tlb_Latn,Tobelo,S,Lu,LATIN CAPITAL LETTER S,10,2,"2017,2020",5,0,5
+tlb,Latn,tlb_Latn,Tobelo,"""",Po,QUOTATION MARK,10,2,"2017,2020",4,0,6
+tlb,Latn,tlb_Latn,Tobelo,!,Po,EXCLAMATION MARK,9,1,2017,9,0,0
+tlb,Latn,tlb_Latn,Tobelo,),Pe,RIGHT PARENTHESIS,8,1,2020,0,0,8
+tlb,Latn,tlb_Latn,Tobelo,(,Ps,LEFT PARENTHESIS,8,1,2020,0,0,8
+tlb,Latn,tlb_Latn,Tobelo,B,Lu,LATIN CAPITAL LETTER B,8,3,"2017,2019,2020",1,1,6
+tlb,Latn,tlb_Latn,Tobelo,T,Lu,LATIN CAPITAL LETTER T,7,3,"2017,2019,2020",5,1,1
+tlb,Latn,tlb_Latn,Tobelo,/,Po,SOLIDUS,6,1,2017,6,0,0
+tlb,Latn,tlb_Latn,Tobelo,E,Lu,LATIN CAPITAL LETTER E,6,1,2020,0,0,6
+tlb,Latn,tlb_Latn,Tobelo,v,Ll,LATIN SMALL LETTER V,5,1,2019,0,5,0
+tlb,Latn,tlb_Latn,Tobelo,Z,Lu,LATIN CAPITAL LETTER Z,5,1,2020,0,0,5
+tlb,Latn,tlb_Latn,Tobelo,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3,1,2019,0,3,0
+tlb,Latn,tlb_Latn,Tobelo,?,Po,QUESTION MARK,3,1,2017,3,0,0
+tlb,Latn,tlb_Latn,Tobelo,G,Lu,LATIN CAPITAL LETTER G,2,1,2017,2,0,0
+tlb,Latn,tlb_Latn,Tobelo,#,Po,NUMBER SIGN,2,1,2019,0,2,0
+tlb,Latn,tlb_Latn,Tobelo,[,Ps,LEFT SQUARE BRACKET,2,1,2019,0,2,0
+tlb,Latn,tlb_Latn,Tobelo,],Pe,RIGHT SQUARE BRACKET,2,1,2019,0,2,0
+tlb,Latn,tlb_Latn,Tobelo,L,Lu,LATIN CAPITAL LETTER L,2,1,2017,2,0,0
+tlb,Latn,tlb_Latn,Tobelo,P,Lu,LATIN CAPITAL LETTER P,2,1,2020,0,0,2
+tlb,Latn,tlb_Latn,Tobelo,Ò,Lu,LATIN CAPITAL LETTER O WITH GRAVE,1,1,2019,0,1,0
+tlb,Latn,tlb_Latn,Tobelo,á,Ll,LATIN SMALL LETTER A WITH ACUTE,1,1,2019,0,1,0

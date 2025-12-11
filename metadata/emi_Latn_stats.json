@@ -1,0 +1,18 @@
+{
+  "language_code": "emi_Latn",
+  "iso_639_3": "emi",
+  "script": "Latn",
+  "language_name": "Mussau-Emira",
+  "total_characters": 86,
+  "total_frequency": 1033899,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:52.796249"
+}

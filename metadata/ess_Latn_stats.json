@@ -1,0 +1,15 @@
+{
+  "language_code": "ess_Latn",
+  "iso_639_3": "ess",
+  "script": "Latn",
+  "language_name": "Central Siberian Yupik",
+  "total_characters": 70,
+  "total_frequency": 9190,
+  "years_covered": [
+    "2018",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:53.126397"
+}

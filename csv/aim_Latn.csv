@@ -1,0 +1,113 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency,year_2024_frequency
+aim,Latn,aim_Latn,Aimol, ,Zs,SPACE,4280,3,"2019,2021,2024",631,296,3353
+aim,Latn,aim_Latn,Aimol,a,Ll,LATIN SMALL LETTER A,4115,3,"2019,2021,2024",512,131,3472
+aim,Latn,aim_Latn,Aimol,n,Ll,LATIN SMALL LETTER N,2796,3,"2019,2021,2024",321,156,2319
+aim,Latn,aim_Latn,Aimol,i,Ll,LATIN SMALL LETTER I,2250,3,"2019,2021,2024",254,189,1807
+aim,Latn,aim_Latn,Aimol,h,Ll,LATIN SMALL LETTER H,1531,3,"2019,2021,2024",170,43,1318
+aim,Latn,aim_Latn,Aimol,g,Ll,LATIN SMALL LETTER G,1051,3,"2019,2021,2024",127,64,860
+aim,Latn,aim_Latn,Aimol,t,Ll,LATIN SMALL LETTER T,1011,3,"2019,2021,2024",123,62,826
+aim,Latn,aim_Latn,Aimol,r,Ll,LATIN SMALL LETTER R,955,3,"2019,2021,2024",113,34,808
+aim,Latn,aim_Latn,Aimol,k,Ll,LATIN SMALL LETTER K,920,2,"2019,2024",70,0,850
+aim,Latn,aim_Latn,Aimol,e,Ll,LATIN SMALL LETTER E,885,3,"2019,2021,2024",121,36,728
+aim,Latn,aim_Latn,Aimol,o,Ll,LATIN SMALL LETTER O,778,3,"2019,2021,2024",72,16,690
+aim,Latn,aim_Latn,Aimol,u,Ll,LATIN SMALL LETTER U,775,3,"2019,2021,2024",116,20,639
+aim,Latn,aim_Latn,Aimol,m,Ll,LATIN SMALL LETTER M,704,3,"2019,2021,2024",100,8,596
+aim,Latn,aim_Latn,Aimol,l,Ll,LATIN SMALL LETTER L,668,3,"2019,2021,2024",63,37,568
+aim,Latn,aim_Latn,Aimol,s,Ll,LATIN SMALL LETTER S,445,3,"2019,2021,2024",53,22,370
+aim,Latn,aim_Latn,Aimol,p,Ll,LATIN SMALL LETTER P,332,3,"2019,2021,2024",38,17,277
+aim,Latn,aim_Latn,Aimol,c,Ll,LATIN SMALL LETTER C,288,3,"2019,2021,2024",31,5,252
+aim,Latn,aim_Latn,Aimol,j,Ll,LATIN SMALL LETTER J,285,3,"2019,2021,2024",50,40,195
+aim,Latn,aim_Latn,Aimol,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,247,1,2024,0,0,247
+aim,Latn,aim_Latn,Aimol,.,Po,FULL STOP,247,2,"2019,2024",22,0,225
+aim,Latn,aim_Latn,Aimol,",",Po,COMMA,223,3,"2019,2021,2024",45,16,162
+aim,Latn,aim_Latn,Aimol,P,Lu,LATIN CAPITAL LETTER P,181,3,"2019,2021,2024",8,4,169
+aim,Latn,aim_Latn,Aimol,v,Ll,LATIN SMALL LETTER V,159,3,"2019,2021,2024",6,4,149
+aim,Latn,aim_Latn,Aimol,d,Ll,LATIN SMALL LETTER D,157,3,"2019,2021,2024",23,8,126
+aim,Latn,aim_Latn,Aimol,H,Lu,LATIN CAPITAL LETTER H,125,3,"2019,2021,2024",14,2,109
+aim,Latn,aim_Latn,Aimol,b,Ll,LATIN SMALL LETTER B,107,3,"2019,2021,2024",14,1,92
+aim,Latn,aim_Latn,Aimol,A,Lu,LATIN CAPITAL LETTER A,99,3,"2019,2021,2024",10,3,86
+aim,Latn,aim_Latn,Aimol,C,Lu,LATIN CAPITAL LETTER C,87,2,"2021,2024",0,21,66
+aim,Latn,aim_Latn,Aimol,T,Lu,LATIN CAPITAL LETTER T,85,3,"2019,2021,2024",6,31,48
+aim,Latn,aim_Latn,Aimol,N,Lu,LATIN CAPITAL LETTER N,80,3,"2019,2021,2024",6,9,65
+aim,Latn,aim_Latn,Aimol,I,Lu,LATIN CAPITAL LETTER I,74,3,"2019,2021,2024",10,7,57
+aim,Latn,aim_Latn,Aimol,B,Lu,LATIN CAPITAL LETTER B,65,3,"2019,2021,2024",5,6,54
+aim,Latn,aim_Latn,Aimol,L,Lu,LATIN CAPITAL LETTER L,63,2,"2021,2024",0,10,53
+aim,Latn,aim_Latn,Aimol,R,Lu,LATIN CAPITAL LETTER R,56,3,"2019,2021,2024",4,8,44
+aim,Latn,aim_Latn,Aimol,w,Ll,LATIN SMALL LETTER W,55,3,"2019,2021,2024",1,5,49
+aim,Latn,aim_Latn,Aimol,E,Lu,LATIN CAPITAL LETTER E,53,2,"2021,2024",0,1,52
+aim,Latn,aim_Latn,Aimol,1,Nd,DIGIT ONE,48,3,"2019,2021,2024",13,13,22
+aim,Latn,aim_Latn,Aimol,-,Pd,HYPHEN-MINUS,46,3,"2019,2021,2024",2,3,41
+aim,Latn,aim_Latn,Aimol,J,Lu,LATIN CAPITAL LETTER J,46,3,"2019,2021,2024",14,17,15
+aim,Latn,aim_Latn,Aimol,S,Lu,LATIN CAPITAL LETTER S,42,2,"2021,2024",0,3,39
+aim,Latn,aim_Latn,Aimol,O,Lu,LATIN CAPITAL LETTER O,39,2,"2021,2024",0,2,37
+aim,Latn,aim_Latn,Aimol,y,Ll,LATIN SMALL LETTER Y,39,3,"2019,2021,2024",1,7,31
+aim,Latn,aim_Latn,Aimol,M,Lu,LATIN CAPITAL LETTER M,36,3,"2019,2021,2024",1,3,32
+aim,Latn,aim_Latn,Aimol,:,Po,COLON,36,2,"2021,2024",0,2,34
+aim,Latn,aim_Latn,Aimol,K,Lu,LATIN CAPITAL LETTER K,36,3,"2019,2021,2024",2,1,33
+aim,Latn,aim_Latn,Aimol,•,Po,BULLET,34,1,2024,0,0,34
+aim,Latn,aim_Latn,Aimol,(,Ps,LEFT PARENTHESIS,26,1,2024,0,0,26
+aim,Latn,aim_Latn,Aimol,),Pe,RIGHT PARENTHESIS,26,1,2024,0,0,26
+aim,Latn,aim_Latn,Aimol,2,Nd,DIGIT TWO,24,3,"2019,2021,2024",8,10,6
+aim,Latn,aim_Latn,Aimol,G,Lu,LATIN CAPITAL LETTER G,21,2,"2019,2024",1,0,20
+aim,Latn,aim_Latn,Aimol,f,Ll,LATIN SMALL LETTER F,21,2,"2021,2024",0,1,20
+aim,Latn,aim_Latn,Aimol,D,Lu,LATIN CAPITAL LETTER D,18,2,"2021,2024",0,4,14
+aim,Latn,aim_Latn,Aimol,”,Pf,RIGHT DOUBLE QUOTATION MARK,17,2,"2019,2024",9,0,8
+aim,Latn,aim_Latn,Aimol,“,Pi,LEFT DOUBLE QUOTATION MARK,17,2,"2019,2024",9,0,8
+aim,Latn,aim_Latn,Aimol,V,Lu,LATIN CAPITAL LETTER V,17,2,"2021,2024",0,2,15
+aim,Latn,aim_Latn,Aimol,U,Lu,LATIN CAPITAL LETTER U,16,1,2024,0,0,16
+aim,Latn,aim_Latn,Aimol,0,Nd,DIGIT ZERO,16,3,"2019,2021,2024",2,5,9
+aim,Latn,aim_Latn,Aimol,/,Po,SOLIDUS,14,1,2024,0,0,14
+aim,Latn,aim_Latn,Aimol,W,Lu,LATIN CAPITAL LETTER W,14,2,"2021,2024",0,2,12
+aim,Latn,aim_Latn,Aimol,3,Nd,DIGIT THREE,13,3,"2019,2021,2024",3,5,5
+aim,Latn,aim_Latn,Aimol,Y,Lu,LATIN CAPITAL LETTER Y,12,1,2024,0,0,12
+aim,Latn,aim_Latn,Aimol,F,Lu,LATIN CAPITAL LETTER F,12,2,"2021,2024",0,2,10
+aim,Latn,aim_Latn,Aimol,7,Nd,DIGIT SEVEN,9,3,"2019,2021,2024",2,4,3
+aim,Latn,aim_Latn,Aimol,5,Nd,DIGIT FIVE,9,3,"2019,2021,2024",2,1,6
+aim,Latn,aim_Latn,Aimol,;,Po,SEMICOLON,9,2,"2019,2024",2,0,7
+aim,Latn,aim_Latn,Aimol,6,Nd,DIGIT SIX,8,3,"2019,2021,2024",2,4,2
+aim,Latn,aim_Latn,Aimol,8,Nd,DIGIT EIGHT,8,3,"2019,2021,2024",2,4,2
+aim,Latn,aim_Latn,Aimol,Z,Lu,LATIN CAPITAL LETTER Z,8,1,2021,0,8,0
+aim,Latn,aim_Latn,Aimol,4,Nd,DIGIT FOUR,7,3,"2019,2021,2024",2,4,1
+aim,Latn,aim_Latn,Aimol,’,Pf,RIGHT SINGLE QUOTATION MARK,6,2,"2019,2024",1,0,5
+aim,Latn,aim_Latn,Aimol,9,Nd,DIGIT NINE,6,3,"2019,2021,2024",2,2,2
+aim,Latn,aim_Latn,Aimol,x,Ll,LATIN SMALL LETTER X,6,2,"2021,2024",0,4,2
+aim,Latn,aim_Latn,Aimol,บ,Lo,THAI CHARACTER BO BAIMAI,6,1,2021,0,6,0
+aim,Latn,aim_Latn,Aimol,ท,Lo,THAI CHARACTER THO THAHAN,6,1,2021,0,6,0
+aim,Latn,aim_Latn,Aimol,X,Lu,LATIN CAPITAL LETTER X,5,2,"2021,2024",0,4,1
+aim,Latn,aim_Latn,Aimol,о,Ll,CYRILLIC SMALL LETTER O,5,1,2021,0,5,0
+aim,Latn,aim_Latn,Aimol,–,Pd,EN DASH,4,1,2021,0,4,0
+aim,Latn,aim_Latn,Aimol,!,Po,EXCLAMATION MARK,3,1,2024,0,0,3
+aim,Latn,aim_Latn,Aimol,?,Po,QUESTION MARK,3,2,"2019,2024",1,0,2
+aim,Latn,aim_Latn,Aimol,р,Ll,CYRILLIC SMALL LETTER ER,3,1,2021,0,3,0
+aim,Latn,aim_Latn,Aimol,í,Ll,LATIN SMALL LETTER I WITH ACUTE,3,1,2021,0,3,0
+aim,Latn,aim_Latn,Aimol,т,Ll,CYRILLIC SMALL LETTER TE,3,1,2021,0,3,0
+aim,Latn,aim_Latn,Aimol,з,Ll,CYRILLIC SMALL LETTER ZE,2,1,2021,0,2,0
+aim,Latn,aim_Latn,Aimol,и,Ll,CYRILLIC SMALL LETTER I,2,1,2021,0,2,0
+aim,Latn,aim_Latn,Aimol,й,Ll,CYRILLIC SMALL LETTER SHORT I,2,1,2021,0,2,0
+aim,Latn,aim_Latn,Aimol,‘,Pi,LEFT SINGLE QUOTATION MARK,2,1,2024,0,0,2
+aim,Latn,aim_Latn,Aimol,z,Ll,LATIN SMALL LETTER Z,2,1,2019,2,0,0
+aim,Latn,aim_Latn,Aimol,а,Ll,CYRILLIC SMALL LETTER A,2,1,2021,0,2,0
+aim,Latn,aim_Latn,Aimol,Р,Lu,CYRILLIC CAPITAL LETTER ER,2,1,2021,0,2,0
+aim,Latn,aim_Latn,Aimol,К,Lu,CYRILLIC CAPITAL LETTER KA,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,记,Lo,CJK UNIFIED IDEOGRAPH-8BB0,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ạ,Ll,LATIN SMALL LETTER A WITH DOT BELOW,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ấ,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ị,Ll,LATIN SMALL LETTER I WITH DOT BELOW,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ử,Ll,LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,虚,Lo,CJK UNIFIED IDEOGRAPH-865A,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,无,Lo,CJK UNIFIED IDEOGRAPH-65E0,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,Â,Lu,LATIN CAPITAL LETTER A WITH CIRCUMFLEX,1,1,2024,0,0,1
+aim,Latn,aim_Latn,Aimol,战,Lo,CJK UNIFIED IDEOGRAPH-6218,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,|,Sm,VERTICAL LINE,1,1,2024,0,0,1
+aim,Latn,aim_Latn,Aimol,д,Ll,CYRILLIC SMALL LETTER DE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,е,Ll,CYRILLIC SMALL LETTER IE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,п,Ll,CYRILLIC SMALL LETTER PE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,Э,Lu,CYRILLIC CAPITAL LETTER E,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,В,Lu,CYRILLIC CAPITAL LETTER VE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ё,Ll,CYRILLIC SMALL LETTER IO,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,в,Ll,CYRILLIC SMALL LETTER VE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,Ж,Lu,CYRILLIC CAPITAL LETTER ZHE,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,н,Ll,CYRILLIC SMALL LETTER EN,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ы,Ll,CYRILLIC SMALL LETTER YERU,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,к,Ll,CYRILLIC SMALL LETTER KA,1,1,2021,0,1,0
+aim,Latn,aim_Latn,Aimol,ẻ,Ll,LATIN SMALL LETTER E WITH HOOK ABOVE,1,1,2021,0,1,0

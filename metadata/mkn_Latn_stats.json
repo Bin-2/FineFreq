@@ -1,0 +1,23 @@
+{
+  "language_code": "mkn_Latn",
+  "iso_639_3": "mkn",
+  "script": "Latn",
+  "language_name": "Kupang Malay",
+  "total_characters": 114,
+  "total_frequency": 1612058,
+  "years_covered": [
+    "2013",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.767774"
+}

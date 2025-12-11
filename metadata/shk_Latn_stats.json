@@ -1,0 +1,16 @@
+{
+  "language_code": "shk_Latn",
+  "iso_639_3": "shk",
+  "script": "Latn",
+  "language_name": "Shilluk",
+  "total_characters": 97,
+  "total_frequency": 107395,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.255502"
+}

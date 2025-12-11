@@ -1,0 +1,66 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency
+adl,Latn,adl_Latn,Galo, ,Zs,SPACE,1281,2,"2019,2021",584,697
+adl,Latn,adl_Latn,Galo,a,Ll,LATIN SMALL LETTER A,577,2,"2019,2021",264,313
+adl,Latn,adl_Latn,Galo,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,510,2,"2019,2021",232,278
+adl,Latn,adl_Latn,Galo,o,Ll,LATIN SMALL LETTER O,500,2,"2019,2021",207,293
+adl,Latn,adl_Latn,Galo,k,Ll,LATIN SMALL LETTER K,325,2,"2019,2021",104,221
+adl,Latn,adl_Latn,Galo,m,Ll,LATIN SMALL LETTER M,296,2,"2019,2021",108,188
+adl,Latn,adl_Latn,Galo,b,Ll,LATIN SMALL LETTER B,278,2,"2019,2021",183,95
+adl,Latn,adl_Latn,Galo,n,Ll,LATIN SMALL LETTER N,273,2,"2019,2021",105,168
+adl,Latn,adl_Latn,Galo,l,Ll,LATIN SMALL LETTER L,249,2,"2019,2021",90,159
+adl,Latn,adl_Latn,Galo,g,Ll,LATIN SMALL LETTER G,223,2,"2019,2021",108,115
+adl,Latn,adl_Latn,Galo,i,Ll,LATIN SMALL LETTER I,206,2,"2019,2021",99,107
+adl,Latn,adl_Latn,Galo,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,195,2,"2019,2021",91,104
+adl,Latn,adl_Latn,Galo,u,Ll,LATIN SMALL LETTER U,190,2,"2019,2021",57,133
+adl,Latn,adl_Latn,Galo,r,Ll,LATIN SMALL LETTER R,177,2,"2019,2021",80,97
+adl,Latn,adl_Latn,Galo,e,Ll,LATIN SMALL LETTER E,158,2,"2019,2021",55,103
+adl,Latn,adl_Latn,Galo,d,Ll,LATIN SMALL LETTER D,144,2,"2019,2021",44,100
+adl,Latn,adl_Latn,Galo,h,Ll,LATIN SMALL LETTER H,128,2,"2019,2021",69,59
+adl,Latn,adl_Latn,Galo,t,Ll,LATIN SMALL LETTER T,110,2,"2019,2021",31,79
+adl,Latn,adl_Latn,Galo,",",Po,COMMA,85,2,"2019,2021",44,41
+adl,Latn,adl_Latn,Galo,s,Ll,LATIN SMALL LETTER S,80,2,"2019,2021",46,34
+adl,Latn,adl_Latn,Galo,y,Ll,LATIN SMALL LETTER Y,72,2,"2019,2021",27,45
+adl,Latn,adl_Latn,Galo,p,Ll,LATIN SMALL LETTER P,69,2,"2019,2021",26,43
+adl,Latn,adl_Latn,Galo,j,Ll,LATIN SMALL LETTER J,67,2,"2019,2021",27,40
+adl,Latn,adl_Latn,Galo,.,Po,FULL STOP,66,2,"2019,2021",37,29
+adl,Latn,adl_Latn,Galo,J,Lu,LATIN CAPITAL LETTER J,53,2,"2019,2021",38,15
+adl,Latn,adl_Latn,Galo,1,Nd,DIGIT ONE,44,2,"2019,2021",22,22
+adl,Latn,adl_Latn,Galo,2,Nd,DIGIT TWO,30,2,"2019,2021",19,11
+adl,Latn,adl_Latn,Galo,A,Lu,LATIN CAPITAL LETTER A,28,2,"2019,2021",22,6
+adl,Latn,adl_Latn,Galo,c,Ll,LATIN SMALL LETTER C,25,2,"2019,2021",3,22
+adl,Latn,adl_Latn,Galo,O,Lu,LATIN CAPITAL LETTER O,23,2,"2019,2021",10,13
+adl,Latn,adl_Latn,Galo,I,Lu,LATIN CAPITAL LETTER I,22,2,"2019,2021",4,18
+adl,Latn,adl_Latn,Galo,B,Lu,LATIN CAPITAL LETTER B,21,2,"2019,2021",7,14
+adl,Latn,adl_Latn,Galo,M,Lu,LATIN CAPITAL LETTER M,17,2,"2019,2021",12,5
+adl,Latn,adl_Latn,Galo,H,Lu,LATIN CAPITAL LETTER H,14,2,"2019,2021",5,9
+adl,Latn,adl_Latn,Galo,L,Lu,LATIN CAPITAL LETTER L,13,2,"2019,2021",6,7
+adl,Latn,adl_Latn,Galo,D,Lu,LATIN CAPITAL LETTER D,13,2,"2019,2021",10,3
+adl,Latn,adl_Latn,Galo,3,Nd,DIGIT THREE,13,2,"2019,2021",8,5
+adl,Latn,adl_Latn,Galo,S,Lu,LATIN CAPITAL LETTER S,13,2,"2019,2021",10,3
+adl,Latn,adl_Latn,Galo,R,Lu,LATIN CAPITAL LETTER R,13,2,"2019,2021",9,4
+adl,Latn,adl_Latn,Galo,N,Lu,LATIN CAPITAL LETTER N,13,2,"2019,2021",3,10
+adl,Latn,adl_Latn,Galo,Y,Lu,LATIN CAPITAL LETTER Y,12,2,"2019,2021",2,10
+adl,Latn,adl_Latn,Galo,K,Lu,LATIN CAPITAL LETTER K,11,2,"2019,2021",7,4
+adl,Latn,adl_Latn,Galo,“,Pi,LEFT DOUBLE QUOTATION MARK,9,2,"2019,2021",2,7
+adl,Latn,adl_Latn,Galo,G,Lu,LATIN CAPITAL LETTER G,9,2,"2019,2021",2,7
+adl,Latn,adl_Latn,Galo,”,Pf,RIGHT DOUBLE QUOTATION MARK,9,2,"2019,2021",2,7
+adl,Latn,adl_Latn,Galo,#,Po,NUMBER SIGN,9,2,"2019,2021",5,4
+adl,Latn,adl_Latn,Galo,7,Nd,DIGIT SEVEN,9,2,"2019,2021",6,3
+adl,Latn,adl_Latn,Galo,5,Nd,DIGIT FIVE,9,2,"2019,2021",4,5
+adl,Latn,adl_Latn,Galo,4,Nd,DIGIT FOUR,9,2,"2019,2021",5,4
+adl,Latn,adl_Latn,Galo,Ë,Lu,LATIN CAPITAL LETTER E WITH DIAERESIS,8,2,"2019,2021",2,6
+adl,Latn,adl_Latn,Galo,E,Lu,LATIN CAPITAL LETTER E,6,1,2019,6,0
+adl,Latn,adl_Latn,Galo,0,Nd,DIGIT ZERO,6,2,"2019,2021",4,2
+adl,Latn,adl_Latn,Galo,;,Po,SEMICOLON,5,2,"2019,2021",2,3
+adl,Latn,adl_Latn,Galo,8,Nd,DIGIT EIGHT,5,2,"2019,2021",3,2
+adl,Latn,adl_Latn,Galo,9,Nd,DIGIT NINE,5,2,"2019,2021",2,3
+adl,Latn,adl_Latn,Galo,6,Nd,DIGIT SIX,5,2,"2019,2021",3,2
+adl,Latn,adl_Latn,Galo,),Pe,RIGHT PARENTHESIS,4,2,"2019,2021",3,1
+adl,Latn,adl_Latn,Galo,(,Ps,LEFT PARENTHESIS,4,2,"2019,2021",3,1
+adl,Latn,adl_Latn,Galo,U,Lu,LATIN CAPITAL LETTER U,4,1,2019,4,0
+adl,Latn,adl_Latn,Galo,T,Lu,LATIN CAPITAL LETTER T,4,2,"2019,2021",1,3
+adl,Latn,adl_Latn,Galo,P,Lu,LATIN CAPITAL LETTER P,4,2,"2019,2021",2,2
+adl,Latn,adl_Latn,Galo,-,Pd,HYPHEN-MINUS,4,2,"2019,2021",2,2
+adl,Latn,adl_Latn,Galo,:,Po,COLON,3,1,2021,0,3
+adl,Latn,adl_Latn,Galo,C,Lu,LATIN CAPITAL LETTER C,2,2,"2019,2021",1,1
+adl,Latn,adl_Latn,Galo,?,Po,QUESTION MARK,2,1,2021,0,2

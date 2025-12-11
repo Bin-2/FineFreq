@@ -1,0 +1,24 @@
+{
+  "language_code": "fry_Latn",
+  "iso_639_3": "fry",
+  "script": "Latn",
+  "language_name": "Western Frisian",
+  "total_characters": 4632,
+  "total_frequency": 680950229,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:53.736398"
+}

@@ -1,0 +1,109 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency
+twx,Latn,twx_Latn,Tewe, ,Zs,SPACE,19424,3,"2017,2018,2019",15990,684,2750
+twx,Latn,twx_Latn,Tewe,a,Ll,LATIN SMALL LETTER A,14715,3,"2017,2018,2019",11913,760,2042
+twx,Latn,twx_Latn,Tewe,i,Ll,LATIN SMALL LETTER I,7677,3,"2017,2018,2019",6069,445,1163
+twx,Latn,twx_Latn,Tewe,e,Ll,LATIN SMALL LETTER E,6869,3,"2017,2018,2019",5101,387,1381
+twx,Latn,twx_Latn,Tewe,n,Ll,LATIN SMALL LETTER N,6668,3,"2017,2018,2019",5405,394,869
+twx,Latn,twx_Latn,Tewe,u,Ll,LATIN SMALL LETTER U,6597,3,"2017,2018,2019",5392,345,860
+twx,Latn,twx_Latn,Tewe,o,Ll,LATIN SMALL LETTER O,5328,3,"2017,2018,2019",3824,326,1178
+twx,Latn,twx_Latn,Tewe,r,Ll,LATIN SMALL LETTER R,4755,3,"2017,2018,2019",3601,219,935
+twx,Latn,twx_Latn,Tewe,k,Ll,LATIN SMALL LETTER K,4595,3,"2017,2018,2019",3914,259,422
+twx,Latn,twx_Latn,Tewe,m,Ll,LATIN SMALL LETTER M,3798,3,"2017,2018,2019",2982,199,617
+twx,Latn,twx_Latn,Tewe,w,Ll,LATIN SMALL LETTER W,3630,3,"2017,2018,2019",3213,141,276
+twx,Latn,twx_Latn,Tewe,s,Ll,LATIN SMALL LETTER S,3178,3,"2017,2018,2019",2161,112,905
+twx,Latn,twx_Latn,Tewe,d,Ll,LATIN SMALL LETTER D,3059,3,"2017,2018,2019",2225,167,667
+twx,Latn,twx_Latn,Tewe,t,Ll,LATIN SMALL LETTER T,3030,3,"2017,2018,2019",2275,167,588
+twx,Latn,twx_Latn,Tewe,z,Ll,LATIN SMALL LETTER Z,2420,3,"2017,2018,2019",2004,137,279
+twx,Latn,twx_Latn,Tewe,g,Ll,LATIN SMALL LETTER G,1825,3,"2017,2018,2019",1497,103,225
+twx,Latn,twx_Latn,Tewe,h,Ll,LATIN SMALL LETTER H,1769,3,"2017,2018,2019",1331,173,265
+twx,Latn,twx_Latn,Tewe,.,Po,FULL STOP,1697,3,"2017,2018,2019",1479,68,150
+twx,Latn,twx_Latn,Tewe,",",Po,COMMA,1512,3,"2017,2018,2019",1217,73,222
+twx,Latn,twx_Latn,Tewe,y,Ll,LATIN SMALL LETTER Y,1415,3,"2017,2018,2019",1117,153,145
+twx,Latn,twx_Latn,Tewe,b,Ll,LATIN SMALL LETTER B,1377,3,"2017,2018,2019",1156,71,150
+twx,Latn,twx_Latn,Tewe,p,Ll,LATIN SMALL LETTER P,1313,3,"2017,2018,2019",953,84,276
+twx,Latn,twx_Latn,Tewe,v,Ll,LATIN SMALL LETTER V,1235,3,"2017,2018,2019",914,38,283
+twx,Latn,twx_Latn,Tewe,c,Ll,LATIN SMALL LETTER C,900,3,"2017,2018,2019",629,39,232
+twx,Latn,twx_Latn,Tewe,-,Pd,HYPHEN-MINUS,841,3,"2017,2018,2019",816,2,23
+twx,Latn,twx_Latn,Tewe,f,Ll,LATIN SMALL LETTER F,563,3,"2017,2018,2019",437,11,115
+twx,Latn,twx_Latn,Tewe,M,Lu,LATIN CAPITAL LETTER M,471,3,"2017,2018,2019",385,13,73
+twx,Latn,twx_Latn,Tewe,T,Lu,LATIN CAPITAL LETTER T,289,3,"2017,2018,2019",262,12,15
+twx,Latn,twx_Latn,Tewe,l,Ll,LATIN SMALL LETTER L,284,3,"2017,2018,2019",155,17,112
+twx,Latn,twx_Latn,Tewe,K,Lu,LATIN CAPITAL LETTER K,251,3,"2017,2018,2019",223,8,20
+twx,Latn,twx_Latn,Tewe,j,Ll,LATIN SMALL LETTER J,244,3,"2017,2018,2019",202,10,32
+twx,Latn,twx_Latn,Tewe,N,Lu,LATIN CAPITAL LETTER N,226,3,"2017,2018,2019",181,16,29
+twx,Latn,twx_Latn,Tewe,A,Lu,LATIN CAPITAL LETTER A,200,3,"2017,2018,2019",169,12,19
+twx,Latn,twx_Latn,Tewe,I,Lu,LATIN CAPITAL LETTER I,198,3,"2017,2018,2019",180,4,14
+twx,Latn,twx_Latn,Tewe,:,Po,COLON,170,3,"2017,2018,2019",132,1,37
+twx,Latn,twx_Latn,Tewe,S,Lu,LATIN CAPITAL LETTER S,166,3,"2017,2018,2019",133,4,29
+twx,Latn,twx_Latn,Tewe,C,Lu,LATIN CAPITAL LETTER C,154,3,"2017,2018,2019",131,9,14
+twx,Latn,twx_Latn,Tewe,1,Nd,DIGIT ONE,150,2,"2017,2019",111,0,39
+twx,Latn,twx_Latn,Tewe,U,Lu,LATIN CAPITAL LETTER U,144,3,"2017,2018,2019",129,10,5
+twx,Latn,twx_Latn,Tewe,J,Lu,LATIN CAPITAL LETTER J,138,2,"2017,2019",76,0,62
+twx,Latn,twx_Latn,Tewe,B,Lu,LATIN CAPITAL LETTER B,129,3,"2017,2018,2019",124,1,4
+twx,Latn,twx_Latn,Tewe,V,Lu,LATIN CAPITAL LETTER V,124,2,"2017,2019",106,0,18
+twx,Latn,twx_Latn,Tewe,;,Po,SEMICOLON,122,2,"2017,2019",117,0,5
+twx,Latn,twx_Latn,Tewe,"""",Po,QUOTATION MARK,120,2,"2017,2019",119,0,1
+twx,Latn,twx_Latn,Tewe,D,Lu,LATIN CAPITAL LETTER D,116,3,"2017,2018,2019",78,11,27
+twx,Latn,twx_Latn,Tewe,W,Lu,LATIN CAPITAL LETTER W,111,3,"2017,2018,2019",101,2,8
+twx,Latn,twx_Latn,Tewe,P,Lu,LATIN CAPITAL LETTER P,108,3,"2017,2018,2019",96,1,11
+twx,Latn,twx_Latn,Tewe,O,Lu,LATIN CAPITAL LETTER O,105,2,"2017,2019",81,0,24
+twx,Latn,twx_Latn,Tewe,E,Lu,LATIN CAPITAL LETTER E,104,3,"2017,2018,2019",76,3,25
+twx,Latn,twx_Latn,Tewe,2,Nd,DIGIT TWO,104,2,"2017,2019",81,0,23
+twx,Latn,twx_Latn,Tewe,R,Lu,LATIN CAPITAL LETTER R,99,1,2017,99,0,0
+twx,Latn,twx_Latn,Tewe,Z,Lu,LATIN CAPITAL LETTER Z,98,2,"2017,2019",95,0,3
+twx,Latn,twx_Latn,Tewe,4,Nd,DIGIT FOUR,90,2,"2017,2019",66,0,24
+twx,Latn,twx_Latn,Tewe,Y,Lu,LATIN CAPITAL LETTER Y,79,2,"2017,2018",77,2,0
+twx,Latn,twx_Latn,Tewe,H,Lu,LATIN CAPITAL LETTER H,77,2,"2017,2019",61,0,16
+twx,Latn,twx_Latn,Tewe,?,Po,QUESTION MARK,77,3,"2017,2018,2019",73,2,2
+twx,Latn,twx_Latn,Tewe,(,Ps,LEFT PARENTHESIS,75,2,"2017,2019",36,0,39
+twx,Latn,twx_Latn,Tewe,0,Nd,DIGIT ZERO,74,2,"2017,2019",59,0,15
+twx,Latn,twx_Latn,Tewe,3,Nd,DIGIT THREE,74,2,"2017,2019",55,0,19
+twx,Latn,twx_Latn,Tewe,q,Ll,LATIN SMALL LETTER Q,72,2,"2017,2019",3,0,69
+twx,Latn,twx_Latn,Tewe,F,Lu,LATIN CAPITAL LETTER F,69,1,2017,69,0,0
+twx,Latn,twx_Latn,Tewe,ã,Ll,LATIN SMALL LETTER A WITH TILDE,67,1,2019,0,0,67
+twx,Latn,twx_Latn,Tewe,),Pe,RIGHT PARENTHESIS,64,2,"2017,2019",27,0,37
+twx,Latn,twx_Latn,Tewe,|,Sm,VERTICAL LINE,61,1,2017,61,0,0
+twx,Latn,twx_Latn,Tewe,8,Nd,DIGIT EIGHT,60,2,"2017,2019",41,0,19
+twx,Latn,twx_Latn,Tewe,',Po,APOSTROPHE,53,1,2017,53,0,0
+twx,Latn,twx_Latn,Tewe,6,Nd,DIGIT SIX,53,2,"2017,2019",48,0,5
+twx,Latn,twx_Latn,Tewe,5,Nd,DIGIT FIVE,53,2,"2017,2019",48,0,5
+twx,Latn,twx_Latn,Tewe,G,Lu,LATIN CAPITAL LETTER G,50,3,"2017,2018,2019",47,1,2
+twx,Latn,twx_Latn,Tewe,/,Po,SOLIDUS,48,1,2017,48,0,0
+twx,Latn,twx_Latn,Tewe,L,Lu,LATIN CAPITAL LETTER L,36,2,"2017,2019",33,0,3
+twx,Latn,twx_Latn,Tewe,!,Po,EXCLAMATION MARK,35,3,"2017,2018,2019",26,3,6
+twx,Latn,twx_Latn,Tewe,¶,Po,PILCROW SIGN,35,1,2017,35,0,0
+twx,Latn,twx_Latn,Tewe,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,34,1,2019,0,0,34
+twx,Latn,twx_Latn,Tewe,9,Nd,DIGIT NINE,32,2,"2017,2019",29,0,3
+twx,Latn,twx_Latn,Tewe,7,Nd,DIGIT SEVEN,31,1,2017,31,0,0
+twx,Latn,twx_Latn,Tewe,á,Ll,LATIN SMALL LETTER A WITH ACUTE,30,1,2019,0,0,30
+twx,Latn,twx_Latn,Tewe,í,Ll,LATIN SMALL LETTER I WITH ACUTE,24,1,2019,0,0,24
+twx,Latn,twx_Latn,Tewe,é,Ll,LATIN SMALL LETTER E WITH ACUTE,21,1,2019,0,0,21
+twx,Latn,twx_Latn,Tewe,“,Pi,LEFT DOUBLE QUOTATION MARK,18,1,2019,0,0,18
+twx,Latn,twx_Latn,Tewe,*,Po,ASTERISK,17,1,2017,17,0,0
+twx,Latn,twx_Latn,Tewe,”,Pf,RIGHT DOUBLE QUOTATION MARK,16,1,2019,0,0,16
+twx,Latn,twx_Latn,Tewe,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,15,1,2019,0,0,15
+twx,Latn,twx_Latn,Tewe,^,Sk,CIRCUMFLEX ACCENT,14,1,2017,14,0,0
+twx,Latn,twx_Latn,Tewe,—,Pd,EM DASH,12,1,2017,12,0,0
+twx,Latn,twx_Latn,Tewe,x,Ll,LATIN SMALL LETTER X,9,2,"2017,2019",3,0,6
+twx,Latn,twx_Latn,Tewe,&,Po,AMPERSAND,8,1,2017,8,0,0
+twx,Latn,twx_Latn,Tewe,_,Pc,LOW LINE,7,1,2017,7,0,0
+twx,Latn,twx_Latn,Tewe,<,Sm,LESS-THAN SIGN,6,1,2017,6,0,0
+twx,Latn,twx_Latn,Tewe,\,Po,REVERSE SOLIDUS,6,1,2017,6,0,0
+twx,Latn,twx_Latn,Tewe,~,Sm,TILDE,5,1,2017,5,0,0
+twx,Latn,twx_Latn,Tewe,’,Pf,RIGHT SINGLE QUOTATION MARK,5,2,"2017,2018",1,4,0
+twx,Latn,twx_Latn,Tewe,[,Ps,LEFT SQUARE BRACKET,5,1,2017,5,0,0
+twx,Latn,twx_Latn,Tewe,],Pe,RIGHT SQUARE BRACKET,5,1,2017,5,0,0
+twx,Latn,twx_Latn,Tewe,%,Po,PERCENT SIGN,4,1,2017,4,0,0
+twx,Latn,twx_Latn,Tewe,à,Ll,LATIN SMALL LETTER A WITH GRAVE,3,1,2019,0,0,3
+twx,Latn,twx_Latn,Tewe,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,3,1,2019,0,0,3
+twx,Latn,twx_Latn,Tewe,õ,Ll,LATIN SMALL LETTER O WITH TILDE,3,1,2019,0,0,3
+twx,Latn,twx_Latn,Tewe,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,2,1,2019,0,0,2
+twx,Latn,twx_Latn,Tewe,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,2,1,2019,0,0,2
+twx,Latn,twx_Latn,Tewe,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,2,1,2019,0,0,2
+twx,Latn,twx_Latn,Tewe,X,Lu,LATIN CAPITAL LETTER X,2,1,2017,2,0,0
+twx,Latn,twx_Latn,Tewe,◆,So,BLACK DIAMOND,1,1,2017,1,0,0
+twx,Latn,twx_Latn,Tewe,@,Po,COMMERCIAL AT,1,1,2017,1,0,0
+twx,Latn,twx_Latn,Tewe,>,Sm,GREATER-THAN SIGN,1,1,2017,1,0,0
+twx,Latn,twx_Latn,Tewe,{,Ps,LEFT CURLY BRACKET,1,1,2017,1,0,0
+twx,Latn,twx_Latn,Tewe,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,1,1,2019,0,0,1
+twx,Latn,twx_Latn,Tewe,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2017,1,0,0

@@ -1,0 +1,95 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2019_frequency,year_2021_frequency,year_2023_frequency,year_2024_frequency
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,a,Ll,LATIN SMALL LETTER A,16603,5,"2014,2019,2021,2023,2024",589,1799,1452,523,12240
+tpp,Latn,tpp_Latn,Pisaflores Tepehua, ,Zs,SPACE,11906,5,"2014,2019,2021,2023,2024",523,1555,979,507,8342
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,i,Ll,LATIN SMALL LETTER I,7965,5,"2014,2019,2021,2023,2024",363,1078,619,228,5677
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,n,Ll,LATIN SMALL LETTER N,6787,5,"2014,2019,2021,2023,2024",334,980,535,230,4708
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,t,Ll,LATIN SMALL LETTER T,5625,5,"2014,2019,2021,2023,2024",198,602,478,171,4176
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,',Po,APOSTROPHE,4924,5,"2014,2019,2021,2023,2024",187,377,555,115,3690
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,l,Ll,LATIN SMALL LETTER L,4778,5,"2014,2019,2021,2023,2024",187,576,393,186,3436
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,h,Ll,LATIN SMALL LETTER H,4696,5,"2014,2019,2021,2023,2024",172,521,385,122,3496
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,u,Ll,LATIN SMALL LETTER U,4669,5,"2014,2019,2021,2023,2024",200,630,412,217,3210
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,k,Ll,LATIN SMALL LETTER K,3736,5,"2014,2019,2021,2023,2024",102,351,292,123,2868
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,c,Ll,LATIN SMALL LETTER C,2698,5,"2014,2019,2021,2023,2024",82,268,210,146,1992
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,s,Ll,LATIN SMALL LETTER S,2252,5,"2014,2019,2021,2023,2024",169,419,135,135,1394
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,y,Ll,LATIN SMALL LETTER Y,2152,5,"2014,2019,2021,2023,2024",32,126,213,44,1737
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,j,Ll,LATIN SMALL LETTER J,1841,5,"2014,2019,2021,2023,2024",110,307,162,52,1210
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,x,Ll,LATIN SMALL LETTER X,1826,5,"2014,2019,2021,2023,2024",146,349,124,36,1171
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,m,Ll,LATIN SMALL LETTER M,1537,5,"2014,2019,2021,2023,2024",58,176,197,63,1043
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,w,Ll,LATIN SMALL LETTER W,1402,4,"2014,2019,2021,2024",29,105,103,0,1165
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,p,Ll,LATIN SMALL LETTER P,1310,5,"2014,2019,2021,2023,2024",36,141,97,73,963
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,o,Ll,LATIN SMALL LETTER O,1282,5,"2014,2019,2021,2023,2024",61,155,61,137,868
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,",",Po,COMMA,901,5,"2014,2019,2021,2023,2024",36,113,67,29,656
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,.,Po,FULL STOP,825,5,"2014,2019,2021,2023,2024",55,143,70,61,496
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,r,Ll,LATIN SMALL LETTER R,562,5,"2014,2019,2021,2023,2024",34,83,50,111,284
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,e,Ll,LATIN SMALL LETTER E,532,5,"2014,2019,2021,2023,2024",27,82,25,203,195
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,A,Lu,LATIN CAPITAL LETTER A,321,5,"2014,2019,2021,2023,2024",61,145,12,9,94
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,1,Nd,DIGIT ONE,291,5,"2014,2019,2021,2023,2024",14,28,24,2,223
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,J,Lu,LATIN CAPITAL LETTER J,241,5,"2014,2019,2021,2023,2024",29,64,17,10,121
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,D,Lu,LATIN CAPITAL LETTER D,223,5,"2014,2019,2021,2023,2024",12,32,11,1,167
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,C,Lu,LATIN CAPITAL LETTER C,202,5,"2014,2019,2021,2023,2024",10,27,16,2,147
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,b,Ll,LATIN SMALL LETTER B,153,4,"2014,2019,2023,2024",26,52,0,50,25
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,d,Ll,LATIN SMALL LETTER D,149,4,"2014,2019,2023,2024",20,44,0,57,28
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,2,Nd,DIGIT TWO,135,4,"2014,2019,2021,2024",9,18,23,0,85
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,P,Lu,LATIN CAPITAL LETTER P,120,5,"2014,2019,2021,2023,2024",4,13,13,2,88
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,’,Pf,RIGHT SINGLE QUOTATION MARK,116,3,"2019,2021,2023",0,87,19,10,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,M,Lu,LATIN CAPITAL LETTER M,106,5,"2014,2019,2021,2023,2024",11,27,8,4,56
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,T,Lu,LATIN CAPITAL LETTER T,90,5,"2014,2019,2021,2023,2024",5,14,1,4,66
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,3,Nd,DIGIT THREE,84,5,"2014,2019,2021,2023,2024",3,6,21,2,52
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,K,Lu,LATIN CAPITAL LETTER K,83,5,"2014,2019,2021,2023,2024",1,5,8,3,66
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,í,Ll,LATIN SMALL LETTER I WITH ACUTE,74,4,"2014,2019,2023,2024",19,41,0,8,6
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,4,Nd,DIGIT FOUR,72,5,"2014,2019,2021,2023,2024",3,6,16,2,45
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,S,Lu,LATIN CAPITAL LETTER S,65,4,"2014,2019,2023,2024",14,33,0,2,16
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,L,Lu,LATIN CAPITAL LETTER L,63,4,"2019,2021,2023,2024",0,5,8,9,41
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,5,Nd,DIGIT FIVE,61,4,"2014,2019,2021,2024",3,6,10,0,42
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Y,Lu,LATIN CAPITAL LETTER Y,58,4,"2014,2019,2021,2024",2,9,1,0,46
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,6,Nd,DIGIT SIX,57,4,"2014,2019,2021,2024",2,4,10,0,41
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,:,Po,COLON,57,5,"2014,2019,2021,2023,2024",3,8,19,8,19
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,7,Nd,DIGIT SEVEN,52,4,"2014,2019,2021,2024",2,4,7,0,39
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,50,5,"2014,2019,2021,2023,2024",5,12,7,4,22
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,E,Lu,LATIN CAPITAL LETTER E,49,4,"2014,2019,2023,2024",12,27,0,5,5
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,8,Nd,DIGIT EIGHT,48,4,"2014,2019,2021,2024",2,4,7,0,35
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,I,Lu,LATIN CAPITAL LETTER I,48,4,"2014,2019,2023,2024",4,14,0,1,29
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,47,5,"2014,2019,2021,2023,2024",10,25,1,7,4
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,z,Ll,LATIN SMALL LETTER Z,46,5,"2014,2019,2021,2023,2024",12,24,2,4,4
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,v,Ll,LATIN SMALL LETTER V,44,4,"2014,2019,2023,2024",6,12,0,20,6
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,9,Nd,DIGIT NINE,44,4,"2014,2019,2021,2024",2,4,9,0,29
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,0,Nd,DIGIT ZERO,43,4,"2014,2019,2021,2024",2,4,8,0,29
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,q,Ll,LATIN SMALL LETTER Q,38,4,"2014,2019,2023,2024",6,14,0,15,3
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,é,Ll,LATIN SMALL LETTER E WITH ACUTE,36,5,"2014,2019,2021,2023,2024",8,17,2,5,4
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,g,Ll,LATIN SMALL LETTER G,34,4,"2014,2019,2023,2024",2,9,0,15,8
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,W,Lu,LATIN CAPITAL LETTER W,32,3,"2019,2021,2024",0,2,5,0,25
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,U,Lu,LATIN CAPITAL LETTER U,30,4,"2014,2019,2021,2024",3,7,4,0,16
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,f,Ll,LATIN SMALL LETTER F,28,5,"2014,2019,2021,2023,2024",2,6,1,11,8
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,?,Po,QUESTION MARK,27,2,"2021,2024",0,0,4,0,23
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,¿,Po,INVERTED QUESTION MARK,27,2,"2021,2024",0,0,4,0,23
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,O,Lu,LATIN CAPITAL LETTER O,26,5,"2014,2019,2021,2023,2024",3,6,10,2,5
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,X,Lu,LATIN CAPITAL LETTER X,23,5,"2014,2019,2021,2023,2024",1,2,5,3,12
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,B,Lu,LATIN CAPITAL LETTER B,19,3,"2014,2019,2023",6,12,0,1,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,),Pe,RIGHT PARENTHESIS,18,4,"2019,2021,2023,2024",0,2,6,8,2
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,(,Ps,LEFT PARENTHESIS,18,4,"2019,2021,2023,2024",0,2,6,8,2
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,”,Pf,RIGHT DOUBLE QUOTATION MARK,17,3,"2019,2021,2024",0,1,8,0,8
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,“,Pi,LEFT DOUBLE QUOTATION MARK,17,3,"2019,2021,2024",0,1,8,0,8
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,á,Ll,LATIN SMALL LETTER A WITH ACUTE,17,4,"2014,2019,2023,2024",4,8,0,2,3
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,!,Po,EXCLAMATION MARK,15,1,2024,0,0,0,0,15
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,¡,Po,INVERTED EXCLAMATION MARK,15,1,2024,0,0,0,0,15
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,R,Lu,LATIN CAPITAL LETTER R,13,3,"2014,2019,2024",4,8,0,0,1
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,N,Lu,LATIN CAPITAL LETTER N,13,3,"2014,2019,2023",3,9,0,1,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Z,Lu,LATIN CAPITAL LETTER Z,9,2,"2014,2019",3,6,0,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,-,Pd,HYPHEN-MINUS,9,2,"2019,2021",0,2,7,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,F,Lu,LATIN CAPITAL LETTER F,8,3,"2014,2019,2024",2,4,0,0,2
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,́,Mn,COMBINING ACUTE ACCENT,6,1,2019,0,6,0,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,;,Po,SEMICOLON,6,3,"2019,2021,2023",0,1,3,2,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,H,Lu,LATIN CAPITAL LETTER H,5,3,"2019,2023,2024",0,1,0,2,2
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,"""",Po,QUOTATION MARK,4,2,"2014,2019",2,2,0,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,3,2,"2019,2023",0,1,0,2,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,―,Pd,HORIZONTAL BAR,3,2,"2019,2021",0,2,1,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Q,Lu,LATIN CAPITAL LETTER Q,3,1,2023,0,0,0,3,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,—,Pd,EM DASH,2,2,"2014,2019",1,1,0,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,G,Lu,LATIN CAPITAL LETTER G,2,2,"2023,2024",0,0,0,1,1
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,2,1,2024,0,0,0,0,2
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,2,1,2019,0,2,0,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,V,Lu,LATIN CAPITAL LETTER V,2,2,"2019,2023",0,1,0,1,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Ꞌ,Lu,LATIN CAPITAL LETTER SALTILLO,1,1,2023,0,0,0,1,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,],Pe,RIGHT SQUARE BRACKET,1,1,2021,0,0,1,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,[,Ps,LEFT SQUARE BRACKET,1,1,2021,0,0,1,0,0
+tpp,Latn,tpp_Latn,Pisaflores Tepehua,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,1,1,2019,0,1,0,0,0

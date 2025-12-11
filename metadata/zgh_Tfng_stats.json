@@ -1,0 +1,20 @@
+{
+  "language_code": "zgh_Tfng",
+  "iso_639_3": "zgh",
+  "script": "Tfng",
+  "language_name": "Standard Moroccan Tamazight",
+  "total_characters": 165,
+  "total_frequency": 403045,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.752923"
+}

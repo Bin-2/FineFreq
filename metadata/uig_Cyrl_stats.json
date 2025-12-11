@@ -1,0 +1,22 @@
+{
+  "language_code": "uig_Cyrl",
+  "iso_639_3": "uig",
+  "script": "Cyrl",
+  "language_name": "Uighur",
+  "total_characters": 534,
+  "total_frequency": 50912989,
+  "years_covered": [
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:13.722862"
+}

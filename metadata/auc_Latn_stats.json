@@ -1,0 +1,16 @@
+{
+  "language_code": "auc_Latn",
+  "iso_639_3": "auc",
+  "script": "Latn",
+  "language_name": "Waorani",
+  "total_characters": 89,
+  "total_frequency": 379375,
+  "years_covered": [
+    "2014",
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:47.832459"
+}

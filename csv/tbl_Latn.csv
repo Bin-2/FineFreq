@@ -1,0 +1,83 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2022_frequency
+tbl,Latn,tbl_Latn,Tboli, ,Zs,SPACE,4870,2,"2019,2022",1579,3291
+tbl,Latn,tbl_Latn,Tboli,e,Ll,LATIN SMALL LETTER E,1945,2,"2019,2022",576,1369
+tbl,Latn,tbl_Latn,Tboli,n,Ll,LATIN SMALL LETTER N,1731,2,"2019,2022",588,1143
+tbl,Latn,tbl_Latn,Tboli,a,Ll,LATIN SMALL LETTER A,1206,2,"2019,2022",451,755
+tbl,Latn,tbl_Latn,Tboli,m,Ll,LATIN SMALL LETTER M,1182,2,"2019,2022",361,821
+tbl,Latn,tbl_Latn,Tboli,u,Ll,LATIN SMALL LETTER U,1182,2,"2019,2022",386,796
+tbl,Latn,tbl_Latn,Tboli,l,Ll,LATIN SMALL LETTER L,1035,2,"2019,2022",339,696
+tbl,Latn,tbl_Latn,Tboli,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1014,2,"2019,2022",345,669
+tbl,Latn,tbl_Latn,Tboli,t,Ll,LATIN SMALL LETTER T,925,2,"2019,2022",297,628
+tbl,Latn,tbl_Latn,Tboli,y,Ll,LATIN SMALL LETTER Y,880,2,"2019,2022",278,602
+tbl,Latn,tbl_Latn,Tboli,k,Ll,LATIN SMALL LETTER K,866,2,"2019,2022",215,651
+tbl,Latn,tbl_Latn,Tboli,o,Ll,LATIN SMALL LETTER O,673,2,"2019,2022",218,455
+tbl,Latn,tbl_Latn,Tboli,g,Ll,LATIN SMALL LETTER G,650,2,"2019,2022",210,440
+tbl,Latn,tbl_Latn,Tboli,d,Ll,LATIN SMALL LETTER D,632,2,"2019,2022",216,416
+tbl,Latn,tbl_Latn,Tboli,i,Ll,LATIN SMALL LETTER I,555,2,"2019,2022",175,380
+tbl,Latn,tbl_Latn,Tboli,s,Ll,LATIN SMALL LETTER S,532,2,"2019,2022",212,320
+tbl,Latn,tbl_Latn,Tboli,b,Ll,LATIN SMALL LETTER B,527,2,"2019,2022",155,372
+tbl,Latn,tbl_Latn,Tboli,h,Ll,LATIN SMALL LETTER H,447,2,"2019,2022",147,300
+tbl,Latn,tbl_Latn,Tboli,",",Po,COMMA,420,2,"2019,2022",144,276
+tbl,Latn,tbl_Latn,Tboli,w,Ll,LATIN SMALL LETTER W,352,2,"2019,2022",98,254
+tbl,Latn,tbl_Latn,Tboli,.,Po,FULL STOP,274,2,"2019,2022",96,178
+tbl,Latn,tbl_Latn,Tboli,è,Ll,LATIN SMALL LETTER E WITH GRAVE,214,2,"2019,2022",59,155
+tbl,Latn,tbl_Latn,Tboli,é,Ll,LATIN SMALL LETTER E WITH ACUTE,180,2,"2019,2022",75,105
+tbl,Latn,tbl_Latn,Tboli,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,139,2,"2019,2022",48,91
+tbl,Latn,tbl_Latn,Tboli,f,Ll,LATIN SMALL LETTER F,128,2,"2019,2022",27,101
+tbl,Latn,tbl_Latn,Tboli,D,Lu,LATIN CAPITAL LETTER D,115,2,"2019,2022",38,77
+tbl,Latn,tbl_Latn,Tboli,à,Ll,LATIN SMALL LETTER A WITH GRAVE,100,2,"2019,2022",43,57
+tbl,Latn,tbl_Latn,Tboli,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,93,2,"2019,2022",30,63
+tbl,Latn,tbl_Latn,Tboli,J,Lu,LATIN CAPITAL LETTER J,83,2,"2019,2022",45,38
+tbl,Latn,tbl_Latn,Tboli,1,Nd,DIGIT ONE,81,2,"2019,2022",27,54
+tbl,Latn,tbl_Latn,Tboli,N,Lu,LATIN CAPITAL LETTER N,80,2,"2019,2022",32,48
+tbl,Latn,tbl_Latn,Tboli,”,Pf,RIGHT DOUBLE QUOTATION MARK,76,2,"2019,2022",33,43
+tbl,Latn,tbl_Latn,Tboli,“,Pi,LEFT DOUBLE QUOTATION MARK,76,2,"2019,2022",33,43
+tbl,Latn,tbl_Latn,Tboli,r,Ll,LATIN SMALL LETTER R,70,2,"2019,2022",36,34
+tbl,Latn,tbl_Latn,Tboli,T,Lu,LATIN CAPITAL LETTER T,70,2,"2019,2022",27,43
+tbl,Latn,tbl_Latn,Tboli,2,Nd,DIGIT TWO,65,2,"2019,2022",18,47
+tbl,Latn,tbl_Latn,Tboli,B,Lu,LATIN CAPITAL LETTER B,56,2,"2019,2022",19,37
+tbl,Latn,tbl_Latn,Tboli,3,Nd,DIGIT THREE,49,2,"2019,2022",19,30
+tbl,Latn,tbl_Latn,Tboli,Y,Lu,LATIN CAPITAL LETTER Y,46,2,"2019,2022",23,23
+tbl,Latn,tbl_Latn,Tboli,M,Lu,LATIN CAPITAL LETTER M,40,2,"2019,2022",20,20
+tbl,Latn,tbl_Latn,Tboli,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,40,2,"2019,2022",6,34
+tbl,Latn,tbl_Latn,Tboli,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,39,2,"2019,2022",6,33
+tbl,Latn,tbl_Latn,Tboli,4,Nd,DIGIT FOUR,37,2,"2019,2022",16,21
+tbl,Latn,tbl_Latn,Tboli,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,31,2,"2019,2022",10,21
+tbl,Latn,tbl_Latn,Tboli,L,Lu,LATIN CAPITAL LETTER L,24,2,"2019,2022",10,14
+tbl,Latn,tbl_Latn,Tboli,S,Lu,LATIN CAPITAL LETTER S,24,2,"2019,2022",14,10
+tbl,Latn,tbl_Latn,Tboli,K,Lu,LATIN CAPITAL LETTER K,23,2,"2019,2022",9,14
+tbl,Latn,tbl_Latn,Tboli,5,Nd,DIGIT FIVE,23,2,"2019,2022",7,16
+tbl,Latn,tbl_Latn,Tboli,O,Lu,LATIN CAPITAL LETTER O,22,2,"2019,2022",9,13
+tbl,Latn,tbl_Latn,Tboli,6,Nd,DIGIT SIX,21,2,"2019,2022",5,16
+tbl,Latn,tbl_Latn,Tboli,0,Nd,DIGIT ZERO,20,2,"2019,2022",7,13
+tbl,Latn,tbl_Latn,Tboli,p,Ll,LATIN SMALL LETTER P,20,2,"2019,2022",11,9
+tbl,Latn,tbl_Latn,Tboli,H,Lu,LATIN CAPITAL LETTER H,20,2,"2019,2022",2,18
+tbl,Latn,tbl_Latn,Tboli,8,Nd,DIGIT EIGHT,19,2,"2019,2022",7,12
+tbl,Latn,tbl_Latn,Tboli,:,Po,COLON,19,2,"2019,2022",6,13
+tbl,Latn,tbl_Latn,Tboli,9,Nd,DIGIT NINE,18,2,"2019,2022",5,13
+tbl,Latn,tbl_Latn,Tboli,7,Nd,DIGIT SEVEN,16,2,"2019,2022",5,11
+tbl,Latn,tbl_Latn,Tboli,I,Lu,LATIN CAPITAL LETTER I,16,2,"2019,2022",8,8
+tbl,Latn,tbl_Latn,Tboli,U,Lu,LATIN CAPITAL LETTER U,15,2,"2019,2022",14,1
+tbl,Latn,tbl_Latn,Tboli,?,Po,QUESTION MARK,14,2,"2019,2022",12,2
+tbl,Latn,tbl_Latn,Tboli,-,Pd,HYPHEN-MINUS,14,2,"2019,2022",8,6
+tbl,Latn,tbl_Latn,Tboli,‘,Pi,LEFT SINGLE QUOTATION MARK,12,2,"2019,2022",2,10
+tbl,Latn,tbl_Latn,Tboli,’,Pf,RIGHT SINGLE QUOTATION MARK,12,2,"2019,2022",2,10
+tbl,Latn,tbl_Latn,Tboli,F,Lu,LATIN CAPITAL LETTER F,11,2,"2019,2022",10,1
+tbl,Latn,tbl_Latn,Tboli,A,Lu,LATIN CAPITAL LETTER A,11,2,"2019,2022",6,5
+tbl,Latn,tbl_Latn,Tboli,),Pe,RIGHT PARENTHESIS,10,2,"2019,2022",5,5
+tbl,Latn,tbl_Latn,Tboli,(,Ps,LEFT PARENTHESIS,10,2,"2019,2022",5,5
+tbl,Latn,tbl_Latn,Tboli,W,Lu,LATIN CAPITAL LETTER W,9,2,"2019,2022",4,5
+tbl,Latn,tbl_Latn,Tboli,G,Lu,LATIN CAPITAL LETTER G,6,2,"2019,2022",2,4
+tbl,Latn,tbl_Latn,Tboli,;,Po,SEMICOLON,5,2,"2019,2022",2,3
+tbl,Latn,tbl_Latn,Tboli,c,Ll,LATIN SMALL LETTER C,5,1,2019,5,0
+tbl,Latn,tbl_Latn,Tboli,R,Lu,LATIN CAPITAL LETTER R,4,2,"2019,2022",2,2
+tbl,Latn,tbl_Latn,Tboli,#,Po,NUMBER SIGN,3,2,"2019,2022",2,1
+tbl,Latn,tbl_Latn,Tboli,P,Lu,LATIN CAPITAL LETTER P,3,1,2019,3,0
+tbl,Latn,tbl_Latn,Tboli,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,3,2,"2019,2022",1,2
+tbl,Latn,tbl_Latn,Tboli,v,Ll,LATIN SMALL LETTER V,3,1,2019,3,0
+tbl,Latn,tbl_Latn,Tboli,E,Lu,LATIN CAPITAL LETTER E,2,1,2019,2,0
+tbl,Latn,tbl_Latn,Tboli,*,Po,ASTERISK,2,1,2022,0,2
+tbl,Latn,tbl_Latn,Tboli,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,1,1,2019,1,0
+tbl,Latn,tbl_Latn,Tboli,Ê,Lu,LATIN CAPITAL LETTER E WITH CIRCUMFLEX,1,1,2019,1,0
+tbl,Latn,tbl_Latn,Tboli,',Po,APOSTROPHE,1,1,2019,1,0
+tbl,Latn,tbl_Latn,Tboli,q,Ll,LATIN SMALL LETTER Q,1,1,2019,1,0

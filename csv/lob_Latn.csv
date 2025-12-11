@@ -1,0 +1,87 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency,year_2019_frequency
+lob,Latn,lob_Latn,Lobi, ,Zs,SPACE,1762,3,"2014,2017,2019",1063,84,615
+lob,Latn,lob_Latn,Lobi,a,Ll,LATIN SMALL LETTER A,992,3,"2014,2017,2019",573,42,377
+lob,Latn,lob_Latn,Lobi,ɩ,Ll,LATIN SMALL LETTER IOTA,805,3,"2014,2017,2019",512,40,253
+lob,Latn,lob_Latn,Lobi,ɔ,Ll,LATIN SMALL LETTER OPEN O,510,3,"2014,2017,2019",320,12,178
+lob,Latn,lob_Latn,Lobi,n,Ll,LATIN SMALL LETTER N,377,3,"2014,2017,2019",221,34,122
+lob,Latn,lob_Latn,Lobi,k,Ll,LATIN SMALL LETTER K,370,3,"2014,2017,2019",212,20,138
+lob,Latn,lob_Latn,Lobi,r,Ll,LATIN SMALL LETTER R,353,3,"2014,2017,2019",232,10,111
+lob,Latn,lob_Latn,Lobi,ɛ,Ll,LATIN SMALL LETTER OPEN E,330,3,"2014,2017,2019",214,29,87
+lob,Latn,lob_Latn,Lobi,b,Ll,LATIN SMALL LETTER B,266,3,"2014,2017,2019",157,13,96
+lob,Latn,lob_Latn,Lobi,d,Ll,LATIN SMALL LETTER D,263,3,"2014,2017,2019",173,3,87
+lob,Latn,lob_Latn,Lobi,h,Ll,LATIN SMALL LETTER H,196,3,"2014,2017,2019",119,20,57
+lob,Latn,lob_Latn,Lobi,l,Ll,LATIN SMALL LETTER L,190,3,"2014,2017,2019",123,10,57
+lob,Latn,lob_Latn,Lobi,g,Ll,LATIN SMALL LETTER G,174,3,"2014,2017,2019",95,5,74
+lob,Latn,lob_Latn,Lobi,e,Ll,LATIN SMALL LETTER E,156,3,"2014,2017,2019",97,8,51
+lob,Latn,lob_Latn,Lobi,",",Po,COMMA,154,3,"2014,2017,2019",98,5,51
+lob,Latn,lob_Latn,Lobi,̃,Mn,COMBINING TILDE,153,3,"2014,2017,2019",94,2,57
+lob,Latn,lob_Latn,Lobi,o,Ll,LATIN SMALL LETTER O,151,3,"2014,2017,2019",93,9,49
+lob,Latn,lob_Latn,Lobi,i,Ll,LATIN SMALL LETTER I,148,3,"2014,2017,2019",97,4,47
+lob,Latn,lob_Latn,Lobi,s,Ll,LATIN SMALL LETTER S,144,3,"2014,2017,2019",78,16,50
+lob,Latn,lob_Latn,Lobi,t,Ll,LATIN SMALL LETTER T,143,3,"2014,2017,2019",88,7,48
+lob,Latn,lob_Latn,Lobi,j,Ll,LATIN SMALL LETTER J,134,3,"2014,2017,2019",79,3,52
+lob,Latn,lob_Latn,Lobi,ʋ,Ll,LATIN SMALL LETTER V WITH HOOK,130,3,"2014,2017,2019",84,3,43
+lob,Latn,lob_Latn,Lobi,u,Ll,LATIN SMALL LETTER U,115,3,"2014,2017,2019",67,7,41
+lob,Latn,lob_Latn,Lobi,m,Ll,LATIN SMALL LETTER M,111,3,"2014,2017,2019",62,2,47
+lob,Latn,lob_Latn,Lobi,p,Ll,LATIN SMALL LETTER P,86,3,"2014,2017,2019",59,7,20
+lob,Latn,lob_Latn,Lobi,f,Ll,LATIN SMALL LETTER F,81,3,"2014,2017,2019",52,3,26
+lob,Latn,lob_Latn,Lobi,J,Lu,LATIN CAPITAL LETTER J,75,3,"2014,2017,2019",44,1,30
+lob,Latn,lob_Latn,Lobi,w,Ll,LATIN SMALL LETTER W,74,3,"2014,2017,2019",51,3,20
+lob,Latn,lob_Latn,Lobi,.,Po,FULL STOP,63,3,"2014,2017,2019",35,9,19
+lob,Latn,lob_Latn,Lobi,y,Ll,LATIN SMALL LETTER Y,57,3,"2014,2017,2019",38,2,17
+lob,Latn,lob_Latn,Lobi,A,Lu,LATIN CAPITAL LETTER A,52,2,"2014,2019",27,0,25
+lob,Latn,lob_Latn,Lobi,ã,Ll,LATIN SMALL LETTER A WITH TILDE,43,3,"2014,2017,2019",32,3,8
+lob,Latn,lob_Latn,Lobi,1,Nd,DIGIT ONE,42,2,"2014,2019",27,0,15
+lob,Latn,lob_Latn,Lobi,ə,Ll,LATIN SMALL LETTER SCHWA,40,2,"2014,2019",33,0,7
+lob,Latn,lob_Latn,Lobi,;,Po,SEMICOLON,29,2,"2014,2019",15,0,14
+lob,Latn,lob_Latn,Lobi,2,Nd,DIGIT TWO,27,2,"2014,2019",17,0,10
+lob,Latn,lob_Latn,Lobi,D,Lu,LATIN CAPITAL LETTER D,27,2,"2014,2019",18,0,9
+lob,Latn,lob_Latn,Lobi,S,Lu,LATIN CAPITAL LETTER S,24,3,"2014,2017,2019",11,3,10
+lob,Latn,lob_Latn,Lobi,Ɩ,Lu,LATIN CAPITAL LETTER IOTA,23,2,"2014,2019",13,0,10
+lob,Latn,lob_Latn,Lobi,ʊ,Ll,LATIN SMALL LETTER UPSILON,23,1,2019,0,0,23
+lob,Latn,lob_Latn,Lobi,M,Lu,LATIN CAPITAL LETTER M,22,2,"2014,2019",12,0,10
+lob,Latn,lob_Latn,Lobi,E,Lu,LATIN CAPITAL LETTER E,22,2,"2014,2019",13,0,9
+lob,Latn,lob_Latn,Lobi,T,Lu,LATIN CAPITAL LETTER T,21,3,"2014,2017,2019",13,3,5
+lob,Latn,lob_Latn,Lobi,K,Lu,LATIN CAPITAL LETTER K,21,2,"2014,2019",13,0,8
+lob,Latn,lob_Latn,Lobi,B,Lu,LATIN CAPITAL LETTER B,21,2,"2014,2019",13,0,8
+lob,Latn,lob_Latn,Lobi,-,Pd,HYPHEN-MINUS,18,2,"2014,2019",11,0,7
+lob,Latn,lob_Latn,Lobi,:,Po,COLON,13,2,"2014,2019",11,0,2
+lob,Latn,lob_Latn,Lobi,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,13,2,"2014,2019",11,0,2
+lob,Latn,lob_Latn,Lobi,ƴ,Ll,LATIN SMALL LETTER Y WITH HOOK,12,3,"2014,2017,2019",10,1,1
+lob,Latn,lob_Latn,Lobi,v,Ll,LATIN SMALL LETTER V,12,2,"2014,2019",6,0,6
+lob,Latn,lob_Latn,Lobi,ŋ,Ll,LATIN SMALL LETTER ENG,12,1,2019,0,0,12
+lob,Latn,lob_Latn,Lobi,',Po,APOSTROPHE,11,3,"2014,2017,2019",8,1,2
+lob,Latn,lob_Latn,Lobi,ǝ,Ll,LATIN SMALL LETTER TURNED E,11,1,2019,0,0,11
+lob,Latn,lob_Latn,Lobi,3,Nd,DIGIT THREE,10,2,"2014,2019",6,0,4
+lob,Latn,lob_Latn,Lobi,R,Lu,LATIN CAPITAL LETTER R,10,2,"2014,2019",6,0,4
+lob,Latn,lob_Latn,Lobi,ɖ,Ll,LATIN SMALL LETTER D WITH TAIL,10,1,2019,0,0,10
+lob,Latn,lob_Latn,Lobi,O,Lu,LATIN CAPITAL LETTER O,9,3,"2014,2017,2019",4,1,4
+lob,Latn,lob_Latn,Lobi,N,Lu,LATIN CAPITAL LETTER N,9,3,"2014,2017,2019",5,2,2
+lob,Latn,lob_Latn,Lobi,c,Ll,LATIN SMALL LETTER C,9,2,"2014,2019",5,0,4
+lob,Latn,lob_Latn,Lobi,õ,Ll,LATIN SMALL LETTER O WITH TILDE,9,2,"2014,2019",7,0,2
+lob,Latn,lob_Latn,Lobi,Ɔ,Lu,LATIN CAPITAL LETTER OPEN O,8,2,"2014,2019",7,0,1
+lob,Latn,lob_Latn,Lobi,5,Nd,DIGIT FIVE,8,2,"2014,2019",5,0,3
+lob,Latn,lob_Latn,Lobi,4,Nd,DIGIT FOUR,8,2,"2014,2019",5,0,3
+lob,Latn,lob_Latn,Lobi,0,Nd,DIGIT ZERO,7,2,"2014,2019",4,0,3
+lob,Latn,lob_Latn,Lobi,ũ,Ll,LATIN SMALL LETTER U WITH TILDE,7,2,"2014,2019",4,0,3
+lob,Latn,lob_Latn,Lobi,G,Lu,LATIN CAPITAL LETTER G,7,2,"2014,2019",4,0,3
+lob,Latn,lob_Latn,Lobi,“,Pi,LEFT DOUBLE QUOTATION MARK,6,2,"2014,2019",5,0,1
+lob,Latn,lob_Latn,Lobi,”,Pf,RIGHT DOUBLE QUOTATION MARK,6,2,"2014,2019",5,0,1
+lob,Latn,lob_Latn,Lobi,F,Lu,LATIN CAPITAL LETTER F,6,3,"2014,2017,2019",3,1,2
+lob,Latn,lob_Latn,Lobi,9,Nd,DIGIT NINE,6,2,"2014,2019",4,0,2
+lob,Latn,lob_Latn,Lobi,8,Nd,DIGIT EIGHT,6,2,"2014,2019",4,0,2
+lob,Latn,lob_Latn,Lobi,6,Nd,DIGIT SIX,6,2,"2014,2019",4,0,2
+lob,Latn,lob_Latn,Lobi,7,Nd,DIGIT SEVEN,6,2,"2014,2019",4,0,2
+lob,Latn,lob_Latn,Lobi,P,Lu,LATIN CAPITAL LETTER P,5,3,"2014,2017,2019",2,1,2
+lob,Latn,lob_Latn,Lobi,H,Lu,LATIN CAPITAL LETTER H,5,2,"2014,2019",3,0,2
+lob,Latn,lob_Latn,Lobi,Ǝ,Lu,LATIN CAPITAL LETTER REVERSED E,2,1,2014,2,0,0
+lob,Latn,lob_Latn,Lobi,U,Lu,LATIN CAPITAL LETTER U,2,2,"2014,2019",1,0,1
+lob,Latn,lob_Latn,Lobi,’,Pf,RIGHT SINGLE QUOTATION MARK,2,1,2019,0,0,2
+lob,Latn,lob_Latn,Lobi,I,Lu,LATIN CAPITAL LETTER I,2,1,2014,2,0,0
+lob,Latn,lob_Latn,Lobi,L,Lu,LATIN CAPITAL LETTER L,1,1,2014,1,0,0
+lob,Latn,lob_Latn,Lobi,ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,1,1,2014,1,0,0
+lob,Latn,lob_Latn,Lobi,?,Po,QUESTION MARK,1,1,2014,1,0,0
+lob,Latn,lob_Latn,Lobi,W,Lu,LATIN CAPITAL LETTER W,1,1,2014,1,0,0
+lob,Latn,lob_Latn,Lobi,!,Po,EXCLAMATION MARK,1,1,2017,0,1,0
+lob,Latn,lob_Latn,Lobi,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2019,0,0,1
+lob,Latn,lob_Latn,Lobi,ẽ,Ll,LATIN SMALL LETTER E WITH TILDE,1,1,2014,1,0,0

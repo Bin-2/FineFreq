@@ -1,0 +1,93 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2017_frequency,year_2019_frequency,year_2021_frequency,year_2023_frequency
+bgz,Latn,bgz_Latn,Banggai, ,Zs,SPACE,4960,5,"2016,2017,2019,2021,2023",215,3044,1242,87,372
+bgz,Latn,bgz_Latn,Banggai,a,Ll,LATIN SMALL LETTER A,4828,5,"2016,2017,2019,2021,2023",163,2978,1209,103,375
+bgz,Latn,bgz_Latn,Banggai,o,Ll,LATIN SMALL LETTER O,3361,5,"2016,2017,2019,2021,2023",123,2216,784,42,196
+bgz,Latn,bgz_Latn,Banggai,n,Ll,LATIN SMALL LETTER N,2870,5,"2016,2017,2019,2021,2023",117,1688,801,67,197
+bgz,Latn,bgz_Latn,Banggai,i,Ll,LATIN SMALL LETTER I,2703,5,"2016,2017,2019,2021,2023",90,1746,584,89,194
+bgz,Latn,bgz_Latn,Banggai,k,Ll,LATIN SMALL LETTER K,1731,5,"2016,2017,2019,2021,2023",86,1137,383,31,94
+bgz,Latn,bgz_Latn,Banggai,u,Ll,LATIN SMALL LETTER U,1617,5,"2016,2017,2019,2021,2023",93,939,445,46,94
+bgz,Latn,bgz_Latn,Banggai,t,Ll,LATIN SMALL LETTER T,1276,5,"2016,2017,2019,2021,2023",39,762,327,29,119
+bgz,Latn,bgz_Latn,Banggai,m,Ll,LATIN SMALL LETTER M,1221,5,"2016,2017,2019,2021,2023",38,784,307,20,72
+bgz,Latn,bgz_Latn,Banggai,l,Ll,LATIN SMALL LETTER L,1159,5,"2016,2017,2019,2021,2023",44,692,334,25,64
+bgz,Latn,bgz_Latn,Banggai,s,Ll,LATIN SMALL LETTER S,1042,5,"2016,2017,2019,2021,2023",35,623,284,26,74
+bgz,Latn,bgz_Latn,Banggai,e,Ll,LATIN SMALL LETTER E,994,5,"2016,2017,2019,2021,2023",61,504,338,18,73
+bgz,Latn,bgz_Latn,Banggai,g,Ll,LATIN SMALL LETTER G,862,5,"2016,2017,2019,2021,2023",79,442,265,34,42
+bgz,Latn,bgz_Latn,Banggai,b,Ll,LATIN SMALL LETTER B,843,5,"2016,2017,2019,2021,2023",19,538,211,13,62
+bgz,Latn,bgz_Latn,Banggai,d,Ll,LATIN SMALL LETTER D,820,5,"2016,2017,2019,2021,2023",34,471,235,18,62
+bgz,Latn,bgz_Latn,Banggai,p,Ll,LATIN SMALL LETTER P,467,5,"2016,2017,2019,2021,2023",9,253,162,12,31
+bgz,Latn,bgz_Latn,Banggai,y,Ll,LATIN SMALL LETTER Y,422,5,"2016,2017,2019,2021,2023",38,350,17,1,16
+bgz,Latn,bgz_Latn,Banggai,",",Po,COMMA,347,5,"2016,2017,2019,2021,2023",19,201,94,4,29
+bgz,Latn,bgz_Latn,Banggai,.,Po,FULL STOP,293,5,"2016,2017,2019,2021,2023",9,176,70,7,31
+bgz,Latn,bgz_Latn,Banggai,r,Ll,LATIN SMALL LETTER R,244,5,"2016,2017,2019,2021,2023",5,65,131,4,39
+bgz,Latn,bgz_Latn,Banggai,M,Lu,LATIN CAPITAL LETTER M,196,5,"2016,2017,2019,2021,2023",11,147,28,3,7
+bgz,Latn,bgz_Latn,Banggai,B,Lu,LATIN CAPITAL LETTER B,193,5,"2016,2017,2019,2021,2023",3,147,31,7,5
+bgz,Latn,bgz_Latn,Banggai,-,Pd,HYPHEN-MINUS,126,5,"2016,2017,2019,2021,2023",5,93,18,3,7
+bgz,Latn,bgz_Latn,Banggai,K,Lu,LATIN CAPITAL LETTER K,121,5,"2016,2017,2019,2021,2023",4,84,14,3,16
+bgz,Latn,bgz_Latn,Banggai,h,Ll,LATIN SMALL LETTER H,89,5,"2016,2017,2019,2021,2023",3,24,43,2,17
+bgz,Latn,bgz_Latn,Banggai,T,Lu,LATIN CAPITAL LETTER T,86,5,"2016,2017,2019,2021,2023",5,45,30,3,3
+bgz,Latn,bgz_Latn,Banggai,N,Lu,LATIN CAPITAL LETTER N,83,5,"2016,2017,2019,2021,2023",15,47,10,2,9
+bgz,Latn,bgz_Latn,Banggai,Y,Lu,LATIN CAPITAL LETTER Y,81,4,"2016,2017,2019,2023",6,67,6,0,2
+bgz,Latn,bgz_Latn,Banggai,1,Nd,DIGIT ONE,77,3,"2017,2019,2023",0,64,8,0,5
+bgz,Latn,bgz_Latn,Banggai,S,Lu,LATIN CAPITAL LETTER S,64,5,"2016,2017,2019,2021,2023",3,23,21,9,8
+bgz,Latn,bgz_Latn,Banggai,P,Lu,LATIN CAPITAL LETTER P,56,4,"2016,2017,2019,2023",2,24,20,0,10
+bgz,Latn,bgz_Latn,Banggai,w,Ll,LATIN SMALL LETTER W,50,5,"2016,2017,2019,2021,2023",2,20,24,3,1
+bgz,Latn,bgz_Latn,Banggai,I,Lu,LATIN CAPITAL LETTER I,46,4,"2016,2017,2019,2023",4,18,17,0,7
+bgz,Latn,bgz_Latn,Banggai,/,Po,SOLIDUS,46,3,"2017,2019,2021",0,8,34,4,0
+bgz,Latn,bgz_Latn,Banggai,2,Nd,DIGIT TWO,44,3,"2017,2019,2023",0,32,9,0,3
+bgz,Latn,bgz_Latn,Banggai,D,Lu,LATIN CAPITAL LETTER D,43,4,"2017,2019,2021,2023",0,13,22,4,4
+bgz,Latn,bgz_Latn,Banggai,j,Ll,LATIN SMALL LETTER J,38,5,"2016,2017,2019,2021,2023",1,1,27,5,4
+bgz,Latn,bgz_Latn,Banggai,L,Lu,LATIN CAPITAL LETTER L,31,5,"2016,2017,2019,2021,2023",5,4,14,3,5
+bgz,Latn,bgz_Latn,Banggai,;,Po,SEMICOLON,29,3,"2016,2017,2019",1,25,3,0,0
+bgz,Latn,bgz_Latn,Banggai,A,Lu,LATIN CAPITAL LETTER A,27,4,"2016,2017,2019,2023",3,7,13,0,4
+bgz,Latn,bgz_Latn,Banggai,f,Ll,LATIN SMALL LETTER F,23,5,"2016,2017,2019,2021,2023",4,1,16,1,1
+bgz,Latn,bgz_Latn,Banggai,G,Lu,LATIN CAPITAL LETTER G,23,3,"2017,2019,2023",0,1,14,0,8
+bgz,Latn,bgz_Latn,Banggai,c,Ll,LATIN SMALL LETTER C,23,2,"2019,2023",0,0,17,0,6
+bgz,Latn,bgz_Latn,Banggai,W,Lu,LATIN CAPITAL LETTER W,22,3,"2019,2021,2023",0,0,15,5,2
+bgz,Latn,bgz_Latn,Banggai,(,Ps,LEFT PARENTHESIS,20,3,"2019,2021,2023",0,0,15,1,4
+bgz,Latn,bgz_Latn,Banggai,),Pe,RIGHT PARENTHESIS,20,3,"2019,2021,2023",0,0,15,1,4
+bgz,Latn,bgz_Latn,Banggai,R,Lu,LATIN CAPITAL LETTER R,19,3,"2017,2019,2023",0,16,1,0,2
+bgz,Latn,bgz_Latn,Banggai,U,Lu,LATIN CAPITAL LETTER U,19,4,"2016,2017,2019,2023",2,8,3,0,6
+bgz,Latn,bgz_Latn,Banggai,6,Nd,DIGIT SIX,19,3,"2017,2019,2023",0,10,6,0,3
+bgz,Latn,bgz_Latn,Banggai,0,Nd,DIGIT ZERO,19,3,"2017,2019,2023",0,9,8,0,2
+bgz,Latn,bgz_Latn,Banggai,:,Po,COLON,18,3,"2017,2019,2023",0,11,5,0,2
+bgz,Latn,bgz_Latn,Banggai,3,Nd,DIGIT THREE,18,3,"2017,2019,2023",0,12,4,0,2
+bgz,Latn,bgz_Latn,Banggai,4,Nd,DIGIT FOUR,17,3,"2017,2019,2023",0,12,4,0,1
+bgz,Latn,bgz_Latn,Banggai,5,Nd,DIGIT FIVE,17,3,"2017,2019,2023",0,11,5,0,1
+bgz,Latn,bgz_Latn,Banggai,z,Ll,LATIN SMALL LETTER Z,16,2,"2019,2021",0,0,14,2,0
+bgz,Latn,bgz_Latn,Banggai,9,Nd,DIGIT NINE,15,3,"2017,2019,2023",0,10,2,0,3
+bgz,Latn,bgz_Latn,Banggai,v,Ll,LATIN SMALL LETTER V,14,3,"2016,2019,2023",1,0,10,0,3
+bgz,Latn,bgz_Latn,Banggai,J,Lu,LATIN CAPITAL LETTER J,13,3,"2017,2019,2023",0,6,3,0,4
+bgz,Latn,bgz_Latn,Banggai,7,Nd,DIGIT SEVEN,13,2,"2017,2019",0,10,3,0,0
+bgz,Latn,bgz_Latn,Banggai,O,Lu,LATIN CAPITAL LETTER O,13,3,"2016,2017,2019",2,10,1,0,0
+bgz,Latn,bgz_Latn,Banggai,!,Po,EXCLAMATION MARK,13,2,"2017,2021",0,10,0,3,0
+bgz,Latn,bgz_Latn,Banggai,8,Nd,DIGIT EIGHT,10,1,2017,0,10,0,0,0
+bgz,Latn,bgz_Latn,Banggai,E,Lu,LATIN CAPITAL LETTER E,10,4,"2016,2017,2019,2023",1,5,3,0,1
+bgz,Latn,bgz_Latn,Banggai,F,Lu,LATIN CAPITAL LETTER F,9,3,"2016,2019,2023",3,0,3,0,3
+bgz,Latn,bgz_Latn,Banggai,"""",Po,QUOTATION MARK,8,2,"2017,2019",0,4,4,0,0
+bgz,Latn,bgz_Latn,Banggai,H,Lu,LATIN CAPITAL LETTER H,7,2,"2017,2019",0,5,2,0,0
+bgz,Latn,bgz_Latn,Banggai,C,Lu,LATIN CAPITAL LETTER C,6,2,"2019,2023",0,0,3,0,3
+bgz,Latn,bgz_Latn,Banggai,?,Po,QUESTION MARK,6,3,"2016,2017,2023",2,3,0,0,1
+bgz,Latn,bgz_Latn,Banggai,{,Ps,LEFT CURLY BRACKET,4,1,2021,0,0,0,4,0
+bgz,Latn,bgz_Latn,Banggai,[,Ps,LEFT SQUARE BRACKET,4,3,"2019,2021,2023",0,0,1,2,1
+bgz,Latn,bgz_Latn,Banggai,],Pe,RIGHT SQUARE BRACKET,4,3,"2019,2021,2023",0,0,1,2,1
+bgz,Latn,bgz_Latn,Banggai,=,Sm,EQUALS SIGN,4,1,2016,4,0,0,0,0
+bgz,Latn,bgz_Latn,Banggai,“,Pi,LEFT DOUBLE QUOTATION MARK,4,2,"2016,2023",3,0,0,0,1
+bgz,Latn,bgz_Latn,Banggai,},Pe,RIGHT CURLY BRACKET,4,1,2021,0,0,0,4,0
+bgz,Latn,bgz_Latn,Banggai,|,Sm,VERTICAL LINE,3,1,2021,0,0,0,3,0
+bgz,Latn,bgz_Latn,Banggai,%,Po,PERCENT SIGN,3,1,2019,0,0,3,0,0
+bgz,Latn,bgz_Latn,Banggai,γ,Ll,GREEK SMALL LETTER GAMMA,2,1,2019,0,0,2,0,0
+bgz,Latn,bgz_Latn,Banggai,x,Ll,LATIN SMALL LETTER X,2,1,2019,0,0,2,0,0
+bgz,Latn,bgz_Latn,Banggai,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,2,"2016,2023",1,0,0,0,1
+bgz,Latn,bgz_Latn,Banggai,',Po,APOSTROPHE,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,+,Sm,PLUS SIGN,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,έ,Ll,GREEK SMALL LETTER EPSILON WITH TONOS,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,ν,Ll,GREEK SMALL LETTER NU,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,ο,Ll,GREEK SMALL LETTER OMICRON,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,ι,Ll,GREEK SMALL LETTER IOTA,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,λ,Ll,GREEK SMALL LETTER LAMDA,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,α,Ll,GREEK SMALL LETTER ALPHA,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,υ,Ll,GREEK SMALL LETTER UPSILON,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,ε,Ll,GREEK SMALL LETTER EPSILON,1,1,2019,0,0,1,0,0
+bgz,Latn,bgz_Latn,Banggai,Z,Lu,LATIN CAPITAL LETTER Z,1,1,2017,0,1,0,0,0
+bgz,Latn,bgz_Latn,Banggai,V,Lu,LATIN CAPITAL LETTER V,1,1,2016,1,0,0,0,0
+bgz,Latn,bgz_Latn,Banggai,*,Po,ASTERISK,1,1,2023,0,0,0,0,1

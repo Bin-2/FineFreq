@@ -1,0 +1,15 @@
+{
+  "language_code": "mnf_Latn",
+  "iso_639_3": "mnf",
+  "script": "Latn",
+  "language_name": "Mundani",
+  "total_characters": 107,
+  "total_frequency": 140682,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.947776"
+}

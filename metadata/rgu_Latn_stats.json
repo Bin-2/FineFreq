@@ -1,0 +1,16 @@
+{
+  "language_code": "rgu_Latn",
+  "iso_639_3": "rgu",
+  "script": "Latn",
+  "language_name": "Ringgou",
+  "total_characters": 79,
+  "total_frequency": 492345,
+  "years_covered": [
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:09.154769"
+}

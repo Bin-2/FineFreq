@@ -1,0 +1,19 @@
+{
+  "language_code": "pwn_Latn",
+  "iso_639_3": "pwn",
+  "script": "Latn",
+  "language_name": "Paiwan",
+  "total_characters": 2284,
+  "total_frequency": 401913,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:08.564514"
+}

@@ -1,0 +1,81 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+aer,Latn,aer_Latn,Eastern Arrernte,e,Ll,LATIN SMALL LETTER E,75574,5,"2018,2021,2022,2023,2024",1850,10538,4401,553,58232
+aer,Latn,aer_Latn,Eastern Arrernte, ,Zs,SPACE,32294,5,"2018,2021,2022,2023,2024",763,4563,2081,294,24593
+aer,Latn,aer_Latn,Eastern Arrernte,r,Ll,LATIN SMALL LETTER R,28931,5,"2018,2021,2022,2023,2024",890,3691,1592,247,22511
+aer,Latn,aer_Latn,Eastern Arrernte,a,Ll,LATIN SMALL LETTER A,27546,5,"2018,2021,2022,2023,2024",696,3719,1480,203,21448
+aer,Latn,aer_Latn,Eastern Arrernte,n,Ll,LATIN SMALL LETTER N,26295,5,"2018,2021,2022,2023,2024",591,3630,1508,214,20352
+aer,Latn,aer_Latn,Eastern Arrernte,t,Ll,LATIN SMALL LETTER T,17114,5,"2018,2021,2022,2023,2024",365,2138,1082,147,13382
+aer,Latn,aer_Latn,Eastern Arrernte,k,Ll,LATIN SMALL LETTER K,14948,5,"2018,2021,2022,2023,2024",462,2079,921,102,11384
+aer,Latn,aer_Latn,Eastern Arrernte,h,Ll,LATIN SMALL LETTER H,12039,5,"2018,2021,2022,2023,2024",257,1780,612,75,9315
+aer,Latn,aer_Latn,Eastern Arrernte,l,Ll,LATIN SMALL LETTER L,10946,5,"2018,2021,2022,2023,2024",317,1523,614,94,8398
+aer,Latn,aer_Latn,Eastern Arrernte,y,Ll,LATIN SMALL LETTER Y,10094,5,"2018,2021,2022,2023,2024",199,1354,643,84,7814
+aer,Latn,aer_Latn,Eastern Arrernte,w,Ll,LATIN SMALL LETTER W,7302,5,"2018,2021,2022,2023,2024",152,990,446,50,5664
+aer,Latn,aer_Latn,Eastern Arrernte,i,Ll,LATIN SMALL LETTER I,7043,5,"2018,2021,2022,2023,2024",195,972,502,93,5281
+aer,Latn,aer_Latn,Eastern Arrernte,g,Ll,LATIN SMALL LETTER G,7018,5,"2018,2021,2022,2023,2024",217,952,464,44,5341
+aer,Latn,aer_Latn,Eastern Arrernte,-,Pd,HYPHEN-MINUS,6757,5,"2018,2021,2022,2023,2024",193,970,396,42,5156
+aer,Latn,aer_Latn,Eastern Arrernte,m,Ll,LATIN SMALL LETTER M,6297,5,"2018,2021,2022,2023,2024",135,843,360,55,4904
+aer,Latn,aer_Latn,Eastern Arrernte,p,Ll,LATIN SMALL LETTER P,3678,5,"2018,2021,2022,2023,2024",112,572,309,50,2635
+aer,Latn,aer_Latn,Eastern Arrernte,.,Po,FULL STOP,2675,5,"2018,2021,2022,2023,2024",66,434,181,30,1964
+aer,Latn,aer_Latn,Eastern Arrernte,u,Ll,LATIN SMALL LETTER U,2510,5,"2018,2021,2022,2023,2024",52,347,171,21,1919
+aer,Latn,aer_Latn,Eastern Arrernte,",",Po,COMMA,2416,5,"2018,2021,2022,2023,2024",78,352,189,24,1773
+aer,Latn,aer_Latn,Eastern Arrernte,A,Lu,LATIN CAPITAL LETTER A,1526,5,"2018,2021,2022,2023,2024",35,232,138,5,1116
+aer,Latn,aer_Latn,Eastern Arrernte,s,Ll,LATIN SMALL LETTER S,1418,5,"2018,2021,2022,2023,2024",2,142,146,17,1111
+aer,Latn,aer_Latn,Eastern Arrernte,N,Lu,LATIN CAPITAL LETTER N,1326,5,"2018,2021,2022,2023,2024",30,141,30,4,1121
+aer,Latn,aer_Latn,Eastern Arrernte,R,Lu,LATIN CAPITAL LETTER R,626,5,"2018,2021,2022,2023,2024",25,131,14,1,455
+aer,Latn,aer_Latn,Eastern Arrernte,J,Lu,LATIN CAPITAL LETTER J,591,3,"2021,2022,2024",0,90,4,0,497
+aer,Latn,aer_Latn,Eastern Arrernte,1,Nd,DIGIT ONE,548,5,"2018,2021,2022,2023,2024",15,95,26,1,411
+aer,Latn,aer_Latn,Eastern Arrernte,o,Ll,LATIN SMALL LETTER O,502,4,"2021,2022,2023,2024",0,198,99,32,173
+aer,Latn,aer_Latn,Eastern Arrernte,K,Lu,LATIN CAPITAL LETTER K,494,5,"2018,2021,2022,2023,2024",27,92,10,10,355
+aer,Latn,aer_Latn,Eastern Arrernte,I,Lu,LATIN CAPITAL LETTER I,475,5,"2018,2021,2022,2023,2024",4,56,35,7,373
+aer,Latn,aer_Latn,Eastern Arrernte,2,Nd,DIGIT TWO,349,5,"2018,2021,2022,2023,2024",13,45,17,1,273
+aer,Latn,aer_Latn,Eastern Arrernte,“,Pi,LEFT DOUBLE QUOTATION MARK,231,4,"2018,2021,2022,2024",16,66,15,0,134
+aer,Latn,aer_Latn,Eastern Arrernte,”,Pf,RIGHT DOUBLE QUOTATION MARK,230,4,"2018,2021,2022,2024",16,65,15,0,134
+aer,Latn,aer_Latn,Eastern Arrernte,T,Lu,LATIN CAPITAL LETTER T,225,5,"2018,2021,2022,2023,2024",2,25,48,2,148
+aer,Latn,aer_Latn,Eastern Arrernte,C,Lu,LATIN CAPITAL LETTER C,221,4,"2021,2022,2023,2024",0,13,9,1,198
+aer,Latn,aer_Latn,Eastern Arrernte,M,Lu,LATIN CAPITAL LETTER M,204,4,"2021,2022,2023,2024",0,49,34,1,120
+aer,Latn,aer_Latn,Eastern Arrernte,U,Lu,LATIN CAPITAL LETTER U,184,5,"2018,2021,2022,2023,2024",1,41,17,1,124
+aer,Latn,aer_Latn,Eastern Arrernte,3,Nd,DIGIT THREE,175,5,"2018,2021,2022,2023,2024",5,21,14,1,134
+aer,Latn,aer_Latn,Eastern Arrernte,Y,Lu,LATIN CAPITAL LETTER Y,175,5,"2018,2021,2022,2023,2024",1,34,41,1,98
+aer,Latn,aer_Latn,Eastern Arrernte,b,Ll,LATIN SMALL LETTER B,172,5,"2018,2021,2022,2023,2024",5,56,17,7,87
+aer,Latn,aer_Latn,Eastern Arrernte,4,Nd,DIGIT FOUR,122,5,"2018,2021,2022,2023,2024",4,20,7,1,90
+aer,Latn,aer_Latn,Eastern Arrernte,5,Nd,DIGIT FIVE,121,5,"2018,2021,2022,2023,2024",5,16,6,1,93
+aer,Latn,aer_Latn,Eastern Arrernte,d,Ll,LATIN SMALL LETTER D,117,4,"2021,2022,2023,2024",0,31,42,3,41
+aer,Latn,aer_Latn,Eastern Arrernte,H,Lu,LATIN CAPITAL LETTER H,111,3,"2021,2022,2024",0,47,54,0,10
+aer,Latn,aer_Latn,Eastern Arrernte,P,Lu,LATIN CAPITAL LETTER P,106,4,"2021,2022,2023,2024",0,14,10,1,81
+aer,Latn,aer_Latn,Eastern Arrernte,0,Nd,DIGIT ZERO,106,4,"2018,2021,2022,2024",3,18,5,0,80
+aer,Latn,aer_Latn,Eastern Arrernte,6,Nd,DIGIT SIX,104,4,"2018,2021,2022,2024",5,15,5,0,79
+aer,Latn,aer_Latn,Eastern Arrernte,9,Nd,DIGIT NINE,100,5,"2018,2021,2022,2023,2024",3,12,6,1,78
+aer,Latn,aer_Latn,Eastern Arrernte,7,Nd,DIGIT SEVEN,100,5,"2018,2021,2022,2023,2024",3,16,7,1,73
+aer,Latn,aer_Latn,Eastern Arrernte,E,Lu,LATIN CAPITAL LETTER E,98,4,"2021,2022,2023,2024",0,49,32,1,16
+aer,Latn,aer_Latn,Eastern Arrernte,:,Po,COLON,97,5,"2018,2021,2022,2023,2024",1,6,12,2,76
+aer,Latn,aer_Latn,Eastern Arrernte,c,Ll,LATIN SMALL LETTER C,97,4,"2021,2022,2023,2024",0,18,19,13,47
+aer,Latn,aer_Latn,Eastern Arrernte,8,Nd,DIGIT EIGHT,97,5,"2018,2021,2022,2023,2024",3,15,6,1,72
+aer,Latn,aer_Latn,Eastern Arrernte,B,Lu,LATIN CAPITAL LETTER B,95,4,"2021,2022,2023,2024",0,61,2,1,31
+aer,Latn,aer_Latn,Eastern Arrernte,?,Po,QUESTION MARK,79,4,"2021,2022,2023,2024",0,18,3,1,57
+aer,Latn,aer_Latn,Eastern Arrernte,!,Po,EXCLAMATION MARK,75,4,"2018,2021,2022,2024",5,26,3,0,41
+aer,Latn,aer_Latn,Eastern Arrernte,z,Ll,LATIN SMALL LETTER Z,70,3,"2021,2022,2023",0,65,2,3,0
+aer,Latn,aer_Latn,Eastern Arrernte,S,Lu,LATIN CAPITAL LETTER S,61,4,"2021,2022,2023,2024",0,10,20,2,29
+aer,Latn,aer_Latn,Eastern Arrernte,W,Lu,LATIN CAPITAL LETTER W,55,4,"2021,2022,2023,2024",0,20,27,2,6
+aer,Latn,aer_Latn,Eastern Arrernte,L,Lu,LATIN CAPITAL LETTER L,52,4,"2018,2021,2022,2024",1,7,6,0,38
+aer,Latn,aer_Latn,Eastern Arrernte,v,Ll,LATIN SMALL LETTER V,43,3,"2021,2022,2024",0,15,12,0,16
+aer,Latn,aer_Latn,Eastern Arrernte,j,Ll,LATIN SMALL LETTER J,32,2,"2021,2024",0,6,0,0,26
+aer,Latn,aer_Latn,Eastern Arrernte,–,Pd,EN DASH,27,2,"2022,2024",0,0,10,0,17
+aer,Latn,aer_Latn,Eastern Arrernte,D,Lu,LATIN CAPITAL LETTER D,25,3,"2021,2022,2024",0,10,4,0,11
+aer,Latn,aer_Latn,Eastern Arrernte,f,Ll,LATIN SMALL LETTER F,18,4,"2021,2022,2023,2024",0,3,6,8,1
+aer,Latn,aer_Latn,Eastern Arrernte,O,Lu,LATIN CAPITAL LETTER O,17,3,"2021,2022,2024",0,8,4,0,5
+aer,Latn,aer_Latn,Eastern Arrernte,G,Lu,LATIN CAPITAL LETTER G,16,4,"2018,2021,2022,2024",1,1,5,0,9
+aer,Latn,aer_Latn,Eastern Arrernte,’,Pf,RIGHT SINGLE QUOTATION MARK,15,3,"2021,2022,2024",0,4,2,0,9
+aer,Latn,aer_Latn,Eastern Arrernte,‘,Pi,LEFT SINGLE QUOTATION MARK,15,3,"2021,2022,2024",0,4,2,0,9
+aer,Latn,aer_Latn,Eastern Arrernte,x,Ll,LATIN SMALL LETTER X,9,3,"2022,2023,2024",0,0,2,1,6
+aer,Latn,aer_Latn,Eastern Arrernte,;,Po,SEMICOLON,9,1,2024,0,0,0,0,9
+aer,Latn,aer_Latn,Eastern Arrernte,"""",Po,QUOTATION MARK,8,2,"2022,2023",0,0,2,6,0
+aer,Latn,aer_Latn,Eastern Arrernte,(,Ps,LEFT PARENTHESIS,7,2,"2021,2022",0,2,5,0,0
+aer,Latn,aer_Latn,Eastern Arrernte,),Pe,RIGHT PARENTHESIS,7,2,"2021,2022",0,2,5,0,0
+aer,Latn,aer_Latn,Eastern Arrernte,Z,Lu,LATIN CAPITAL LETTER Z,5,2,"2021,2024",0,4,0,0,1
+aer,Latn,aer_Latn,Eastern Arrernte,F,Lu,LATIN CAPITAL LETTER F,5,1,2022,0,0,5,0,0
+aer,Latn,aer_Latn,Eastern Arrernte,&,Po,AMPERSAND,2,1,2022,0,0,2,0,0
+aer,Latn,aer_Latn,Eastern Arrernte,[,Ps,LEFT SQUARE BRACKET,2,1,2023,0,0,0,2,0
+aer,Latn,aer_Latn,Eastern Arrernte,],Pe,RIGHT SQUARE BRACKET,2,1,2023,0,0,0,2,0
+aer,Latn,aer_Latn,Eastern Arrernte,',Po,APOSTROPHE,1,1,2023,0,0,0,1,0
+aer,Latn,aer_Latn,Eastern Arrernte,q,Ll,LATIN SMALL LETTER Q,1,1,2024,0,0,0,0,1
+aer,Latn,aer_Latn,Eastern Arrernte,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2024,0,0,0,0,1

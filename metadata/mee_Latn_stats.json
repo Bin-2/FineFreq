@@ -1,0 +1,16 @@
+{
+  "language_code": "mee_Latn",
+  "iso_639_3": "mee",
+  "script": "Latn",
+  "language_name": "Mengen",
+  "total_characters": 79,
+  "total_frequency": 1586616,
+  "years_covered": [
+    "2013",
+    "2018",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.106682"
+}

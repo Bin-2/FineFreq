@@ -1,0 +1,107 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2017_frequency
+bwi,Latn,bwi_Latn,Baniwa,a,Ll,LATIN SMALL LETTER A,40189,2,"2016,2017",38533,1656
+bwi,Latn,bwi_Latn,Baniwa, ,Zs,SPACE,22645,2,"2016,2017",21840,805
+bwi,Latn,bwi_Latn,Baniwa,i,Ll,LATIN SMALL LETTER I,17206,2,"2016,2017",16611,595
+bwi,Latn,bwi_Latn,Baniwa,e,Ll,LATIN SMALL LETTER E,14376,2,"2016,2017",13774,602
+bwi,Latn,bwi_Latn,Baniwa,k,Ll,LATIN SMALL LETTER K,11161,2,"2016,2017",10646,515
+bwi,Latn,bwi_Latn,Baniwa,n,Ll,LATIN SMALL LETTER N,10417,2,"2016,2017",9950,467
+bwi,Latn,bwi_Latn,Baniwa,h,Ll,LATIN SMALL LETTER H,9738,2,"2016,2017",9348,390
+bwi,Latn,bwi_Latn,Baniwa,o,Ll,LATIN SMALL LETTER O,9175,2,"2016,2017",8799,376
+bwi,Latn,bwi_Latn,Baniwa,t,Ll,LATIN SMALL LETTER T,8409,2,"2016,2017",8009,400
+bwi,Latn,bwi_Latn,Baniwa,p,Ll,LATIN SMALL LETTER P,7019,2,"2016,2017",6777,242
+bwi,Latn,bwi_Latn,Baniwa,l,Ll,LATIN SMALL LETTER L,5094,2,"2016,2017",4939,155
+bwi,Latn,bwi_Latn,Baniwa,d,Ll,LATIN SMALL LETTER D,4588,2,"2016,2017",4362,226
+bwi,Latn,bwi_Latn,Baniwa,m,Ll,LATIN SMALL LETTER M,4086,2,"2016,2017",3924,162
+bwi,Latn,bwi_Latn,Baniwa,w,Ll,LATIN SMALL LETTER W,3504,2,"2016,2017",3300,204
+bwi,Latn,bwi_Latn,Baniwa,r,Ll,LATIN SMALL LETTER R,3146,2,"2016,2017",3043,103
+bwi,Latn,bwi_Latn,Baniwa,s,Ll,LATIN SMALL LETTER S,3059,2,"2016,2017",2925,134
+bwi,Latn,bwi_Latn,Baniwa,z,Ll,LATIN SMALL LETTER Z,2020,2,"2016,2017",1915,105
+bwi,Latn,bwi_Latn,Baniwa,",",Po,COMMA,1755,2,"2016,2017",1668,87
+bwi,Latn,bwi_Latn,Baniwa,.,Po,FULL STOP,1690,2,"2016,2017",1601,89
+bwi,Latn,bwi_Latn,Baniwa,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,952,2,"2016,2017",935,17
+bwi,Latn,bwi_Latn,Baniwa,K,Lu,LATIN CAPITAL LETTER K,595,2,"2016,2017",582,13
+bwi,Latn,bwi_Latn,Baniwa,y,Ll,LATIN SMALL LETTER Y,561,2,"2016,2017",536,25
+bwi,Latn,bwi_Latn,Baniwa,I,Lu,LATIN CAPITAL LETTER I,531,2,"2016,2017",522,9
+bwi,Latn,bwi_Latn,Baniwa,A,Lu,LATIN CAPITAL LETTER A,522,1,2016,522,0
+bwi,Latn,bwi_Latn,Baniwa,1,Nd,DIGIT ONE,477,2,"2016,2017",471,6
+bwi,Latn,bwi_Latn,Baniwa,N,Lu,LATIN CAPITAL LETTER N,462,2,"2016,2017",442,20
+bwi,Latn,bwi_Latn,Baniwa,0,Nd,DIGIT ZERO,417,2,"2016,2017",411,6
+bwi,Latn,bwi_Latn,Baniwa,L,Lu,LATIN CAPITAL LETTER L,355,2,"2016,2017",348,7
+bwi,Latn,bwi_Latn,Baniwa,2,Nd,DIGIT TWO,330,2,"2016,2017",327,3
+bwi,Latn,bwi_Latn,Baniwa,P,Lu,LATIN CAPITAL LETTER P,328,2,"2016,2017",315,13
+bwi,Latn,bwi_Latn,Baniwa,:,Po,COLON,294,2,"2016,2017",292,2
+bwi,Latn,bwi_Latn,Baniwa,M,Lu,LATIN CAPITAL LETTER M,247,2,"2016,2017",238,9
+bwi,Latn,bwi_Latn,Baniwa,x,Ll,LATIN SMALL LETTER X,237,2,"2016,2017",233,4
+bwi,Latn,bwi_Latn,Baniwa,D,Lu,LATIN CAPITAL LETTER D,232,2,"2016,2017",224,8
+bwi,Latn,bwi_Latn,Baniwa,u,Ll,LATIN SMALL LETTER U,228,2,"2016,2017",224,4
+bwi,Latn,bwi_Latn,Baniwa,c,Ll,LATIN SMALL LETTER C,222,1,2016,222,0
+bwi,Latn,bwi_Latn,Baniwa,-,Pd,HYPHEN-MINUS,197,2,"2016,2017",193,4
+bwi,Latn,bwi_Latn,Baniwa,5,Nd,DIGIT FIVE,197,2,"2016,2017",194,3
+bwi,Latn,bwi_Latn,Baniwa,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,186,1,2016,186,0
+bwi,Latn,bwi_Latn,Baniwa,8,Nd,DIGIT EIGHT,167,2,"2016,2017",165,2
+bwi,Latn,bwi_Latn,Baniwa,•,Po,BULLET,165,1,2016,165,0
+bwi,Latn,bwi_Latn,Baniwa,6,Nd,DIGIT SIX,162,1,2016,162,0
+bwi,Latn,bwi_Latn,Baniwa,4,Nd,DIGIT FOUR,162,2,"2016,2017",159,3
+bwi,Latn,bwi_Latn,Baniwa,W,Lu,LATIN CAPITAL LETTER W,156,2,"2016,2017",141,15
+bwi,Latn,bwi_Latn,Baniwa,(,Ps,LEFT PARENTHESIS,150,2,"2016,2017",147,3
+bwi,Latn,bwi_Latn,Baniwa,v,Ll,LATIN SMALL LETTER V,148,2,"2016,2017",147,1
+bwi,Latn,bwi_Latn,Baniwa,3,Nd,DIGIT THREE,147,2,"2016,2017",145,2
+bwi,Latn,bwi_Latn,Baniwa,),Pe,RIGHT PARENTHESIS,147,2,"2016,2017",144,3
+bwi,Latn,bwi_Latn,Baniwa,E,Lu,LATIN CAPITAL LETTER E,142,1,2016,142,0
+bwi,Latn,bwi_Latn,Baniwa,b,Ll,LATIN SMALL LETTER B,134,2,"2016,2017",132,2
+bwi,Latn,bwi_Latn,Baniwa,O,Lu,LATIN CAPITAL LETTER O,126,2,"2016,2017",123,3
+bwi,Latn,bwi_Latn,Baniwa,H,Lu,LATIN CAPITAL LETTER H,110,2,"2016,2017",104,6
+bwi,Latn,bwi_Latn,Baniwa,/,Po,SOLIDUS,110,2,"2016,2017",109,1
+bwi,Latn,bwi_Latn,Baniwa,g,Ll,LATIN SMALL LETTER G,107,2,"2016,2017",105,2
+bwi,Latn,bwi_Latn,Baniwa,T,Lu,LATIN CAPITAL LETTER T,107,2,"2016,2017",105,2
+bwi,Latn,bwi_Latn,Baniwa,7,Nd,DIGIT SEVEN,87,2,"2016,2017",86,1
+bwi,Latn,bwi_Latn,Baniwa,9,Nd,DIGIT NINE,84,2,"2016,2017",81,3
+bwi,Latn,bwi_Latn,Baniwa,ã,Ll,LATIN SMALL LETTER A WITH TILDE,81,1,2016,81,0
+bwi,Latn,bwi_Latn,Baniwa,_,Pc,LOW LINE,80,1,2016,80,0
+bwi,Latn,bwi_Latn,Baniwa,B,Lu,LATIN CAPITAL LETTER B,74,2,"2016,2017",73,1
+bwi,Latn,bwi_Latn,Baniwa,á,Ll,LATIN SMALL LETTER A WITH ACUTE,72,2,"2016,2017",71,1
+bwi,Latn,bwi_Latn,Baniwa,S,Lu,LATIN CAPITAL LETTER S,70,1,2016,70,0
+bwi,Latn,bwi_Latn,Baniwa,f,Ll,LATIN SMALL LETTER F,66,2,"2016,2017",65,1
+bwi,Latn,bwi_Latn,Baniwa,é,Ll,LATIN SMALL LETTER E WITH ACUTE,65,1,2016,65,0
+bwi,Latn,bwi_Latn,Baniwa,R,Lu,LATIN CAPITAL LETTER R,54,2,"2016,2017",51,3
+bwi,Latn,bwi_Latn,Baniwa,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,52,1,2016,52,0
+bwi,Latn,bwi_Latn,Baniwa,C,Lu,LATIN CAPITAL LETTER C,51,2,"2016,2017",49,2
+bwi,Latn,bwi_Latn,Baniwa,í,Ll,LATIN SMALL LETTER I WITH ACUTE,48,1,2016,48,0
+bwi,Latn,bwi_Latn,Baniwa,Y,Lu,LATIN CAPITAL LETTER Y,42,2,"2016,2017",41,1
+bwi,Latn,bwi_Latn,Baniwa,j,Ll,LATIN SMALL LETTER J,40,1,2016,40,0
+bwi,Latn,bwi_Latn,Baniwa,=,Sm,EQUALS SIGN,40,1,2016,40,0
+bwi,Latn,bwi_Latn,Baniwa,X,Lu,LATIN CAPITAL LETTER X,30,1,2016,30,0
+bwi,Latn,bwi_Latn,Baniwa,”,Pf,RIGHT DOUBLE QUOTATION MARK,28,2,"2016,2017",23,5
+bwi,Latn,bwi_Latn,Baniwa,|,Sm,VERTICAL LINE,26,1,2016,26,0
+bwi,Latn,bwi_Latn,Baniwa,q,Ll,LATIN SMALL LETTER Q,25,1,2016,25,0
+bwi,Latn,bwi_Latn,Baniwa,–,Pd,EN DASH,24,1,2016,24,0
+bwi,Latn,bwi_Latn,Baniwa,“,Pi,LEFT DOUBLE QUOTATION MARK,24,2,"2016,2017",23,1
+bwi,Latn,bwi_Latn,Baniwa,J,Lu,LATIN CAPITAL LETTER J,19,1,2016,19,0
+bwi,Latn,bwi_Latn,Baniwa,U,Lu,LATIN CAPITAL LETTER U,19,1,2016,19,0
+bwi,Latn,bwi_Latn,Baniwa,!,Po,EXCLAMATION MARK,18,1,2016,18,0
+bwi,Latn,bwi_Latn,Baniwa,F,Lu,LATIN CAPITAL LETTER F,17,1,2016,17,0
+bwi,Latn,bwi_Latn,Baniwa,?,Po,QUESTION MARK,17,2,"2016,2017",16,1
+bwi,Latn,bwi_Latn,Baniwa,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,13,1,2016,13,0
+bwi,Latn,bwi_Latn,Baniwa,V,Lu,LATIN CAPITAL LETTER V,12,1,2016,12,0
+bwi,Latn,bwi_Latn,Baniwa,G,Lu,LATIN CAPITAL LETTER G,11,1,2016,11,0
+bwi,Latn,bwi_Latn,Baniwa,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,9,1,2016,9,0
+bwi,Latn,bwi_Latn,Baniwa,%,Po,PERCENT SIGN,8,1,2016,8,0
+bwi,Latn,bwi_Latn,Baniwa,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,8,1,2016,8,0
+bwi,Latn,bwi_Latn,Baniwa,*,Po,ASTERISK,7,1,2016,7,0
+bwi,Latn,bwi_Latn,Baniwa,≈,Sm,ALMOST EQUAL TO,5,1,2016,5,0
+bwi,Latn,bwi_Latn,Baniwa,Z,Lu,LATIN CAPITAL LETTER Z,5,1,2016,5,0
+bwi,Latn,bwi_Latn,Baniwa,;,Po,SEMICOLON,5,1,2016,5,0
+bwi,Latn,bwi_Latn,Baniwa,õ,Ll,LATIN SMALL LETTER O WITH TILDE,4,1,2016,4,0
+bwi,Latn,bwi_Latn,Baniwa,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,4,1,2016,4,0
+bwi,Latn,bwi_Latn,Baniwa,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,3,1,2016,3,0
+bwi,Latn,bwi_Latn,Baniwa,$,Sc,DOLLAR SIGN,3,1,2016,3,0
+bwi,Latn,bwi_Latn,Baniwa,+,Sm,PLUS SIGN,3,1,2016,3,0
+bwi,Latn,bwi_Latn,Baniwa,],Pe,RIGHT SQUARE BRACKET,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,[,Ps,LEFT SQUARE BRACKET,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,Q,Lu,LATIN CAPITAL LETTER Q,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,Ç,Lu,LATIN CAPITAL LETTER C WITH CEDILLA,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,Ã,Lu,LATIN CAPITAL LETTER A WITH TILDE,2,1,2016,2,0
+bwi,Latn,bwi_Latn,Baniwa,́,Mn,COMBINING ACUTE ACCENT,1,1,2016,1,0
+bwi,Latn,bwi_Latn,Baniwa,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,1,1,2016,1,0

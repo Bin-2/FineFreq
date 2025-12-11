@@ -1,0 +1,133 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+pjt,Latn,pjt_Latn,Pitjantjatjara,a,Ll,LATIN SMALL LETTER A,668986,7,"2017,2019,2020,2021,2022,2023,2024",809,971,245595,333290,85514,2741,66
+pjt,Latn,pjt_Latn,Pitjantjatjara,u,Ll,LATIN SMALL LETTER U,413902,7,"2017,2019,2020,2021,2022,2023,2024",371,739,153048,207847,50156,1703,38
+pjt,Latn,pjt_Latn,Pitjantjatjara, ,Zs,SPACE,409633,7,"2017,2019,2020,2021,2022,2023,2024",745,646,152494,206753,47317,1595,83
+pjt,Latn,pjt_Latn,Pitjantjatjara,n,Ll,LATIN SMALL LETTER N,345062,7,"2017,2019,2020,2021,2022,2023,2024",500,462,128736,172986,41032,1311,35
+pjt,Latn,pjt_Latn,Pitjantjatjara,i,Ll,LATIN SMALL LETTER I,191760,7,"2017,2019,2020,2021,2022,2023,2024",246,260,68981,92971,28289,980,33
+pjt,Latn,pjt_Latn,Pitjantjatjara,k,Ll,LATIN SMALL LETTER K,191582,7,"2017,2019,2020,2021,2022,2023,2024",144,309,71325,97036,22054,698,16
+pjt,Latn,pjt_Latn,Pitjantjatjara,t,Ll,LATIN SMALL LETTER T,182910,7,"2017,2019,2020,2021,2022,2023,2024",357,254,64318,89446,27641,859,35
+pjt,Latn,pjt_Latn,Pitjantjatjara,y,Ll,LATIN SMALL LETTER Y,162601,7,"2017,2019,2020,2021,2022,2023,2024",130,126,57514,78665,25342,811,13
+pjt,Latn,pjt_Latn,Pitjantjatjara,j,Ll,LATIN SMALL LETTER J,134922,7,"2017,2019,2020,2021,2022,2023,2024",158,207,46836,65643,21369,691,18
+pjt,Latn,pjt_Latn,Pitjantjatjara,l,Ll,LATIN SMALL LETTER L,134721,7,"2017,2019,2020,2021,2022,2023,2024",184,167,49176,67144,17442,589,19
+pjt,Latn,pjt_Latn,Pitjantjatjara,g,Ll,LATIN SMALL LETTER G,134125,7,"2017,2019,2020,2021,2022,2023,2024",176,225,49805,66825,16557,529,8
+pjt,Latn,pjt_Latn,Pitjantjatjara,p,Ll,LATIN SMALL LETTER P,122288,7,"2017,2019,2020,2021,2022,2023,2024",140,185,46466,61704,13428,349,16
+pjt,Latn,pjt_Latn,Pitjantjatjara,r,Ll,LATIN SMALL LETTER R,102303,7,"2017,2019,2020,2021,2022,2023,2024",270,162,30523,44355,26173,798,22
+pjt,Latn,pjt_Latn,Pitjantjatjara,w,Ll,LATIN SMALL LETTER W,61627,7,"2017,2019,2020,2021,2022,2023,2024",63,78,22520,30616,8067,275,8
+pjt,Latn,pjt_Latn,Pitjantjatjara,m,Ll,LATIN SMALL LETTER M,59117,7,"2017,2019,2020,2021,2022,2023,2024",105,119,23231,30697,4796,161,8
+pjt,Latn,pjt_Latn,Pitjantjatjara,ṟ,Ll,LATIN SMALL LETTER R WITH LINE BELOW,46221,5,"2019,2020,2021,2022,2023",0,107,19936,25758,371,49,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,.,Po,FULL STOP,30026,7,"2017,2019,2020,2021,2022,2023,2024",48,51,10594,13992,5184,153,4
+pjt,Latn,pjt_Latn,Pitjantjatjara,ṯ,Ll,LATIN SMALL LETTER T WITH LINE BELOW,29831,5,"2019,2020,2021,2022,2023",0,70,10753,14607,4274,127,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ṉ,Ll,LATIN SMALL LETTER N WITH LINE BELOW,27085,5,"2019,2020,2021,2022,2023",0,43,9445,12391,5065,141,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,",",Po,COMMA,22650,6,"2017,2019,2020,2021,2022,2023",31,53,8238,11178,3062,88,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ḻ,Ll,LATIN SMALL LETTER L WITH LINE BELOW,20675,5,"2019,2020,2021,2022,2023",0,71,8277,11231,1065,31,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,K,Lu,LATIN CAPITAL LETTER K,14268,6,"2017,2019,2020,2021,2022,2023",14,29,5102,6955,2099,69,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,P,Lu,LATIN CAPITAL LETTER P,11412,6,"2017,2019,2020,2021,2022,2023",21,7,4289,5643,1398,54,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,e,Ll,LATIN SMALL LETTER E,10077,7,"2017,2019,2020,2021,2022,2023,2024",234,2,4128,5595,98,5,15
+pjt,Latn,pjt_Latn,Pitjantjatjara,o,Ll,LATIN SMALL LETTER O,9805,6,"2017,2019,2020,2021,2022,2024",141,24,4166,5390,68,0,16
+pjt,Latn,pjt_Latn,Pitjantjatjara,M,Lu,LATIN CAPITAL LETTER M,9402,7,"2017,2019,2020,2021,2022,2023,2024",9,22,3768,5133,452,17,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,-,Pd,HYPHEN-MINUS,8470,6,"2017,2019,2020,2021,2022,2023",21,26,3488,4841,79,15,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,d,Ll,LATIN SMALL LETTER D,7998,7,"2017,2019,2020,2021,2022,2023,2024",60,24,3338,4504,48,17,7
+pjt,Latn,pjt_Latn,Pitjantjatjara,s,Ll,LATIN SMALL LETTER S,7630,7,"2017,2019,2020,2021,2022,2023,2024",121,2,3173,4251,67,5,11
+pjt,Latn,pjt_Latn,Pitjantjatjara,1,Nd,DIGIT ONE,7379,6,"2017,2019,2020,2021,2022,2023",2,14,2730,3926,674,33,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,G,Lu,LATIN CAPITAL LETTER G,7086,5,"2017,2019,2020,2021,2022",1,25,3092,3933,35,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,J,Lu,LATIN CAPITAL LETTER J,6322,4,"2020,2021,2022,2023",0,0,2790,3506,24,2,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,N,Lu,LATIN CAPITAL LETTER N,5527,7,"2017,2019,2020,2021,2022,2023,2024",28,1,1847,2378,1231,37,5
+pjt,Latn,pjt_Latn,Pitjantjatjara,“,Pi,LEFT DOUBLE QUOTATION MARK,5120,6,"2017,2019,2020,2021,2022,2023",1,17,1907,2527,647,21,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,2,Nd,DIGIT TWO,5017,6,"2017,2019,2020,2021,2022,2023",2,13,1960,2650,374,18,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,T,Lu,LATIN CAPITAL LETTER T,4907,7,"2017,2019,2020,2021,2022,2023,2024",28,2,1335,2401,1078,49,14
+pjt,Latn,pjt_Latn,Pitjantjatjara,”,Pf,RIGHT DOUBLE QUOTATION MARK,4526,6,"2017,2019,2020,2021,2022,2023",1,16,1692,2195,601,21,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,3,Nd,DIGIT THREE,3301,5,"2019,2020,2021,2022,2023",0,5,1327,1707,256,6,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,A,Lu,LATIN CAPITAL LETTER A,2916,7,"2017,2019,2020,2021,2022,2023,2024",22,2,1267,1590,23,11,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,W,Lu,LATIN CAPITAL LETTER W,2878,7,"2017,2019,2020,2021,2022,2023,2024",20,1,964,1357,514,20,2
+pjt,Latn,pjt_Latn,Pitjantjatjara,Y,Lu,LATIN CAPITAL LETTER Y,2530,5,"2017,2020,2021,2022,2023",17,0,64,294,2073,82,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,4,Nd,DIGIT FOUR,2391,6,"2017,2019,2020,2021,2022,2023",1,3,938,1264,178,7,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,h,Ll,LATIN SMALL LETTER H,2265,6,"2017,2020,2021,2022,2023,2024",89,0,849,1240,74,2,11
+pjt,Latn,pjt_Latn,Pitjantjatjara,I,Lu,LATIN CAPITAL LETTER I,2115,6,"2017,2019,2020,2021,2022,2023",3,2,851,1162,88,9,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,5,Nd,DIGIT FIVE,1888,5,"2019,2020,2021,2022,2023",0,2,739,986,156,5,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,0,Nd,DIGIT ZERO,1885,6,"2017,2019,2020,2021,2022,2023",2,3,714,1051,108,7,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,7,Nd,DIGIT SEVEN,1697,5,"2019,2020,2021,2022,2023",0,3,698,853,138,5,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,U,Lu,LATIN CAPITAL LETTER U,1684,4,"2019,2020,2021,2022",0,5,715,948,16,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,6,Nd,DIGIT SIX,1624,6,"2017,2019,2020,2021,2022,2023",2,3,632,838,142,7,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,?,Po,QUESTION MARK,1461,4,"2020,2021,2022,2023",0,0,631,750,73,7,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,8,Nd,DIGIT EIGHT,1437,5,"2019,2020,2021,2022,2023",0,3,567,746,116,5,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,9,Nd,DIGIT NINE,1374,5,"2019,2020,2021,2022,2023",0,3,532,724,110,5,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,!,Po,EXCLAMATION MARK,1340,5,"2019,2020,2021,2022,2023",0,2,412,696,220,10,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,:,Po,COLON,871,4,"2017,2020,2021,2022",1,0,200,654,16,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,’,Pf,RIGHT SINGLE QUOTATION MARK,851,4,"2017,2020,2021,2022",2,0,299,448,102,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,‘,Pi,LEFT SINGLE QUOTATION MARK,851,4,"2017,2020,2021,2022",1,0,300,448,102,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,c,Ll,LATIN SMALL LETTER C,782,5,"2017,2020,2021,2022,2024",67,0,359,335,13,0,8
+pjt,Latn,pjt_Latn,Pitjantjatjara,C,Lu,LATIN CAPITAL LETTER C,752,5,"2017,2020,2021,2022,2024",5,0,323,417,6,0,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,S,Lu,LATIN CAPITAL LETTER S,655,5,"2017,2020,2021,2022,2023",13,0,124,513,1,4,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,b,Ll,LATIN SMALL LETTER B,626,5,"2017,2020,2021,2022,2024",31,0,275,285,32,0,3
+pjt,Latn,pjt_Latn,Pitjantjatjara,L,Lu,LATIN CAPITAL LETTER L,589,5,"2017,2020,2021,2022,2024",7,0,243,302,36,0,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,D,Lu,LATIN CAPITAL LETTER D,488,5,"2017,2020,2021,2022,2023",7,0,124,341,1,15,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,v,Ll,LATIN SMALL LETTER V,475,6,"2017,2020,2021,2022,2023,2024",21,0,70,361,7,15,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,R,Lu,LATIN CAPITAL LETTER R,421,5,"2017,2020,2021,2022,2023",4,0,162,189,65,1,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,),Pe,RIGHT PARENTHESIS,376,5,"2017,2020,2021,2022,2024",4,0,144,212,14,0,2
+pjt,Latn,pjt_Latn,Pitjantjatjara,(,Ps,LEFT PARENTHESIS,372,5,"2017,2020,2021,2022,2024",4,0,143,209,14,0,2
+pjt,Latn,pjt_Latn,Pitjantjatjara,;,Po,SEMICOLON,220,3,"2020,2021,2022",0,0,88,126,6,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,',Po,APOSTROPHE,179,4,"2020,2021,2022,2023",0,0,72,105,1,1,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,—,Pd,EM DASH,91,3,"2020,2021,2022",0,0,2,87,2,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,z,Ll,LATIN SMALL LETTER Z,86,3,"2017,2020,2021",2,0,33,51,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,E,Lu,LATIN CAPITAL LETTER E,82,4,"2017,2020,2021,2024",1,0,14,65,0,0,2
+pjt,Latn,pjt_Latn,Pitjantjatjara,B,Lu,LATIN CAPITAL LETTER B,72,4,"2017,2020,2021,2024",11,0,23,37,0,0,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,–,Pd,EN DASH,62,3,"2017,2020,2021",7,0,26,29,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,f,Ll,LATIN SMALL LETTER F,54,5,"2017,2020,2021,2022,2024",34,0,7,1,8,0,4
+pjt,Latn,pjt_Latn,Pitjantjatjara,*,Po,ASTERISK,44,1,2021,0,0,0,44,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,[,Ps,LEFT SQUARE BRACKET,33,2,"2021,2022",0,0,0,3,30,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,],Pe,RIGHT SQUARE BRACKET,33,2,"2021,2022",0,0,0,3,30,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,x,Ll,LATIN SMALL LETTER X,19,2,"2020,2021",0,0,6,13,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,F,Lu,LATIN CAPITAL LETTER F,15,4,"2017,2020,2021,2024",4,0,2,8,0,0,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,ο,Ll,GREEK SMALL LETTER OMICRON,13,1,2021,0,0,0,13,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,$,Sc,DOLLAR SIGN,9,2,"2020,2021",0,0,6,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,א,Lo,HEBREW LETTER ALEF,6,1,2021,0,0,0,6,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ν,Ll,GREEK SMALL LETTER NU,6,1,2021,0,0,0,6,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ς,Ll,GREEK SMALL LETTER FINAL SIGMA,5,1,2021,0,0,0,5,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,O,Lu,LATIN CAPITAL LETTER O,5,2,"2017,2021",3,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ָ,Mn,HEBREW POINT QAMATS,5,1,2021,0,0,0,5,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,η,Ll,GREEK SMALL LETTER ETA,4,1,2021,0,0,0,4,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,H,Lu,LATIN CAPITAL LETTER H,4,2,"2017,2021",2,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,י,Lo,HEBREW LETTER YOD,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ּ,Mn,HEBREW POINT DAGESH OR MAPIQ,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ר,Lo,HEBREW LETTER RESH,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ֵ,Mn,HEBREW POINT TSERE,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ה,Lo,HEBREW LETTER HE,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ִ,Mn,HEBREW POINT HIRIQ,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ε,Ll,GREEK SMALL LETTER EPSILON,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,γ,Ll,GREEK SMALL LETTER GAMMA,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,α,Ll,GREEK SMALL LETTER ALPHA,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ת,Lo,HEBREW LETTER TAV,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,λ,Ll,GREEK SMALL LETTER LAMDA,3,1,2021,0,0,0,3,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ρ,Ll,GREEK SMALL LETTER RHO,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ְ,Mn,HEBREW POINT SHEVA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ב,Lo,HEBREW LETTER BET,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,V,Lu,LATIN CAPITAL LETTER V,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,֥,Mn,HEBREW ACCENT MERKHA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,κ,Ll,GREEK SMALL LETTER KAPPA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ι,Ll,GREEK SMALL LETTER IOTA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,θ,Ll,GREEK SMALL LETTER THETA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ַ,Mn,HEBREW POINT PATAH,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,Z,Lu,LATIN CAPITAL LETTER Z,2,2,"2021,2024",0,0,0,1,0,0,1
+pjt,Latn,pjt_Latn,Pitjantjatjara,ם,Lo,HEBREW LETTER FINAL MEM,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ש,Lo,HEBREW LETTER SHIN,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ׁ,Mn,HEBREW POINT SHIN DOT,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,֖,Mn,HEBREW ACCENT TIPEHA,2,1,2021,0,0,0,2,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,/,Po,SOLIDUS,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,©,So,COPYRIGHT SIGN,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,τ,Ll,GREEK SMALL LETTER TAU,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,π,Ll,GREEK SMALL LETTER PI,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,+,Sm,PLUS SIGN,1,1,2019,0,1,0,0,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,@,Po,COMMERCIAL AT,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,֣,Mn,HEBREW ACCENT MUNAH,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,χ,Ll,GREEK SMALL LETTER CHI,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,֑,Mn,HEBREW ACCENT ETNAHTA,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ֱ,Mn,HEBREW POINT HATAF SEGOL,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ל,Lo,HEBREW LETTER LAMED,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,q,Ll,LATIN SMALL LETTER Q,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ֹ,Mn,HEBREW POINT HOLAM,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,׃,Po,HEBREW PUNCTUATION SOF PASUQ,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ץ,Lo,HEBREW LETTER FINAL TSADI,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ֶ,Mn,HEBREW POINT SEGOL,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ֽ,Mn,HEBREW POINT METEG,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,ו,Lo,HEBREW LETTER VAV,1,1,2021,0,0,0,1,0,0,0
+pjt,Latn,pjt_Latn,Pitjantjatjara,מ,Lo,HEBREW LETTER MEM,1,1,2021,0,0,0,1,0,0,0

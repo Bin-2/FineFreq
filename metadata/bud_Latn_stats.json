@@ -1,0 +1,18 @@
+{
+  "language_code": "bud_Latn",
+  "iso_639_3": "bud",
+  "script": "Latn",
+  "language_name": "Ntcham",
+  "total_characters": 115,
+  "total_frequency": 1219923,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2019",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:49.589736"
+}

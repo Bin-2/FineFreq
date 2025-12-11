@@ -1,0 +1,53 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2021_frequency,year_2023_frequency
+kak,Latn,kak_Latn,Kalanguya, ,Zs,SPACE,1063,2,"2021,2023",60,1003
+kak,Latn,kak_Latn,Kalanguya,a,Ll,LATIN SMALL LETTER A,988,2,"2021,2023",45,943
+kak,Latn,kak_Latn,Kalanguya,n,Ll,LATIN SMALL LETTER N,649,2,"2021,2023",31,618
+kak,Latn,kak_Latn,Kalanguya,o,Ll,LATIN SMALL LETTER O,432,2,"2021,2023",18,414
+kak,Latn,kak_Latn,Kalanguya,i,Ll,LATIN SMALL LETTER I,430,2,"2021,2023",19,411
+kak,Latn,kak_Latn,Kalanguya,t,Ll,LATIN SMALL LETTER T,358,2,"2021,2023",14,344
+kak,Latn,kak_Latn,Kalanguya,g,Ll,LATIN SMALL LETTER G,217,2,"2021,2023",10,207
+kak,Latn,kak_Latn,Kalanguya,m,Ll,LATIN SMALL LETTER M,206,2,"2021,2023",16,190
+kak,Latn,kak_Latn,Kalanguya,e,Ll,LATIN SMALL LETTER E,187,2,"2021,2023",23,164
+kak,Latn,kak_Latn,Kalanguya,d,Ll,LATIN SMALL LETTER D,184,2,"2021,2023",8,176
+kak,Latn,kak_Latn,Kalanguya,l,Ll,LATIN SMALL LETTER L,174,2,"2021,2023",4,170
+kak,Latn,kak_Latn,Kalanguya,h,Ll,LATIN SMALL LETTER H,173,2,"2021,2023",11,162
+kak,Latn,kak_Latn,Kalanguya,k,Ll,LATIN SMALL LETTER K,166,2,"2021,2023",4,162
+kak,Latn,kak_Latn,Kalanguya,y,Ll,LATIN SMALL LETTER Y,136,2,"2021,2023",6,130
+kak,Latn,kak_Latn,Kalanguya,w,Ll,LATIN SMALL LETTER W,131,2,"2021,2023",1,130
+kak,Latn,kak_Latn,Kalanguya,.,Po,FULL STOP,101,2,"2021,2023",15,86
+kak,Latn,kak_Latn,Kalanguya,p,Ll,LATIN SMALL LETTER P,98,2,"2021,2023",4,94
+kak,Latn,kak_Latn,Kalanguya,b,Ll,LATIN SMALL LETTER B,95,2,"2021,2023",5,90
+kak,Latn,kak_Latn,Kalanguya,-,Pd,HYPHEN-MINUS,61,1,2023,0,61
+kak,Latn,kak_Latn,Kalanguya,",",Po,COMMA,59,2,"2021,2023",1,58
+kak,Latn,kak_Latn,Kalanguya,u,Ll,LATIN SMALL LETTER U,40,2,"2021,2023",6,34
+kak,Latn,kak_Latn,Kalanguya,A,Lu,LATIN CAPITAL LETTER A,34,2,"2021,2023",1,33
+kak,Latn,kak_Latn,Kalanguya,N,Lu,LATIN CAPITAL LETTER N,28,2,"2021,2023",2,26
+kak,Latn,kak_Latn,Kalanguya,s,Ll,LATIN SMALL LETTER S,23,2,"2021,2023",15,8
+kak,Latn,kak_Latn,Kalanguya,”,Pf,RIGHT DOUBLE QUOTATION MARK,17,1,2023,0,17
+kak,Latn,kak_Latn,Kalanguya,“,Pi,LEFT DOUBLE QUOTATION MARK,17,1,2023,0,17
+kak,Latn,kak_Latn,Kalanguya,T,Lu,LATIN CAPITAL LETTER T,15,2,"2021,2023",2,13
+kak,Latn,kak_Latn,Kalanguya,D,Lu,LATIN CAPITAL LETTER D,15,1,2023,0,15
+kak,Latn,kak_Latn,Kalanguya,B,Lu,LATIN CAPITAL LETTER B,14,1,2023,0,14
+kak,Latn,kak_Latn,Kalanguya,r,Ll,LATIN SMALL LETTER R,13,2,"2021,2023",4,9
+kak,Latn,kak_Latn,Kalanguya,v,Ll,LATIN SMALL LETTER V,9,1,2021,9,0
+kak,Latn,kak_Latn,Kalanguya,K,Lu,LATIN CAPITAL LETTER K,9,1,2023,0,9
+kak,Latn,kak_Latn,Kalanguya,H,Lu,LATIN CAPITAL LETTER H,9,1,2023,0,9
+kak,Latn,kak_Latn,Kalanguya,M,Lu,LATIN CAPITAL LETTER M,8,1,2023,0,8
+kak,Latn,kak_Latn,Kalanguya,S,Lu,LATIN CAPITAL LETTER S,7,1,2023,0,7
+kak,Latn,kak_Latn,Kalanguya,W,Lu,LATIN CAPITAL LETTER W,7,2,"2021,2023",2,5
+kak,Latn,kak_Latn,Kalanguya,I,Lu,LATIN CAPITAL LETTER I,6,1,2023,0,6
+kak,Latn,kak_Latn,Kalanguya,G,Lu,LATIN CAPITAL LETTER G,5,1,2023,0,5
+kak,Latn,kak_Latn,Kalanguya,c,Ll,LATIN SMALL LETTER C,5,1,2021,5,0
+kak,Latn,kak_Latn,Kalanguya,!,Po,EXCLAMATION MARK,5,1,2023,0,5
+kak,Latn,kak_Latn,Kalanguya,L,Lu,LATIN CAPITAL LETTER L,4,1,2023,0,4
+kak,Latn,kak_Latn,Kalanguya,‐,Pd,HYPHEN,4,1,2021,4,0
+kak,Latn,kak_Latn,Kalanguya,O,Lu,LATIN CAPITAL LETTER O,2,1,2023,0,2
+kak,Latn,kak_Latn,Kalanguya,C,Lu,LATIN CAPITAL LETTER C,2,2,"2021,2023",1,1
+kak,Latn,kak_Latn,Kalanguya,?,Po,QUESTION MARK,2,1,2023,0,2
+kak,Latn,kak_Latn,Kalanguya,P,Lu,LATIN CAPITAL LETTER P,1,1,2023,0,1
+kak,Latn,kak_Latn,Kalanguya,1,Nd,DIGIT ONE,1,1,2021,1,0
+kak,Latn,kak_Latn,Kalanguya,f,Ll,LATIN SMALL LETTER F,1,1,2021,1,0
+kak,Latn,kak_Latn,Kalanguya,2,Nd,DIGIT TWO,1,1,2021,1,0
+kak,Latn,kak_Latn,Kalanguya,3,Nd,DIGIT THREE,1,1,2021,1,0
+kak,Latn,kak_Latn,Kalanguya,;,Po,SEMICOLON,1,1,2021,1,0
+kak,Latn,kak_Latn,Kalanguya,/,Po,SOLIDUS,1,1,2021,1,0

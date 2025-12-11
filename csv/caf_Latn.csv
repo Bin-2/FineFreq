@@ -1,0 +1,91 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2023_frequency
+caf,Latn,caf_Latn,Southern Carrier, ,Zs,SPACE,129599,5,"2014,2019,2020,2021,2023",2168,90751,71,773,35836
+caf,Latn,caf_Latn,Southern Carrier,h,Ll,LATIN SMALL LETTER H,86658,5,"2014,2019,2020,2021,2023",1451,59999,50,530,24628
+caf,Latn,caf_Latn,Southern Carrier,',Po,APOSTROPHE,75720,5,"2014,2019,2020,2021,2023",1239,52888,36,530,21027
+caf,Latn,caf_Latn,Southern Carrier,n,Ll,LATIN SMALL LETTER N,68163,5,"2014,2019,2020,2021,2023",1254,47661,30,403,18815
+caf,Latn,caf_Latn,Southern Carrier,u,Ll,LATIN SMALL LETTER U,67915,5,"2014,2019,2020,2021,2023",1030,46608,27,452,19798
+caf,Latn,caf_Latn,Southern Carrier,a,Ll,LATIN SMALL LETTER A,57605,5,"2014,2019,2020,2021,2023",929,39852,31,405,16388
+caf,Latn,caf_Latn,Southern Carrier,e,Ll,LATIN SMALL LETTER E,47353,5,"2014,2019,2020,2021,2023",780,32812,26,251,13484
+caf,Latn,caf_Latn,Southern Carrier,t,Ll,LATIN SMALL LETTER T,46498,5,"2014,2019,2020,2021,2023",699,32458,24,307,13010
+caf,Latn,caf_Latn,Southern Carrier,i,Ll,LATIN SMALL LETTER I,45928,5,"2014,2019,2020,2021,2023",814,32309,26,234,12545
+caf,Latn,caf_Latn,Southern Carrier,o,Ll,LATIN SMALL LETTER O,29831,5,"2014,2019,2020,2021,2023",516,20634,11,185,8485
+caf,Latn,caf_Latn,Southern Carrier,l,Ll,LATIN SMALL LETTER L,28876,5,"2014,2019,2020,2021,2023",467,19829,13,137,8430
+caf,Latn,caf_Latn,Southern Carrier,d,Ll,LATIN SMALL LETTER D,26690,5,"2014,2019,2020,2021,2023",462,18596,18,124,7490
+caf,Latn,caf_Latn,Southern Carrier,s,Ll,LATIN SMALL LETTER S,25845,5,"2014,2019,2020,2021,2023",383,17828,11,192,7431
+caf,Latn,caf_Latn,Southern Carrier,k,Ll,LATIN SMALL LETTER K,18833,5,"2014,2019,2020,2021,2023",306,12985,7,97,5438
+caf,Latn,caf_Latn,Southern Carrier,z,Ll,LATIN SMALL LETTER Z,17500,5,"2014,2019,2020,2021,2023",323,12208,9,76,4884
+caf,Latn,caf_Latn,Southern Carrier,w,Ll,LATIN SMALL LETTER W,17118,5,"2014,2019,2020,2021,2023",253,12158,14,93,4600
+caf,Latn,caf_Latn,Southern Carrier,b,Ll,LATIN SMALL LETTER B,14693,5,"2014,2019,2020,2021,2023",248,9918,12,109,4406
+caf,Latn,caf_Latn,Southern Carrier,",",Po,COMMA,13230,5,"2014,2019,2020,2021,2023",218,9378,5,54,3575
+caf,Latn,caf_Latn,Southern Carrier,y,Ll,LATIN SMALL LETTER Y,12474,5,"2014,2019,2020,2021,2023",220,8725,11,58,3460
+caf,Latn,caf_Latn,Southern Carrier,.,Po,FULL STOP,9330,5,"2014,2019,2020,2021,2023",164,6675,3,55,2433
+caf,Latn,caf_Latn,Southern Carrier,c,Ll,LATIN SMALL LETTER C,6247,5,"2014,2019,2020,2021,2023",83,4394,1,23,1746
+caf,Latn,caf_Latn,Southern Carrier,g,Ll,LATIN SMALL LETTER G,5389,4,"2014,2019,2021,2023",77,3752,0,29,1531
+caf,Latn,caf_Latn,Southern Carrier,E,Lu,LATIN CAPITAL LETTER E,4562,5,"2014,2019,2020,2021,2023",83,3191,1,19,1268
+caf,Latn,caf_Latn,Southern Carrier,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,4253,4,"2014,2019,2021,2023",94,2772,0,22,1365
+caf,Latn,caf_Latn,Southern Carrier,é,Ll,LATIN SMALL LETTER E WITH ACUTE,2608,5,"2014,2019,2020,2021,2023",39,1836,3,9,721
+caf,Latn,caf_Latn,Southern Carrier,N,Lu,LATIN CAPITAL LETTER N,2562,4,"2014,2019,2021,2023",52,1818,0,11,681
+caf,Latn,caf_Latn,Southern Carrier,í,Ll,LATIN SMALL LETTER I WITH ACUTE,2510,4,"2014,2019,2021,2023",54,1613,0,12,831
+caf,Latn,caf_Latn,Southern Carrier,1,Nd,DIGIT ONE,2328,5,"2014,2019,2020,2021,2023",37,1637,3,14,637
+caf,Latn,caf_Latn,Southern Carrier,á,Ll,LATIN SMALL LETTER A WITH ACUTE,2248,5,"2014,2019,2020,2021,2023",40,1487,1,7,713
+caf,Latn,caf_Latn,Southern Carrier,Y,Lu,LATIN CAPITAL LETTER Y,2095,4,"2014,2019,2021,2023",40,1243,0,37,775
+caf,Latn,caf_Latn,Southern Carrier,j,Ll,LATIN SMALL LETTER J,1990,4,"2014,2019,2021,2023",43,1367,0,9,571
+caf,Latn,caf_Latn,Southern Carrier,S,Lu,LATIN CAPITAL LETTER S,1963,4,"2014,2019,2021,2023",48,1421,0,8,486
+caf,Latn,caf_Latn,Southern Carrier,r,Ll,LATIN SMALL LETTER R,1829,5,"2014,2019,2020,2021,2023",43,1044,2,5,735
+caf,Latn,caf_Latn,Southern Carrier,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1792,4,"2014,2019,2021,2023",24,1255,0,8,505
+caf,Latn,caf_Latn,Southern Carrier,2,Nd,DIGIT TWO,1691,4,"2014,2019,2021,2023",32,1158,0,13,488
+caf,Latn,caf_Latn,Southern Carrier,I,Lu,LATIN CAPITAL LETTER I,1292,5,"2014,2019,2020,2021,2023",32,956,2,3,299
+caf,Latn,caf_Latn,Southern Carrier,“,Pi,LEFT DOUBLE QUOTATION MARK,1268,4,"2014,2019,2021,2023",44,897,0,3,324
+caf,Latn,caf_Latn,Southern Carrier,m,Ll,LATIN SMALL LETTER M,1248,5,"2014,2019,2020,2021,2023",25,772,1,2,448
+caf,Latn,caf_Latn,Southern Carrier,”,Pf,RIGHT DOUBLE QUOTATION MARK,1242,4,"2014,2019,2021,2023",45,872,0,3,322
+caf,Latn,caf_Latn,Southern Carrier,A,Lu,LATIN CAPITAL LETTER A,1202,5,"2014,2019,2020,2021,2023",32,815,1,17,337
+caf,Latn,caf_Latn,Southern Carrier,3,Nd,DIGIT THREE,1139,4,"2014,2019,2021,2023",31,781,0,6,321
+caf,Latn,caf_Latn,Southern Carrier,4,Nd,DIGIT FOUR,842,5,"2014,2019,2020,2021,2023",31,602,3,3,203
+caf,Latn,caf_Latn,Southern Carrier,M,Lu,LATIN CAPITAL LETTER M,810,4,"2014,2019,2021,2023",14,526,0,7,263
+caf,Latn,caf_Latn,Southern Carrier,P,Lu,LATIN CAPITAL LETTER P,715,3,"2014,2019,2023",10,317,0,0,388
+caf,Latn,caf_Latn,Southern Carrier,0,Nd,DIGIT ZERO,685,4,"2014,2019,2021,2023",13,503,0,3,166
+caf,Latn,caf_Latn,Southern Carrier,5,Nd,DIGIT FIVE,661,4,"2014,2019,2021,2023",18,473,0,3,167
+caf,Latn,caf_Latn,Southern Carrier,B,Lu,LATIN CAPITAL LETTER B,592,5,"2014,2019,2020,2021,2023",10,453,2,1,126
+caf,Latn,caf_Latn,Southern Carrier,?,Po,QUESTION MARK,591,4,"2014,2019,2021,2023",20,427,0,15,129
+caf,Latn,caf_Latn,Southern Carrier,6,Nd,DIGIT SIX,572,4,"2014,2019,2021,2023",10,416,0,3,143
+caf,Latn,caf_Latn,Southern Carrier,L,Lu,LATIN CAPITAL LETTER L,558,4,"2014,2019,2021,2023",5,306,0,11,236
+caf,Latn,caf_Latn,Southern Carrier,!,Po,EXCLAMATION MARK,546,4,"2014,2019,2021,2023",10,427,0,6,103
+caf,Latn,caf_Latn,Southern Carrier,7,Nd,DIGIT SEVEN,534,4,"2014,2019,2021,2023",11,379,0,3,141
+caf,Latn,caf_Latn,Southern Carrier,8,Nd,DIGIT EIGHT,488,4,"2014,2019,2021,2023",10,341,0,3,134
+caf,Latn,caf_Latn,Southern Carrier,p,Ll,LATIN SMALL LETTER P,480,4,"2014,2019,2021,2023",11,264,0,1,204
+caf,Latn,caf_Latn,Southern Carrier,9,Nd,DIGIT NINE,464,4,"2014,2019,2021,2023",10,323,0,3,128
+caf,Latn,caf_Latn,Southern Carrier,D,Lu,LATIN CAPITAL LETTER D,452,5,"2014,2019,2020,2021,2023",5,312,2,3,130
+caf,Latn,caf_Latn,Southern Carrier,J,Lu,LATIN CAPITAL LETTER J,452,4,"2014,2019,2020,2023",29,258,1,0,164
+caf,Latn,caf_Latn,Southern Carrier,G,Lu,LATIN CAPITAL LETTER G,446,4,"2014,2019,2021,2023",4,273,0,4,165
+caf,Latn,caf_Latn,Southern Carrier,C,Lu,LATIN CAPITAL LETTER C,440,5,"2014,2019,2020,2021,2023",9,294,1,1,135
+caf,Latn,caf_Latn,Southern Carrier,T,Lu,LATIN CAPITAL LETTER T,397,4,"2014,2019,2021,2023",2,283,0,4,108
+caf,Latn,caf_Latn,Southern Carrier,f,Ll,LATIN SMALL LETTER F,351,4,"2014,2019,2021,2023",4,160,0,9,178
+caf,Latn,caf_Latn,Southern Carrier,H,Lu,LATIN CAPITAL LETTER H,261,4,"2014,2019,2021,2023",3,187,0,1,70
+caf,Latn,caf_Latn,Southern Carrier,K,Lu,LATIN CAPITAL LETTER K,253,4,"2014,2019,2021,2023",3,195,0,2,53
+caf,Latn,caf_Latn,Southern Carrier,‘,Pi,LEFT SINGLE QUOTATION MARK,228,3,"2014,2019,2023",3,150,0,0,75
+caf,Latn,caf_Latn,Southern Carrier,’,Pf,RIGHT SINGLE QUOTATION MARK,207,3,"2014,2019,2023",2,145,0,0,60
+caf,Latn,caf_Latn,Southern Carrier,U,Lu,LATIN CAPITAL LETTER U,187,3,"2019,2021,2023",0,130,0,6,51
+caf,Latn,caf_Latn,Southern Carrier,W,Lu,LATIN CAPITAL LETTER W,164,4,"2014,2019,2021,2023",1,115,0,1,47
+caf,Latn,caf_Latn,Southern Carrier,v,Ll,LATIN SMALL LETTER V,84,4,"2014,2019,2020,2023",3,55,2,0,24
+caf,Latn,caf_Latn,Southern Carrier,R,Lu,LATIN CAPITAL LETTER R,81,3,"2014,2019,2023",4,39,0,0,38
+caf,Latn,caf_Latn,Southern Carrier,(,Ps,LEFT PARENTHESIS,70,4,"2014,2019,2020,2023",3,56,3,0,8
+caf,Latn,caf_Latn,Southern Carrier,),Pe,RIGHT PARENTHESIS,69,4,"2014,2019,2020,2023",3,55,3,0,8
+caf,Latn,caf_Latn,Southern Carrier,:,Po,COLON,45,3,"2014,2019,2023",3,37,0,0,5
+caf,Latn,caf_Latn,Southern Carrier,O,Lu,LATIN CAPITAL LETTER O,39,3,"2014,2019,2023",1,31,0,0,7
+caf,Latn,caf_Latn,Southern Carrier,F,Lu,LATIN CAPITAL LETTER F,31,2,"2019,2023",0,1,0,0,30
+caf,Latn,caf_Latn,Southern Carrier,Z,Lu,LATIN CAPITAL LETTER Z,30,2,"2019,2023",0,26,0,0,4
+caf,Latn,caf_Latn,Southern Carrier,x,Ll,LATIN SMALL LETTER X,22,2,"2019,2023",0,6,0,0,16
+caf,Latn,caf_Latn,Southern Carrier,*,Po,ASTERISK,21,1,2019,0,21,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,-,Pd,HYPHEN-MINUS,14,2,"2019,2023",0,9,0,0,5
+caf,Latn,caf_Latn,Southern Carrier,⁄,Sm,FRACTION SLASH,14,1,2019,0,14,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,;,Po,SEMICOLON,10,2,"2019,2023",0,9,0,0,1
+caf,Latn,caf_Latn,Southern Carrier,q,Ll,LATIN SMALL LETTER Q,7,2,"2019,2023",0,3,0,0,4
+caf,Latn,caf_Latn,Southern Carrier,†,Po,DAGGER,3,1,2019,0,3,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,$,Sc,DOLLAR SIGN,2,2,"2019,2023",0,1,0,0,1
+caf,Latn,caf_Latn,Southern Carrier,#,Po,NUMBER SIGN,2,1,2014,2,0,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,1,1,2019,0,1,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,/,Po,SOLIDUS,1,1,2019,0,1,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,‡,Po,DOUBLE DAGGER,1,1,2019,0,1,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,æ,Ll,LATIN SMALL LETTER AE,1,1,2014,1,0,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2019,0,1,0,0,0
+caf,Latn,caf_Latn,Southern Carrier,%,Po,PERCENT SIGN,1,1,2019,0,1,0,0,0

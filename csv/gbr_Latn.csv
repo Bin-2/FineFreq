@@ -1,0 +1,84 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2023_frequency
+gbr,Latn,gbr_Latn,Gbagyi, ,Zs,SPACE,3444,3,"2017,2019,2023",2289,1080,75
+gbr,Latn,gbr_Latn,Gbagyi,a,Ll,LATIN SMALL LETTER A,2127,3,"2017,2019,2023",1407,682,38
+gbr,Latn,gbr_Latn,Gbagyi,i,Ll,LATIN SMALL LETTER I,1244,3,"2017,2019,2023",853,357,34
+gbr,Latn,gbr_Latn,Gbagyi,n,Ll,LATIN SMALL LETTER N,1191,3,"2017,2019,2023",864,311,16
+gbr,Latn,gbr_Latn,Gbagyi,e,Ll,LATIN SMALL LETTER E,773,3,"2017,2019,2023",526,221,26
+gbr,Latn,gbr_Latn,Gbagyi,y,Ll,LATIN SMALL LETTER Y,745,3,"2017,2019,2023",517,201,27
+gbr,Latn,gbr_Latn,Gbagyi,u,Ll,LATIN SMALL LETTER U,665,3,"2017,2019,2023",436,218,11
+gbr,Latn,gbr_Latn,Gbagyi,o,Ll,LATIN SMALL LETTER O,591,3,"2017,2019,2023",380,205,6
+gbr,Latn,gbr_Latn,Gbagyi,w,Ll,LATIN SMALL LETTER W,512,3,"2017,2019,2023",327,181,4
+gbr,Latn,gbr_Latn,Gbagyi,g,Ll,LATIN SMALL LETTER G,418,3,"2017,2019,2023",314,96,8
+gbr,Latn,gbr_Latn,Gbagyi,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,376,3,"2017,2019,2023",236,127,13
+gbr,Latn,gbr_Latn,Gbagyi,h,Ll,LATIN SMALL LETTER H,368,3,"2017,2019,2023",240,122,6
+gbr,Latn,gbr_Latn,Gbagyi,k,Ll,LATIN SMALL LETTER K,365,3,"2017,2019,2023",269,90,6
+gbr,Latn,gbr_Latn,Gbagyi,m,Ll,LATIN SMALL LETTER M,353,3,"2017,2019,2023",263,88,2
+gbr,Latn,gbr_Latn,Gbagyi,s,Ll,LATIN SMALL LETTER S,323,3,"2017,2019,2023",221,92,10
+gbr,Latn,gbr_Latn,Gbagyi,d,Ll,LATIN SMALL LETTER D,301,2,"2017,2019",160,141,0
+gbr,Latn,gbr_Latn,Gbagyi,b,Ll,LATIN SMALL LETTER B,248,3,"2017,2019,2023",172,65,11
+gbr,Latn,gbr_Latn,Gbagyi,",",Po,COMMA,245,3,"2017,2019,2023",154,86,5
+gbr,Latn,gbr_Latn,Gbagyi,z,Ll,LATIN SMALL LETTER Z,241,3,"2017,2019,2023",147,91,3
+gbr,Latn,gbr_Latn,Gbagyi,t,Ll,LATIN SMALL LETTER T,235,3,"2017,2019,2023",160,69,6
+gbr,Latn,gbr_Latn,Gbagyi,l,Ll,LATIN SMALL LETTER L,232,3,"2017,2019,2023",142,81,9
+gbr,Latn,gbr_Latn,Gbagyi,.,Po,FULL STOP,204,3,"2017,2019,2023",136,63,5
+gbr,Latn,gbr_Latn,Gbagyi,r,Ll,LATIN SMALL LETTER R,164,3,"2017,2019,2023",101,59,4
+gbr,Latn,gbr_Latn,Gbagyi,f,Ll,LATIN SMALL LETTER F,140,2,"2017,2019",108,32,0
+gbr,Latn,gbr_Latn,Gbagyi,A,Lu,LATIN CAPITAL LETTER A,86,3,"2017,2019,2023",51,31,4
+gbr,Latn,gbr_Latn,Gbagyi,c,Ll,LATIN SMALL LETTER C,85,2,"2017,2019",69,16,0
+gbr,Latn,gbr_Latn,Gbagyi,-,Pd,HYPHEN-MINUS,79,2,"2017,2019",50,29,0
+gbr,Latn,gbr_Latn,Gbagyi,p,Ll,LATIN SMALL LETTER P,76,3,"2017,2019,2023",59,15,2
+gbr,Latn,gbr_Latn,Gbagyi,Y,Lu,LATIN CAPITAL LETTER Y,73,3,"2017,2019,2023",45,26,2
+gbr,Latn,gbr_Latn,Gbagyi,j,Ll,LATIN SMALL LETTER J,73,2,"2017,2019",60,13,0
+gbr,Latn,gbr_Latn,Gbagyi,1,Nd,DIGIT ONE,71,3,"2017,2019,2023",41,27,3
+gbr,Latn,gbr_Latn,Gbagyi,2,Nd,DIGIT TWO,52,2,"2017,2019",35,17,0
+gbr,Latn,gbr_Latn,Gbagyi,N,Lu,LATIN CAPITAL LETTER N,51,2,"2017,2019",39,12,0
+gbr,Latn,gbr_Latn,Gbagyi,S,Lu,LATIN CAPITAL LETTER S,50,2,"2017,2019",34,16,0
+gbr,Latn,gbr_Latn,Gbagyi,“,Pi,LEFT DOUBLE QUOTATION MARK,48,2,"2017,2019",35,13,0
+gbr,Latn,gbr_Latn,Gbagyi,”,Pf,RIGHT DOUBLE QUOTATION MARK,45,2,"2017,2019",32,13,0
+gbr,Latn,gbr_Latn,Gbagyi,B,Lu,LATIN CAPITAL LETTER B,41,3,"2017,2019,2023",28,10,3
+gbr,Latn,gbr_Latn,Gbagyi,3,Nd,DIGIT THREE,32,2,"2017,2019",26,6,0
+gbr,Latn,gbr_Latn,Gbagyi,M,Lu,LATIN CAPITAL LETTER M,31,3,"2017,2019,2023",9,20,2
+gbr,Latn,gbr_Latn,Gbagyi,E,Lu,LATIN CAPITAL LETTER E,31,2,"2017,2019",19,12,0
+gbr,Latn,gbr_Latn,Gbagyi,G,Lu,LATIN CAPITAL LETTER G,29,2,"2017,2019",25,4,0
+gbr,Latn,gbr_Latn,Gbagyi,W,Lu,LATIN CAPITAL LETTER W,28,3,"2017,2019,2023",14,13,1
+gbr,Latn,gbr_Latn,Gbagyi,F,Lu,LATIN CAPITAL LETTER F,27,3,"2017,2019,2023",24,1,2
+gbr,Latn,gbr_Latn,Gbagyi,5,Nd,DIGIT FIVE,27,2,"2017,2019",22,5,0
+gbr,Latn,gbr_Latn,Gbagyi,D,Lu,LATIN CAPITAL LETTER D,26,3,"2017,2019,2023",11,14,1
+gbr,Latn,gbr_Latn,Gbagyi,4,Nd,DIGIT FOUR,25,3,"2017,2019,2023",19,5,1
+gbr,Latn,gbr_Latn,Gbagyi,6,Nd,DIGIT SIX,25,2,"2017,2019",21,4,0
+gbr,Latn,gbr_Latn,Gbagyi,ʼ,Lm,MODIFIER LETTER APOSTROPHE,24,2,"2017,2019",6,18,0
+gbr,Latn,gbr_Latn,Gbagyi,H,Lu,LATIN CAPITAL LETTER H,22,2,"2017,2019",5,17,0
+gbr,Latn,gbr_Latn,Gbagyi,v,Ll,LATIN SMALL LETTER V,20,2,"2017,2019",16,4,0
+gbr,Latn,gbr_Latn,Gbagyi,K,Lu,LATIN CAPITAL LETTER K,19,2,"2017,2019",13,6,0
+gbr,Latn,gbr_Latn,Gbagyi,J,Lu,LATIN CAPITAL LETTER J,19,2,"2017,2019",7,12,0
+gbr,Latn,gbr_Latn,Gbagyi,I,Lu,LATIN CAPITAL LETTER I,17,2,"2017,2019",6,11,0
+gbr,Latn,gbr_Latn,Gbagyi,T,Lu,LATIN CAPITAL LETTER T,16,3,"2017,2019,2023",14,1,1
+gbr,Latn,gbr_Latn,Gbagyi,8,Nd,DIGIT EIGHT,15,3,"2017,2019,2023",10,4,1
+gbr,Latn,gbr_Latn,Gbagyi,0,Nd,DIGIT ZERO,15,2,"2017,2019",11,4,0
+gbr,Latn,gbr_Latn,Gbagyi,9,Nd,DIGIT NINE,15,3,"2017,2019,2023",10,4,1
+gbr,Latn,gbr_Latn,Gbagyi,7,Nd,DIGIT SEVEN,15,2,"2017,2019",11,4,0
+gbr,Latn,gbr_Latn,Gbagyi,?,Po,QUESTION MARK,14,2,"2017,2019",12,2,0
+gbr,Latn,gbr_Latn,Gbagyi,),Pe,RIGHT PARENTHESIS,13,2,"2017,2019",8,5,0
+gbr,Latn,gbr_Latn,Gbagyi,:,Po,COLON,13,3,"2017,2019,2023",11,1,1
+gbr,Latn,gbr_Latn,Gbagyi,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,13,3,"2017,2019,2023",6,6,1
+gbr,Latn,gbr_Latn,Gbagyi,(,Ps,LEFT PARENTHESIS,12,2,"2017,2019",7,5,0
+gbr,Latn,gbr_Latn,Gbagyi,Z,Lu,LATIN CAPITAL LETTER Z,12,2,"2017,2019",4,8,0
+gbr,Latn,gbr_Latn,Gbagyi,O,Lu,LATIN CAPITAL LETTER O,10,2,"2017,2019",7,3,0
+gbr,Latn,gbr_Latn,Gbagyi,R,Lu,LATIN CAPITAL LETTER R,9,2,"2017,2019",3,6,0
+gbr,Latn,gbr_Latn,Gbagyi,P,Lu,LATIN CAPITAL LETTER P,7,3,"2017,2019,2023",4,2,1
+gbr,Latn,gbr_Latn,Gbagyi,U,Lu,LATIN CAPITAL LETTER U,7,2,"2017,2019",1,6,0
+gbr,Latn,gbr_Latn,Gbagyi,!,Po,EXCLAMATION MARK,5,2,"2017,2019",1,4,0
+gbr,Latn,gbr_Latn,Gbagyi,L,Lu,LATIN CAPITAL LETTER L,5,2,"2017,2019",3,2,0
+gbr,Latn,gbr_Latn,Gbagyi,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,5,1,2023,0,0,5
+gbr,Latn,gbr_Latn,Gbagyi,é,Ll,LATIN SMALL LETTER E WITH ACUTE,4,1,2023,0,0,4
+gbr,Latn,gbr_Latn,Gbagyi,ƙ,Ll,LATIN SMALL LETTER K WITH HOOK,4,1,2023,0,0,4
+gbr,Latn,gbr_Latn,Gbagyi,’,Pf,RIGHT SINGLE QUOTATION MARK,3,2,"2017,2019",1,2,0
+gbr,Latn,gbr_Latn,Gbagyi,‘,Pi,LEFT SINGLE QUOTATION MARK,3,2,"2017,2019",1,2,0
+gbr,Latn,gbr_Latn,Gbagyi,–,Pd,EN DASH,2,1,2019,0,2,0
+gbr,Latn,gbr_Latn,Gbagyi,;,Po,SEMICOLON,2,2,"2017,2019",1,1,0
+gbr,Latn,gbr_Latn,Gbagyi,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,1,1,2017,1,0,0
+gbr,Latn,gbr_Latn,Gbagyi,ʻ,Lm,MODIFIER LETTER TURNED COMMA,1,1,2023,0,0,1
+gbr,Latn,gbr_Latn,Gbagyi,C,Lu,LATIN CAPITAL LETTER C,1,1,2017,1,0,0
+gbr,Latn,gbr_Latn,Gbagyi,',Po,APOSTROPHE,1,1,2023,0,0,1
+gbr,Latn,gbr_Latn,Gbagyi,Ƙ,Lu,LATIN CAPITAL LETTER K WITH HOOK,1,1,2023,0,0,1
+gbr,Latn,gbr_Latn,Gbagyi,/,Po,SOLIDUS,1,1,2023,0,0,1

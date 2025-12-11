@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency,year_2023_frequency
+njz,Latn,njz_Latn,Nyishi, ,Zs,SPACE,3103,3,"2019,2020,2023",1008,959,1136
+njz,Latn,njz_Latn,Nyishi,a,Ll,LATIN SMALL LETTER A,1563,3,"2019,2020,2023",486,557,520
+njz,Latn,njz_Latn,Nyishi,o,Ll,LATIN SMALL LETTER O,1486,3,"2019,2020,2023",562,398,526
+njz,Latn,njz_Latn,Nyishi,n,Ll,LATIN SMALL LETTER N,1281,3,"2019,2020,2023",396,408,477
+njz,Latn,njz_Latn,Nyishi,m,Ll,LATIN SMALL LETTER M,1053,3,"2019,2020,2023",327,367,359
+njz,Latn,njz_Latn,Nyishi,i,Ll,LATIN SMALL LETTER I,794,3,"2019,2020,2023",205,219,370
+njz,Latn,njz_Latn,Nyishi,u,Ll,LATIN SMALL LETTER U,789,3,"2019,2020,2023",286,239,264
+njz,Latn,njz_Latn,Nyishi,v,Ll,LATIN SMALL LETTER V,775,3,"2019,2020,2023",232,275,268
+njz,Latn,njz_Latn,Nyishi,w,Ll,LATIN SMALL LETTER W,772,3,"2019,2020,2023",251,251,270
+njz,Latn,njz_Latn,Nyishi,g,Ll,LATIN SMALL LETTER G,732,3,"2019,2020,2023",220,260,252
+njz,Latn,njz_Latn,Nyishi,b,Ll,LATIN SMALL LETTER B,659,3,"2019,2020,2023",184,226,249
+njz,Latn,njz_Latn,Nyishi,l,Ll,LATIN SMALL LETTER L,625,3,"2019,2020,2023",238,160,227
+njz,Latn,njz_Latn,Nyishi,k,Ll,LATIN SMALL LETTER K,497,3,"2019,2020,2023",101,163,233
+njz,Latn,njz_Latn,Nyishi,t,Ll,LATIN SMALL LETTER T,481,3,"2019,2020,2023",170,130,181
+njz,Latn,njz_Latn,Nyishi,s,Ll,LATIN SMALL LETTER S,449,3,"2019,2020,2023",166,84,199
+njz,Latn,njz_Latn,Nyishi,h,Ll,LATIN SMALL LETTER H,441,3,"2019,2020,2023",171,100,170
+njz,Latn,njz_Latn,Nyishi,y,Ll,LATIN SMALL LETTER Y,415,3,"2019,2020,2023",101,113,201
+njz,Latn,njz_Latn,Nyishi,e,Ll,LATIN SMALL LETTER E,393,3,"2019,2020,2023",136,84,173
+njz,Latn,njz_Latn,Nyishi,d,Ll,LATIN SMALL LETTER D,353,3,"2019,2020,2023",101,115,137
+njz,Latn,njz_Latn,Nyishi,q,Ll,LATIN SMALL LETTER Q,307,3,"2019,2020,2023",63,95,149
+njz,Latn,njz_Latn,Nyishi,r,Ll,LATIN SMALL LETTER R,303,3,"2019,2020,2023",94,54,155
+njz,Latn,njz_Latn,Nyishi,p,Ll,LATIN SMALL LETTER P,231,3,"2019,2020,2023",68,75,88
+njz,Latn,njz_Latn,Nyishi,",",Po,COMMA,209,3,"2019,2020,2023",63,68,78
+njz,Latn,njz_Latn,Nyishi,.,Po,FULL STOP,178,3,"2019,2020,2023",79,57,42
+njz,Latn,njz_Latn,Nyishi,j,Ll,LATIN SMALL LETTER J,116,3,"2019,2020,2023",25,40,51
+njz,Latn,njz_Latn,Nyishi,c,Ll,LATIN SMALL LETTER C,112,3,"2019,2020,2023",61,18,33
+njz,Latn,njz_Latn,Nyishi,H,Lu,LATIN CAPITAL LETTER H,90,3,"2019,2020,2023",59,20,11
+njz,Latn,njz_Latn,Nyishi,-,Pd,HYPHEN-MINUS,90,3,"2019,2020,2023",53,4,33
+njz,Latn,njz_Latn,Nyishi,P,Lu,LATIN CAPITAL LETTER P,87,3,"2019,2020,2023",39,31,17
+njz,Latn,njz_Latn,Nyishi,N,Lu,LATIN CAPITAL LETTER N,84,3,"2019,2020,2023",8,35,41
+njz,Latn,njz_Latn,Nyishi,J,Lu,LATIN CAPITAL LETTER J,76,2,"2020,2023",0,34,42
+njz,Latn,njz_Latn,Nyishi,x,Ll,LATIN SMALL LETTER X,73,3,"2019,2020,2023",29,17,27
+njz,Latn,njz_Latn,Nyishi,1,Nd,DIGIT ONE,68,3,"2019,2020,2023",21,23,24
+njz,Latn,njz_Latn,Nyishi,A,Lu,LATIN CAPITAL LETTER A,65,3,"2019,2020,2023",15,18,32
+njz,Latn,njz_Latn,Nyishi,S,Lu,LATIN CAPITAL LETTER S,61,3,"2019,2020,2023",20,13,28
+njz,Latn,njz_Latn,Nyishi,“,Pi,LEFT DOUBLE QUOTATION MARK,60,3,"2019,2020,2023",14,34,12
+njz,Latn,njz_Latn,Nyishi,”,Pf,RIGHT DOUBLE QUOTATION MARK,56,3,"2019,2020,2023",14,31,11
+njz,Latn,njz_Latn,Nyishi,B,Lu,LATIN CAPITAL LETTER B,55,3,"2019,2020,2023",12,7,36
+njz,Latn,njz_Latn,Nyishi,K,Lu,LATIN CAPITAL LETTER K,54,3,"2019,2020,2023",5,14,35
+njz,Latn,njz_Latn,Nyishi,D,Lu,LATIN CAPITAL LETTER D,52,3,"2019,2020,2023",3,2,47
+njz,Latn,njz_Latn,Nyishi,2,Nd,DIGIT TWO,45,3,"2019,2020,2023",15,16,14
+njz,Latn,njz_Latn,Nyishi,M,Lu,LATIN CAPITAL LETTER M,40,3,"2019,2020,2023",2,18,20
+njz,Latn,njz_Latn,Nyishi,Y,Lu,LATIN CAPITAL LETTER Y,40,3,"2019,2020,2023",1,5,34
+njz,Latn,njz_Latn,Nyishi,3,Nd,DIGIT THREE,27,3,"2019,2020,2023",5,17,5
+njz,Latn,njz_Latn,Nyishi,I,Lu,LATIN CAPITAL LETTER I,26,3,"2019,2020,2023",11,6,9
+njz,Latn,njz_Latn,Nyishi,T,Lu,LATIN CAPITAL LETTER T,25,3,"2019,2020,2023",7,8,10
+njz,Latn,njz_Latn,Nyishi,9,Nd,DIGIT NINE,22,3,"2019,2020,2023",4,5,13
+njz,Latn,njz_Latn,Nyishi,f,Ll,LATIN SMALL LETTER F,22,2,"2019,2023",19,0,3
+njz,Latn,njz_Latn,Nyishi,4,Nd,DIGIT FOUR,20,3,"2019,2020,2023",3,15,2
+njz,Latn,njz_Latn,Nyishi,7,Nd,DIGIT SEVEN,19,3,"2019,2020,2023",3,5,11
+njz,Latn,njz_Latn,Nyishi,L,Lu,LATIN CAPITAL LETTER L,18,3,"2019,2020,2023",2,6,10
+njz,Latn,njz_Latn,Nyishi,0,Nd,DIGIT ZERO,18,3,"2019,2020,2023",7,5,6
+njz,Latn,njz_Latn,Nyishi,E,Lu,LATIN CAPITAL LETTER E,14,1,2023,0,0,14
+njz,Latn,njz_Latn,Nyishi,:,Po,COLON,14,3,"2019,2020,2023",5,5,4
+njz,Latn,njz_Latn,Nyishi,8,Nd,DIGIT EIGHT,14,3,"2019,2020,2023",4,7,3
+njz,Latn,njz_Latn,Nyishi,6,Nd,DIGIT SIX,14,3,"2019,2020,2023",3,5,6
+njz,Latn,njz_Latn,Nyishi,C,Lu,LATIN CAPITAL LETTER C,12,2,"2019,2023",2,0,10
+njz,Latn,njz_Latn,Nyishi,/,Po,SOLIDUS,11,2,"2019,2023",9,0,2
+njz,Latn,njz_Latn,Nyishi,(,Ps,LEFT PARENTHESIS,11,3,"2019,2020,2023",2,3,6
+njz,Latn,njz_Latn,Nyishi,5,Nd,DIGIT FIVE,11,3,"2019,2020,2023",3,7,1
+njz,Latn,njz_Latn,Nyishi,),Pe,RIGHT PARENTHESIS,11,3,"2019,2020,2023",2,3,6
+njz,Latn,njz_Latn,Nyishi,R,Lu,LATIN CAPITAL LETTER R,10,3,"2019,2020,2023",1,1,8
+njz,Latn,njz_Latn,Nyishi,;,Po,SEMICOLON,8,3,"2019,2020,2023",1,4,3
+njz,Latn,njz_Latn,Nyishi,G,Lu,LATIN CAPITAL LETTER G,8,3,"2019,2020,2023",2,3,3
+njz,Latn,njz_Latn,Nyishi,V,Lu,LATIN CAPITAL LETTER V,7,2,"2019,2023",3,0,4
+njz,Latn,njz_Latn,Nyishi,O,Lu,LATIN CAPITAL LETTER O,7,3,"2019,2020,2023",3,2,2
+njz,Latn,njz_Latn,Nyishi,?,Po,QUESTION MARK,6,1,2020,0,6,0
+njz,Latn,njz_Latn,Nyishi,!,Po,EXCLAMATION MARK,5,1,2020,0,5,0
+njz,Latn,njz_Latn,Nyishi,z,Ll,LATIN SMALL LETTER Z,4,1,2019,4,0,0
+njz,Latn,njz_Latn,Nyishi,—,Pd,EM DASH,3,1,2019,3,0,0
+njz,Latn,njz_Latn,Nyishi,F,Lu,LATIN CAPITAL LETTER F,3,1,2023,0,0,3
+njz,Latn,njz_Latn,Nyishi,U,Lu,LATIN CAPITAL LETTER U,3,1,2023,0,0,3
+njz,Latn,njz_Latn,Nyishi,’,Pf,RIGHT SINGLE QUOTATION MARK,3,1,2020,0,3,0
+njz,Latn,njz_Latn,Nyishi,W,Lu,LATIN CAPITAL LETTER W,2,1,2019,2,0,0
+njz,Latn,njz_Latn,Nyishi,Q,Lu,LATIN CAPITAL LETTER Q,2,1,2019,2,0,0
+njz,Latn,njz_Latn,Nyishi,X,Lu,LATIN CAPITAL LETTER X,2,1,2023,0,0,2
+njz,Latn,njz_Latn,Nyishi,‘,Pi,LEFT SINGLE QUOTATION MARK,2,1,2020,0,2,0
+njz,Latn,njz_Latn,Nyishi,_,Pc,LOW LINE,1,1,2019,1,0,0
+njz,Latn,njz_Latn,Nyishi,|,Sm,VERTICAL LINE,1,1,2019,1,0,0

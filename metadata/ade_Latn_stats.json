@@ -1,0 +1,15 @@
+{
+  "language_code": "ade_Latn",
+  "iso_639_3": "ade",
+  "script": "Latn",
+  "language_name": "Adele",
+  "total_characters": 87,
+  "total_frequency": 125165,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.418354"
+}

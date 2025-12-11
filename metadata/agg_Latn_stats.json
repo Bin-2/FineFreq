@@ -1,0 +1,16 @@
+{
+  "language_code": "agg_Latn",
+  "iso_639_3": "agg",
+  "script": "Latn",
+  "language_name": "Angor",
+  "total_characters": 86,
+  "total_frequency": 3328336,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.578353"
+}

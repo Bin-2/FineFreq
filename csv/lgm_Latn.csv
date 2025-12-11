@@ -1,0 +1,59 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency
+lgm,Latn,lgm_Latn,Lega-Mwenga, ,Zs,SPACE,855,2,"2019,2020",401,454
+lgm,Latn,lgm_Latn,Lega-Mwenga,a,Ll,LATIN SMALL LETTER A,760,2,"2019,2020",383,377
+lgm,Latn,lgm_Latn,Lega-Mwenga,u,Ll,LATIN SMALL LETTER U,586,2,"2019,2020",266,320
+lgm,Latn,lgm_Latn,Lega-Mwenga,i,Ll,LATIN SMALL LETTER I,437,2,"2019,2020",210,227
+lgm,Latn,lgm_Latn,Lega-Mwenga,e,Ll,LATIN SMALL LETTER E,416,2,"2019,2020",170,246
+lgm,Latn,lgm_Latn,Lega-Mwenga,n,Ll,LATIN SMALL LETTER N,398,2,"2019,2020",147,251
+lgm,Latn,lgm_Latn,Lega-Mwenga,b,Ll,LATIN SMALL LETTER B,303,2,"2019,2020",154,149
+lgm,Latn,lgm_Latn,Lega-Mwenga,l,Ll,LATIN SMALL LETTER L,285,2,"2019,2020",140,145
+lgm,Latn,lgm_Latn,Lega-Mwenga,k,Ll,LATIN SMALL LETTER K,243,2,"2019,2020",94,149
+lgm,Latn,lgm_Latn,Lega-Mwenga,o,Ll,LATIN SMALL LETTER O,205,2,"2019,2020",94,111
+lgm,Latn,lgm_Latn,Lega-Mwenga,m,Ll,LATIN SMALL LETTER M,187,2,"2019,2020",80,107
+lgm,Latn,lgm_Latn,Lega-Mwenga,t,Ll,LATIN SMALL LETTER T,169,2,"2019,2020",87,82
+lgm,Latn,lgm_Latn,Lega-Mwenga,g,Ll,LATIN SMALL LETTER G,109,2,"2019,2020",37,72
+lgm,Latn,lgm_Latn,Lega-Mwenga,s,Ll,LATIN SMALL LETTER S,107,2,"2019,2020",50,57
+lgm,Latn,lgm_Latn,Lega-Mwenga,d,Ll,LATIN SMALL LETTER D,90,2,"2019,2020",31,59
+lgm,Latn,lgm_Latn,Lega-Mwenga,",",Po,COMMA,84,2,"2019,2020",28,56
+lgm,Latn,lgm_Latn,Lega-Mwenga,z,Ll,LATIN SMALL LETTER Z,82,2,"2019,2020",38,44
+lgm,Latn,lgm_Latn,Lega-Mwenga,;,Po,SEMICOLON,50,2,"2019,2020",42,8
+lgm,Latn,lgm_Latn,Lega-Mwenga,Y,Lu,LATIN CAPITAL LETTER Y,48,2,"2019,2020",31,17
+lgm,Latn,lgm_Latn,Lega-Mwenga,w,Ll,LATIN SMALL LETTER W,47,2,"2019,2020",27,20
+lgm,Latn,lgm_Latn,Lega-Mwenga,.,Po,FULL STOP,40,2,"2019,2020",17,23
+lgm,Latn,lgm_Latn,Lega-Mwenga,1,Nd,DIGIT ONE,38,2,"2019,2020",17,21
+lgm,Latn,lgm_Latn,Lega-Mwenga,y,Ll,LATIN SMALL LETTER Y,33,2,"2019,2020",22,11
+lgm,Latn,lgm_Latn,Lega-Mwenga,M,Lu,LATIN CAPITAL LETTER M,32,2,"2019,2020",16,16
+lgm,Latn,lgm_Latn,Lega-Mwenga,B,Lu,LATIN CAPITAL LETTER B,29,2,"2019,2020",10,19
+lgm,Latn,lgm_Latn,Lega-Mwenga,A,Lu,LATIN CAPITAL LETTER A,23,2,"2019,2020",19,4
+lgm,Latn,lgm_Latn,Lega-Mwenga,2,Nd,DIGIT TWO,23,2,"2019,2020",14,9
+lgm,Latn,lgm_Latn,Lega-Mwenga,h,Ll,LATIN SMALL LETTER H,19,2,"2019,2020",12,7
+lgm,Latn,lgm_Latn,Lega-Mwenga,N,Lu,LATIN CAPITAL LETTER N,18,2,"2019,2020",6,12
+lgm,Latn,lgm_Latn,Lega-Mwenga,E,Lu,LATIN CAPITAL LETTER E,17,2,"2019,2020",9,8
+lgm,Latn,lgm_Latn,Lega-Mwenga,K,Lu,LATIN CAPITAL LETTER K,15,2,"2019,2020",8,7
+lgm,Latn,lgm_Latn,Lega-Mwenga,:,Po,COLON,15,2,"2019,2020",6,9
+lgm,Latn,lgm_Latn,Lega-Mwenga,H,Lu,LATIN CAPITAL LETTER H,14,2,"2019,2020",4,10
+lgm,Latn,lgm_Latn,Lega-Mwenga,G,Lu,LATIN CAPITAL LETTER G,10,2,"2019,2020",3,7
+lgm,Latn,lgm_Latn,Lega-Mwenga,S,Lu,LATIN CAPITAL LETTER S,10,1,2019,10,0
+lgm,Latn,lgm_Latn,Lega-Mwenga,v,Ll,LATIN SMALL LETTER V,9,2,"2019,2020",6,3
+lgm,Latn,lgm_Latn,Lega-Mwenga,L,Lu,LATIN CAPITAL LETTER L,9,2,"2019,2020",7,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,f,Ll,LATIN SMALL LETTER F,9,2,"2019,2020",7,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,3,Nd,DIGIT THREE,9,2,"2019,2020",5,4
+lgm,Latn,lgm_Latn,Lega-Mwenga,5,Nd,DIGIT FIVE,8,2,"2019,2020",4,4
+lgm,Latn,lgm_Latn,Lega-Mwenga,4,Nd,DIGIT FOUR,7,2,"2019,2020",5,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,U,Lu,LATIN CAPITAL LETTER U,7,2,"2019,2020",6,1
+lgm,Latn,lgm_Latn,Lega-Mwenga,#,Po,NUMBER SIGN,6,2,"2019,2020",2,4
+lgm,Latn,lgm_Latn,Lega-Mwenga,7,Nd,DIGIT SEVEN,6,2,"2019,2020",4,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,p,Ll,LATIN SMALL LETTER P,6,1,2020,0,6
+lgm,Latn,lgm_Latn,Lega-Mwenga,I,Lu,LATIN CAPITAL LETTER I,6,2,"2019,2020",2,4
+lgm,Latn,lgm_Latn,Lega-Mwenga,D,Lu,LATIN CAPITAL LETTER D,6,1,2019,6,0
+lgm,Latn,lgm_Latn,Lega-Mwenga,6,Nd,DIGIT SIX,5,2,"2019,2020",3,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,0,Nd,DIGIT ZERO,5,2,"2019,2020",3,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,8,Nd,DIGIT EIGHT,4,2,"2019,2020",2,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,9,Nd,DIGIT NINE,4,2,"2019,2020",2,2
+lgm,Latn,lgm_Latn,Lega-Mwenga,T,Lu,LATIN CAPITAL LETTER T,4,2,"2019,2020",1,3
+lgm,Latn,lgm_Latn,Lega-Mwenga,W,Lu,LATIN CAPITAL LETTER W,4,2,"2019,2020",3,1
+lgm,Latn,lgm_Latn,Lega-Mwenga,O,Lu,LATIN CAPITAL LETTER O,3,2,"2019,2020",2,1
+lgm,Latn,lgm_Latn,Lega-Mwenga,Z,Lu,LATIN CAPITAL LETTER Z,3,1,2019,3,0
+lgm,Latn,lgm_Latn,Lega-Mwenga,-,Pd,HYPHEN-MINUS,3,1,2019,3,0
+lgm,Latn,lgm_Latn,Lega-Mwenga,?,Po,QUESTION MARK,3,1,2020,0,3
+lgm,Latn,lgm_Latn,Lega-Mwenga,P,Lu,LATIN CAPITAL LETTER P,2,1,2019,2,0

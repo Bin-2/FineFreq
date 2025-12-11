@@ -1,0 +1,64 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2020_frequency
+ksb,Latn,ksb_Latn,Shambala,a,Ll,LATIN SMALL LETTER A,1373,3,"2018,2019,2020",458,459,456
+ksb,Latn,ksb_Latn,Shambala, ,Zs,SPACE,1036,3,"2018,2019,2020",336,339,361
+ksb,Latn,ksb_Latn,Shambala,i,Ll,LATIN SMALL LETTER I,568,3,"2018,2019,2020",189,192,187
+ksb,Latn,ksb_Latn,Shambala,m,Ll,LATIN SMALL LETTER M,378,3,"2018,2019,2020",126,126,126
+ksb,Latn,ksb_Latn,Shambala,l,Ll,LATIN SMALL LETTER L,354,3,"2018,2019,2020",118,119,117
+ksb,Latn,ksb_Latn,Shambala,n,Ll,LATIN SMALL LETTER N,349,3,"2018,2019,2020",125,99,125
+ksb,Latn,ksb_Latn,Shambala,e,Ll,LATIN SMALL LETTER E,330,3,"2018,2019,2020",110,112,108
+ksb,Latn,ksb_Latn,Shambala,u,Ll,LATIN SMALL LETTER U,304,3,"2018,2019,2020",100,104,100
+ksb,Latn,ksb_Latn,Shambala,y,Ll,LATIN SMALL LETTER Y,279,3,"2018,2019,2020",93,94,92
+ksb,Latn,ksb_Latn,Shambala,o,Ll,LATIN SMALL LETTER O,240,3,"2018,2019,2020",80,81,79
+ksb,Latn,ksb_Latn,Shambala,z,Ll,LATIN SMALL LETTER Z,234,3,"2018,2019,2020",78,78,78
+ksb,Latn,ksb_Latn,Shambala,w,Ll,LATIN SMALL LETTER W,229,3,"2018,2019,2020",76,77,76
+ksb,Latn,ksb_Latn,Shambala,k,Ll,LATIN SMALL LETTER K,212,3,"2018,2019,2020",70,72,70
+ksb,Latn,ksb_Latn,Shambala,",",Po,COMMA,162,3,"2018,2019,2020",54,54,54
+ksb,Latn,ksb_Latn,Shambala,v,Ll,LATIN SMALL LETTER V,160,3,"2018,2019,2020",53,54,53
+ksb,Latn,ksb_Latn,Shambala,s,Ll,LATIN SMALL LETTER S,147,3,"2018,2019,2020",48,51,48
+ksb,Latn,ksb_Latn,Shambala,b,Ll,LATIN SMALL LETTER B,132,3,"2018,2019,2020",44,44,44
+ksb,Latn,ksb_Latn,Shambala,h,Ll,LATIN SMALL LETTER H,129,3,"2018,2019,2020",44,42,43
+ksb,Latn,ksb_Latn,Shambala,t,Ll,LATIN SMALL LETTER T,123,3,"2018,2019,2020",42,41,40
+ksb,Latn,ksb_Latn,Shambala,d,Ll,LATIN SMALL LETTER D,106,3,"2018,2019,2020",36,35,35
+ksb,Latn,ksb_Latn,Shambala,Y,Lu,LATIN CAPITAL LETTER Y,86,3,"2018,2019,2020",28,30,28
+ksb,Latn,ksb_Latn,Shambala,g,Ll,LATIN SMALL LETTER G,86,3,"2018,2019,2020",38,11,37
+ksb,Latn,ksb_Latn,Shambala,.,Po,FULL STOP,66,3,"2018,2019,2020",21,24,21
+ksb,Latn,ksb_Latn,Shambala,',Po,APOSTROPHE,56,2,"2018,2020",28,0,28
+ksb,Latn,ksb_Latn,Shambala,A,Lu,LATIN CAPITAL LETTER A,54,3,"2018,2019,2020",18,18,18
+ksb,Latn,ksb_Latn,Shambala,1,Nd,DIGIT ONE,43,3,"2018,2019,2020",13,16,14
+ksb,Latn,ksb_Latn,Shambala,M,Lu,LATIN CAPITAL LETTER M,41,3,"2018,2019,2020",14,14,13
+ksb,Latn,ksb_Latn,Shambala,2,Nd,DIGIT TWO,27,3,"2018,2019,2020",9,9,9
+ksb,Latn,ksb_Latn,Shambala,S,Lu,LATIN CAPITAL LETTER S,24,3,"2018,2019,2020",8,8,8
+ksb,Latn,ksb_Latn,Shambala,j,Ll,LATIN SMALL LETTER J,24,3,"2018,2019,2020",8,8,8
+ksb,Latn,ksb_Latn,Shambala,f,Ll,LATIN SMALL LETTER F,21,3,"2018,2019,2020",7,7,7
+ksb,Latn,ksb_Latn,Shambala,L,Lu,LATIN CAPITAL LETTER L,21,3,"2018,2019,2020",7,7,7
+ksb,Latn,ksb_Latn,Shambala,p,Ll,LATIN SMALL LETTER P,19,3,"2018,2019,2020",7,6,6
+ksb,Latn,ksb_Latn,Shambala,D,Lu,LATIN CAPITAL LETTER D,18,3,"2018,2019,2020",6,6,6
+ksb,Latn,ksb_Latn,Shambala,E,Lu,LATIN CAPITAL LETTER E,18,3,"2018,2019,2020",6,6,6
+ksb,Latn,ksb_Latn,Shambala,I,Lu,LATIN CAPITAL LETTER I,18,3,"2018,2019,2020",6,6,6
+ksb,Latn,ksb_Latn,Shambala,Z,Lu,LATIN CAPITAL LETTER Z,18,3,"2018,2019,2020",6,6,6
+ksb,Latn,ksb_Latn,Shambala,B,Lu,LATIN CAPITAL LETTER B,18,3,"2018,2019,2020",6,6,6
+ksb,Latn,ksb_Latn,Shambala,γ,Ll,GREEK SMALL LETTER GAMMA,17,1,2019,0,17,0
+ksb,Latn,ksb_Latn,Shambala,K,Lu,LATIN CAPITAL LETTER K,16,3,"2018,2019,2020",5,6,5
+ksb,Latn,ksb_Latn,Shambala,H,Lu,LATIN CAPITAL LETTER H,15,3,"2018,2019,2020",5,5,5
+ksb,Latn,ksb_Latn,Shambala,:,Po,COLON,15,3,"2018,2019,2020",5,5,5
+ksb,Latn,ksb_Latn,Shambala,N,Lu,LATIN CAPITAL LETTER N,12,3,"2018,2019,2020",4,4,4
+ksb,Latn,ksb_Latn,Shambala,ṅ,Ll,LATIN SMALL LETTER N WITH DOT ABOVE,10,1,2019,0,10,0
+ksb,Latn,ksb_Latn,Shambala,4,Nd,DIGIT FOUR,9,3,"2018,2019,2020",3,3,3
+ksb,Latn,ksb_Latn,Shambala,3,Nd,DIGIT THREE,9,3,"2018,2019,2020",3,3,3
+ksb,Latn,ksb_Latn,Shambala,5,Nd,DIGIT FIVE,9,3,"2018,2019,2020",3,3,3
+ksb,Latn,ksb_Latn,Shambala,U,Lu,LATIN CAPITAL LETTER U,9,3,"2018,2019,2020",3,3,3
+ksb,Latn,ksb_Latn,Shambala,7,Nd,DIGIT SEVEN,7,3,"2018,2019,2020",2,3,2
+ksb,Latn,ksb_Latn,Shambala,c,Ll,LATIN SMALL LETTER C,7,3,"2018,2019,2020",2,3,2
+ksb,Latn,ksb_Latn,Shambala,6,Nd,DIGIT SIX,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,8,Nd,DIGIT EIGHT,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,O,Lu,LATIN CAPITAL LETTER O,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,0,Nd,DIGIT ZERO,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,9,Nd,DIGIT NINE,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,P,Lu,LATIN CAPITAL LETTER P,6,3,"2018,2019,2020",2,2,2
+ksb,Latn,ksb_Latn,Shambala,W,Lu,LATIN CAPITAL LETTER W,3,3,"2018,2019,2020",1,1,1
+ksb,Latn,ksb_Latn,Shambala,!,Po,EXCLAMATION MARK,3,3,"2018,2019,2020",1,1,1
+ksb,Latn,ksb_Latn,Shambala,;,Po,SEMICOLON,3,3,"2018,2019,2020",1,1,1
+ksb,Latn,ksb_Latn,Shambala,T,Lu,LATIN CAPITAL LETTER T,3,3,"2018,2019,2020",1,1,1
+ksb,Latn,ksb_Latn,Shambala,C,Lu,LATIN CAPITAL LETTER C,2,2,"2018,2019",1,1,0
+ksb,Latn,ksb_Latn,Shambala,r,Ll,LATIN SMALL LETTER R,2,1,2018,2,0,0
+ksb,Latn,ksb_Latn,Shambala,-,Pd,HYPHEN-MINUS,1,1,2019,0,1,0

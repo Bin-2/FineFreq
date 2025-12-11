@@ -1,0 +1,70 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency
+ivb,Latn,ivb_Latn,Ibatan,a,Ll,LATIN SMALL LETTER A,2574,2,"2019,2021",938,1636
+ivb,Latn,ivb_Latn,Ibatan, ,Zs,SPACE,2336,2,"2019,2021",868,1468
+ivb,Latn,ivb_Latn,Ibatan,n,Ll,LATIN SMALL LETTER N,1203,2,"2019,2021",466,737
+ivb,Latn,ivb_Latn,Ibatan,o,Ll,LATIN SMALL LETTER O,797,2,"2019,2021",367,430
+ivb,Latn,ivb_Latn,Ibatan,i,Ll,LATIN SMALL LETTER I,563,2,"2019,2021",195,368
+ivb,Latn,ivb_Latn,Ibatan,y,Ll,LATIN SMALL LETTER Y,512,2,"2019,2021",239,273
+ivb,Latn,ivb_Latn,Ibatan,k,Ll,LATIN SMALL LETTER K,448,2,"2019,2021",164,284
+ivb,Latn,ivb_Latn,Ibatan,s,Ll,LATIN SMALL LETTER S,406,2,"2019,2021",173,233
+ivb,Latn,ivb_Latn,Ibatan,t,Ll,LATIN SMALL LETTER T,404,2,"2019,2021",117,287
+ivb,Latn,ivb_Latn,Ibatan,d,Ll,LATIN SMALL LETTER D,374,2,"2019,2021",110,264
+ivb,Latn,ivb_Latn,Ibatan,m,Ll,LATIN SMALL LETTER M,368,2,"2019,2021",162,206
+ivb,Latn,ivb_Latn,Ibatan,w,Ll,LATIN SMALL LETTER W,348,2,"2019,2021",134,214
+ivb,Latn,ivb_Latn,Ibatan,r,Ll,LATIN SMALL LETTER R,308,2,"2019,2021",122,186
+ivb,Latn,ivb_Latn,Ibatan,p,Ll,LATIN SMALL LETTER P,305,2,"2019,2021",98,207
+ivb,Latn,ivb_Latn,Ibatan,b,Ll,LATIN SMALL LETTER B,234,2,"2019,2021",103,131
+ivb,Latn,ivb_Latn,Ibatan,h,Ll,LATIN SMALL LETTER H,206,2,"2019,2021",74,132
+ivb,Latn,ivb_Latn,Ibatan,e,Ll,LATIN SMALL LETTER E,199,2,"2019,2021",55,144
+ivb,Latn,ivb_Latn,Ibatan,",",Po,COMMA,195,2,"2019,2021",64,131
+ivb,Latn,ivb_Latn,Ibatan,g,Ll,LATIN SMALL LETTER G,170,2,"2019,2021",55,115
+ivb,Latn,ivb_Latn,Ibatan,.,Po,FULL STOP,168,2,"2019,2021",74,94
+ivb,Latn,ivb_Latn,Ibatan,1,Nd,DIGIT ONE,93,2,"2019,2021",36,57
+ivb,Latn,ivb_Latn,Ibatan,D,Lu,LATIN CAPITAL LETTER D,69,2,"2019,2021",37,32
+ivb,Latn,ivb_Latn,Ibatan,ā,Ll,LATIN SMALL LETTER A WITH MACRON,67,2,"2019,2021",18,49
+ivb,Latn,ivb_Latn,Ibatan,c,Ll,LATIN SMALL LETTER C,66,2,"2019,2021",20,46
+ivb,Latn,ivb_Latn,Ibatan,l,Ll,LATIN SMALL LETTER L,64,2,"2019,2021",23,41
+ivb,Latn,ivb_Latn,Ibatan,2,Nd,DIGIT TWO,61,2,"2019,2021",20,41
+ivb,Latn,ivb_Latn,Ibatan,A,Lu,LATIN CAPITAL LETTER A,50,2,"2019,2021",6,44
+ivb,Latn,ivb_Latn,Ibatan,K,Lu,LATIN CAPITAL LETTER K,41,2,"2019,2021",15,26
+ivb,Latn,ivb_Latn,Ibatan,S,Lu,LATIN CAPITAL LETTER S,39,2,"2019,2021",6,33
+ivb,Latn,ivb_Latn,Ibatan,ō,Ll,LATIN SMALL LETTER O WITH MACRON,36,2,"2019,2021",2,34
+ivb,Latn,ivb_Latn,Ibatan,“,Pi,LEFT DOUBLE QUOTATION MARK,35,2,"2019,2021",19,16
+ivb,Latn,ivb_Latn,Ibatan,:,Po,COLON,35,2,"2019,2021",15,20
+ivb,Latn,ivb_Latn,Ibatan,”,Pf,RIGHT DOUBLE QUOTATION MARK,34,2,"2019,2021",19,15
+ivb,Latn,ivb_Latn,Ibatan,M,Lu,LATIN CAPITAL LETTER M,31,2,"2019,2021",13,18
+ivb,Latn,ivb_Latn,Ibatan,Ā,Lu,LATIN CAPITAL LETTER A WITH MACRON,30,2,"2019,2021",16,14
+ivb,Latn,ivb_Latn,Ibatan,N,Lu,LATIN CAPITAL LETTER N,30,2,"2019,2021",7,23
+ivb,Latn,ivb_Latn,Ibatan,P,Lu,LATIN CAPITAL LETTER P,28,2,"2019,2021",9,19
+ivb,Latn,ivb_Latn,Ibatan,0,Nd,DIGIT ZERO,25,2,"2019,2021",6,19
+ivb,Latn,ivb_Latn,Ibatan,3,Nd,DIGIT THREE,24,2,"2019,2021",7,17
+ivb,Latn,ivb_Latn,Ibatan,H,Lu,LATIN CAPITAL LETTER H,20,2,"2019,2021",7,13
+ivb,Latn,ivb_Latn,Ibatan,I,Lu,LATIN CAPITAL LETTER I,18,2,"2019,2021",13,5
+ivb,Latn,ivb_Latn,Ibatan,O,Lu,LATIN CAPITAL LETTER O,17,2,"2019,2021",3,14
+ivb,Latn,ivb_Latn,Ibatan,4,Nd,DIGIT FOUR,17,2,"2019,2021",6,11
+ivb,Latn,ivb_Latn,Ibatan,5,Nd,DIGIT FIVE,15,2,"2019,2021",7,8
+ivb,Latn,ivb_Latn,Ibatan,B,Lu,LATIN CAPITAL LETTER B,14,2,"2019,2021",2,12
+ivb,Latn,ivb_Latn,Ibatan,8,Nd,DIGIT EIGHT,14,2,"2019,2021",3,11
+ivb,Latn,ivb_Latn,Ibatan,7,Nd,DIGIT SEVEN,14,2,"2019,2021",6,8
+ivb,Latn,ivb_Latn,Ibatan,T,Lu,LATIN CAPITAL LETTER T,14,2,"2019,2021",3,11
+ivb,Latn,ivb_Latn,Ibatan,#,Po,NUMBER SIGN,14,2,"2019,2021",7,7
+ivb,Latn,ivb_Latn,Ibatan,6,Nd,DIGIT SIX,14,2,"2019,2021",6,8
+ivb,Latn,ivb_Latn,Ibatan,9,Nd,DIGIT NINE,13,2,"2019,2021",5,8
+ivb,Latn,ivb_Latn,Ibatan,;,Po,SEMICOLON,12,2,"2019,2021",5,7
+ivb,Latn,ivb_Latn,Ibatan,E,Lu,LATIN CAPITAL LETTER E,10,1,2021,0,10
+ivb,Latn,ivb_Latn,Ibatan,-,Pd,HYPHEN-MINUS,8,2,"2019,2021",5,3
+ivb,Latn,ivb_Latn,Ibatan,Y,Lu,LATIN CAPITAL LETTER Y,8,1,2021,0,8
+ivb,Latn,ivb_Latn,Ibatan,L,Lu,LATIN CAPITAL LETTER L,6,2,"2019,2021",1,5
+ivb,Latn,ivb_Latn,Ibatan,ī,Ll,LATIN SMALL LETTER I WITH MACRON,6,2,"2019,2021",1,5
+ivb,Latn,ivb_Latn,Ibatan,G,Lu,LATIN CAPITAL LETTER G,5,1,2021,0,5
+ivb,Latn,ivb_Latn,Ibatan,!,Po,EXCLAMATION MARK,4,1,2021,0,4
+ivb,Latn,ivb_Latn,Ibatan,C,Lu,LATIN CAPITAL LETTER C,4,1,2021,0,4
+ivb,Latn,ivb_Latn,Ibatan,R,Lu,LATIN CAPITAL LETTER R,3,1,2021,0,3
+ivb,Latn,ivb_Latn,Ibatan,?,Po,QUESTION MARK,3,1,2021,0,3
+ivb,Latn,ivb_Latn,Ibatan,J,Lu,LATIN CAPITAL LETTER J,2,1,2019,2,0
+ivb,Latn,ivb_Latn,Ibatan,U,Lu,LATIN CAPITAL LETTER U,2,1,2021,0,2
+ivb,Latn,ivb_Latn,Ibatan,(,Ps,LEFT PARENTHESIS,1,1,2021,0,1
+ivb,Latn,ivb_Latn,Ibatan,),Pe,RIGHT PARENTHESIS,1,1,2021,0,1
+ivb,Latn,ivb_Latn,Ibatan,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2021,0,1
+ivb,Latn,ivb_Latn,Ibatan,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2021,0,1
+ivb,Latn,ivb_Latn,Ibatan,ē,Ll,LATIN SMALL LETTER E WITH MACRON,1,1,2021,0,1

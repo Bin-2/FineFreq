@@ -1,0 +1,21 @@
+{
+  "language_code": "tuo_Latn",
+  "iso_639_3": "tuo",
+  "script": "Latn",
+  "language_name": "Tucano",
+  "total_characters": 124,
+  "total_frequency": 1928022,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:13.382852"
+}

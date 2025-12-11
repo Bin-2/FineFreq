@@ -1,0 +1,19 @@
+{
+  "language_code": "tem_Latn",
+  "iso_639_3": "tem",
+  "script": "Latn",
+  "language_name": "Timne",
+  "total_characters": 91,
+  "total_frequency": 52770,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:12.142564"
+}

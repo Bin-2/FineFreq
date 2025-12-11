@@ -1,0 +1,18 @@
+{
+  "language_code": "nko_Latn",
+  "iso_639_3": "nko",
+  "script": "Latn",
+  "language_name": "Nkonya",
+  "total_characters": 112,
+  "total_frequency": 391377,
+  "years_covered": [
+    "2014",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:06.108449"
+}

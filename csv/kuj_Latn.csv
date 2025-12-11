@@ -1,0 +1,65 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2022_frequency
+kuj,Latn,kuj_Latn,Kuria,a,Ll,LATIN SMALL LETTER A,2406,2,"2019,2022",1856,550
+kuj,Latn,kuj_Latn,Kuria, ,Zs,SPACE,1812,2,"2019,2022",1260,552
+kuj,Latn,kuj_Latn,Kuria,i,Ll,LATIN SMALL LETTER I,1098,2,"2019,2022",726,372
+kuj,Latn,kuj_Latn,Kuria,o,Ll,LATIN SMALL LETTER O,840,2,"2019,2022",659,181
+kuj,Latn,kuj_Latn,Kuria,n,Ll,LATIN SMALL LETTER N,799,2,"2019,2022",579,220
+kuj,Latn,kuj_Latn,Kuria,r,Ll,LATIN SMALL LETTER R,790,2,"2019,2022",621,169
+kuj,Latn,kuj_Latn,Kuria,e,Ll,LATIN SMALL LETTER E,769,2,"2019,2022",665,104
+kuj,Latn,kuj_Latn,Kuria,u,Ll,LATIN SMALL LETTER U,670,2,"2019,2022",476,194
+kuj,Latn,kuj_Latn,Kuria,b,Ll,LATIN SMALL LETTER B,630,2,"2019,2022",432,198
+kuj,Latn,kuj_Latn,Kuria,k,Ll,LATIN SMALL LETTER K,611,2,"2019,2022",414,197
+kuj,Latn,kuj_Latn,Kuria,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,546,2,"2019,2022",366,180
+kuj,Latn,kuj_Latn,Kuria,g,Ll,LATIN SMALL LETTER G,524,2,"2019,2022",360,164
+kuj,Latn,kuj_Latn,Kuria,h,Ll,LATIN SMALL LETTER H,504,2,"2019,2022",194,310
+kuj,Latn,kuj_Latn,Kuria,m,Ll,LATIN SMALL LETTER M,388,2,"2019,2022",292,96
+kuj,Latn,kuj_Latn,Kuria,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,346,2,"2019,2022",191,155
+kuj,Latn,kuj_Latn,Kuria,t,Ll,LATIN SMALL LETTER T,269,2,"2019,2022",186,83
+kuj,Latn,kuj_Latn,Kuria,y,Ll,LATIN SMALL LETTER Y,231,2,"2019,2022",168,63
+kuj,Latn,kuj_Latn,Kuria,s,Ll,LATIN SMALL LETTER S,221,2,"2019,2022",175,46
+kuj,Latn,kuj_Latn,Kuria,",",Po,COMMA,187,2,"2019,2022",133,54
+kuj,Latn,kuj_Latn,Kuria,c,Ll,LATIN SMALL LETTER C,145,2,"2019,2022",68,77
+kuj,Latn,kuj_Latn,Kuria,.,Po,FULL STOP,107,2,"2019,2022",65,42
+kuj,Latn,kuj_Latn,Kuria,1,Nd,DIGIT ONE,80,2,"2019,2022",58,22
+kuj,Latn,kuj_Latn,Kuria,Y,Lu,LATIN CAPITAL LETTER Y,78,1,2019,78,0
+kuj,Latn,kuj_Latn,Kuria,w,Ll,LATIN SMALL LETTER W,68,2,"2019,2022",67,1
+kuj,Latn,kuj_Latn,Kuria,M,Lu,LATIN CAPITAL LETTER M,51,2,"2019,2022",47,4
+kuj,Latn,kuj_Latn,Kuria,2,Nd,DIGIT TWO,50,2,"2019,2022",30,20
+kuj,Latn,kuj_Latn,Kuria,H,Lu,LATIN CAPITAL LETTER H,45,2,"2019,2022",39,6
+kuj,Latn,kuj_Latn,Kuria,“,Pi,LEFT DOUBLE QUOTATION MARK,38,2,"2019,2022",21,17
+kuj,Latn,kuj_Latn,Kuria,”,Pf,RIGHT DOUBLE QUOTATION MARK,38,2,"2019,2022",21,17
+kuj,Latn,kuj_Latn,Kuria,d,Ll,LATIN SMALL LETTER D,36,2,"2019,2022",34,2
+kuj,Latn,kuj_Latn,Kuria,Ë,Lu,LATIN CAPITAL LETTER E WITH DIAERESIS,35,1,2022,0,35
+kuj,Latn,kuj_Latn,Kuria,A,Lu,LATIN CAPITAL LETTER A,33,1,2019,33,0
+kuj,Latn,kuj_Latn,Kuria,',Po,APOSTROPHE,31,2,"2019,2022",23,8
+kuj,Latn,kuj_Latn,Kuria,N,Lu,LATIN CAPITAL LETTER N,30,2,"2019,2022",27,3
+kuj,Latn,kuj_Latn,Kuria,:,Po,COLON,26,2,"2019,2022",16,10
+kuj,Latn,kuj_Latn,Kuria,S,Lu,LATIN CAPITAL LETTER S,26,2,"2019,2022",24,2
+kuj,Latn,kuj_Latn,Kuria,B,Lu,LATIN CAPITAL LETTER B,24,2,"2019,2022",16,8
+kuj,Latn,kuj_Latn,Kuria,T,Lu,LATIN CAPITAL LETTER T,23,2,"2019,2022",15,8
+kuj,Latn,kuj_Latn,Kuria,3,Nd,DIGIT THREE,22,2,"2019,2022",14,8
+kuj,Latn,kuj_Latn,Kuria,;,Po,SEMICOLON,22,2,"2019,2022",15,7
+kuj,Latn,kuj_Latn,Kuria,R,Lu,LATIN CAPITAL LETTER R,21,1,2019,21,0
+kuj,Latn,kuj_Latn,Kuria,4,Nd,DIGIT FOUR,19,2,"2019,2022",13,6
+kuj,Latn,kuj_Latn,Kuria,5,Nd,DIGIT FIVE,16,2,"2019,2022",11,5
+kuj,Latn,kuj_Latn,Kuria,G,Lu,LATIN CAPITAL LETTER G,16,2,"2019,2022",13,3
+kuj,Latn,kuj_Latn,Kuria,I,Lu,LATIN CAPITAL LETTER I,16,2,"2019,2022",9,7
+kuj,Latn,kuj_Latn,Kuria,K,Lu,LATIN CAPITAL LETTER K,14,2,"2019,2022",10,4
+kuj,Latn,kuj_Latn,Kuria,7,Nd,DIGIT SEVEN,14,2,"2019,2022",8,6
+kuj,Latn,kuj_Latn,Kuria,6,Nd,DIGIT SIX,13,2,"2019,2022",8,5
+kuj,Latn,kuj_Latn,Kuria,(,Ps,LEFT PARENTHESIS,12,1,2019,12,0
+kuj,Latn,kuj_Latn,Kuria,),Pe,RIGHT PARENTHESIS,12,1,2019,12,0
+kuj,Latn,kuj_Latn,Kuria,8,Nd,DIGIT EIGHT,11,2,"2019,2022",7,4
+kuj,Latn,kuj_Latn,Kuria,0,Nd,DIGIT ZERO,11,2,"2019,2022",7,4
+kuj,Latn,kuj_Latn,Kuria,9,Nd,DIGIT NINE,11,2,"2019,2022",7,4
+kuj,Latn,kuj_Latn,Kuria,E,Lu,LATIN CAPITAL LETTER E,10,1,2019,10,0
+kuj,Latn,kuj_Latn,Kuria,O,Lu,LATIN CAPITAL LETTER O,10,1,2019,10,0
+kuj,Latn,kuj_Latn,Kuria,-,Pd,HYPHEN-MINUS,9,1,2019,9,0
+kuj,Latn,kuj_Latn,Kuria,U,Lu,LATIN CAPITAL LETTER U,8,2,"2019,2022",7,1
+kuj,Latn,kuj_Latn,Kuria,‘,Pi,LEFT SINGLE QUOTATION MARK,5,1,2019,5,0
+kuj,Latn,kuj_Latn,Kuria,’,Pf,RIGHT SINGLE QUOTATION MARK,5,1,2019,5,0
+kuj,Latn,kuj_Latn,Kuria,!,Po,EXCLAMATION MARK,5,1,2019,5,0
+kuj,Latn,kuj_Latn,Kuria,#,Po,NUMBER SIGN,5,1,2022,0,5
+kuj,Latn,kuj_Latn,Kuria,Ö,Lu,LATIN CAPITAL LETTER O WITH DIAERESIS,3,1,2022,0,3
+kuj,Latn,kuj_Latn,Kuria,?,Po,QUESTION MARK,2,1,2019,2,0
+kuj,Latn,kuj_Latn,Kuria,W,Lu,LATIN CAPITAL LETTER W,2,1,2019,2,0

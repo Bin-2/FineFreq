@@ -1,0 +1,18 @@
+{
+  "language_code": "mbc_Latn",
+  "iso_639_3": "mbc",
+  "script": "Latn",
+  "language_name": "Macushi",
+  "total_characters": 112,
+  "total_frequency": 518698,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:02.776407"
+}

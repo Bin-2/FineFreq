@@ -1,0 +1,21 @@
+{
+  "language_code": "mer_Latn",
+  "iso_639_3": "mer",
+  "script": "Latn",
+  "language_name": "Meru",
+  "total_characters": 100,
+  "total_frequency": 431782,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.176684"
+}

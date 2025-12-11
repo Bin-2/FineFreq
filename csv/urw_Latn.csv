@@ -1,0 +1,57 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency,year_2021_frequency
+urw,Latn,urw_Latn,Sop, ,Zs,SPACE,1672,3,"2019,2020,2021",423,575,674
+urw,Latn,urw_Latn,Sop,a,Ll,LATIN SMALL LETTER A,1665,3,"2019,2020,2021",392,545,728
+urw,Latn,urw_Latn,Sop,e,Ll,LATIN SMALL LETTER E,1122,3,"2019,2020,2021",292,383,447
+urw,Latn,urw_Latn,Sop,g,Ll,LATIN SMALL LETTER G,866,3,"2019,2020,2021",219,292,355
+urw,Latn,urw_Latn,Sop,n,Ll,LATIN SMALL LETTER N,702,3,"2019,2020,2021",166,219,317
+urw,Latn,urw_Latn,Sop,r,Ll,LATIN SMALL LETTER R,677,3,"2019,2020,2021",155,228,294
+urw,Latn,urw_Latn,Sop,i,Ll,LATIN SMALL LETTER I,641,3,"2019,2020,2021",155,214,272
+urw,Latn,urw_Latn,Sop,b,Ll,LATIN SMALL LETTER B,582,3,"2019,2020,2021",114,171,297
+urw,Latn,urw_Latn,Sop,u,Ll,LATIN SMALL LETTER U,468,3,"2019,2020,2021",109,150,209
+urw,Latn,urw_Latn,Sop,m,Ll,LATIN SMALL LETTER M,354,3,"2019,2020,2021",96,115,143
+urw,Latn,urw_Latn,Sop,d,Ll,LATIN SMALL LETTER D,339,3,"2019,2020,2021",92,124,123
+urw,Latn,urw_Latn,Sop,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,317,3,"2019,2020,2021",65,95,157
+urw,Latn,urw_Latn,Sop,o,Ll,LATIN SMALL LETTER O,292,3,"2019,2020,2021",79,108,105
+urw,Latn,urw_Latn,Sop,k,Ll,LATIN SMALL LETTER K,258,3,"2019,2020,2021",58,77,123
+urw,Latn,urw_Latn,Sop,w,Ll,LATIN SMALL LETTER W,217,3,"2019,2020,2021",58,79,80
+urw,Latn,urw_Latn,Sop,t,Ll,LATIN SMALL LETTER T,161,3,"2019,2020,2021",39,51,71
+urw,Latn,urw_Latn,Sop,.,Po,FULL STOP,161,3,"2019,2020,2021",37,49,75
+urw,Latn,urw_Latn,Sop,s,Ll,LATIN SMALL LETTER S,160,3,"2019,2020,2021",50,56,54
+urw,Latn,urw_Latn,Sop,",",Po,COMMA,157,3,"2019,2020,2021",36,51,70
+urw,Latn,urw_Latn,Sop,f,Ll,LATIN SMALL LETTER F,150,3,"2019,2020,2021",34,53,63
+urw,Latn,urw_Latn,Sop,Y,Lu,LATIN CAPITAL LETTER Y,125,3,"2019,2020,2021",33,50,42
+urw,Latn,urw_Latn,Sop,y,Ll,LATIN SMALL LETTER Y,93,3,"2019,2020,2021",22,24,47
+urw,Latn,urw_Latn,Sop,B,Lu,LATIN CAPITAL LETTER B,72,3,"2019,2020,2021",22,27,23
+urw,Latn,urw_Latn,Sop,N,Lu,LATIN CAPITAL LETTER N,70,3,"2019,2020,2021",19,21,30
+urw,Latn,urw_Latn,Sop,K,Lu,LATIN CAPITAL LETTER K,68,3,"2019,2020,2021",16,26,26
+urw,Latn,urw_Latn,Sop,1,Nd,DIGIT ONE,33,3,"2019,2020,2021",12,12,9
+urw,Latn,urw_Latn,Sop,”,Pf,RIGHT DOUBLE QUOTATION MARK,31,3,"2019,2020,2021",10,10,11
+urw,Latn,urw_Latn,Sop,“,Pi,LEFT DOUBLE QUOTATION MARK,31,3,"2019,2020,2021",10,10,11
+urw,Latn,urw_Latn,Sop,p,Ll,LATIN SMALL LETTER P,17,3,"2019,2020,2021",1,7,9
+urw,Latn,urw_Latn,Sop,?,Po,QUESTION MARK,14,3,"2019,2020,2021",6,6,2
+urw,Latn,urw_Latn,Sop,2,Nd,DIGIT TWO,10,3,"2019,2020,2021",3,3,4
+urw,Latn,urw_Latn,Sop,0,Nd,DIGIT ZERO,10,3,"2019,2020,2021",1,1,8
+urw,Latn,urw_Latn,Sop,4,Nd,DIGIT FOUR,8,3,"2019,2020,2021",2,2,4
+urw,Latn,urw_Latn,Sop,I,Lu,LATIN CAPITAL LETTER I,7,3,"2019,2020,2021",2,3,2
+urw,Latn,urw_Latn,Sop,3,Nd,DIGIT THREE,7,3,"2019,2020,2021",2,2,3
+urw,Latn,urw_Latn,Sop,5,Nd,DIGIT FIVE,7,3,"2019,2020,2021",2,2,3
+urw,Latn,urw_Latn,Sop,6,Nd,DIGIT SIX,7,3,"2019,2020,2021",2,2,3
+urw,Latn,urw_Latn,Sop,7,Nd,DIGIT SEVEN,7,3,"2019,2020,2021",2,2,3
+urw,Latn,urw_Latn,Sop,F,Lu,LATIN CAPITAL LETTER F,6,3,"2019,2020,2021",1,2,3
+urw,Latn,urw_Latn,Sop,8,Nd,DIGIT EIGHT,5,3,"2019,2020,2021",1,1,3
+urw,Latn,urw_Latn,Sop,T,Lu,LATIN CAPITAL LETTER T,5,3,"2019,2020,2021",2,2,1
+urw,Latn,urw_Latn,Sop,S,Lu,LATIN CAPITAL LETTER S,5,3,"2019,2020,2021",1,1,3
+urw,Latn,urw_Latn,Sop,9,Nd,DIGIT NINE,5,3,"2019,2020,2021",1,1,3
+urw,Latn,urw_Latn,Sop,A,Lu,LATIN CAPITAL LETTER A,4,2,"2019,2020",2,2,0
+urw,Latn,urw_Latn,Sop,O,Lu,LATIN CAPITAL LETTER O,4,2,"2019,2020",2,2,0
+urw,Latn,urw_Latn,Sop,),Pe,RIGHT PARENTHESIS,3,3,"2019,2020,2021",1,1,1
+urw,Latn,urw_Latn,Sop,(,Ps,LEFT PARENTHESIS,3,3,"2019,2020,2021",1,1,1
+urw,Latn,urw_Latn,Sop,D,Lu,LATIN CAPITAL LETTER D,3,2,"2020,2021",0,1,2
+urw,Latn,urw_Latn,Sop,M,Lu,LATIN CAPITAL LETTER M,3,1,2021,0,0,3
+urw,Latn,urw_Latn,Sop,!,Po,EXCLAMATION MARK,2,2,"2019,2020",1,1,0
+urw,Latn,urw_Latn,Sop,-,Pd,HYPHEN-MINUS,2,2,"2019,2020",1,1,0
+urw,Latn,urw_Latn,Sop,—,Pd,EM DASH,2,2,"2019,2020",1,1,0
+urw,Latn,urw_Latn,Sop,P,Lu,LATIN CAPITAL LETTER P,2,1,2020,0,2,0
+urw,Latn,urw_Latn,Sop,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2021,0,0,1
+urw,Latn,urw_Latn,Sop,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2021,0,0,1
+urw,Latn,urw_Latn,Sop,G,Lu,LATIN CAPITAL LETTER G,1,1,2021,0,0,1

@@ -1,0 +1,92 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2021_frequency,year_2023_frequency,year_2024_frequency
+nsm,Latn,nsm_Latn,Sumi Naga, ,Zs,SPACE,3538,5,"2017,2019,2021,2023,2024",106,1641,1448,281,62
+nsm,Latn,nsm_Latn,Sumi Naga,i,Ll,LATIN SMALL LETTER I,2000,5,"2017,2019,2021,2023,2024",73,988,740,164,35
+nsm,Latn,nsm_Latn,Sumi Naga,u,Ll,LATIN SMALL LETTER U,1636,5,"2017,2019,2021,2023,2024",52,978,514,82,10
+nsm,Latn,nsm_Latn,Sumi Naga,o,Ll,LATIN SMALL LETTER O,1432,5,"2017,2019,2021,2023,2024",42,756,514,97,23
+nsm,Latn,nsm_Latn,Sumi Naga,e,Ll,LATIN SMALL LETTER E,1409,5,"2017,2019,2021,2023,2024",47,660,557,118,27
+nsm,Latn,nsm_Latn,Sumi Naga,a,Ll,LATIN SMALL LETTER A,1388,5,"2017,2019,2021,2023,2024",39,602,608,109,30
+nsm,Latn,nsm_Latn,Sumi Naga,h,Ll,LATIN SMALL LETTER H,1351,5,"2017,2019,2021,2023,2024",40,691,492,113,15
+nsm,Latn,nsm_Latn,Sumi Naga,n,Ll,LATIN SMALL LETTER N,1196,5,"2017,2019,2021,2023,2024",30,580,494,77,15
+nsm,Latn,nsm_Latn,Sumi Naga,k,Ll,LATIN SMALL LETTER K,971,5,"2017,2019,2021,2023,2024",35,446,413,68,9
+nsm,Latn,nsm_Latn,Sumi Naga,l,Ll,LATIN SMALL LETTER L,799,5,"2017,2019,2021,2023,2024",34,396,291,60,18
+nsm,Latn,nsm_Latn,Sumi Naga,p,Ll,LATIN SMALL LETTER P,691,5,"2017,2019,2021,2023,2024",21,329,284,49,8
+nsm,Latn,nsm_Latn,Sumi Naga,s,Ll,LATIN SMALL LETTER S,675,5,"2017,2019,2021,2023,2024",21,381,201,56,16
+nsm,Latn,nsm_Latn,Sumi Naga,t,Ll,LATIN SMALL LETTER T,635,5,"2017,2019,2021,2023,2024",23,343,206,48,15
+nsm,Latn,nsm_Latn,Sumi Naga,m,Ll,LATIN SMALL LETTER M,471,5,"2017,2019,2021,2023,2024",10,189,207,59,6
+nsm,Latn,nsm_Latn,Sumi Naga,g,Ll,LATIN SMALL LETTER G,451,5,"2017,2019,2021,2023,2024",17,230,182,21,1
+nsm,Latn,nsm_Latn,Sumi Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,272,4,"2019,2021,2023,2024",0,18,199,44,11
+nsm,Latn,nsm_Latn,Sumi Naga,y,Ll,LATIN SMALL LETTER Y,249,5,"2017,2019,2021,2023,2024",7,99,117,21,5
+nsm,Latn,nsm_Latn,Sumi Naga,v,Ll,LATIN SMALL LETTER V,237,4,"2017,2019,2021,2023",2,152,75,8,0
+nsm,Latn,nsm_Latn,Sumi Naga,.,Po,FULL STOP,215,5,"2017,2019,2021,2023,2024",6,107,82,16,4
+nsm,Latn,nsm_Latn,Sumi Naga,q,Ll,LATIN SMALL LETTER Q,207,5,"2017,2019,2021,2023,2024",11,110,69,13,4
+nsm,Latn,nsm_Latn,Sumi Naga,",",Po,COMMA,174,5,"2017,2019,2021,2023,2024",5,102,45,13,9
+nsm,Latn,nsm_Latn,Sumi Naga,c,Ll,LATIN SMALL LETTER C,156,5,"2017,2019,2021,2023,2024",6,53,59,26,12
+nsm,Latn,nsm_Latn,Sumi Naga,A,Lu,LATIN CAPITAL LETTER A,143,5,"2017,2019,2021,2023,2024",2,68,52,13,8
+nsm,Latn,nsm_Latn,Sumi Naga,x,Ll,LATIN SMALL LETTER X,97,5,"2017,2019,2021,2023,2024",1,75,15,5,1
+nsm,Latn,nsm_Latn,Sumi Naga,r,Ll,LATIN SMALL LETTER R,94,5,"2017,2019,2021,2023,2024",3,30,35,17,9
+nsm,Latn,nsm_Latn,Sumi Naga,z,Ll,LATIN SMALL LETTER Z,86,3,"2019,2021,2023",0,45,37,4,0
+nsm,Latn,nsm_Latn,Sumi Naga,j,Ll,LATIN SMALL LETTER J,86,5,"2017,2019,2021,2023,2024",5,40,32,8,1
+nsm,Latn,nsm_Latn,Sumi Naga,I,Lu,LATIN CAPITAL LETTER I,78,5,"2017,2019,2021,2023,2024",2,27,29,17,3
+nsm,Latn,nsm_Latn,Sumi Naga,P,Lu,LATIN CAPITAL LETTER P,57,5,"2017,2019,2021,2023,2024",1,16,28,10,2
+nsm,Latn,nsm_Latn,Sumi Naga,1,Nd,DIGIT ONE,54,4,"2017,2019,2021,2023",3,23,25,3,0
+nsm,Latn,nsm_Latn,Sumi Naga,b,Ll,LATIN SMALL LETTER B,54,5,"2017,2019,2021,2023,2024",6,6,25,12,5
+nsm,Latn,nsm_Latn,Sumi Naga,w,Ll,LATIN SMALL LETTER W,49,3,"2019,2021,2023",0,19,25,5,0
+nsm,Latn,nsm_Latn,Sumi Naga,E,Lu,LATIN CAPITAL LETTER E,48,4,"2019,2021,2023,2024",0,17,21,7,3
+nsm,Latn,nsm_Latn,Sumi Naga,K,Lu,LATIN CAPITAL LETTER K,47,5,"2017,2019,2021,2023,2024",1,25,17,3,1
+nsm,Latn,nsm_Latn,Sumi Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,42,2,"2019,2021",0,25,17,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,T,Lu,LATIN CAPITAL LETTER T,42,4,"2019,2021,2023,2024",0,23,11,6,2
+nsm,Latn,nsm_Latn,Sumi Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,42,2,"2019,2021",0,25,17,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,2,Nd,DIGIT TWO,40,3,"2019,2021,2023",0,18,19,3,0
+nsm,Latn,nsm_Latn,Sumi Naga,J,Lu,LATIN CAPITAL LETTER J,40,5,"2017,2019,2021,2023,2024",2,21,15,1,1
+nsm,Latn,nsm_Latn,Sumi Naga,d,Ll,LATIN SMALL LETTER D,40,5,"2017,2019,2021,2023,2024",2,8,19,8,3
+nsm,Latn,nsm_Latn,Sumi Naga,5,Nd,DIGIT FIVE,35,3,"2019,2021,2023",0,9,21,5,0
+nsm,Latn,nsm_Latn,Sumi Naga,N,Lu,LATIN CAPITAL LETTER N,33,5,"2017,2019,2021,2023,2024",1,9,16,6,1
+nsm,Latn,nsm_Latn,Sumi Naga,:,Po,COLON,33,4,"2017,2019,2021,2023",1,13,13,6,0
+nsm,Latn,nsm_Latn,Sumi Naga,3,Nd,DIGIT THREE,29,3,"2019,2021,2023",0,9,19,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,M,Lu,LATIN CAPITAL LETTER M,28,5,"2017,2019,2021,2023,2024",1,3,14,8,2
+nsm,Latn,nsm_Latn,Sumi Naga,7,Nd,DIGIT SEVEN,26,3,"2019,2021,2023",0,7,18,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,S,Lu,LATIN CAPITAL LETTER S,26,3,"2019,2023,2024",0,2,0,20,4
+nsm,Latn,nsm_Latn,Sumi Naga,4,Nd,DIGIT FOUR,26,4,"2017,2019,2021,2023",1,5,19,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,H,Lu,LATIN CAPITAL LETTER H,24,4,"2019,2021,2023,2024",0,7,7,9,1
+nsm,Latn,nsm_Latn,Sumi Naga,-,Pd,HYPHEN-MINUS,22,4,"2017,2019,2021,2023",2,4,5,11,0
+nsm,Latn,nsm_Latn,Sumi Naga,6,Nd,DIGIT SIX,22,2,"2019,2021",0,4,18,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,O,Lu,LATIN CAPITAL LETTER O,22,3,"2019,2021,2023",0,5,12,5,0
+nsm,Latn,nsm_Latn,Sumi Naga,L,Lu,LATIN CAPITAL LETTER L,22,4,"2019,2021,2023,2024",0,2,9,8,3
+nsm,Latn,nsm_Latn,Sumi Naga,0,Nd,DIGIT ZERO,19,3,"2019,2021,2023",0,6,8,5,0
+nsm,Latn,nsm_Latn,Sumi Naga,;,Po,SEMICOLON,19,4,"2019,2021,2023,2024",0,12,5,1,1
+nsm,Latn,nsm_Latn,Sumi Naga,B,Lu,LATIN CAPITAL LETTER B,19,4,"2017,2021,2023,2024",4,0,2,7,6
+nsm,Latn,nsm_Latn,Sumi Naga,8,Nd,DIGIT EIGHT,17,3,"2017,2019,2021",1,7,9,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,(,Ps,LEFT PARENTHESIS,16,2,"2019,2021",0,15,1,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,),Pe,RIGHT PARENTHESIS,16,2,"2019,2021",0,15,1,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,9,Nd,DIGIT NINE,14,3,"2017,2019,2021",1,4,9,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,Z,Lu,LATIN CAPITAL LETTER Z,12,1,2021,0,0,12,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,f,Ll,LATIN SMALL LETTER F,9,3,"2019,2023,2024",0,5,0,2,2
+nsm,Latn,nsm_Latn,Sumi Naga,G,Lu,LATIN CAPITAL LETTER G,9,3,"2019,2021,2023",0,4,4,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,U,Lu,LATIN CAPITAL LETTER U,9,3,"2019,2023,2024",0,6,0,2,1
+nsm,Latn,nsm_Latn,Sumi Naga,R,Lu,LATIN CAPITAL LETTER R,8,3,"2019,2023,2024",0,2,0,5,1
+nsm,Latn,nsm_Latn,Sumi Naga,W,Lu,LATIN CAPITAL LETTER W,8,3,"2017,2019,2023",3,1,0,4,0
+nsm,Latn,nsm_Latn,Sumi Naga,C,Lu,LATIN CAPITAL LETTER C,8,3,"2017,2019,2023",2,1,0,5,0
+nsm,Latn,nsm_Latn,Sumi Naga,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,7,1,2023,0,0,0,7,0
+nsm,Latn,nsm_Latn,Sumi Naga,!,Po,EXCLAMATION MARK,7,3,"2017,2019,2021",1,3,3,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,D,Lu,LATIN CAPITAL LETTER D,7,4,"2017,2019,2021,2023",1,1,3,2,0
+nsm,Latn,nsm_Latn,Sumi Naga,?,Po,QUESTION MARK,6,2,"2019,2021",0,1,5,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,Y,Lu,LATIN CAPITAL LETTER Y,6,3,"2019,2021,2023",0,3,1,2,0
+nsm,Latn,nsm_Latn,Sumi Naga,@,Po,COMMERCIAL AT,4,1,2019,0,4,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,à,Ll,LATIN SMALL LETTER A WITH GRAVE,4,2,"2023,2024",0,0,0,3,1
+nsm,Latn,nsm_Latn,Sumi Naga,ʼ,Lm,MODIFIER LETTER APOSTROPHE,3,1,2021,0,0,3,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,è,Ll,LATIN SMALL LETTER E WITH GRAVE,3,1,2023,0,0,0,3,0
+nsm,Latn,nsm_Latn,Sumi Naga,`,Sk,GRAVE ACCENT,3,1,2017,3,0,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,#,Po,NUMBER SIGN,3,1,2021,0,0,3,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,X,Lu,LATIN CAPITAL LETTER X,3,2,"2019,2021",0,1,2,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,–,Pd,EN DASH,2,2,"2017,2019",1,1,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,/,Po,SOLIDUS,2,1,2017,2,0,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,V,Lu,LATIN CAPITAL LETTER V,2,1,2019,0,2,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,F,Lu,LATIN CAPITAL LETTER F,2,1,2019,0,2,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,"""",Po,QUOTATION MARK,2,1,2023,0,0,0,2,0
+nsm,Latn,nsm_Latn,Sumi Naga,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2019,0,1,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2019,0,1,0,0,0
+nsm,Latn,nsm_Latn,Sumi Naga,Ò,Lu,LATIN CAPITAL LETTER O WITH GRAVE,1,1,2023,0,0,0,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1,1,2023,0,0,0,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,1,1,2023,0,0,0,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,1,1,2023,0,0,0,1,0
+nsm,Latn,nsm_Latn,Sumi Naga,₹,Sc,INDIAN RUPEE SIGN,1,1,2023,0,0,0,1,0

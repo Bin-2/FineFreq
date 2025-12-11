@@ -1,0 +1,18 @@
+{
+  "language_code": "txq_Latn",
+  "iso_639_3": "txq",
+  "script": "Latn",
+  "language_name": "Tii",
+  "total_characters": 83,
+  "total_frequency": 809348,
+  "years_covered": [
+    "2016",
+    "2018",
+    "2019",
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:13.522852"
+}

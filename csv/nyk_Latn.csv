@@ -1,0 +1,88 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency
+nyk,Latn,nyk_Latn,Nyaneka, ,Zs,SPACE,3746,2,"2018,2019",3337,409
+nyk,Latn,nyk_Latn,Nyaneka,a,Ll,LATIN SMALL LETTER A,3300,2,"2018,2019",2969,331
+nyk,Latn,nyk_Latn,Nyaneka,o,Ll,LATIN SMALL LETTER O,2863,2,"2018,2019",2580,283
+nyk,Latn,nyk_Latn,Nyaneka,n,Ll,LATIN SMALL LETTER N,1868,2,"2018,2019",1673,195
+nyk,Latn,nyk_Latn,Nyaneka,e,Ll,LATIN SMALL LETTER E,1794,2,"2018,2019",1609,185
+nyk,Latn,nyk_Latn,Nyaneka,u,Ll,LATIN SMALL LETTER U,1776,2,"2018,2019",1593,183
+nyk,Latn,nyk_Latn,Nyaneka,i,Ll,LATIN SMALL LETTER I,1773,2,"2018,2019",1579,194
+nyk,Latn,nyk_Latn,Nyaneka,k,Ll,LATIN SMALL LETTER K,1480,2,"2018,2019",1328,152
+nyk,Latn,nyk_Latn,Nyaneka,l,Ll,LATIN SMALL LETTER L,1227,2,"2018,2019",1084,143
+nyk,Latn,nyk_Latn,Nyaneka,t,Ll,LATIN SMALL LETTER T,1130,2,"2018,2019",1021,109
+nyk,Latn,nyk_Latn,Nyaneka,v,Ll,LATIN SMALL LETTER V,976,2,"2018,2019",915,61
+nyk,Latn,nyk_Latn,Nyaneka,m,Ll,LATIN SMALL LETTER M,854,2,"2018,2019",763,91
+nyk,Latn,nyk_Latn,Nyaneka,y,Ll,LATIN SMALL LETTER Y,787,2,"2018,2019",680,107
+nyk,Latn,nyk_Latn,Nyaneka,h,Ll,LATIN SMALL LETTER H,658,2,"2018,2019",584,74
+nyk,Latn,nyk_Latn,Nyaneka,p,Ll,LATIN SMALL LETTER P,464,2,"2018,2019",414,50
+nyk,Latn,nyk_Latn,Nyaneka,.,Po,FULL STOP,403,2,"2018,2019",355,48
+nyk,Latn,nyk_Latn,Nyaneka,g,Ll,LATIN SMALL LETTER G,385,2,"2018,2019",339,46
+nyk,Latn,nyk_Latn,Nyaneka,w,Ll,LATIN SMALL LETTER W,362,2,"2018,2019",328,34
+nyk,Latn,nyk_Latn,Nyaneka,d,Ll,LATIN SMALL LETTER D,318,2,"2018,2019",275,43
+nyk,Latn,nyk_Latn,Nyaneka,s,Ll,LATIN SMALL LETTER S,299,2,"2018,2019",275,24
+nyk,Latn,nyk_Latn,Nyaneka,",",Po,COMMA,278,2,"2018,2019",256,22
+nyk,Latn,nyk_Latn,Nyaneka,b,Ll,LATIN SMALL LETTER B,237,2,"2018,2019",217,20
+nyk,Latn,nyk_Latn,Nyaneka,O,Lu,LATIN CAPITAL LETTER O,181,2,"2018,2019",161,20
+nyk,Latn,nyk_Latn,Nyaneka,1,Nd,DIGIT ONE,165,2,"2018,2019",150,15
+nyk,Latn,nyk_Latn,Nyaneka,J,Lu,LATIN CAPITAL LETTER J,133,2,"2018,2019",122,11
+nyk,Latn,nyk_Latn,Nyaneka,:,Po,COLON,109,2,"2018,2019",100,9
+nyk,Latn,nyk_Latn,Nyaneka,H,Lu,LATIN CAPITAL LETTER H,88,2,"2018,2019",81,7
+nyk,Latn,nyk_Latn,Nyaneka,?,Po,QUESTION MARK,78,2,"2018,2019",74,4
+nyk,Latn,nyk_Latn,Nyaneka,2,Nd,DIGIT TWO,76,2,"2018,2019",61,15
+nyk,Latn,nyk_Latn,Nyaneka,M,Lu,LATIN CAPITAL LETTER M,73,2,"2018,2019",68,5
+nyk,Latn,nyk_Latn,Nyaneka,T,Lu,LATIN CAPITAL LETTER T,65,2,"2018,2019",61,4
+nyk,Latn,nyk_Latn,Nyaneka,A,Lu,LATIN CAPITAL LETTER A,55,2,"2018,2019",52,3
+nyk,Latn,nyk_Latn,Nyaneka,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,52,2,"2018,2019",40,12
+nyk,Latn,nyk_Latn,Nyaneka,I,Lu,LATIN CAPITAL LETTER I,52,2,"2018,2019",46,6
+nyk,Latn,nyk_Latn,Nyaneka,E,Lu,LATIN CAPITAL LETTER E,45,2,"2018,2019",44,1
+nyk,Latn,nyk_Latn,Nyaneka,r,Ll,LATIN SMALL LETTER R,45,2,"2018,2019",40,5
+nyk,Latn,nyk_Latn,Nyaneka,(,Ps,LEFT PARENTHESIS,44,2,"2018,2019",40,4
+nyk,Latn,nyk_Latn,Nyaneka,),Pe,RIGHT PARENTHESIS,44,2,"2018,2019",40,4
+nyk,Latn,nyk_Latn,Nyaneka,3,Nd,DIGIT THREE,44,2,"2018,2019",41,3
+nyk,Latn,nyk_Latn,Nyaneka,N,Lu,LATIN CAPITAL LETTER N,43,2,"2018,2019",40,3
+nyk,Latn,nyk_Latn,Nyaneka,0,Nd,DIGIT ZERO,42,2,"2018,2019",35,7
+nyk,Latn,nyk_Latn,Nyaneka,P,Lu,LATIN CAPITAL LETTER P,40,2,"2018,2019",38,2
+nyk,Latn,nyk_Latn,Nyaneka,6,Nd,DIGIT SIX,37,1,2018,37,0
+nyk,Latn,nyk_Latn,Nyaneka,—,Pd,EM DASH,34,2,"2018,2019",30,4
+nyk,Latn,nyk_Latn,Nyaneka,S,Lu,LATIN CAPITAL LETTER S,32,2,"2018,2019",25,7
+nyk,Latn,nyk_Latn,Nyaneka,5,Nd,DIGIT FIVE,32,2,"2018,2019",26,6
+nyk,Latn,nyk_Latn,Nyaneka,4,Nd,DIGIT FOUR,31,2,"2018,2019",26,5
+nyk,Latn,nyk_Latn,Nyaneka,9,Nd,DIGIT NINE,29,2,"2018,2019",22,7
+nyk,Latn,nyk_Latn,Nyaneka,-,Pd,HYPHEN-MINUS,28,2,"2018,2019",22,6
+nyk,Latn,nyk_Latn,Nyaneka,7,Nd,DIGIT SEVEN,27,2,"2018,2019",22,5
+nyk,Latn,nyk_Latn,Nyaneka,8,Nd,DIGIT EIGHT,26,2,"2018,2019",21,5
+nyk,Latn,nyk_Latn,Nyaneka,K,Lu,LATIN CAPITAL LETTER K,26,2,"2018,2019",21,5
+nyk,Latn,nyk_Latn,Nyaneka,“,Pi,LEFT DOUBLE QUOTATION MARK,26,2,"2018,2019",21,5
+nyk,Latn,nyk_Latn,Nyaneka,”,Pf,RIGHT DOUBLE QUOTATION MARK,26,2,"2018,2019",21,5
+nyk,Latn,nyk_Latn,Nyaneka,Y,Lu,LATIN CAPITAL LETTER Y,18,1,2018,18,0
+nyk,Latn,nyk_Latn,Nyaneka,f,Ll,LATIN SMALL LETTER F,18,2,"2018,2019",16,2
+nyk,Latn,nyk_Latn,Nyaneka,V,Lu,LATIN CAPITAL LETTER V,16,2,"2018,2019",15,1
+nyk,Latn,nyk_Latn,Nyaneka,L,Lu,LATIN CAPITAL LETTER L,15,1,2018,15,0
+nyk,Latn,nyk_Latn,Nyaneka,U,Lu,LATIN CAPITAL LETTER U,15,1,2018,15,0
+nyk,Latn,nyk_Latn,Nyaneka,W,Lu,LATIN CAPITAL LETTER W,14,1,2018,14,0
+nyk,Latn,nyk_Latn,Nyaneka,G,Lu,LATIN CAPITAL LETTER G,12,2,"2018,2019",10,2
+nyk,Latn,nyk_Latn,Nyaneka,ã,Ll,LATIN SMALL LETTER A WITH TILDE,10,1,2018,10,0
+nyk,Latn,nyk_Latn,Nyaneka,D,Lu,LATIN CAPITAL LETTER D,9,2,"2018,2019",8,1
+nyk,Latn,nyk_Latn,Nyaneka,;,Po,SEMICOLON,9,2,"2018,2019",7,2
+nyk,Latn,nyk_Latn,Nyaneka,‘,Pi,LEFT SINGLE QUOTATION MARK,8,1,2018,8,0
+nyk,Latn,nyk_Latn,Nyaneka,’,Pf,RIGHT SINGLE QUOTATION MARK,8,1,2018,8,0
+nyk,Latn,nyk_Latn,Nyaneka,R,Lu,LATIN CAPITAL LETTER R,8,1,2018,8,0
+nyk,Latn,nyk_Latn,Nyaneka,§,Po,SECTION SIGN,8,1,2019,0,8
+nyk,Latn,nyk_Latn,Nyaneka,C,Lu,LATIN CAPITAL LETTER C,8,2,"2018,2019",6,2
+nyk,Latn,nyk_Latn,Nyaneka,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,7,2,"2018,2019",5,2
+nyk,Latn,nyk_Latn,Nyaneka,!,Po,EXCLAMATION MARK,6,2,"2018,2019",4,2
+nyk,Latn,nyk_Latn,Nyaneka,],Pe,RIGHT SQUARE BRACKET,6,1,2018,6,0
+nyk,Latn,nyk_Latn,Nyaneka,[,Ps,LEFT SQUARE BRACKET,6,1,2018,6,0
+nyk,Latn,nyk_Latn,Nyaneka,c,Ll,LATIN SMALL LETTER C,5,1,2018,5,0
+nyk,Latn,nyk_Latn,Nyaneka,í,Ll,LATIN SMALL LETTER I WITH ACUTE,5,2,"2018,2019",4,1
+nyk,Latn,nyk_Latn,Nyaneka,B,Lu,LATIN CAPITAL LETTER B,5,1,2018,5,0
+nyk,Latn,nyk_Latn,Nyaneka,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,5,1,2018,5,0
+nyk,Latn,nyk_Latn,Nyaneka,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,4,2,"2018,2019",3,1
+nyk,Latn,nyk_Latn,Nyaneka,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3,1,2018,3,0
+nyk,Latn,nyk_Latn,Nyaneka,F,Lu,LATIN CAPITAL LETTER F,3,1,2018,3,0
+nyk,Latn,nyk_Latn,Nyaneka,▪,So,BLACK SMALL SQUARE,3,1,2018,3,0
+nyk,Latn,nyk_Latn,Nyaneka,á,Ll,LATIN SMALL LETTER A WITH ACUTE,2,1,2018,2,0
+nyk,Latn,nyk_Latn,Nyaneka,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,2,1,2019,0,2
+nyk,Latn,nyk_Latn,Nyaneka,Ê,Lu,LATIN CAPITAL LETTER E WITH CIRCUMFLEX,1,1,2018,1,0
+nyk,Latn,nyk_Latn,Nyaneka,x,Ll,LATIN SMALL LETTER X,1,1,2018,1,0
+nyk,Latn,nyk_Latn,Nyaneka,q,Ll,LATIN SMALL LETTER Q,1,1,2018,1,0
+nyk,Latn,nyk_Latn,Nyaneka,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,1,1,2018,1,0

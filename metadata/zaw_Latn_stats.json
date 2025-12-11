@@ -1,0 +1,17 @@
+{
+  "language_code": "zaw_Latn",
+  "iso_639_3": "zaw",
+  "script": "Latn",
+  "language_name": "Mitla Zapotec",
+  "total_characters": 93,
+  "total_frequency": 1492034,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.692923"
+}

@@ -1,0 +1,1913 @@
+iso_639_3,language_code,script,language_name,total_characters,total_frequency,data_source,years_count,min_year,max_year,relative_path
+eng,eng_Latn,Latn,English,69211,81075397566715,"FineWeb, v1.4.0",13,2013,2025,DATA/eng_Latn
+rus,rus_Cyrl,Cyrl,Russian,52605,3520270440986,"FineWeb2, v2.1.0",12,2013,2024,DATA/rus_Cyrl
+deu,deu_Latn,Latn,German,37599,1620982694281,"FineWeb2, v2.1.0",12,2013,2024,DATA/deu_Latn
+spa,spa_Latn,Latn,Spanish,31018,1412270994363,"FineWeb2, v2.1.0",12,2013,2024,DATA/spa_Latn
+fra,fra_Latn,Latn,French,35233,1170854379113,"FineWeb2, v2.1.0",12,2013,2024,DATA/fra_Latn
+cmn,cmn_Hani,Hani,Mandarin Chinese,81717,946699852091,"FineWeb2, v2.1.0",12,2013,2024,DATA/cmn_Hani
+ita,ita_Latn,Latn,Italian,27894,779844597230,"FineWeb2, v2.1.0",12,2013,2024,DATA/ita_Latn
+por,por_Latn,Latn,Portuguese,26843,590002142721,"FineWeb2, v2.1.0",12,2013,2024,DATA/por_Latn
+jpn,jpn_Jpan,Jpan,Japanese,50425,584060807797,"FineWeb2, v2.1.0",12,2013,2024,DATA/jpn_Jpan
+pol,pol_Latn,Latn,Polish,23994,437026889016,"FineWeb2, v2.1.0",12,2013,2024,DATA/pol_Latn
+nld,nld_Latn,Latn,Dutch,21548,422952993243,"FineWeb2, v2.1.0",12,2013,2024,DATA/nld_Latn
+ind,ind_Latn,Latn,Indonesian,23064,371467212058,"FineWeb2, v2.1.0",12,2013,2024,DATA/ind_Latn
+tur,tur_Latn,Latn,Turkish,21091,277878739727,"FineWeb2, v2.1.0",12,2013,2024,DATA/tur_Latn
+vie,vie_Latn,Latn,Vietnamese,26943,259687322320,"FineWeb2, v2.1.0",12,2013,2024,DATA/vie_Latn
+swe,swe_Latn,Latn,Swedish,17030,208965742427,"FineWeb2, v2.1.0",12,2013,2024,DATA/swe_Latn
+ces,ces_Latn,Latn,Czech,19443,198755507561,"FineWeb2, v2.1.0",12,2013,2024,DATA/ces_Latn
+hun,hun_Latn,Latn,Hungarian,19706,195272851661,"FineWeb2, v2.1.0",12,2013,2024,DATA/hun_Latn
+ron,ron_Latn,Latn,Romanian,18124,191117019386,"FineWeb2, v2.1.0",12,2013,2024,DATA/ron_Latn
+fas,fas_Arab,Arab,Persian,16509,183581646234,"FineWeb2, v2.1.0",12,2013,2024,DATA/fas_Arab
+nob,nob_Latn,Latn,Norwegian Bokmål,17185,180325792915,"FineWeb2, v2.1.0",12,2013,2024,DATA/nob_Latn
+arb,arb_Arab,Arab,Standard Arabic,21172,175101937440,"FineWeb2, v2.1.0",12,2013,2024,DATA/arb_Arab
+dan,dan_Latn,Latn,Danish,16995,157177505692,"FineWeb2, v2.1.0",12,2013,2024,DATA/dan_Latn
+ukr,ukr_Cyrl,Cyrl,Ukrainian,17483,150672118576,"FineWeb2, v2.1.0",12,2013,2024,DATA/ukr_Cyrl
+fin,fin_Latn,Latn,Finnish,16904,147769162538,"FineWeb2, v2.1.0",12,2013,2024,DATA/fin_Latn
+ell,ell_Grek,Grek,Modern Greek (1453-),16233,132767843418,"FineWeb2, v2.1.0",12,2013,2024,DATA/ell_Grek
+tha,tha_Thai,Thai,Thai,22463,108043657175,"FineWeb2, v2.1.0",12,2013,2024,DATA/tha_Thai
+kor,kor_Hang,Hang,Korean,52743,98577789626,"FineWeb2, v2.1.0",12,2013,2024,DATA/kor_Hang
+bul,bul_Cyrl,Cyrl,Bulgarian,15133,87066624716,"FineWeb2, v2.1.0",12,2013,2024,DATA/bul_Cyrl
+slk,slk_Latn,Latn,Slovak,17202,83983995558,"FineWeb2, v2.1.0",12,2013,2024,DATA/slk_Latn
+lit,lit_Latn,Latn,Lithuanian,15038,56753806559,"FineWeb2, v2.1.0",12,2013,2024,DATA/lit_Latn
+hin,hin_Deva,Deva,Hindi,12684,51775798736,"FineWeb2, v2.1.0",12,2013,2024,DATA/hin_Deva
+bos,bos_Latn,Latn,Bosnian,13225,50921736788,"FineWeb2, v2.1.0",12,2013,2024,DATA/bos_Latn
+slv,slv_Latn,Latn,Slovenian,12974,43524989627,"FineWeb2, v2.1.0",12,2013,2024,DATA/slv_Latn
+ekk,ekk_Latn,Latn,Standard Estonian,12889,42284327196,"FineWeb2, v2.1.0",12,2013,2024,DATA/ekk_Latn
+cat,cat_Latn,Latn,Catalan,12474,41846197090,"FineWeb2, v2.1.0",12,2013,2024,DATA/cat_Latn
+heb,heb_Hebr,Hebr,Hebrew,13690,41456869183,"FineWeb2, v2.1.0",12,2013,2024,DATA/heb_Hebr
+hrv,hrv_Latn,Latn,Croatian,12344,37259194523,"FineWeb2, v2.1.0",12,2013,2024,DATA/hrv_Latn
+ben,ben_Beng,Beng,Bengali,12364,35121943982,"FineWeb2, v2.1.0",12,2013,2024,DATA/ben_Beng
+zsm,zsm_Latn,Latn,Standard Malay,15207,33958917634,"FineWeb2, v2.1.0",12,2013,2024,DATA/zsm_Latn
+lvs,lvs_Latn,Latn,Standard Latvian,12413,32684156765,"FineWeb2, v2.1.0",12,2013,2024,DATA/lvs_Latn
+azj,azj_Latn,Latn,North Azerbaijani,11975,24877921326,"FineWeb2, v2.1.0",12,2013,2024,DATA/azj_Latn
+als,als_Latn,Latn,Tosk Albanian,11742,18022079803,"FineWeb2, v2.1.0",12,2013,2024,DATA/als_Latn
+srp,srp_Cyrl,Cyrl,Serbian,10609,15934879871,"FineWeb2, v2.1.0",12,2013,2024,DATA/srp_Cyrl
+tam,tam_Taml,Taml,Tamil,10594,14710407564,"FineWeb2, v2.1.0",12,2013,2024,DATA/tam_Taml
+kaz,kaz_Cyrl,Cyrl,Kazakh,10938,12126769418,"FineWeb2, v2.1.0",12,2013,2024,DATA/kaz_Cyrl
+urd,urd_Arab,Arab,Urdu,7996,12040998276,"FineWeb2, v2.1.0",12,2013,2024,DATA/urd_Arab
+und,und_Cyrl,Cyrl,Undetermined,27472,10887809194,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Cyrl
+kat,kat_Geor,Geor,Georgian,10915,10217445599,"FineWeb2, v2.1.0",12,2013,2024,DATA/kat_Geor
+npi,npi_Deva,Deva,Nepali (individual language),6172,10065271133,"FineWeb2, v2.1.0",12,2013,2024,DATA/npi_Deva
+isl,isl_Latn,Latn,Icelandic,9559,9976814930,"FineWeb2, v2.1.0",12,2013,2024,DATA/isl_Latn
+mar,mar_Deva,Deva,Marathi,6135,9241702913,"FineWeb2, v2.1.0",12,2013,2024,DATA/mar_Deva
+mkd,mkd_Cyrl,Cyrl,Macedonian,10130,8930197666,"FineWeb2, v2.1.0",12,2013,2024,DATA/mkd_Cyrl
+mal,mal_Mlym,Mlym,Malayalam,7062,8797243362,"FineWeb2, v2.1.0",12,2013,2024,DATA/mal_Mlym
+fil,fil_Latn,Latn,Filipino,12569,8646523208,"FineWeb2, v2.1.0",12,2013,2024,DATA/fil_Latn
+afr,afr_Latn,Latn,Afrikaans,12031,8133493281,"FineWeb2, v2.1.0",12,2013,2024,DATA/afr_Latn
+und,und_Kana,Kana,Undetermined,15873,7551285794,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Kana
+bel,bel_Cyrl,Cyrl,Belarusian,9147,6776879222,"FineWeb2, v2.1.0",12,2013,2024,DATA/bel_Cyrl
+glg,glg_Latn,Latn,Galician,7845,6741047876,"FineWeb2, v2.1.0",12,2013,2024,DATA/glg_Latn
+tel,tel_Telu,Telu,Telugu,7253,5859539595,"FineWeb2, v2.1.0",12,2013,2024,DATA/tel_Telu
+und,und_Grek,Grek,Undetermined,8615,5606582010,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Grek
+kan,kan_Knda,Knda,Kannada,5842,5190026969,"FineWeb2, v2.1.0",12,2013,2024,DATA/kan_Knda
+khk,khk_Cyrl,Cyrl,Halh Mongolian,11410,5074298105,"FineWeb2, v2.1.0",12,2013,2024,DATA/khk_Cyrl
+guj,guj_Gujr,Gujr,Gujarati,5638,4883009320,"FineWeb2, v2.1.0",12,2013,2024,DATA/guj_Gujr
+mya,mya_Mymr,Mymr,Burmese,10393,4795530155,"FineWeb2, v2.1.0",12,2013,2024,DATA/mya_Mymr
+uzn,uzn_Latn,Latn,Northern Uzbek,9199,4629364248,"FineWeb2, v2.1.0",12,2013,2024,DATA/uzn_Latn
+eus,eus_Latn,Latn,Basque,6913,4578630533,"FineWeb2, v2.1.0",12,2013,2024,DATA/eus_Latn
+ary,ary_Arab,Arab,Moroccan Arabic,5770,4555621217,"FineWeb2, v2.1.0",12,2013,2024,DATA/ary_Arab
+hye,hye_Armn,Armn,Armenian,7935,4238093662,"FineWeb2, v2.1.0",12,2013,2024,DATA/hye_Armn
+lat,lat_Latn,Latn,Latin,12973,4099332408,"FineWeb2, v2.1.0",12,2013,2024,DATA/lat_Latn
+gmh,gmh_Latn,Latn,Middle High German (ca. 1050-1500),1370,3626121537,"FineWeb2, v2.1.0",12,2013,2024,DATA/gmh_Latn
+uzn,uzn_Cyrl,Cyrl,Northern Uzbek,4178,3571314219,"FineWeb2, v2.1.0",12,2013,2024,DATA/uzn_Cyrl
+khm,khm_Khmr,Khmr,Khmer,10497,3314008597,"FineWeb2, v2.1.0",12,2013,2024,DATA/khm_Khmr
+swh,swh_Latn,Latn,Swahili (individual language),8554,3279908160,"FineWeb2, v2.1.0",12,2013,2024,DATA/swh_Latn
+sin,sin_Sinh,Sinh,Sinhala,6271,2924593624,"FineWeb2, v2.1.0",12,2013,2024,DATA/sin_Sinh
+nno,nno_Latn,Latn,Norwegian Nynorsk,5827,2795424062,"FineWeb2, v2.1.0",12,2013,2024,DATA/nno_Latn
+cym,cym_Latn,Latn,Welsh,6601,2633565855,"FineWeb2, v2.1.0",12,2013,2024,DATA/cym_Latn
+kir,kir_Cyrl,Cyrl,Kirghiz,6167,2558370717,"FineWeb2, v2.1.0",12,2013,2024,DATA/kir_Cyrl
+pan,pan_Guru,Guru,Panjabi,6591,2395941931,"FineWeb2, v2.1.0",12,2013,2024,DATA/pan_Guru
+tgk,tgk_Cyrl,Cyrl,Tajik,6521,2238801367,"FineWeb2, v2.1.0",12,2013,2024,DATA/tgk_Cyrl
+gle,gle_Latn,Latn,Irish,8825,2182422302,"FineWeb2, v2.1.0",12,2013,2024,DATA/gle_Latn
+som,som_Latn,Latn,Somali,6415,2181603782,"FineWeb2, v2.1.0",12,2013,2024,DATA/som_Latn
+srp,srp_Latn,Latn,Serbian,3316,2153586023,"FineWeb2, v2.1.0",12,2013,2024,DATA/srp_Latn
+ory,ory_Orya,Orya,Odia,3752,1988117852,"FineWeb2, v2.1.0",12,2013,2024,DATA/ory_Orya
+arz,arz_Arab,Arab,Egyptian Arabic,8050,1757422258,"FineWeb2, v2.1.0",12,2013,2024,DATA/arz_Arab
+bew,bew_Latn,Latn,Betawi,6828,1726347350,"FineWeb2, v2.1.0",12,2013,2024,DATA/bew_Latn
+nrm,nrm_Latn,Latn,Narom,13391,1669011454,"FineWeb2, v2.1.0",12,2013,2024,DATA/nrm_Latn
+mlt,mlt_Latn,Latn,Maltese,8144,1563917263,"FineWeb2, v2.1.0",12,2013,2024,DATA/mlt_Latn
+pbt,pbt_Arab,Arab,Southern Pashto,3724,1456717698,"FineWeb2, v2.1.0",12,2013,2024,DATA/pbt_Arab
+ckb,ckb_Arab,Arab,Central Kurdish,6117,1395163658,"FineWeb2, v2.1.0",12,2013,2024,DATA/ckb_Arab
+ars,ars_Arab,Arab,Najdi Arabic,6294,1331698543,"FineWeb2, v2.1.0",12,2013,2024,DATA/ars_Arab
+epo,epo_Latn,Latn,Esperanto,11974,1261434853,"FineWeb2, v2.1.0",12,2013,2024,DATA/epo_Latn
+kmr,kmr_Latn,Latn,Northern Kurdish,4045,1128478799,"FineWeb2, v2.1.0",12,2013,2024,DATA/kmr_Latn
+amh,amh_Ethi,Ethi,Amharic,6460,1110068835,"FineWeb2, v2.1.0",12,2013,2024,DATA/amh_Ethi
+ltz,ltz_Latn,Latn,Luxembourgish,6152,1014226282,"FineWeb2, v2.1.0",12,2013,2024,DATA/ltz_Latn
+hif,hif_Latn,Latn,Fiji Hindi,7638,1012090338,"FineWeb2, v2.1.0",12,2013,2024,DATA/hif_Latn
+plt,plt_Latn,Latn,Plateau Malagasy,10092,945603169,"FineWeb2, v2.1.0",12,2013,2024,DATA/plt_Latn
+gla,gla_Latn,Latn,Scottish Gaelic,6472,901017029,"FineWeb2, v2.1.0",12,2013,2024,DATA/gla_Latn
+tat,tat_Cyrl,Cyrl,Tatar,2560,895196055,"FineWeb2, v2.1.0",12,2013,2024,DATA/tat_Cyrl
+lao,lao_Laoo,Laoo,Lao,6122,866558194,"FineWeb2, v2.1.0",12,2013,2024,DATA/lao_Laoo
+und,und_Hira,Hira,Undetermined,21683,834903760,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Hira
+kin,kin_Latn,Latn,Kinyarwanda,2579,811533680,"FineWeb2, v2.1.0",12,2013,2024,DATA/kin_Latn
+jav,jav_Latn,Latn,Javanese,6059,808958338,"FineWeb2, v2.1.0",12,2013,2024,DATA/jav_Latn
+div,div_Thaa,Thaa,Dhivehi,984,796109003,"FineWeb2, v2.1.0",12,2013,2024,DATA/div_Thaa
+xho,xho_Latn,Latn,Xhosa,7889,784504254,"FineWeb2, v2.1.0",12,2013,2024,DATA/xho_Latn
+snd,snd_Arab,Arab,Sindhi,4703,722902277,"FineWeb2, v2.1.0",12,2013,2024,DATA/snd_Arab
+bod,bod_Tibt,Tibt,Tibetan,7415,703916674,"FineWeb2, v2.1.0",12,2013,2024,DATA/bod_Tibt
+ceb,ceb_Latn,Latn,Cebuano,6514,683932442,"FineWeb2, v2.1.0",12,2013,2024,DATA/ceb_Latn
+fry,fry_Latn,Latn,Western Frisian,4632,680950229,"FineWeb2, v2.1.0",12,2013,2024,DATA/fry_Latn
+tuk,tuk_Latn,Latn,Turkmen,3584,663982204,"FineWeb2, v2.1.0",12,2013,2024,DATA/tuk_Latn
+hat,hat_Latn,Latn,Haitian,5423,635575950,"FineWeb2, v2.1.0",12,2013,2024,DATA/hat_Latn
+uig,uig_Arab,Arab,Uighur,6142,600576784,"FineWeb2, v2.1.0",12,2013,2024,DATA/uig_Arab
+mww,mww_Latn,Latn,Hmong Daw,5081,592314488,"FineWeb2, v2.1.0",12,2013,2024,DATA/mww_Latn
+asm,asm_Beng,Beng,Assamese,2256,563094227,"FineWeb2, v2.1.0",12,2013,2024,DATA/asm_Beng
+fao,fao_Latn,Latn,Faroese,4134,544197690,"FineWeb2, v2.1.0",12,2013,2024,DATA/fao_Latn
+mri,mri_Latn,Latn,Maori,6025,530543255,"FineWeb2, v2.1.0",12,2013,2024,DATA/mri_Latn
+pap,pap_Latn,Latn,Papiamento,2997,524000815,"FineWeb2, v2.1.0",12,2013,2024,DATA/pap_Latn
+ydd,ydd_Hebr,Hebr,Eastern Yiddish,4482,521403948,"FineWeb2, v2.1.0",12,2013,2024,DATA/ydd_Hebr
+zul,zul_Latn,Latn,Zulu,4772,507273291,"FineWeb2, v2.1.0",12,2013,2024,DATA/zul_Latn
+hin,hin_Latn,Latn,Hindi,2996,506429666,"FineWeb2, v2.1.0",12,2013,2024,DATA/hin_Latn
+bak,bak_Cyrl,Cyrl,Bashkir,3970,484206939,"FineWeb2, v2.1.0",12,2013,2024,DATA/bak_Cyrl
+und,und_Mong,Mong,Undetermined,7571,477196527,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Mong
+hyw,hyw_Armn,Armn,Western Armenian,1136,468655020,"FineWeb2, v2.1.0",12,2013,2024,DATA/hyw_Armn
+sun,sun_Latn,Latn,Sundanese,5072,440701826,"FineWeb2, v2.1.0",12,2013,2024,DATA/sun_Latn
+cos,cos_Latn,Latn,Corsican,4057,416532634,"FineWeb2, v2.1.0",12,2013,2024,DATA/cos_Latn
+smo,smo_Latn,Latn,Samoan,4057,415138039,"FineWeb2, v2.1.0",12,2013,2024,DATA/smo_Latn
+nya,nya_Latn,Latn,Chichewa,7027,410561630,"FineWeb2, v2.1.0",12,2013,2024,DATA/nya_Latn
+sot,sot_Latn,Latn,Southern Sotho,4898,382005314,"FineWeb2, v2.1.0",12,2013,2024,DATA/sot_Latn
+sna,sna_Latn,Latn,Shona,4530,357669778,"FineWeb2, v2.1.0",12,2013,2024,DATA/sna_Latn
+und,und_Thai,Thai,Undetermined,9755,354209586,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Thai
+ibo,ibo_Latn,Latn,Igbo,4233,331525828,"FineWeb2, v2.1.0",12,2013,2024,DATA/ibo_Latn
+haw,haw_Latn,Latn,Hawaiian,5098,321815047,"FineWeb2, v2.1.0",12,2013,2024,DATA/haw_Latn
+urd,urd_Latn,Latn,Urdu,3562,280040107,"FineWeb2, v2.1.0",12,2013,2024,DATA/urd_Latn
+sah,sah_Cyrl,Cyrl,Yakut,2656,277557330,"FineWeb2, v2.1.0",12,2013,2024,DATA/sah_Cyrl
+ast,ast_Latn,Latn,Asturian,4366,265921386,"FineWeb2, v2.1.0",12,2013,2024,DATA/ast_Latn
+sdh,sdh_Arab,Arab,Southern Kurdish,2315,262292101,"FineWeb2, v2.1.0",12,2013,2024,DATA/sdh_Arab
+yor,yor_Latn,Latn,Yoruba,4615,258519865,"FineWeb2, v2.1.0",12,2013,2024,DATA/yor_Latn
+yue,yue_Hani,Hani,Yue Chinese,17895,249484633,"FineWeb2, v2.1.0",12,2013,2024,DATA/yue_Hani
+chv,chv_Cyrl,Cyrl,Chuvash,1872,229973510,"FineWeb2, v2.1.0",12,2013,2024,DATA/chv_Cyrl
+lus,lus_Latn,Latn,Lushai,2986,229674238,"FineWeb2, v2.1.0",12,2013,2024,DATA/lus_Latn
+hbo,hbo_Hebr,Hebr,Ancient Hebrew,1563,209512638,"FineWeb2, v2.1.0",12,2013,2024,DATA/hbo_Hebr
+azb,azb_Arab,Arab,South Azerbaijani,2448,194375689,"FineWeb2, v2.1.0",12,2013,2024,DATA/azb_Arab
+oci,oci_Latn,Latn,Occitan (post 1500),2602,189317743,"FineWeb2, v2.1.0",12,2013,2024,DATA/oci_Latn
+grc,grc_Grek,Grek,Ancient Greek (to 1453),2317,188056973,"FineWeb2, v2.1.0",12,2013,2024,DATA/grc_Grek
+nds,nds_Latn,Latn,Low German,3554,177551945,"FineWeb2, v2.1.0",12,2013,2024,DATA/nds_Latn
+sme,sme_Latn,Latn,Northern Sami,3020,172122515,"FineWeb2, v2.1.0",12,2013,2024,DATA/sme_Latn
+gsw,gsw_Latn,Latn,Swiss German,3940,165114943,"FineWeb2, v2.1.0",12,2013,2024,DATA/gsw_Latn
+oss,oss_Cyrl,Cyrl,Iron Ossetic,2382,158243718,"FineWeb2, v2.1.0",12,2013,2024,DATA/oss_Cyrl
+kal,kal_Latn,Latn,Kalaallisut,1438,156675430,"FineWeb2, v2.1.0",12,2013,2024,DATA/kal_Latn
+nap,nap_Latn,Latn,Neapolitan,4028,155696004,"FineWeb2, v2.1.0",12,2013,2024,DATA/nap_Latn
+tir,tir_Ethi,Ethi,Tigrinya,1980,153084342,"FineWeb2, v2.1.0",12,2013,2024,DATA/tir_Ethi
+cnh,cnh_Latn,Latn,Hakha Chin,947,140710607,"FineWeb2, v2.1.0",12,2013,2024,DATA/cnh_Latn
+run,run_Latn,Latn,Rundi,1428,140215573,"FineWeb2, v2.1.0",12,2013,2024,DATA/run_Latn
+gaz,gaz_Latn,Latn,West Central Oromo,2091,130924460,"FineWeb2, v2.1.0",12,2013,2024,DATA/gaz_Latn
+anp,anp_Deva,Deva,Angika,1304,130706613,"FineWeb2, v2.1.0",12,2013,2024,DATA/anp_Deva
+bre,bre_Latn,Latn,Breton,3213,130503099,"FineWeb2, v2.1.0",12,2013,2024,DATA/bre_Latn
+san,san_Deva,Deva,Sanskrit,2033,128202969,"FineWeb2, v2.1.0",12,2013,2024,DATA/san_Deva
+hil,hil_Latn,Latn,Hiligaynon,3880,123248230,"FineWeb2, v2.1.0",12,2013,2024,DATA/hil_Latn
+roh,roh_Latn,Latn,Romansh,559,123207074,"FineWeb2, v2.1.0",12,2013,2024,DATA/roh_Latn
+rue,rue_Cyrl,Cyrl,Rusyn,3007,115393894,"FineWeb2, v2.1.0",12,2013,2024,DATA/rue_Cyrl
+kiu,kiu_Latn,Latn,Kirmanjki (individual language),4595,114512412,"FineWeb2, v2.1.0",12,2013,2024,DATA/kiu_Latn
+und,und_Deva,Deva,Undetermined,4185,112473094,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Deva
+bar,bar_Latn,Latn,Bavarian,3219,112379908,"FineWeb2, v2.1.0",12,2013,2024,DATA/bar_Latn
+tel,tel_Latn,Latn,Telugu,2225,103830929,"FineWeb2, v2.1.0",12,2013,2024,DATA/tel_Latn
+uig,uig_Latn,Latn,Uighur,2958,102046706,"FineWeb2, v2.1.0",12,2013,2024,DATA/uig_Latn
+apc,apc_Arab,Arab,Levantine Arabic,3487,96654886,"FineWeb2, v2.1.0",12,2013,2024,DATA/apc_Arab
+und,und_Armn,Armn,Undetermined,676,93538061,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Armn
+crh,crh_Latn,Latn,Crimean Tatar,2422,92149360,"FineWeb2, v2.1.0",12,2013,2024,DATA/crh_Latn
+udm,udm_Cyrl,Cyrl,Udmurt,1443,89979255,"FineWeb2, v2.1.0",12,2013,2024,DATA/udm_Cyrl
+hsb,hsb_Latn,Latn,Upper Sorbian,2506,89189891,"FineWeb2, v2.1.0",12,2013,2024,DATA/hsb_Latn
+crs,crs_Latn,Latn,Seselwa Creole French,205,88203123,"FineWeb2, v2.1.0",12,2013,2024,DATA/crs_Latn
+lim,lim_Latn,Latn,Limburgan,2236,88123165,"FineWeb2, v2.1.0",12,2013,2024,DATA/lim_Latn
+tat,tat_Latn,Latn,Tatar,709,85320930,"FineWeb2, v2.1.0",12,2013,2024,DATA/tat_Latn
+mhr,mhr_Cyrl,Cyrl,Eastern Mari,1789,81233075,"FineWeb2, v2.1.0",12,2013,2024,DATA/mhr_Cyrl
+lug,lug_Latn,Latn,Ganda,3542,78744224,"FineWeb2, v2.1.0",12,2013,2024,DATA/lug_Latn
+ben,ben_Latn,Latn,Bengali,2767,76683350,"FineWeb2, v2.1.0",12,2013,2024,DATA/ben_Latn
+che,che_Cyrl,Cyrl,Chechen,885,69926689,"FineWeb2, v2.1.0",12,2013,2024,DATA/che_Cyrl
+mai,mai_Deva,Deva,Maithili,1755,67926982,"FineWeb2, v2.1.0",12,2013,2024,DATA/mai_Deva
+srd,srd_Latn,Latn,Sardinian,1402,67502210,"FineWeb2, v2.1.0",12,2013,2024,DATA/srd_Latn
+hac,hac_Arab,Arab,Gurani,1333,64572147,"FineWeb2, v2.1.0",12,2013,2024,DATA/hac_Arab
+fur,fur_Latn,Latn,Friulian,1094,63499119,"FineWeb2, v2.1.0",12,2013,2024,DATA/fur_Latn
+zea,zea_Latn,Latn,Zeeuws,843,61348118,"FineWeb2, v2.1.0",12,2013,2024,DATA/zea_Latn
+kha,kha_Latn,Latn,Khasi,340,60830144,"FineWeb2, v2.1.0",12,2013,2024,DATA/kha_Latn
+tyv,tyv_Cyrl,Cyrl,Tuvinian,1051,59720161,"FineWeb2, v2.1.0",12,2013,2024,DATA/tyv_Cyrl
+lin,lin_Latn,Latn,Lingala,1761,59199129,"FineWeb2, v2.1.0",12,2013,2024,DATA/lin_Latn
+pnb,pnb_Arab,Arab,Western Panjabi,914,58103945,"FineWeb2, v2.1.0",12,2013,2024,DATA/pnb_Arab
+ban,ban_Latn,Latn,Balinese,1028,56532242,"FineWeb2, v2.1.0",12,2013,2024,DATA/ban_Latn
+rmy,rmy_Latn,Latn,Vlax Romani,504,56282416,"FineWeb2, v2.1.0",12,2013,2024,DATA/rmy_Latn
+arg,arg_Latn,Latn,Aragonese,1797,54978368,"FineWeb2, v2.1.0",12,2013,2024,DATA/arg_Latn
+lmo,lmo_Latn,Latn,Lombard,1402,53503126,"FineWeb2, v2.1.0",12,2013,2024,DATA/lmo_Latn
+dzo,dzo_Tibt,Tibt,Dzongkha,3004,52457742,"FineWeb2, v2.1.0",12,2013,2024,DATA/dzo_Tibt
+ilo,ilo_Latn,Latn,Iloko,1035,52063636,"FineWeb2, v2.1.0",12,2013,2024,DATA/ilo_Latn
+uig,uig_Cyrl,Cyrl,Uighur,534,50912989,"FineWeb2, v2.1.0",10,2014,2024,DATA/uig_Cyrl
+san,san_Latn,Latn,Sanskrit,2006,49699019,"FineWeb2, v2.1.0",12,2013,2024,DATA/san_Latn
+fij,fij_Latn,Latn,Fijian,1802,49629479,"FineWeb2, v2.1.0",12,2013,2024,DATA/fij_Latn
+aeb,aeb_Arab,Arab,Tunisian Arabic,2007,49260316,"FineWeb2, v2.1.0",12,2013,2024,DATA/aeb_Arab
+nde,nde_Latn,Latn,North Ndebele,260,47870424,"FineWeb2, v2.1.0",12,2013,2024,DATA/nde_Latn
+non,non_Latn,Latn,Old Norse,571,47737068,"FineWeb2, v2.1.0",12,2013,2024,DATA/non_Latn
+shn,shn_Mymr,Mymr,Shan,2404,47374282,"FineWeb2, v2.1.0",12,2013,2024,DATA/shn_Mymr
+iba,iba_Latn,Latn,Iban,1111,46610044,"FineWeb2, v2.1.0",12,2013,2024,DATA/iba_Latn
+new,new_Deva,Deva,Nepal Bhasa,1245,45788734,"FineWeb2, v2.1.0",12,2013,2024,DATA/new_Deva
+fro,fro_Latn,Latn,Old French (842-ca. 1400),846,45160969,"FineWeb2, v2.1.0",12,2013,2024,DATA/fro_Latn
+rmn,rmn_Latn,Latn,Balkan Romani,591,42966720,"FineWeb2, v2.1.0",12,2013,2024,DATA/rmn_Latn
+bxr,bxr_Cyrl,Cyrl,Russia Buriat,1351,41342310,"FineWeb2, v2.1.0",12,2013,2024,DATA/bxr_Cyrl
+kpv,kpv_Cyrl,Cyrl,Komi-Zyrian,714,38508556,"FineWeb2, v2.1.0",12,2013,2024,DATA/kpv_Cyrl
+gug,gug_Latn,Latn,Paraguayan Guaraní,1275,38175120,"FineWeb2, v2.1.0",12,2013,2024,DATA/gug_Latn
+bho,bho_Deva,Deva,Bhojpuri,830,36343843,"FineWeb2, v2.1.0",12,2013,2024,DATA/bho_Deva
+bbc,bbc_Latn,Latn,Batak Toba,474,35636201,"FineWeb2, v2.1.0",12,2013,2024,DATA/bbc_Latn
+ewe,ewe_Latn,Latn,Ewe,1025,35451635,"FineWeb2, v2.1.0",12,2013,2024,DATA/ewe_Latn
+tso,tso_Latn,Latn,Tsonga,596,34411686,"FineWeb2, v2.1.0",12,2013,2024,DATA/tso_Latn
+und,und_Brai,Brai,Undetermined,9097,34036063,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Brai
+hne,hne_Deva,Deva,Chhattisgarhi,3951,33144522,"FineWeb2, v2.1.0",12,2013,2024,DATA/hne_Deva
+ava,ava_Cyrl,Cyrl,Avaric,688,31653330,"FineWeb2, v2.1.0",12,2013,2024,DATA/ava_Cyrl
+pms,pms_Latn,Latn,Piemontese,1060,31314806,"FineWeb2, v2.1.0",12,2013,2024,DATA/pms_Latn
+wln,wln_Latn,Latn,Walloon,1511,30935825,"FineWeb2, v2.1.0",12,2013,2024,DATA/wln_Latn
+tam,tam_Latn,Latn,Tamil,868,30521739,"FineWeb2, v2.1.0",12,2013,2024,DATA/tam_Latn
+ltg,ltg_Latn,Latn,Latgalian,619,29917216,"FineWeb2, v2.1.0",12,2013,2024,DATA/ltg_Latn
+mwl,mwl_Latn,Latn,Mirandese,1113,29742759,"FineWeb2, v2.1.0",12,2013,2024,DATA/mwl_Latn
+kaa,kaa_Cyrl,Cyrl,Kara-Kalpak,437,29456232,"FineWeb2, v2.1.0",11,2013,2024,DATA/kaa_Cyrl
+scn,scn_Latn,Latn,Sicilian,1767,29450671,"FineWeb2, v2.1.0",12,2013,2024,DATA/scn_Latn
+nso,nso_Latn,Latn,Pedi,1018,29304464,"FineWeb2, v2.1.0",12,2013,2024,DATA/nso_Latn
+lez,lez_Cyrl,Cyrl,Lezghian,464,28961924,"FineWeb2, v2.1.0",12,2013,2024,DATA/lez_Cyrl
+tsn,tsn_Latn,Latn,Tswana,387,28404477,"FineWeb2, v2.1.0",12,2013,2024,DATA/tsn_Latn
+sco,sco_Latn,Latn,Scots,3357,28356337,"FineWeb2, v2.1.0",12,2013,2024,DATA/sco_Latn
+kbd,kbd_Cyrl,Cyrl,Kabardian,596,28169936,"FineWeb2, v2.1.0",12,2013,2024,DATA/kbd_Cyrl
+ctd,ctd_Latn,Latn,Tedim Chin,355,28110284,"FineWeb2, v2.1.0",12,2013,2024,DATA/ctd_Latn
+mfe,mfe_Latn,Latn,Morisyen,760,27973028,"FineWeb2, v2.1.0",12,2013,2024,DATA/mfe_Latn
+und,und_Beng,Beng,Undetermined,959,27243022,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Beng
+glk,glk_Arab,Arab,Gilaki,1298,27095548,"FineWeb2, v2.1.0",12,2013,2024,DATA/glk_Arab
+twi,twi_Latn,Latn,Twi,4134,27048277,"FineWeb2, v2.1.0",12,2013,2024,DATA/twi_Latn
+kab,kab_Latn,Latn,Kabyle,1272,26900737,"FineWeb2, v2.1.0",12,2013,2024,DATA/kab_Latn
+ndo,ndo_Latn,Latn,Ndonga,252,26452448,"FineWeb2, v2.1.0",12,2013,2024,DATA/ndo_Latn
+swc,swc_Latn,Latn,Congo Swahili,326,26177362,"FineWeb2, v2.1.0",12,2013,2024,DATA/swc_Latn
+myv,myv_Cyrl,Cyrl,Erzya,880,26125396,"FineWeb2, v2.1.0",12,2013,2024,DATA/myv_Cyrl
+kac,kac_Latn,Latn,Kachin,2275,26115867,"FineWeb2, v2.1.0",12,2013,2024,DATA/kac_Latn
+vro,vro_Latn,Latn,Võro,949,25791014,"FineWeb2, v2.1.0",12,2013,2024,DATA/vro_Latn
+pan,pan_Latn,Latn,Panjabi,1770,25015644,"FineWeb2, v2.1.0",12,2013,2024,DATA/pan_Latn
+cfm,cfm_Latn,Latn,Falam Chin,668,24699170,"FineWeb2, v2.1.0",12,2013,2024,DATA/cfm_Latn
+ton,ton_Latn,Latn,Tonga (Tonga Islands),1870,24514315,"FineWeb2, v2.1.0",12,2013,2024,DATA/ton_Latn
+tah,tah_Latn,Latn,Tahitian,1040,24166560,"FineWeb2, v2.1.0",12,2013,2024,DATA/tah_Latn
+inh,inh_Cyrl,Cyrl,Ingush,1233,23839419,"FineWeb2, v2.1.0",12,2013,2024,DATA/inh_Cyrl
+bcl,bcl_Latn,Latn,Central Bikol,1147,23576720,"FineWeb2, v2.1.0",12,2013,2024,DATA/bcl_Latn
+und,und_Hebr,Hebr,Undetermined,1773,23233113,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Hebr
+ady,ady_Cyrl,Cyrl,Adyghe,342,22969681,"FineWeb2, v2.1.0",11,2013,2024,DATA/ady_Cyrl
+gag,gag_Latn,Latn,Gagauz,1263,22935478,"FineWeb2, v2.1.0",12,2013,2024,DATA/gag_Latn
+und,und_Syrc,Syrc,Undetermined,1243,22595164,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Syrc
+ido,ido_Latn,Latn,Ido,2106,22240768,"FineWeb2, v2.1.0",12,2013,2024,DATA/ido_Latn
+azj,azj_Cyrl,Cyrl,North Azerbaijani,317,22154780,"FineWeb2, v2.1.0",10,2013,2024,DATA/azj_Cyrl
+uzs,uzs_Arab,Arab,Southern Uzbek,609,22046694,"FineWeb2, v2.1.0",12,2013,2024,DATA/uzs_Arab
+kum,kum_Cyrl,Cyrl,Kumyk,259,20262335,"FineWeb2, v2.1.0",11,2013,2024,DATA/kum_Cyrl
+tcz,tcz_Latn,Latn,Thado Chin,669,19703255,"FineWeb2, v2.1.0",12,2013,2024,DATA/tcz_Latn
+szl,szl_Latn,Latn,Silesian,763,19509461,"FineWeb2, v2.1.0",12,2013,2024,DATA/szl_Latn
+csb,csb_Latn,Latn,Kashubian,1220,19259986,"FineWeb2, v2.1.0",12,2013,2024,DATA/csb_Latn
+sag,sag_Latn,Latn,Sango,1854,19183753,"FineWeb2, v2.1.0",12,2013,2024,DATA/sag_Latn
+pfl,pfl_Latn,Latn,Pfaelzisch,467,19032573,"FineWeb2, v2.1.0",12,2013,2024,DATA/pfl_Latn
+krc,krc_Cyrl,Cyrl,Karachay-Balkar,1007,18506597,"FineWeb2, v2.1.0",12,2013,2024,DATA/krc_Cyrl
+mrj,mrj_Cyrl,Cyrl,Western Mari,590,18455480,"FineWeb2, v2.1.0",12,2013,2024,DATA/mrj_Cyrl
+wol,wol_Latn,Latn,Wolof,2302,18118158,"FineWeb2, v2.1.0",12,2013,2024,DATA/wol_Latn
+syc,syc_Syrc,Syrc,Classical Syriac,458,17821635,"FineWeb2, v2.1.0",12,2013,2024,DATA/syc_Syrc
+yua,yua_Latn,Latn,Yucateco,695,17630172,"FineWeb2, v2.1.0",12,2013,2024,DATA/yua_Latn
+diq,diq_Latn,Latn,Dimli (individual language),1054,17624481,"FineWeb2, v2.1.0",12,2013,2024,DATA/diq_Latn
+srn,srn_Latn,Latn,Sranan Tongo,321,17618714,"FineWeb2, v2.1.0",12,2013,2024,DATA/srn_Latn
+gos,gos_Latn,Latn,Gronings,294,17546433,"FineWeb2, v2.1.0",12,2013,2024,DATA/gos_Latn
+tuk,tuk_Cyrl,Cyrl,Turkmen,374,17466143,"FineWeb2, v2.1.0",11,2013,2024,DATA/tuk_Cyrl
+crh,crh_Cyrl,Cyrl,Crimean Tatar,410,17371030,"FineWeb2, v2.1.0",9,2016,2024,DATA/crh_Cyrl
+efi,efi_Latn,Latn,Efik,230,17354748,"FineWeb2, v2.1.0",10,2014,2024,DATA/efi_Latn
+mal,mal_Latn,Latn,Malayalam,1669,17241189,"FineWeb2, v2.1.0",12,2013,2024,DATA/mal_Latn
+eml,eml_Latn,Latn,UNKNOWN,1455,17232654,"FineWeb2, v2.1.0",12,2013,2024,DATA/eml_Latn
+lad,lad_Latn,Latn,Ladino,714,17032496,"FineWeb2, v2.1.0",12,2013,2024,DATA/lad_Latn
+vls,vls_Latn,Latn,Vlaams,665,16814860,"FineWeb2, v2.1.0",12,2013,2024,DATA/vls_Latn
+alt,alt_Cyrl,Cyrl,Southern Altai,356,16766543,"FineWeb2, v2.1.0",10,2013,2024,DATA/alt_Cyrl
+und,und_Newa,Newa,Undetermined,317,16557349,"FineWeb2, v2.1.0",7,2018,2024,DATA/und_Newa
+mni,mni_Beng,Beng,Manipuri,770,16455766,"FineWeb2, v2.1.0",11,2013,2024,DATA/mni_Beng
+gom,gom_Deva,Deva,Goan Konkani,381,16269470,"FineWeb2, v2.1.0",12,2013,2024,DATA/gom_Deva
+gaa,gaa_Latn,Latn,Ga,225,16245580,"FineWeb2, v2.1.0",11,2013,2024,DATA/gaa_Latn
+acm,acm_Arab,Arab,Mesopotamian Arabic,1617,16156757,"FineWeb2, v2.1.0",12,2013,2024,DATA/acm_Arab
+loz,loz_Latn,Latn,Lozi,262,16047696,"FineWeb2, v2.1.0",11,2013,2024,DATA/loz_Latn
+ven,ven_Latn,Latn,Venda,387,15987941,"FineWeb2, v2.1.0",12,2013,2024,DATA/ven_Latn
+ike,ike_Cans,Cans,Eastern Canadian Inuktitut,417,15986748,"FineWeb2, v2.1.0",12,2013,2024,DATA/ike_Cans
+bis,bis_Latn,Latn,Bislama,712,15945667,"FineWeb2, v2.1.0",12,2013,2024,DATA/bis_Latn
+qug,qug_Latn,Latn,Chimborazo Highland Quichua,3564,15812904,"FineWeb2, v2.1.0",12,2013,2024,DATA/qug_Latn
+tpi,tpi_Latn,Latn,Tok Pisin,871,15543229,"FineWeb2, v2.1.0",12,2013,2024,DATA/tpi_Latn
+brh,brh_Arab,Arab,Brahui,732,15224235,"FineWeb2, v2.1.0",12,2013,2024,DATA/brh_Arab
+fit,fit_Latn,Latn,Tornedalen Finnish,504,15210564,"FineWeb2, v2.1.0",12,2013,2024,DATA/fit_Latn
+lbe,lbe_Cyrl,Cyrl,Lak,245,15042002,"FineWeb2, v2.1.0",10,2013,2024,DATA/lbe_Cyrl
+kua,kua_Latn,Latn,Kuanyama,179,14774474,"FineWeb2, v2.1.0",11,2013,2024,DATA/kua_Latn
+tzo,tzo_Latn,Latn,Tzotzil,350,14751845,"FineWeb2, v2.1.0",12,2013,2024,DATA/tzo_Latn
+cak,cak_Latn,Latn,Kaqchikel,172,14723010,"FineWeb2, v2.1.0",12,2013,2024,DATA/cak_Latn
+lua,lua_Latn,Latn,Luba-Lulua,229,14700324,"FineWeb2, v2.1.0",10,2013,2024,DATA/lua_Latn
+pck,pck_Latn,Latn,Paite Chin,176,14619302,"FineWeb2, v2.1.0",12,2013,2024,DATA/pck_Latn
+frp,frp_Latn,Latn,Arpitan,2325,14299106,"FineWeb2, v2.1.0",12,2013,2024,DATA/frp_Latn
+krl,krl_Latn,Latn,Karelian,379,13833637,"FineWeb2, v2.1.0",12,2013,2024,DATA/krl_Latn
+ina,ina_Latn,Latn,Interlingua (International Auxiliary Language Association),721,13813974,"FineWeb2, v2.1.0",12,2013,2024,DATA/ina_Latn
+und,und_Mymr,Mymr,Undetermined,5033,13700951,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Mymr
+ksh,ksh_Latn,Latn,Kölsch,699,13450021,"FineWeb2, v2.1.0",12,2013,2024,DATA/ksh_Latn
+ace,ace_Latn,Latn,Achinese,589,13429581,"FineWeb2, v2.1.0",12,2013,2024,DATA/ace_Latn
+olo,olo_Latn,Latn,Livvi,511,13406857,"FineWeb2, v2.1.0",12,2013,2024,DATA/olo_Latn
+tog,tog_Latn,Latn,Tonga (Nyasa),176,13135290,"FineWeb2, v2.1.0",8,2017,2024,DATA/tog_Latn
+pcd,pcd_Latn,Latn,Picard,288,12949400,"FineWeb2, v2.1.0",12,2013,2024,DATA/pcd_Latn
+pon,pon_Latn,Latn,Pohnpeian,868,12841262,"FineWeb2, v2.1.0",12,2013,2024,DATA/pon_Latn
+dsb,dsb_Latn,Latn,Lower Sorbian,1020,12635437,"FineWeb2, v2.1.0",12,2013,2024,DATA/dsb_Latn
+lub,lub_Latn,Latn,Luba-Katanga,226,12633001,"FineWeb2, v2.1.0",9,2013,2024,DATA/lub_Latn
+abk,abk_Cyrl,Cyrl,Abkhazian,336,12526815,"FineWeb2, v2.1.0",8,2017,2024,DATA/abk_Cyrl
+gom,gom_Latn,Latn,Goan Konkani,1053,12397428,"FineWeb2, v2.1.0",12,2013,2024,DATA/gom_Latn
+lij,lij_Latn,Latn,Ligurian,1122,12272644,"FineWeb2, v2.1.0",12,2013,2024,DATA/lij_Latn
+kng,kng_Latn,Latn,Koongo,204,12206284,"FineWeb2, v2.1.0",11,2013,2024,DATA/kng_Latn
+quc,quc_Latn,Latn,K'iche',254,12121868,"FineWeb2, v2.1.0",12,2013,2024,DATA/quc_Latn
+nbl,nbl_Latn,Latn,South Ndebele,174,11913286,"FineWeb2, v2.1.0",11,2013,2024,DATA/nbl_Latn
+vec,vec_Latn,Latn,Venetian,1002,11728637,"FineWeb2, v2.1.0",12,2013,2024,DATA/vec_Latn
+mam,mam_Latn,Latn,Mam,156,11687398,"FineWeb2, v2.1.0",12,2013,2024,DATA/mam_Latn
+wal,wal_Latn,Latn,Wolaytta,166,11185971,"FineWeb2, v2.1.0",12,2013,2024,DATA/wal_Latn
+vep,vep_Latn,Latn,Veps,1345,11143425,"FineWeb2, v2.1.0",12,2013,2024,DATA/vep_Latn
+ayr,ayr_Latn,Latn,Central Aymara,1548,10985164,"FineWeb2, v2.1.0",12,2013,2024,DATA/ayr_Latn
+ron,ron_Cyrl,Cyrl,Romanian,368,10862179,"FineWeb2, v2.1.0",11,2013,2024,DATA/ron_Cyrl
+gil,gil_Latn,Latn,Gilbertese,347,10857214,"FineWeb2, v2.1.0",12,2013,2024,DATA/gil_Latn
+kaa,kaa_Latn,Latn,Kara-Kalpak,641,10732468,"FineWeb2, v2.1.0",12,2013,2024,DATA/kaa_Latn
+kea,kea_Latn,Latn,Kabuverdianu,789,10618122,"FineWeb2, v2.1.0",12,2013,2024,DATA/kea_Latn
+ssw,ssw_Latn,Latn,Swati,426,10402420,"FineWeb2, v2.1.0",12,2013,2024,DATA/ssw_Latn
+smn,smn_Latn,Latn,Inari Sami,515,10359944,"FineWeb2, v2.1.0",12,2013,2024,DATA/smn_Latn
+mni,mni_Latn,Latn,Manipuri,1065,10191404,"FineWeb2, v2.1.0",11,2014,2024,DATA/mni_Latn
+mnw,mnw_Mymr,Mymr,Mon,1107,10175973,"FineWeb2, v2.1.0",11,2013,2024,DATA/mnw_Mymr
+mos,mos_Latn,Latn,Mossi,516,10138834,"FineWeb2, v2.1.0",11,2013,2024,DATA/mos_Latn
+arb,arb_Latn,Latn,Standard Arabic,434,10135218,"FineWeb2, v2.1.0",12,2013,2024,DATA/arb_Latn
+npi,npi_Latn,Latn,Nepali (individual language),1667,10071512,"FineWeb2, v2.1.0",12,2013,2024,DATA/npi_Latn
+cor,cor_Latn,Latn,Cornish,679,9879929,"FineWeb2, v2.1.0",12,2013,2024,DATA/cor_Latn
+lfn,lfn_Latn,Latn,Lingua Franca Nova,938,9731599,"FineWeb2, v2.1.0",11,2013,2024,DATA/lfn_Latn
+tzh,tzh_Latn,Latn,Tzeltal,182,9682943,"FineWeb2, v2.1.0",12,2013,2024,DATA/tzh_Latn
+tiv,tiv_Latn,Latn,Tiv,438,9676226,"FineWeb2, v2.1.0",12,2013,2024,DATA/tiv_Latn
+nzi,nzi_Latn,Latn,Nzima,176,9598864,"FineWeb2, v2.1.0",9,2013,2024,DATA/nzi_Latn
+tvl,tvl_Latn,Latn,Tuvalu,205,9532662,"FineWeb2, v2.1.0",11,2013,2024,DATA/tvl_Latn
+luo,luo_Latn,Latn,Luo (Kenya and Tanzania),461,9468315,"FineWeb2, v2.1.0",12,2013,2024,DATA/luo_Latn
+tet,tet_Latn,Latn,Tetum,236,9343477,"FineWeb2, v2.1.0",12,2013,2024,DATA/tet_Latn
+und,und_Bopo,Bopo,Undetermined,11518,9325105,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Bopo
+nhe,nhe_Latn,Latn,Eastern Huasteca Nahuatl,103,9324038,"FineWeb2, v2.1.0",12,2013,2024,DATA/nhe_Latn
+orv,orv_Cyrl,Cyrl,Old Russian,570,9186495,"FineWeb2, v2.1.0",12,2013,2024,DATA/orv_Cyrl
+ory,ory_Latn,Latn,Odia,543,9178757,"FineWeb2, v2.1.0",12,2013,2024,DATA/ory_Latn
+und,und_Thaa,Thaa,Undetermined,358,8963798,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Thaa
+rcf,rcf_Latn,Latn,Réunion Creole French,172,8935136,"FineWeb2, v2.1.0",11,2013,2024,DATA/rcf_Latn
+btx,btx_Latn,Latn,Batak Karo,188,8744387,"FineWeb2, v2.1.0",12,2013,2024,DATA/btx_Latn
+sma,sma_Latn,Latn,Southern Sami,397,8702318,"FineWeb2, v2.1.0",12,2013,2024,DATA/sma_Latn
+bts,bts_Latn,Latn,Batak Simalungun,172,8685356,"FineWeb2, v2.1.0",12,2013,2024,DATA/bts_Latn
+pag,pag_Latn,Latn,Pangasinan,469,8665573,"FineWeb2, v2.1.0",12,2013,2024,DATA/pag_Latn
+bem,bem_Latn,Latn,Bemba (Zambia),1089,8463498,"FineWeb2, v2.1.0",12,2013,2024,DATA/bem_Latn
+quy,quy_Latn,Latn,Ayacucho Quechua,1236,8441952,"FineWeb2, v2.1.0",12,2013,2024,DATA/quy_Latn
+iso,iso_Latn,Latn,Isoko,263,8270629,"FineWeb2, v2.1.0",9,2014,2024,DATA/iso_Latn
+xmf,xmf_Geor,Geor,Mingrelian,1539,8072075,"FineWeb2, v2.1.0",12,2013,2024,DATA/xmf_Geor
+mdf,mdf_Cyrl,Cyrl,Moksha,415,7950719,"FineWeb2, v2.1.0",12,2013,2024,DATA/mdf_Cyrl
+ksw,ksw_Mymr,Mymr,S'gaw Karen,295,7948359,"FineWeb2, v2.1.0",9,2014,2024,DATA/ksw_Mymr
+ext,ext_Latn,Latn,Extremaduran,747,7923523,"FineWeb2, v2.1.0",12,2013,2024,DATA/ext_Latn
+ubu,ubu_Latn,Latn,Umbu-Ungu,104,7913371,"FineWeb2, v2.1.0",11,2013,2024,DATA/ubu_Latn
+dak,dak_Latn,Latn,Dakota,125,7862100,"FineWeb2, v2.1.0",12,2013,2024,DATA/dak_Latn
+frr,frr_Latn,Latn,Northern Frisian,1547,7826876,"FineWeb2, v2.1.0",12,2013,2024,DATA/frr_Latn
+rar,rar_Latn,Latn,Rarotongan,194,7686305,"FineWeb2, v2.1.0",11,2013,2024,DATA/rar_Latn
+chk,chk_Latn,Latn,Chuukese,632,7684185,"FineWeb2, v2.1.0",12,2013,2024,DATA/chk_Latn
+hmo,hmo_Latn,Latn,Hiri Motu,104,7431815,"FineWeb2, v2.1.0",11,2013,2024,DATA/hmo_Latn
+toi,toi_Latn,Latn,Tonga (Zambia),634,7284148,"FineWeb2, v2.1.0",10,2013,2024,DATA/toi_Latn
+hmr,hmr_Latn,Latn,Hmar,284,7282482,"FineWeb2, v2.1.0",12,2013,2024,DATA/hmr_Latn
+mui,mui_Latn,Latn,Musi,348,7217875,"FineWeb2, v2.1.0",12,2013,2024,DATA/mui_Latn
+szy,szy_Latn,Latn,Sakizaya,5417,7168949,"FineWeb2, v2.1.0",11,2013,2024,DATA/szy_Latn
+glv,glv_Latn,Latn,Manx,935,7109843,"FineWeb2, v2.1.0",12,2013,2024,DATA/glv_Latn
+arn,arn_Latn,Latn,Mapudungun,278,7073233,"FineWeb2, v2.1.0",12,2013,2024,DATA/arn_Latn
+mar,mar_Latn,Latn,Marathi,625,7027537,"FineWeb2, v2.1.0",12,2013,2024,DATA/mar_Latn
+cop,cop_Copt,Copt,Coptic,547,6961556,"FineWeb2, v2.1.0",10,2013,2024,DATA/cop_Copt
+poh,poh_Latn,Latn,Poqomchi',98,6890653,"FineWeb2, v2.1.0",7,2013,2022,DATA/poh_Latn
+pam,pam_Latn,Latn,Pampanga,582,6848830,"FineWeb2, v2.1.0",12,2013,2024,DATA/pam_Latn
+mps,mps_Latn,Latn,Dadibi,94,6830515,"FineWeb2, v2.1.0",8,2013,2024,DATA/mps_Latn
+abt,abt_Latn,Latn,Ambulas,83,6587962,"FineWeb2, v2.1.0",5,2016,2020,DATA/abt_Latn
+bru,bru_Latn,Latn,Eastern Bru,297,6547928,"FineWeb2, v2.1.0",12,2013,2024,DATA/bru_Latn
+bjn,bjn_Arab,Arab,Banjar,586,6457769,"FineWeb2, v2.1.0",12,2013,2024,DATA/bjn_Arab
+sms,sms_Latn,Latn,Skolt Sami,286,6433019,"FineWeb2, v2.1.0",11,2013,2024,DATA/sms_Latn
+wuu,wuu_Hani,Hani,Wu Chinese,11540,6377637,"FineWeb2, v2.1.0",12,2013,2024,DATA/wuu_Hani
+rop,rop_Latn,Latn,Kriol,94,6341984,"FineWeb2, v2.1.0",11,2013,2024,DATA/rop_Latn
+avk,avk_Latn,Latn,Kotava,846,6327329,"FineWeb2, v2.1.0",10,2013,2024,DATA/avk_Latn
+quz,quz_Latn,Latn,Cusco Quechua,427,6283852,"FineWeb2, v2.1.0",12,2013,2024,DATA/quz_Latn
+bci,bci_Latn,Latn,Baoulé,470,6268669,"FineWeb2, v2.1.0",10,2013,2024,DATA/bci_Latn
+bba,bba_Latn,Latn,Baatonum,125,6262888,"FineWeb2, v2.1.0",11,2013,2024,DATA/bba_Latn
+acn,acn_Latn,Latn,Achang,154,6261019,"FineWeb2, v2.1.0",11,2013,2024,DATA/acn_Latn
+tlh,tlh_Latn,Latn,Klingon,471,6246217,"FineWeb2, v2.1.0",12,2013,2024,DATA/tlh_Latn
+gym,gym_Latn,Latn,Ngäbere,134,6230315,"FineWeb2, v2.1.0",10,2013,2024,DATA/gym_Latn
+zai,zai_Latn,Latn,Isthmus Zapotec,273,6124886,"FineWeb2, v2.1.0",12,2013,2024,DATA/zai_Latn
+meu,meu_Latn,Latn,Motu,100,6102807,"FineWeb2, v2.1.0",7,2017,2024,DATA/meu_Latn
+ach,ach_Latn,Latn,Acoli,143,6083562,"FineWeb2, v2.1.0",12,2013,2024,DATA/ach_Latn
+bjn,bjn_Latn,Latn,Banjar,648,5952208,"FineWeb2, v2.1.0",12,2013,2024,DATA/bjn_Latn
+crn,crn_Latn,Latn,El Nayar Cora,104,5903048,"FineWeb2, v2.1.0",9,2013,2024,DATA/crn_Latn
+und,und_Tibt,Tibt,Undetermined,3939,5790134,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Tibt
+cac,cac_Latn,Latn,Chuj,99,5759619,"FineWeb2, v2.1.0",8,2013,2023,DATA/cac_Latn
+srm,srm_Latn,Latn,Saramaccan,125,5649002,"FineWeb2, v2.1.0",9,2013,2022,DATA/srm_Latn
+fon,fon_Latn,Latn,Fon,521,5625907,"FineWeb2, v2.1.0",10,2013,2024,DATA/fon_Latn
+cab,cab_Latn,Latn,Garifuna,159,5621211,"FineWeb2, v2.1.0",11,2013,2024,DATA/cab_Latn
+kos,kos_Latn,Latn,Kosraean,183,5613001,"FineWeb2, v2.1.0",12,2013,2024,DATA/kos_Latn
+vol,vol_Latn,Latn,Volapük,952,5546345,"FineWeb2, v2.1.0",12,2013,2024,DATA/vol_Latn
+ify,ify_Latn,Latn,Keley-I Kallahan,102,5541786,"FineWeb2, v2.1.0",10,2013,2024,DATA/ify_Latn
+gcf,gcf_Latn,Latn,Guadeloupean Creole French,203,5537989,"FineWeb2, v2.1.0",12,2013,2024,DATA/gcf_Latn
+ium,ium_Latn,Latn,Iu Mien,915,5534195,"FineWeb2, v2.1.0",12,2013,2024,DATA/ium_Latn
+kmb,kmb_Latn,Latn,Kimbundu,156,5521466,"FineWeb2, v2.1.0",10,2013,2023,DATA/kmb_Latn
+dyu,dyu_Latn,Latn,Dyula,126,5520070,"FineWeb2, v2.1.0",11,2013,2024,DATA/dyu_Latn
+nch,nch_Latn,Latn,Central Huasteca Nahuatl,173,5507471,"FineWeb2, v2.1.0",12,2013,2024,DATA/nch_Latn
+aak,aak_Latn,Latn,Ankave,97,5492177,"FineWeb2, v2.1.0",8,2013,2023,DATA/aak_Latn
+tly,tly_Latn,Latn,Talysh,749,5479555,"FineWeb2, v2.1.0",11,2013,2024,DATA/tly_Latn
+umb,umb_Latn,Latn,Umbundu,224,5479227,"FineWeb2, v2.1.0",10,2013,2022,DATA/umb_Latn
+kek,kek_Latn,Latn,Kekchí,234,5434039,"FineWeb2, v2.1.0",12,2013,2024,DATA/kek_Latn
+kan,kan_Latn,Latn,Kannada,958,5403106,"FineWeb2, v2.1.0",12,2013,2024,DATA/kan_Latn
+krj,krj_Latn,Latn,Kinaray-A,143,5362117,"FineWeb2, v2.1.0",11,2013,2023,DATA/krj_Latn
+nyu,nyu_Latn,Latn,Nyungwe,134,5284938,"FineWeb2, v2.1.0",8,2016,2024,DATA/nyu_Latn
+ang,ang_Latn,Latn,Old English (ca. 450-1100),895,5277899,"FineWeb2, v2.1.0",12,2013,2024,DATA/ang_Latn
+jac,jac_Latn,Latn,Popti',148,5234177,"FineWeb2, v2.1.0",12,2013,2024,DATA/jac_Latn
+rmc,rmc_Latn,Latn,Carpathian Romani,307,5228393,"FineWeb2, v2.1.0",10,2013,2024,DATA/rmc_Latn
+sgs,sgs_Latn,Latn,Samogitian,625,5187137,"FineWeb2, v2.1.0",12,2013,2024,DATA/sgs_Latn
+nah,nah_Latn,Latn,UNKNOWN,927,5133129,"FineWeb2, v2.1.0",12,2013,2024,DATA/nah_Latn
+brx,brx_Deva,Deva,Bodo (India),249,5113949,"FineWeb2, v2.1.0",11,2013,2024,DATA/brx_Deva
+mah,mah_Latn,Latn,Marshallese,823,5099180,"FineWeb2, v2.1.0",12,2013,2024,DATA/mah_Latn
+aoj,aoj_Latn,Latn,Mufian,88,5017993,"FineWeb2, v2.1.0",6,2014,2024,DATA/aoj_Latn
+fuf,fuf_Latn,Latn,Pular,214,5010779,"FineWeb2, v2.1.0",12,2013,2024,DATA/fuf_Latn
+hui,hui_Latn,Latn,Huli,93,4997589,"FineWeb2, v2.1.0",6,2013,2023,DATA/hui_Latn
+und,und_Sylo,Sylo,Undetermined,911,4994162,"FineWeb2, v2.1.0",10,2014,2024,DATA/und_Sylo
+ape,ape_Latn,Latn,Bukiyip,91,4965294,"FineWeb2, v2.1.0",6,2017,2023,DATA/ape_Latn
+top,top_Latn,Latn,Papantla Totonac,223,4954613,"FineWeb2, v2.1.0",11,2013,2024,DATA/top_Latn
+und,und_Shaw,Shaw,Undetermined,207,4941537,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Shaw
+nhw,nhw_Latn,Latn,Western Huasteca Nahuatl,99,4932403,"FineWeb2, v2.1.0",10,2013,2024,DATA/nhw_Latn
+zom,zom_Latn,Latn,Zou,217,4928052,"FineWeb2, v2.1.0",12,2013,2024,DATA/zom_Latn
+tzm,tzm_Tfng,Tfng,Central Atlas Tamazight,609,4881572,"FineWeb2, v2.1.0",12,2013,2024,DATA/tzm_Tfng
+pdt,pdt_Latn,Latn,Plautdietsch,157,4855707,"FineWeb2, v2.1.0",10,2014,2024,DATA/pdt_Latn
+cbk,cbk_Latn,Latn,Chavacano,455,4836556,"FineWeb2, v2.1.0",12,2013,2024,DATA/cbk_Latn
+tuc,tuc_Latn,Latn,Mutu,92,4834023,"FineWeb2, v2.1.0",6,2017,2023,DATA/tuc_Latn
+guw,guw_Latn,Latn,Gun,259,4792532,"FineWeb2, v2.1.0",9,2016,2024,DATA/guw_Latn
+swg,swg_Latn,Latn,Swabian,104,4789092,"FineWeb2, v2.1.0",9,2013,2024,DATA/swg_Latn
+byr,byr_Latn,Latn,Baruya,91,4737465,"FineWeb2, v2.1.0",8,2013,2023,DATA/byr_Latn
+knv,knv_Latn,Latn,Tabo,86,4730427,"FineWeb2, v2.1.0",5,2018,2023,DATA/knv_Latn
+nog,nog_Cyrl,Cyrl,Nogai,257,4702653,"FineWeb2, v2.1.0",11,2013,2024,DATA/nog_Cyrl
+rmn,rmn_Grek,Grek,Balkan Romani,519,4656022,"FineWeb2, v2.1.0",10,2013,2024,DATA/rmn_Grek
+dtp,dtp_Latn,Latn,Kadazan Dusun,188,4656009,"FineWeb2, v2.1.0",11,2013,2024,DATA/dtp_Latn
+ada,ada_Latn,Latn,Adangme,215,4611115,"FineWeb2, v2.1.0",8,2013,2023,DATA/ada_Latn
+amu,amu_Latn,Latn,Guerrero Amuzgo,106,4590879,"FineWeb2, v2.1.0",9,2013,2023,DATA/amu_Latn
+kwn,kwn_Latn,Latn,Kwangali,164,4587011,"FineWeb2, v2.1.0",11,2013,2024,DATA/kwn_Latn
+dag,dag_Latn,Latn,Dagbani,1648,4584305,"FineWeb2, v2.1.0",12,2013,2024,DATA/dag_Latn
+kpg,kpg_Latn,Latn,Kapingamarangi,98,4568802,"FineWeb2, v2.1.0",8,2017,2024,DATA/kpg_Latn
+her,her_Latn,Latn,Herero,162,4521012,"FineWeb2, v2.1.0",11,2013,2024,DATA/her_Latn
+seh,seh_Latn,Latn,Sena,164,4513513,"FineWeb2, v2.1.0",10,2014,2024,DATA/seh_Latn
+tbz,tbz_Latn,Latn,Ditammari,136,4501843,"FineWeb2, v2.1.0",9,2013,2024,DATA/tbz_Latn
+stq,stq_Latn,Latn,Saterfriesisch,478,4491091,"FineWeb2, v2.1.0",12,2013,2024,DATA/stq_Latn
+sat,sat_Olck,Olck,Santali,864,4476092,"FineWeb2, v2.1.0",7,2018,2024,DATA/sat_Olck
+awa,awa_Deva,Deva,Awadhi,333,4461775,"FineWeb2, v2.1.0",12,2013,2024,DATA/awa_Deva
+yap,yap_Latn,Latn,Yapese,195,4459075,"FineWeb2, v2.1.0",12,2013,2024,DATA/yap_Latn
+cha,cha_Latn,Latn,Chamorro,289,4421320,"FineWeb2, v2.1.0",12,2013,2024,DATA/cha_Latn
+dhv,dhv_Latn,Latn,Dehu,156,4402482,"FineWeb2, v2.1.0",11,2013,2024,DATA/dhv_Latn
+tbg,tbg_Latn,Latn,North Tairora,108,4368852,"FineWeb2, v2.1.0",6,2014,2023,DATA/tbg_Latn
+kik,kik_Latn,Latn,Kikuyu,246,4349000,"FineWeb2, v2.1.0",11,2013,2024,DATA/kik_Latn
+xal,xal_Cyrl,Cyrl,Kalmyk,515,4339666,"FineWeb2, v2.1.0",12,2013,2024,DATA/xal_Cyrl
+smj,smj_Latn,Latn,Lule Sami,218,4334465,"FineWeb2, v2.1.0",12,2013,2024,DATA/smj_Latn
+ksd,ksd_Latn,Latn,Kuanua,85,4317492,"FineWeb2, v2.1.0",6,2017,2023,DATA/ksd_Latn
+koo,koo_Latn,Latn,Konzo,132,4213781,"FineWeb2, v2.1.0",8,2013,2024,DATA/koo_Latn
+abq,abq_Cyrl,Cyrl,Abaza,193,4209076,"FineWeb2, v2.1.0",8,2017,2024,DATA/abq_Cyrl
+bam,bam_Latn,Latn,Bambara,553,4204483,"FineWeb2, v2.1.0",12,2013,2024,DATA/bam_Latn
+nyn,nyn_Latn,Latn,Nyankole,1020,4192416,"FineWeb2, v2.1.0",11,2013,2024,DATA/nyn_Latn
+tab,tab_Cyrl,Cyrl,Tabassaran,216,4165557,"FineWeb2, v2.1.0",8,2013,2024,DATA/tab_Cyrl
+pau,pau_Latn,Latn,Palauan,272,4163565,"FineWeb2, v2.1.0",12,2013,2024,DATA/pau_Latn
+cuk,cuk_Latn,Latn,San Blas Kuna,179,4146968,"FineWeb2, v2.1.0",12,2013,2024,DATA/cuk_Latn
+mgr,mgr_Latn,Latn,Mambwe-Lungu,173,4138752,"FineWeb2, v2.1.0",8,2014,2023,DATA/mgr_Latn
+aii,aii_Syrc,Syrc,Assyrian Neo-Aramaic,338,4111082,"FineWeb2, v2.1.0",10,2013,2024,DATA/aii_Syrc
+rup,rup_Latn,Latn,Macedo-Romanian,490,4075772,"FineWeb2, v2.1.0",12,2013,2024,DATA/rup_Latn
+gag,gag_Cyrl,Cyrl,Gagauz,265,4033180,"FineWeb2, v2.1.0",11,2013,2024,DATA/gag_Cyrl
+kwy,kwy_Latn,Latn,San Salvador Kongo,247,4032772,"FineWeb2, v2.1.0",10,2014,2024,DATA/kwy_Latn
+bzj,bzj_Latn,Latn,Belize Kriol English,154,4017132,"FineWeb2, v2.1.0",10,2013,2024,DATA/bzj_Latn
+war,war_Latn,Latn,Waray (Philippines),695,4012791,"FineWeb2, v2.1.0",12,2013,2024,DATA/war_Latn
+jra,jra_Latn,Latn,Jarai,164,3972357,"FineWeb2, v2.1.0",8,2017,2024,DATA/jra_Latn
+sid,sid_Latn,Latn,Sidamo,288,3965992,"FineWeb2, v2.1.0",8,2017,2024,DATA/sid_Latn
+und,und_Lana,Lana,Undetermined,1391,3954879,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Lana
+sop,sop_Latn,Latn,Songe,152,3927870,"FineWeb2, v2.1.0",9,2016,2024,DATA/sop_Latn
+und,und_Yiii,Yiii,Undetermined,8811,3919875,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Yiii
+rwo,rwo_Latn,Latn,Rawa,82,3912115,"FineWeb2, v2.1.0",7,2014,2023,DATA/rwo_Latn
+hnj,hnj_Latn,Latn,Hmong Njua,261,3897931,"FineWeb2, v2.1.0",12,2013,2024,DATA/hnj_Latn
+tcy,tcy_Knda,Knda,Tulu,334,3891729,"FineWeb2, v2.1.0",10,2013,2024,DATA/tcy_Knda
+xla,xla_Latn,Latn,Kamula,91,3863194,"FineWeb2, v2.1.0",8,2015,2023,DATA/xla_Latn
+ncx,ncx_Latn,Latn,Central Puebla Nahuatl,148,3837190,"FineWeb2, v2.1.0",9,2013,2024,DATA/ncx_Latn
+jbo,jbo_Latn,Latn,Lojban,1060,3833650,"FineWeb2, v2.1.0",12,2013,2024,DATA/jbo_Latn
+vmw,vmw_Latn,Latn,Makhuwa,167,3826012,"FineWeb2, v2.1.0",11,2013,2024,DATA/vmw_Latn
+acr,acr_Latn,Latn,Achi,125,3815299,"FineWeb2, v2.1.0",11,2013,2023,DATA/acr_Latn
+rad,rad_Latn,Latn,Rade,140,3748598,"FineWeb2, v2.1.0",10,2013,2024,DATA/rad_Latn
+amp,amp_Latn,Latn,Alamblak,126,3725382,"FineWeb2, v2.1.0",7,2017,2023,DATA/amp_Latn
+zyb,zyb_Latn,Latn,Yongbei Zhuang,3425,3721106,"FineWeb2, v2.1.0",12,2013,2024,DATA/zyb_Latn
+msy,msy_Latn,Latn,Aruamu,91,3715860,"FineWeb2, v2.1.0",11,2013,2024,DATA/msy_Latn
+raw,raw_Latn,Latn,Rawang,15007,3707464,"FineWeb2, v2.1.0",11,2013,2024,DATA/raw_Latn
+gnn,gnn_Latn,Latn,Gumatj,97,3701321,"FineWeb2, v2.1.0",8,2015,2024,DATA/gnn_Latn
+rmy,rmy_Cyrl,Cyrl,Vlax Romani,624,3683903,"FineWeb2, v2.1.0",11,2013,2024,DATA/rmy_Cyrl
+dar,dar_Cyrl,Cyrl,Dargwa,206,3676374,"FineWeb2, v2.1.0",8,2017,2024,DATA/dar_Cyrl
+und,und_Mlym,Mlym,Undetermined,716,3668663,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Mlym
+rug,rug_Latn,Latn,Roviana,92,3666469,"FineWeb2, v2.1.0",8,2017,2024,DATA/rug_Latn
+pjt,pjt_Latn,Latn,Pitjantjatjara,132,3658995,"FineWeb2, v2.1.0",7,2017,2024,DATA/pjt_Latn
+ded,ded_Latn,Latn,Dedua,91,3657528,"FineWeb2, v2.1.0",6,2017,2023,DATA/ded_Latn
+kam,kam_Latn,Latn,Kamba (Kenya),153,3639897,"FineWeb2, v2.1.0",10,2013,2024,DATA/kam_Latn
+qwh,qwh_Latn,Latn,Huaylas Ancash Quechua,138,3612523,"FineWeb2, v2.1.0",8,2013,2022,DATA/qwh_Latn
+cmo,cmo_Latn,Latn,Central Mnong,1206,3606454,"FineWeb2, v2.1.0",12,2013,2024,DATA/cmo_Latn
+tzj,tzj_Latn,Latn,Tz'utujil,108,3603867,"FineWeb2, v2.1.0",11,2013,2023,DATA/tzj_Latn
+niu,niu_Latn,Latn,Niuean,151,3596015,"FineWeb2, v2.1.0",11,2013,2024,DATA/niu_Latn
+und,und_Knda,Knda,Undetermined,562,3592763,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Knda
+mbt,mbt_Latn,Latn,Matigsalug Manobo,84,3566759,"FineWeb2, v2.1.0",6,2013,2022,DATA/mbt_Latn
+yby,yby_Latn,Latn,Yaweyuha,82,3494868,"FineWeb2, v2.1.0",6,2013,2020,DATA/yby_Latn
+fkv,fkv_Latn,Latn,Kven Finnish,205,3491696,"FineWeb2, v2.1.0",12,2013,2024,DATA/fkv_Latn
+gum,gum_Latn,Latn,Guambiano,95,3485980,"FineWeb2, v2.1.0",7,2013,2022,DATA/gum_Latn
+hus,hus_Latn,Latn,Huastec,155,3484767,"FineWeb2, v2.1.0",11,2013,2024,DATA/hus_Latn
+jvn,jvn_Latn,Latn,Caribbean Javanese,117,3471205,"FineWeb2, v2.1.0",10,2013,2024,DATA/jvn_Latn
+jam,jam_Latn,Latn,Jamaican Creole English,1328,3454809,"FineWeb2, v2.1.0",12,2013,2024,DATA/jam_Latn
+yss,yss_Latn,Latn,Yessan-Mayo,77,3454727,"FineWeb2, v2.1.0",8,2017,2024,DATA/yss_Latn
+und,und_Egyp,Egyp,Undetermined,8556,3454506,"FineWeb2, v2.1.0",9,2013,2024,DATA/und_Egyp
+und,und_Taml,Taml,Undetermined,825,3416188,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Taml
+nas,nas_Latn,Latn,Naasioi,93,3386559,"FineWeb2, v2.1.0",10,2013,2023,DATA/nas_Latn
+ndc,ndc_Latn,Latn,Ndau,134,3377950,"FineWeb2, v2.1.0",8,2015,2023,DATA/ndc_Latn
+gfk,gfk_Latn,Latn,Patpatar,93,3363045,"FineWeb2, v2.1.0",8,2016,2023,DATA/gfk_Latn
+pcm,pcm_Latn,Latn,Nigerian Pidgin,1326,3343336,"FineWeb2, v2.1.0",12,2013,2024,DATA/pcm_Latn
+agg,agg_Latn,Latn,Angor,86,3328336,"FineWeb2, v2.1.0",4,2018,2023,DATA/agg_Latn
+tpz,tpz_Latn,Latn,Tinputz,103,3325836,"FineWeb2, v2.1.0",10,2013,2023,DATA/tpz_Latn
+cni,cni_Latn,Latn,Asháninka,103,3320223,"FineWeb2, v2.1.0",11,2013,2024,DATA/cni_Latn
+dob,dob_Latn,Latn,Dobu,84,3313329,"FineWeb2, v2.1.0",7,2014,2023,DATA/dob_Latn
+ata,ata_Latn,Latn,Pele-Ata,93,3311313,"FineWeb2, v2.1.0",8,2013,2023,DATA/ata_Latn
+maa,maa_Latn,Latn,San Jerónimo Tecóatl Mazatec,120,3305297,"FineWeb2, v2.1.0",8,2013,2023,DATA/maa_Latn
+bhl,bhl_Latn,Latn,Bimin,89,3295142,"FineWeb2, v2.1.0",7,2013,2023,DATA/bhl_Latn
+pdc,pdc_Latn,Latn,Pennsylvania German,144,3282687,"FineWeb2, v2.1.0",11,2013,2024,DATA/pdc_Latn
+mpx,mpx_Latn,Latn,Misima-Panaeati,88,3277771,"FineWeb2, v2.1.0",8,2013,2022,DATA/mpx_Latn
+gur,gur_Latn,Latn,Farefare,132,3273953,"FineWeb2, v2.1.0",11,2013,2024,DATA/gur_Latn
+und,und_Geor,Geor,Undetermined,816,3268783,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Geor
+ncj,ncj_Latn,Latn,Northern Puebla Nahuatl,183,3261151,"FineWeb2, v2.1.0",12,2013,2024,DATA/ncj_Latn
+mjw,mjw_Latn,Latn,Karbi,109,3246392,"FineWeb2, v2.1.0",10,2013,2023,DATA/mjw_Latn
+lld,lld_Latn,Latn,Ladin,237,3223147,"FineWeb2, v2.1.0",12,2013,2024,DATA/lld_Latn
+tlf,tlf_Latn,Latn,Telefol,80,3215954,"FineWeb2, v2.1.0",5,2015,2022,DATA/tlf_Latn
+hwc,hwc_Latn,Latn,Hawai'i Creole English,175,3180091,"FineWeb2, v2.1.0",12,2013,2024,DATA/hwc_Latn
+aom,aom_Latn,Latn,Ömie,79,3172730,"FineWeb2, v2.1.0",3,2018,2023,DATA/aom_Latn
+und,und_Telu,Telu,Undetermined,706,3162252,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Telu
+lzh,lzh_Hani,Hani,Literary Chinese,12813,3136226,"FineWeb2, v2.1.0",11,2014,2024,DATA/lzh_Hani
+trv,trv_Latn,Latn,Sediq,3150,3119337,"FineWeb2, v2.1.0",8,2017,2024,DATA/trv_Latn
+guj,guj_Latn,Latn,Gujarati,455,3094031,"FineWeb2, v2.1.0",12,2013,2024,DATA/guj_Latn
+med,med_Latn,Latn,Melpa,91,3078182,"FineWeb2, v2.1.0",6,2017,2023,DATA/med_Latn
+kjh,kjh_Cyrl,Cyrl,Khakas,297,3076872,"FineWeb2, v2.1.0",11,2013,2024,DATA/kjh_Cyrl
+bqc,bqc_Latn,Latn,Boko (Benin),114,3075846,"FineWeb2, v2.1.0",9,2013,2022,DATA/bqc_Latn
+ami,ami_Latn,Latn,Amis,4160,3065966,"FineWeb2, v2.1.0",11,2014,2024,DATA/ami_Latn
+viv,viv_Latn,Latn,Iduna,80,3019221,"FineWeb2, v2.1.0",4,2018,2021,DATA/viv_Latn
+sgc,sgc_Latn,Latn,Kipsigis,107,3005470,"FineWeb2, v2.1.0",9,2013,2023,DATA/sgc_Latn
+ffm,ffm_Latn,Latn,Maasina Fulfulde,174,2992104,"FineWeb2, v2.1.0",12,2013,2024,DATA/ffm_Latn
+aau,aau_Latn,Latn,Abau,87,2985857,"FineWeb2, v2.1.0",9,2013,2023,DATA/aau_Latn
+djk,djk_Latn,Latn,Eastern Maroon Creole,128,2985709,"FineWeb2, v2.1.0",10,2013,2024,DATA/djk_Latn
+kmh,kmh_Latn,Latn,Kalam,94,2983233,"FineWeb2, v2.1.0",9,2013,2024,DATA/kmh_Latn
+ptu,ptu_Latn,Latn,Bambam,95,2970461,"FineWeb2, v2.1.0",11,2013,2024,DATA/ptu_Latn
+agu,agu_Latn,Latn,Aguacateco,98,2962595,"FineWeb2, v2.1.0",7,2013,2023,DATA/agu_Latn
+bum,bum_Latn,Latn,Bulu (Cameroon),137,2953901,"FineWeb2, v2.1.0",10,2014,2024,DATA/bum_Latn
+bin,bin_Latn,Latn,Bini,129,2950227,"FineWeb2, v2.1.0",9,2013,2024,DATA/bin_Latn
+nak,nak_Latn,Latn,Nakanai,83,2941828,"FineWeb2, v2.1.0",5,2013,2020,DATA/nak_Latn
+ikt,ikt_Latn,Latn,Inuinnaqtun,234,2931749,"FineWeb2, v2.1.0",9,2013,2024,DATA/ikt_Latn
+bnp,bnp_Latn,Latn,Bola,90,2930605,"FineWeb2, v2.1.0",9,2013,2023,DATA/bnp_Latn
+njo,njo_Latn,Latn,Ao Naga,165,2905826,"FineWeb2, v2.1.0",10,2013,2024,DATA/njo_Latn
+urh,urh_Latn,Latn,Urhobo,128,2904801,"FineWeb2, v2.1.0",8,2013,2023,DATA/urh_Latn
+bvz,bvz_Latn,Latn,Bauzi,79,2900438,"FineWeb2, v2.1.0",3,2013,2017,DATA/bvz_Latn
+chu,chu_Cyrl,Cyrl,Church Slavic,503,2894654,"FineWeb2, v2.1.0",11,2013,2024,DATA/chu_Cyrl
+kyc,kyc_Latn,Latn,Kyaka,80,2892554,"FineWeb2, v2.1.0",8,2013,2024,DATA/kyc_Latn
+kmg,kmg_Latn,Latn,Kâte,117,2891312,"FineWeb2, v2.1.0",8,2017,2024,DATA/kmg_Latn
+und,und_Bali,Bali,Undetermined,704,2887672,"FineWeb2, v2.1.0",9,2014,2024,DATA/und_Bali
+nia,nia_Latn,Latn,Nias,258,2884850,"FineWeb2, v2.1.0",11,2013,2024,DATA/nia_Latn
+boj,boj_Latn,Latn,Anjam,83,2875223,"FineWeb2, v2.1.0",7,2017,2023,DATA/boj_Latn
+asm,asm_Latn,Latn,Assamese,472,2873649,"FineWeb2, v2.1.0",12,2013,2024,DATA/asm_Latn
+ote,ote_Latn,Latn,Mezquital Otomi,197,2866903,"FineWeb2, v2.1.0",11,2013,2024,DATA/ote_Latn
+ixl,ixl_Latn,Latn,Ixil,123,2828545,"FineWeb2, v2.1.0",11,2013,2023,DATA/ixl_Latn
+aaz,aaz_Latn,Latn,Amarasi,78,2820135,"FineWeb2, v2.1.0",5,2016,2024,DATA/aaz_Latn
+mzn,mzn_Arab,Arab,Mazanderani,603,2818161,"FineWeb2, v2.1.0",12,2013,2024,DATA/mzn_Arab
+bjr,bjr_Latn,Latn,Binumarien,90,2807412,"FineWeb2, v2.1.0",6,2014,2023,DATA/bjr_Latn
+mbb,mbb_Latn,Latn,Western Bukidnon Manobo,86,2804393,"FineWeb2, v2.1.0",6,2018,2023,DATA/mbb_Latn
+xsm,xsm_Latn,Latn,Kasem,122,2801678,"FineWeb2, v2.1.0",9,2013,2023,DATA/xsm_Latn
+koi,koi_Cyrl,Cyrl,Komi-Permyak,443,2793726,"FineWeb2, v2.1.0",12,2013,2024,DATA/koi_Cyrl
+bmu,bmu_Latn,Latn,Somba-Siawari,93,2776356,"FineWeb2, v2.1.0",7,2017,2024,DATA/bmu_Latn
+avu,avu_Latn,Latn,Avokaya,123,2764907,"FineWeb2, v2.1.0",9,2013,2024,DATA/avu_Latn
+toj,toj_Latn,Latn,Tojolabal,148,2757859,"FineWeb2, v2.1.0",12,2013,2024,DATA/toj_Latn
+hak,hak_Latn,Latn,Hakka Chinese,7438,2757041,"FineWeb2, v2.1.0",12,2013,2024,DATA/hak_Latn
+tok,tok_Latn,Latn,Toki Pona,1462,2751000,"FineWeb2, v2.1.0",11,2013,2024,DATA/tok_Latn
+rnd,rnd_Latn,Latn,Ruund,127,2738769,"FineWeb2, v2.1.0",7,2013,2022,DATA/rnd_Latn
+fuv,fuv_Latn,Latn,Nigerian Fulfulde,300,2733855,"FineWeb2, v2.1.0",11,2013,2024,DATA/fuv_Latn
+doi,doi_Deva,Deva,Dogri (macrolanguage),552,2732288,"FineWeb2, v2.1.0",11,2013,2024,DATA/doi_Deva
+ngu,ngu_Latn,Latn,Guerrero Nahuatl,220,2697475,"FineWeb2, v2.1.0",12,2013,2024,DATA/ngu_Latn
+acd,acd_Latn,Latn,Gikyode,82,2690355,"FineWeb2, v2.1.0",4,2013,2022,DATA/acd_Latn
+dig,dig_Latn,Latn,Digo,117,2684246,"FineWeb2, v2.1.0",7,2013,2023,DATA/dig_Latn
+xsi,xsi_Latn,Latn,Sio,87,2675063,"FineWeb2, v2.1.0",3,2018,2022,DATA/xsi_Latn
+aeu,aeu_Latn,Latn,Akeu,309,2668746,"FineWeb2, v2.1.0",7,2017,2024,DATA/aeu_Latn
+agm,agm_Latn,Latn,Angaataha,82,2645538,"FineWeb2, v2.1.0",4,2018,2024,DATA/agm_Latn
+mco,mco_Latn,Latn,Coatlán Mixe,152,2641078,"FineWeb2, v2.1.0",9,2013,2023,DATA/mco_Latn
+bdd,bdd_Latn,Latn,Bunama,77,2640574,"FineWeb2, v2.1.0",7,2018,2024,DATA/bdd_Latn
+dgz,dgz_Latn,Latn,Daga,79,2616168,"FineWeb2, v2.1.0",6,2018,2024,DATA/dgz_Latn
+yom,yom_Latn,Latn,Yombe,150,2613088,"FineWeb2, v2.1.0",9,2013,2024,DATA/yom_Latn
+snp,snp_Latn,Latn,Siane,77,2611904,"FineWeb2, v2.1.0",5,2017,2023,DATA/snp_Latn
+teo,teo_Latn,Latn,Teso,115,2610682,"FineWeb2, v2.1.0",12,2013,2024,DATA/teo_Latn
+yrk,yrk_Cyrl,Cyrl,Nenets,176,2607776,"FineWeb2, v2.1.0",9,2016,2024,DATA/yrk_Cyrl
+klv,klv_Latn,Latn,Maskelynes,96,2604426,"FineWeb2, v2.1.0",5,2017,2023,DATA/klv_Latn
+aso,aso_Latn,Latn,Dano,77,2601617,"FineWeb2, v2.1.0",6,2017,2023,DATA/aso_Latn
+tcf,tcf_Latn,Latn,Malinaltepec Me'phaa,128,2599517,"FineWeb2, v2.1.0",6,2017,2023,DATA/tcf_Latn
+aai,aai_Latn,Latn,Arifama-Miniafia,88,2590015,"FineWeb2, v2.1.0",5,2016,2020,DATA/aai_Latn
+kpr,kpr_Latn,Latn,Korafe-Yegha,98,2578492,"FineWeb2, v2.1.0",8,2013,2023,DATA/kpr_Latn
+imo,imo_Latn,Latn,Imbongu,83,2564853,"FineWeb2, v2.1.0",4,2013,2020,DATA/imo_Latn
+sja,sja_Latn,Latn,Epena,127,2541888,"FineWeb2, v2.1.0",8,2013,2024,DATA/sja_Latn
+tos,tos_Latn,Latn,Highland Totonac,93,2537379,"FineWeb2, v2.1.0",7,2013,2022,DATA/tos_Latn
+bmh,bmh_Latn,Latn,Kein,87,2533223,"FineWeb2, v2.1.0",7,2013,2024,DATA/bmh_Latn
+tee,tee_Latn,Latn,Huehuetla Tepehua,80,2533207,"FineWeb2, v2.1.0",6,2013,2023,DATA/tee_Latn
+min,min_Latn,Latn,Minangkabau,326,2529050,"FineWeb2, v2.1.0",11,2014,2024,DATA/min_Latn
+quf,quf_Latn,Latn,Lambayeque Quechua,101,2525647,"FineWeb2, v2.1.0",8,2013,2022,DATA/quf_Latn
+hla,hla_Latn,Latn,Halia,90,2512656,"FineWeb2, v2.1.0",5,2018,2023,DATA/hla_Latn
+dop,dop_Latn,Latn,Lukpa,104,2503156,"FineWeb2, v2.1.0",10,2013,2024,DATA/dop_Latn
+zia,zia_Latn,Latn,Zia,86,2490286,"FineWeb2, v2.1.0",4,2018,2023,DATA/zia_Latn
+pma,pma_Latn,Latn,Paama,92,2481183,"FineWeb2, v2.1.0",8,2013,2023,DATA/pma_Latn
+dww,dww_Latn,Latn,Dawawa,646,2458359,"FineWeb2, v2.1.0",6,2017,2023,DATA/dww_Latn
+aey,aey_Latn,Latn,Amele,206,2452581,"FineWeb2, v2.1.0",8,2013,2023,DATA/aey_Latn
+qxh,qxh_Latn,Latn,Panao Huánuco Quechua,104,2450878,"FineWeb2, v2.1.0",10,2013,2024,DATA/qxh_Latn
+khs,khs_Latn,Latn,Kasua,59,2441611,"FineWeb2, v2.1.0",1,2018,2018,DATA/khs_Latn
+bmr,bmr_Latn,Latn,Muinane,77,2438590,"FineWeb2, v2.1.0",6,2013,2019,DATA/bmr_Latn
+acu,acu_Latn,Latn,Achuar-Shiwiar,104,2436161,"FineWeb2, v2.1.0",12,2013,2024,DATA/acu_Latn
+und,und_Cans,Cans,Undetermined,8190,2431615,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Cans
+nqo,nqo_Nkoo,Nkoo,N'Ko,413,2430623,"FineWeb2, v2.1.0",11,2013,2024,DATA/nqo_Nkoo
+tca,tca_Latn,Latn,Ticuna,149,2429230,"FineWeb2, v2.1.0",10,2013,2024,DATA/tca_Latn
+ifk,ifk_Latn,Latn,Tuwali Ifugao,89,2423850,"FineWeb2, v2.1.0",7,2013,2022,DATA/ifk_Latn
+mad,mad_Latn,Latn,Madurese,365,2423560,"FineWeb2, v2.1.0",12,2013,2024,DATA/mad_Latn
+wrk,wrk_Latn,Latn,Garrwa,62,2416860,"FineWeb2, v2.1.0",2,2019,2022,DATA/wrk_Latn
+mfq,mfq_Latn,Latn,Moba,138,2413843,"FineWeb2, v2.1.0",9,2013,2024,DATA/mfq_Latn
+yuj,yuj_Latn,Latn,Karkar-Yuri,91,2394776,"FineWeb2, v2.1.0",6,2018,2023,DATA/yuj_Latn
+cav,cav_Latn,Latn,Cavineña,83,2383295,"FineWeb2, v2.1.0",4,2014,2023,DATA/cav_Latn
+zne,zne_Latn,Latn,Zande (individual language),141,2379050,"FineWeb2, v2.1.0",8,2013,2024,DATA/zne_Latn
+guh,guh_Latn,Latn,Guahibo,91,2377681,"FineWeb2, v2.1.0",7,2013,2022,DATA/guh_Latn
+dad,dad_Latn,Latn,Marik,99,2367615,"FineWeb2, v2.1.0",8,2014,2024,DATA/dad_Latn
+cbu,cbu_Latn,Latn,Candoshi-Shapra,96,2367018,"FineWeb2, v2.1.0",8,2013,2023,DATA/cbu_Latn
+bch,bch_Latn,Latn,Bariai,80,2361288,"FineWeb2, v2.1.0",6,2014,2022,DATA/bch_Latn
+bon,bon_Latn,Latn,Bine,89,2358771,"FineWeb2, v2.1.0",6,2017,2023,DATA/bon_Latn
+yle,yle_Latn,Latn,Yele,122,2358419,"FineWeb2, v2.1.0",9,2015,2024,DATA/yle_Latn
+sua,sua_Latn,Latn,Sulka,80,2356195,"FineWeb2, v2.1.0",5,2013,2019,DATA/sua_Latn
+cnk,cnk_Latn,Latn,Khumi Chin,156,2347483,"FineWeb2, v2.1.0",9,2013,2024,DATA/cnk_Latn
+bbr,bbr_Latn,Latn,Girawa,144,2347355,"FineWeb2, v2.1.0",6,2018,2023,DATA/bbr_Latn
+yon,yon_Latn,Latn,Yongkom,84,2344014,"FineWeb2, v2.1.0",4,2014,2020,DATA/yon_Latn
+mux,mux_Latn,Latn,Bo-Ung,92,2339880,"FineWeb2, v2.1.0",6,2013,2023,DATA/mux_Latn
+sny,sny_Latn,Latn,Saniyo-Hiyewe,85,2326747,"FineWeb2, v2.1.0",4,2018,2023,DATA/sny_Latn
+cbc,cbc_Latn,Latn,Carapana,125,2306224,"FineWeb2, v2.1.0",7,2013,2023,DATA/cbc_Latn
+dah,dah_Latn,Latn,Gwahatike,86,2282936,"FineWeb2, v2.1.0",6,2018,2024,DATA/dah_Latn
+zpz,zpz_Latn,Latn,Texmelucan Zapotec,95,2279786,"FineWeb2, v2.1.0",7,2013,2022,DATA/zpz_Latn
+byx,byx_Latn,Latn,Qaqet,191,2279629,"FineWeb2, v2.1.0",8,2017,2024,DATA/byx_Latn
+und,und_Hung,Hung,Undetermined,264,2272197,"FineWeb2, v2.1.0",7,2018,2024,DATA/und_Hung
+mpp,mpp_Latn,Latn,Migabac,89,2269603,"FineWeb2, v2.1.0",6,2018,2023,DATA/mpp_Latn
+bvr,bvr_Latn,Latn,Burarra,92,2244410,"FineWeb2, v2.1.0",6,2017,2024,DATA/bvr_Latn
+bsn,bsn_Latn,Latn,Barasana-Eduria,105,2237584,"FineWeb2, v2.1.0",6,2013,2021,DATA/bsn_Latn
+lid,lid_Latn,Latn,Nyindrou,96,2236388,"FineWeb2, v2.1.0",6,2013,2021,DATA/lid_Latn
+jae,jae_Latn,Latn,Yabem,98,2232152,"FineWeb2, v2.1.0",7,2017,2024,DATA/jae_Latn
+tfr,tfr_Latn,Latn,Teribe,131,2231594,"FineWeb2, v2.1.0",9,2013,2023,DATA/tfr_Latn
+aby,aby_Latn,Latn,Aneme Wake,73,2220686,"FineWeb2, v2.1.0",4,2016,2020,DATA/aby_Latn
+mrw,mrw_Latn,Latn,Maranao,272,2210705,"FineWeb2, v2.1.0",12,2013,2024,DATA/mrw_Latn
+nop,nop_Latn,Latn,Numanggang,108,2187785,"FineWeb2, v2.1.0",7,2013,2023,DATA/nop_Latn
+dyi,dyi_Latn,Latn,Djimini Senoufo,91,2185697,"FineWeb2, v2.1.0",3,2019,2024,DATA/dyi_Latn
+hto,hto_Latn,Latn,Minica Huitoto,104,2179012,"FineWeb2, v2.1.0",7,2013,2021,DATA/hto_Latn
+kqn,kqn_Latn,Latn,Kaonde,129,2169297,"FineWeb2, v2.1.0",8,2013,2022,DATA/kqn_Latn
+kyq,kyq_Latn,Latn,Kenga,99,2165315,"FineWeb2, v2.1.0",9,2013,2024,DATA/kyq_Latn
+ipi,ipi_Latn,Latn,Ipili,74,2159142,"FineWeb2, v2.1.0",5,2013,2019,DATA/ipi_Latn
+taq,taq_Latn,Latn,Tamasheq,326,2156028,"FineWeb2, v2.1.0",12,2013,2024,DATA/taq_Latn
+yml,yml_Latn,Latn,Iamalele,82,2155554,"FineWeb2, v2.1.0",7,2017,2024,DATA/yml_Latn
+mcq,mcq_Latn,Latn,Ese,81,2146852,"FineWeb2, v2.1.0",7,2017,2023,DATA/mcq_Latn
+cok,cok_Latn,Latn,Santa Teresa Cora,91,2144006,"FineWeb2, v2.1.0",3,2018,2024,DATA/cok_Latn
+cce,cce_Latn,Latn,Chopi,114,2136616,"FineWeb2, v2.1.0",7,2015,2021,DATA/cce_Latn
+und,und_Xsux,Xsux,Undetermined,4985,2134650,"FineWeb2, v2.1.0",8,2017,2024,DATA/und_Xsux
+kze,kze_Latn,Latn,Kosena,82,2132418,"FineWeb2, v2.1.0",6,2017,2023,DATA/kze_Latn
+bzh,bzh_Latn,Latn,Mapos Buang,95,2131828,"FineWeb2, v2.1.0",4,2017,2020,DATA/bzh_Latn
+spl,spl_Latn,Latn,Selepet,78,2130214,"FineWeb2, v2.1.0",4,2018,2024,DATA/spl_Latn
+ura,ura_Latn,Latn,Urarina,78,2111688,"FineWeb2, v2.1.0",8,2013,2021,DATA/ura_Latn
+lam,lam_Latn,Latn,Lamba,123,2107951,"FineWeb2, v2.1.0",8,2013,2022,DATA/lam_Latn
+zpu,zpu_Latn,Latn,Yalálag Zapotec,128,2101672,"FineWeb2, v2.1.0",11,2013,2024,DATA/zpu_Latn
+agr,agr_Latn,Latn,Aguaruna,108,2096785,"FineWeb2, v2.1.0",11,2013,2024,DATA/agr_Latn
+maz,maz_Latn,Latn,Central Mazahua,131,2085167,"FineWeb2, v2.1.0",11,2013,2024,DATA/maz_Latn
+tsz,tsz_Latn,Latn,Purepecha,167,2083322,"FineWeb2, v2.1.0",10,2013,2024,DATA/tsz_Latn
+pad,pad_Latn,Latn,Paumarí,94,2082558,"FineWeb2, v2.1.0",6,2013,2022,DATA/pad_Latn
+mmx,mmx_Latn,Latn,Madak,114,2082045,"FineWeb2, v2.1.0",10,2015,2024,DATA/mmx_Latn
+cax,cax_Latn,Latn,Chiquitano,100,2074702,"FineWeb2, v2.1.0",10,2013,2023,DATA/cax_Latn
+des,des_Latn,Latn,Desano,100,2068995,"FineWeb2, v2.1.0",6,2013,2019,DATA/des_Latn
+qub,qub_Latn,Latn,Huallaga Huánuco Quechua,119,2067972,"FineWeb2, v2.1.0",11,2013,2024,DATA/qub_Latn
+sus,sus_Latn,Latn,Susu,108,2066966,"FineWeb2, v2.1.0",10,2013,2024,DATA/sus_Latn
+maq,maq_Latn,Latn,Chiquihuitlán Mazatec,2075,2066369,"FineWeb2, v2.1.0",9,2014,2024,DATA/maq_Latn
+cbs,cbs_Latn,Latn,Cashinahua,94,2066233,"FineWeb2, v2.1.0",8,2013,2023,DATA/cbs_Latn
+sus,sus_Arab,Arab,Susu,117,2062651,"FineWeb2, v2.1.0",6,2019,2024,DATA/sus_Arab
+qup,qup_Latn,Latn,Southern Pastaza Quechua,119,2061561,"FineWeb2, v2.1.0",11,2013,2024,DATA/qup_Latn
+cle,cle_Latn,Latn,Lealao Chinantec,93,2061118,"FineWeb2, v2.1.0",7,2013,2022,DATA/cle_Latn
+zpa,zpa_Latn,Latn,Lachiguiri Zapotec,127,2053857,"FineWeb2, v2.1.0",7,2013,2021,DATA/zpa_Latn
+dik,dik_Latn,Latn,Southwestern Dinka,360,2046617,"FineWeb2, v2.1.0",12,2013,2024,DATA/dik_Latn
+alz,alz_Latn,Latn,Alur,111,2035477,"FineWeb2, v2.1.0",11,2013,2024,DATA/alz_Latn
+otq,otq_Latn,Latn,Querétaro Otomi,190,2016278,"FineWeb2, v2.1.0",10,2013,2023,DATA/otq_Latn
+yao,yao_Latn,Latn,Yao,339,2006268,"FineWeb2, v2.1.0",9,2013,2024,DATA/yao_Latn
+gbi,gbi_Latn,Latn,Galela,89,2000005,"FineWeb2, v2.1.0",8,2013,2023,DATA/gbi_Latn
+nij,nij_Latn,Latn,Ngaju,97,1997015,"FineWeb2, v2.1.0",12,2013,2024,DATA/nij_Latn
+xon,xon_Latn,Latn,Konkomba,98,1995059,"FineWeb2, v2.1.0",8,2013,2022,DATA/xon_Latn
+tpt,tpt_Latn,Latn,Tlachichilco Tepehua,91,1994094,"FineWeb2, v2.1.0",7,2013,2022,DATA/tpt_Latn
+qvs,qvs_Latn,Latn,San Martín Quechua,88,1984677,"FineWeb2, v2.1.0",8,2013,2024,DATA/qvs_Latn
+opm,opm_Latn,Latn,Oksapmin,72,1980606,"FineWeb2, v2.1.0",7,2013,2022,DATA/opm_Latn
+sml,sml_Latn,Latn,Central Sama,109,1979660,"FineWeb2, v2.1.0",9,2013,2023,DATA/sml_Latn
+mlp,mlp_Latn,Latn,Bargam,124,1972005,"FineWeb2, v2.1.0",8,2013,2022,DATA/mlp_Latn
+cco,cco_Latn,Latn,Comaltepec Chinantec,109,1970889,"FineWeb2, v2.1.0",7,2013,2023,DATA/cco_Latn
+chz,chz_Latn,Latn,Ozumacín Chinantec,104,1957737,"FineWeb2, v2.1.0",8,2013,2023,DATA/chz_Latn
+kud,kud_Latn,Latn,'Auhelawa,80,1956884,"FineWeb2, v2.1.0",4,2018,2024,DATA/kud_Latn
+cuc,cuc_Latn,Latn,Usila Chinantec,90,1956139,"FineWeb2, v2.1.0",9,2013,2023,DATA/cuc_Latn
+skg,skg_Latn,Latn,Sakalava Malagasy,129,1955831,"FineWeb2, v2.1.0",9,2016,2024,DATA/skg_Latn
+ksr,ksr_Latn,Latn,Borong,89,1944608,"FineWeb2, v2.1.0",6,2013,2022,DATA/ksr_Latn
+agd,agd_Latn,Latn,Agarabi,93,1939357,"FineWeb2, v2.1.0",7,2017,2024,DATA/agd_Latn
+sue,sue_Latn,Latn,Suena,83,1929741,"FineWeb2, v2.1.0",5,2017,2024,DATA/sue_Latn
+kbp,kbp_Latn,Latn,Kabiyè,487,1928250,"FineWeb2, v2.1.0",10,2014,2024,DATA/kbp_Latn
+tuo,tuo_Latn,Latn,Tucano,124,1928022,"FineWeb2, v2.1.0",9,2013,2023,DATA/tuo_Latn
+agn,agn_Latn,Latn,Agutaynen,99,1927821,"FineWeb2, v2.1.0",9,2013,2023,DATA/agn_Latn
+mej,mej_Latn,Latn,Meyah,72,1923193,"FineWeb2, v2.1.0",3,2013,2016,DATA/mej_Latn
+pwg,pwg_Latn,Latn,Gapapaiwa,86,1920288,"FineWeb2, v2.1.0",3,2017,2023,DATA/pwg_Latn
+pir,pir_Latn,Latn,Piratapuyo,95,1917962,"FineWeb2, v2.1.0",6,2013,2019,DATA/pir_Latn
+spy,spy_Latn,Latn,Sabaot,88,1912853,"FineWeb2, v2.1.0",7,2013,2023,DATA/spy_Latn
+big,big_Latn,Latn,Biangai,75,1912472,"FineWeb2, v2.1.0",5,2018,2022,DATA/big_Latn
+sim,sim_Latn,Latn,Mende (Papua New Guinea),83,1909925,"FineWeb2, v2.1.0",4,2017,2022,DATA/sim_Latn
+uvl,uvl_Latn,Latn,Lote,85,1909179,"FineWeb2, v2.1.0",7,2017,2024,DATA/uvl_Latn
+goh,goh_Latn,Latn,Old High German (ca. 750-1050),681,1908716,"FineWeb2, v2.1.0",12,2013,2024,DATA/goh_Latn
+ile,ile_Latn,Latn,Interlingue,445,1908503,"FineWeb2, v2.1.0",12,2013,2024,DATA/ile_Latn
+abx,abx_Latn,Latn,Inabaknon,86,1901612,"FineWeb2, v2.1.0",6,2016,2022,DATA/abx_Latn
+mwq,mwq_Latn,Latn,Mün Chin,183,1900724,"FineWeb2, v2.1.0",10,2013,2024,DATA/mwq_Latn
+lue,lue_Latn,Latn,Luvale,224,1898445,"FineWeb2, v2.1.0",8,2014,2023,DATA/lue_Latn
+men,men_Latn,Latn,Mende (Sierra Leone),100,1898028,"FineWeb2, v2.1.0",9,2013,2023,DATA/men_Latn
+taj,taj_Deva,Deva,Eastern Tamang,138,1896943,"FineWeb2, v2.1.0",10,2013,2023,DATA/taj_Deva
+gui,gui_Latn,Latn,Eastern Bolivian Guaraní,129,1892065,"FineWeb2, v2.1.0",11,2013,2023,DATA/gui_Latn
+miq,miq_Latn,Latn,Mískito,134,1891271,"FineWeb2, v2.1.0",12,2013,2024,DATA/miq_Latn
+kto,kto_Latn,Latn,Kuot,166,1889838,"FineWeb2, v2.1.0",4,2018,2024,DATA/kto_Latn
+qvn,qvn_Latn,Latn,North Junín Quechua,94,1889230,"FineWeb2, v2.1.0",9,2013,2024,DATA/qvn_Latn
+sas,sas_Latn,Latn,Sasak,116,1887108,"FineWeb2, v2.1.0",9,2013,2023,DATA/sas_Latn
+dwr,dwr_Latn,Latn,Dawro,179,1883946,"FineWeb2, v2.1.0",9,2014,2024,DATA/dwr_Latn
+yal,yal_Latn,Latn,Yalunka,93,1882082,"FineWeb2, v2.1.0",10,2013,2024,DATA/yal_Latn
+cbv,cbv_Latn,Latn,Cacua,111,1880977,"FineWeb2, v2.1.0",7,2013,2022,DATA/cbv_Latn
+nwi,nwi_Latn,Latn,Southwest Tanna,92,1878143,"FineWeb2, v2.1.0",5,2017,2023,DATA/nwi_Latn
+tte,tte_Latn,Latn,Bwanabwana,80,1867769,"FineWeb2, v2.1.0",5,2018,2024,DATA/tte_Latn
+shi,shi_Latn,Latn,Tachelhit,474,1859330,"FineWeb2, v2.1.0",12,2013,2024,DATA/shi_Latn
+myy,myy_Latn,Latn,Macuna,101,1855751,"FineWeb2, v2.1.0",8,2013,2023,DATA/myy_Latn
+mil,mil_Latn,Latn,Peñoles Mixtec,113,1853749,"FineWeb2, v2.1.0",7,2013,2022,DATA/mil_Latn
+qvw,qvw_Latn,Latn,Huaylla Wanca Quechua,111,1853185,"FineWeb2, v2.1.0",10,2013,2023,DATA/qvw_Latn
+cpa,cpa_Latn,Latn,Palantla Chinantec,96,1849606,"FineWeb2, v2.1.0",6,2013,2023,DATA/cpa_Latn
+pab,pab_Latn,Latn,Parecís,98,1846733,"FineWeb2, v2.1.0",5,2013,2019,DATA/pab_Latn
+gdr,gdr_Latn,Latn,Wipi,95,1844529,"FineWeb2, v2.1.0",5,2018,2023,DATA/gdr_Latn
+kup,kup_Latn,Latn,Kunimaipa,85,1844402,"FineWeb2, v2.1.0",4,2013,2023,DATA/kup_Latn
+qvh,qvh_Latn,Latn,Huamalíes-Dos de Mayo Huánuco Quechua,1238,1843079,"FineWeb2, v2.1.0",8,2013,2024,DATA/qvh_Latn
+soq,soq_Latn,Latn,Kanasi,85,1842111,"FineWeb2, v2.1.0",7,2018,2024,DATA/soq_Latn
+smk,smk_Latn,Latn,Bolinao,118,1840281,"FineWeb2, v2.1.0",9,2014,2024,DATA/smk_Latn
+lhu,lhu_Latn,Latn,Lahu,141,1837650,"FineWeb2, v2.1.0",10,2013,2024,DATA/lhu_Latn
+wos,wos_Latn,Latn,Hanga Hundi,82,1832503,"FineWeb2, v2.1.0",4,2018,2023,DATA/wos_Latn
+tac,tac_Latn,Latn,Lowland Tarahumara,89,1831863,"FineWeb2, v2.1.0",5,2013,2023,DATA/tac_Latn
+mif,mif_Latn,Latn,Mofu-Gudur,92,1831485,"FineWeb2, v2.1.0",8,2013,2023,DATA/mif_Latn
+tbc,tbc_Latn,Latn,Takia,81,1830935,"FineWeb2, v2.1.0",5,2013,2018,DATA/tbc_Latn
+aln,aln_Latn,Latn,Gheg Albanian,203,1826054,"FineWeb2, v2.1.0",11,2014,2024,DATA/aln_Latn
+sps,sps_Latn,Latn,Saposa,81,1819226,"FineWeb2, v2.1.0",4,2018,2022,DATA/sps_Latn
+nhi,nhi_Latn,Latn,Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,179,1818797,"FineWeb2, v2.1.0",10,2013,2024,DATA/nhi_Latn
+zty,zty_Latn,Latn,Yatee Zapotec,95,1803350,"FineWeb2, v2.1.0",4,2013,2023,DATA/zty_Latn
+iou,iou_Latn,Latn,Tuma-Irumu,89,1797477,"FineWeb2, v2.1.0",8,2017,2024,DATA/iou_Latn
+kkc,kkc_Latn,Latn,Odoodee,90,1796245,"FineWeb2, v2.1.0",6,2017,2024,DATA/kkc_Latn
+mak,mak_Latn,Latn,Makasar,271,1795880,"FineWeb2, v2.1.0",12,2013,2024,DATA/mak_Latn
+knj,knj_Latn,Latn,Western Kanjobal,96,1794856,"FineWeb2, v2.1.0",6,2013,2022,DATA/knj_Latn
+tnn,tnn_Latn,Latn,North Tanna,90,1792407,"FineWeb2, v2.1.0",7,2017,2023,DATA/tnn_Latn
+amm,amm_Latn,Latn,Ama (Papua New Guinea),74,1786932,"FineWeb2, v2.1.0",5,2014,2022,DATA/amm_Latn
+muh,muh_Latn,Latn,Mündü,87,1783436,"FineWeb2, v2.1.0",7,2013,2023,DATA/muh_Latn
+yuw,yuw_Latn,Latn,Yau (Morobe Province),87,1779493,"FineWeb2, v2.1.0",3,2018,2023,DATA/yuw_Latn
+apz,apz_Latn,Latn,Safeyoka,80,1773178,"FineWeb2, v2.1.0",4,2018,2024,DATA/apz_Latn
+mfi,mfi_Latn,Latn,Wandala,90,1757457,"FineWeb2, v2.1.0",5,2013,2022,DATA/mfi_Latn
+agx,agx_Cyrl,Cyrl,Aghul,153,1753937,"FineWeb2, v2.1.0",8,2017,2024,DATA/agx_Cyrl
+leu,leu_Latn,Latn,Kara (Papua New Guinea),152,1753521,"FineWeb2, v2.1.0",11,2013,2024,DATA/leu_Latn
+pnt,pnt_Grek,Grek,Pontic,353,1751463,"FineWeb2, v2.1.0",12,2013,2024,DATA/pnt_Grek
+coe,coe_Latn,Latn,Koreguaje,96,1744450,"FineWeb2, v2.1.0",5,2013,2022,DATA/coe_Latn
+qvm,qvm_Latn,Latn,Margos-Yarowilca-Lauricocha Quechua,98,1744310,"FineWeb2, v2.1.0",7,2013,2022,DATA/qvm_Latn
+ljp,ljp_Latn,Latn,Lampung Api,90,1743709,"FineWeb2, v2.1.0",11,2013,2024,DATA/ljp_Latn
+chd,chd_Latn,Latn,Highland Oaxaca Chontal,108,1730072,"FineWeb2, v2.1.0",8,2014,2023,DATA/chd_Latn
+bss,bss_Latn,Latn,Akoose,313,1729756,"FineWeb2, v2.1.0",10,2013,2024,DATA/bss_Latn
+gkn,gkn_Latn,Latn,Gokana,318,1725729,"FineWeb2, v2.1.0",12,2013,2024,DATA/gkn_Latn
+acf,acf_Latn,Latn,Saint Lucian Creole French,138,1725473,"FineWeb2, v2.1.0",12,2013,2024,DATA/acf_Latn
+blk,blk_Mymr,Mymr,Pa'o Karen,998,1717475,"FineWeb2, v2.1.0",11,2013,2024,DATA/blk_Mymr
+mag,mag_Deva,Deva,Magahi,302,1716545,"FineWeb2, v2.1.0",9,2014,2024,DATA/mag_Deva
+kmu,kmu_Latn,Latn,Kanite,76,1714438,"FineWeb2, v2.1.0",4,2018,2023,DATA/kmu_Latn
+wsk,wsk_Latn,Latn,Waskia,92,1713259,"FineWeb2, v2.1.0",6,2018,2024,DATA/wsk_Latn
+kbr,kbr_Latn,Latn,Kafa,250,1712131,"FineWeb2, v2.1.0",7,2013,2022,DATA/kbr_Latn
+kwi,kwi_Latn,Latn,Awa-Cuaiquer,122,1710706,"FineWeb2, v2.1.0",7,2013,2022,DATA/kwi_Latn
+vun,vun_Latn,Latn,Vunjo,80,1709616,"FineWeb2, v2.1.0",4,2013,2017,DATA/vun_Latn
+kbm,kbm_Latn,Latn,Iwal,78,1707640,"FineWeb2, v2.1.0",5,2018,2023,DATA/kbm_Latn
+yli,yli_Latn,Latn,Angguruk Yali,70,1702561,"FineWeb2, v2.1.0",5,2013,2020,DATA/yli_Latn
+gux,gux_Latn,Latn,Gourmanchéma,177,1700100,"FineWeb2, v2.1.0",9,2013,2023,DATA/gux_Latn
+lgg,lgg_Latn,Latn,Lugbara,153,1696348,"FineWeb2, v2.1.0",11,2013,2024,DATA/lgg_Latn
+gnd,gnd_Latn,Latn,Zulgo-Gemzek,80,1694644,"FineWeb2, v2.1.0",4,2013,2017,DATA/gnd_Latn
+mox,mox_Latn,Latn,Molima,87,1694487,"FineWeb2, v2.1.0",4,2018,2022,DATA/mox_Latn
+esk,esk_Latn,Latn,Northwest Alaska Inupiatun,91,1693667,"FineWeb2, v2.1.0",8,2013,2024,DATA/esk_Latn
+rmo,rmo_Latn,Latn,Sinte Romani,111,1693304,"FineWeb2, v2.1.0",9,2013,2023,DATA/rmo_Latn
+mqb,mqb_Latn,Latn,Mbuko,119,1688212,"FineWeb2, v2.1.0",8,2013,2023,DATA/mqb_Latn
+dyo,dyo_Latn,Latn,Jola-Fonyi,106,1687824,"FineWeb2, v2.1.0",6,2013,2023,DATA/dyo_Latn
+jbu,jbu_Latn,Latn,Jukun Takum,158,1679146,"FineWeb2, v2.1.0",9,2013,2024,DATA/jbu_Latn
+vap,vap_Latn,Latn,Vaiphei,223,1678604,"FineWeb2, v2.1.0",9,2014,2024,DATA/vap_Latn
+txu,txu_Latn,Latn,Kayapó,115,1675619,"FineWeb2, v2.1.0",7,2013,2023,DATA/txu_Latn
+bjv,bjv_Latn,Latn,Bedjond,95,1675026,"FineWeb2, v2.1.0",8,2013,2021,DATA/bjv_Latn
+mva,mva_Latn,Latn,Manam,87,1674220,"FineWeb2, v2.1.0",4,2018,2022,DATA/mva_Latn
+csy,csy_Latn,Latn,Siyin Chin,206,1670871,"FineWeb2, v2.1.0",12,2013,2024,DATA/csy_Latn
+wrs,wrs_Latn,Latn,Waris,91,1667459,"FineWeb2, v2.1.0",7,2017,2023,DATA/wrs_Latn
+cui,cui_Latn,Latn,Cuiba,92,1662228,"FineWeb2, v2.1.0",3,2017,2019,DATA/cui_Latn
+enb,enb_Latn,Latn,Markweeta,85,1662196,"FineWeb2, v2.1.0",7,2013,2024,DATA/enb_Latn
+inb,inb_Latn,Latn,Inga,87,1660858,"FineWeb2, v2.1.0",6,2013,2021,DATA/inb_Latn
+cas,cas_Latn,Latn,Tsimané,103,1660575,"FineWeb2, v2.1.0",4,2013,2019,DATA/cas_Latn
+gof,gof_Latn,Latn,Gofa,167,1657379,"FineWeb2, v2.1.0",9,2013,2024,DATA/gof_Latn
+kkj,kkj_Latn,Latn,Kako,132,1656794,"FineWeb2, v2.1.0",8,2013,2023,DATA/kkj_Latn
+cso,cso_Latn,Latn,Sochiapam Chinantec,89,1655411,"FineWeb2, v2.1.0",8,2013,2023,DATA/cso_Latn
+npy,npy_Latn,Latn,Napu,75,1647177,"FineWeb2, v2.1.0",5,2013,2023,DATA/npy_Latn
+buk,buk_Latn,Latn,Bugawac,100,1645846,"FineWeb2, v2.1.0",6,2017,2023,DATA/buk_Latn
+itv,itv_Latn,Latn,Itawit,109,1642780,"FineWeb2, v2.1.0",7,2013,2022,DATA/itv_Latn
+thl,thl_Deva,Deva,Dangaura Tharu,147,1638727,"FineWeb2, v2.1.0",7,2017,2024,DATA/thl_Deva
+mop,mop_Latn,Latn,Mopán Maya,85,1631982,"FineWeb2, v2.1.0",6,2013,2023,DATA/mop_Latn
+ubr,ubr_Latn,Latn,Ubir,87,1631746,"FineWeb2, v2.1.0",7,2013,2023,DATA/ubr_Latn
+guc,guc_Latn,Latn,Wayuu,216,1629627,"FineWeb2, v2.1.0",11,2013,2024,DATA/guc_Latn
+emp,emp_Latn,Latn,Northern Emberá,114,1629192,"FineWeb2, v2.1.0",10,2013,2023,DATA/emp_Latn
+mek,mek_Latn,Latn,Mekeo,88,1626938,"FineWeb2, v2.1.0",4,2017,2023,DATA/mek_Latn
+gor,gor_Latn,Latn,Gorontalo,200,1622144,"FineWeb2, v2.1.0",9,2013,2024,DATA/gor_Latn
+kwj,kwj_Latn,Latn,Kwanga,315,1621688,"FineWeb2, v2.1.0",9,2016,2024,DATA/kwj_Latn
+qvi,qvi_Latn,Latn,Imbabura Highland Quichua,123,1621162,"FineWeb2, v2.1.0",7,2014,2024,DATA/qvi_Latn
+ntu,ntu_Latn,Latn,Natügu,219,1620089,"FineWeb2, v2.1.0",7,2013,2022,DATA/ntu_Latn
+dnj,dnj_Latn,Latn,Dan,93,1618524,"FineWeb2, v2.1.0",5,2013,2023,DATA/dnj_Latn
+mxt,mxt_Latn,Latn,Jamiltepec Mixtec,102,1614863,"FineWeb2, v2.1.0",8,2013,2024,DATA/mxt_Latn
+mkn,mkn_Latn,Latn,Kupang Malay,114,1612058,"FineWeb2, v2.1.0",11,2013,2024,DATA/mkn_Latn
+heh,heh_Latn,Latn,Hehe,83,1609991,"FineWeb2, v2.1.0",8,2013,2023,DATA/heh_Latn
+kpw,kpw_Latn,Latn,Kobon,99,1608347,"FineWeb2, v2.1.0",6,2018,2024,DATA/kpw_Latn
+urk,urk_Thai,Thai,Urak Lawoi',105,1604823,"FineWeb2, v2.1.0",4,2013,2017,DATA/urk_Thai
+gaw,gaw_Latn,Latn,Nobonob,136,1604236,"FineWeb2, v2.1.0",9,2016,2024,DATA/gaw_Latn
+ino,ino_Latn,Latn,Inoke-Yate,75,1601662,"FineWeb2, v2.1.0",6,2017,2023,DATA/ino_Latn
+auy,auy_Latn,Latn,Awiyaana,81,1601507,"FineWeb2, v2.1.0",6,2014,2023,DATA/auy_Latn
+qvz,qvz_Latn,Latn,Northern Pastaza Quichua,84,1599782,"FineWeb2, v2.1.0",7,2013,2023,DATA/qvz_Latn
+kmr,kmr_Cyrl,Cyrl,Northern Kurdish,223,1599152,"FineWeb2, v2.1.0",9,2013,2024,DATA/kmr_Cyrl
+trn,trn_Latn,Latn,Trinitario,134,1596043,"FineWeb2, v2.1.0",6,2013,2023,DATA/trn_Latn
+irk,irk_Latn,Latn,Iraqw,91,1595259,"FineWeb2, v2.1.0",6,2013,2022,DATA/irk_Latn
+car,car_Latn,Latn,Galibi Carib,105,1592541,"FineWeb2, v2.1.0",9,2013,2023,DATA/car_Latn
+sbl,sbl_Latn,Latn,Botolan Sambal,85,1589884,"FineWeb2, v2.1.0",6,2013,2022,DATA/sbl_Latn
+mee,mee_Latn,Latn,Mengen,79,1586616,"FineWeb2, v2.1.0",4,2013,2022,DATA/mee_Latn
+kez,kez_Latn,Latn,Kukele,104,1586615,"FineWeb2, v2.1.0",5,2013,2019,DATA/kez_Latn
+usp,usp_Latn,Latn,Uspanteco,94,1585517,"FineWeb2, v2.1.0",8,2013,2023,DATA/usp_Latn
+snd,snd_Deva,Deva,Sindhi,203,1584553,"FineWeb2, v2.1.0",10,2013,2024,DATA/snd_Deva
+mbh,mbh_Latn,Latn,Mangseng,90,1582359,"FineWeb2, v2.1.0",4,2017,2021,DATA/mbh_Latn
+nca,nca_Latn,Latn,Iyo,98,1581593,"FineWeb2, v2.1.0",6,2017,2023,DATA/nca_Latn
+sbe,sbe_Latn,Latn,Saliba,87,1580629,"FineWeb2, v2.1.0",6,2018,2024,DATA/sbe_Latn
+vmy,vmy_Latn,Latn,Ayautla Mazatec,115,1580094,"FineWeb2, v2.1.0",8,2013,2024,DATA/vmy_Latn
+nho,nho_Latn,Latn,Takuu,83,1572991,"FineWeb2, v2.1.0",7,2017,2024,DATA/nho_Latn
+bao,bao_Latn,Latn,Waimaha,109,1571461,"FineWeb2, v2.1.0",6,2013,2021,DATA/bao_Latn
+quw,quw_Latn,Latn,Tena Lowland Quichua,105,1570225,"FineWeb2, v2.1.0",6,2013,2021,DATA/quw_Latn
+ppo,ppo_Latn,Latn,Folopa,85,1569162,"FineWeb2, v2.1.0",6,2013,2024,DATA/ppo_Latn
+adj,adj_Latn,Latn,Adioukrou,112,1569053,"FineWeb2, v2.1.0",6,2013,2023,DATA/adj_Latn
+sgb,sgb_Latn,Latn,Mag-antsi Ayta,91,1567059,"FineWeb2, v2.1.0",7,2013,2024,DATA/sgb_Latn
+kew,kew_Latn,Latn,West Kewa,85,1566948,"FineWeb2, v2.1.0",6,2018,2023,DATA/kew_Latn
+ahk,ahk_Latn,Latn,Akha,96,1565951,"FineWeb2, v2.1.0",11,2013,2024,DATA/ahk_Latn
+meq,meq_Latn,Latn,Merey,89,1564499,"FineWeb2, v2.1.0",8,2013,2022,DATA/meq_Latn
+naf,naf_Latn,Latn,Nabak,88,1562385,"FineWeb2, v2.1.0",5,2017,2022,DATA/naf_Latn
+crx,crx_Latn,Latn,Carrier,99,1556684,"FineWeb2, v2.1.0",8,2014,2023,DATA/crx_Latn
+lcm,lcm_Latn,Latn,Tungag,79,1554653,"FineWeb2, v2.1.0",6,2013,2023,DATA/lcm_Latn
+ozm,ozm_Latn,Latn,Koonzime,117,1552487,"FineWeb2, v2.1.0",5,2013,2022,DATA/ozm_Latn
+nii,nii_Latn,Latn,Nii,78,1552432,"FineWeb2, v2.1.0",4,2018,2024,DATA/nii_Latn
+omw,omw_Latn,Latn,South Tairora,77,1546126,"FineWeb2, v2.1.0",5,2018,2022,DATA/omw_Latn
+uvh,uvh_Latn,Latn,Uri,67,1544500,"FineWeb2, v2.1.0",3,2019,2023,DATA/uvh_Latn
+mcb,mcb_Latn,Latn,Machiguenga,110,1544372,"FineWeb2, v2.1.0",9,2013,2023,DATA/mcb_Latn
+gmv,gmv_Latn,Latn,Gamo,146,1543647,"FineWeb2, v2.1.0",11,2013,2024,DATA/gmv_Latn
+ong,ong_Latn,Latn,Olo,81,1542786,"FineWeb2, v2.1.0",5,2017,2023,DATA/ong_Latn
+twu,twu_Latn,Latn,Termanu,90,1542033,"FineWeb2, v2.1.0",8,2013,2021,DATA/twu_Latn
+blz,blz_Latn,Latn,Balantak,77,1541386,"FineWeb2, v2.1.0",8,2013,2022,DATA/blz_Latn
+gub,gub_Latn,Latn,Guajajára,81,1540063,"FineWeb2, v2.1.0",8,2014,2023,DATA/gub_Latn
+cnt,cnt_Latn,Latn,Tepetotutla Chinantec,103,1539906,"FineWeb2, v2.1.0",7,2013,2022,DATA/cnt_Latn
+ter,ter_Latn,Latn,Tereno,99,1535416,"FineWeb2, v2.1.0",9,2013,2024,DATA/ter_Latn
+sig,sig_Latn,Latn,Paasaal,89,1529983,"FineWeb2, v2.1.0",7,2013,2024,DATA/sig_Latn
+bku,bku_Latn,Latn,Buhid,158,1527058,"FineWeb2, v2.1.0",5,2013,2020,DATA/bku_Latn
+blh,blh_Latn,Latn,Kuwaa,107,1522458,"FineWeb2, v2.1.0",5,2013,2022,DATA/blh_Latn
+khz,khz_Latn,Latn,Keapara,81,1518694,"FineWeb2, v2.1.0",6,2017,2024,DATA/khz_Latn
+sur,sur_Latn,Latn,Mwaghavul,94,1517408,"FineWeb2, v2.1.0",5,2013,2023,DATA/sur_Latn
+zac,zac_Latn,Latn,Ocotlán Zapotec,95,1515004,"FineWeb2, v2.1.0",8,2013,2024,DATA/zac_Latn
+und,und_Laoo,Laoo,Undetermined,1172,1513188,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Laoo
+suk,suk_Latn,Latn,Sukuma,96,1511759,"FineWeb2, v2.1.0",10,2013,2024,DATA/suk_Latn
+zpl,zpl_Latn,Latn,Lachixío Zapotec,91,1511593,"FineWeb2, v2.1.0",4,2013,2020,DATA/zpl_Latn
+mmo,mmo_Latn,Latn,Mangga Buang,87,1511079,"FineWeb2, v2.1.0",7,2017,2024,DATA/mmo_Latn
+nhu,nhu_Latn,Latn,Noone,105,1511070,"FineWeb2, v2.1.0",7,2013,2022,DATA/nhu_Latn
+pri,pri_Latn,Latn,Paicî,602,1508135,"FineWeb2, v2.1.0",11,2013,2023,DATA/pri_Latn
+mxb,mxb_Latn,Latn,Tezoatlán Mixtec,94,1507158,"FineWeb2, v2.1.0",8,2013,2023,DATA/mxb_Latn
+mhl,mhl_Latn,Latn,Mauwake,81,1502389,"FineWeb2, v2.1.0",2,2018,2019,DATA/mhl_Latn
+ntr,ntr_Latn,Latn,Delo,79,1500778,"FineWeb2, v2.1.0",5,2013,2022,DATA/ntr_Latn
+thk,thk_Latn,Latn,Tharaka,87,1500449,"FineWeb2, v2.1.0",8,2013,2024,DATA/thk_Latn
+cwt,cwt_Latn,Latn,Kuwaataay,86,1498412,"FineWeb2, v2.1.0",4,2013,2017,DATA/cwt_Latn
+bef,bef_Latn,Latn,Benabena,72,1496441,"FineWeb2, v2.1.0",6,2017,2023,DATA/bef_Latn
+roo,roo_Latn,Latn,Rotokas,84,1496125,"FineWeb2, v2.1.0",6,2016,2021,DATA/roo_Latn
+gde,gde_Latn,Latn,Gude,87,1495913,"FineWeb2, v2.1.0",5,2013,2018,DATA/gde_Latn
+hig,hig_Latn,Latn,Kamwe,89,1495717,"FineWeb2, v2.1.0",4,2013,2023,DATA/hig_Latn
+kmo,kmo_Latn,Latn,Kwoma,78,1492291,"FineWeb2, v2.1.0",4,2013,2022,DATA/kmo_Latn
+zaw,zaw_Latn,Latn,Mitla Zapotec,93,1492034,"FineWeb2, v2.1.0",5,2013,2020,DATA/zaw_Latn
+bas,bas_Latn,Latn,Basa (Cameroon),161,1490529,"FineWeb2, v2.1.0",7,2017,2023,DATA/bas_Latn
+tvk,tvk_Latn,Latn,Southeast Ambrym,395,1489893,"FineWeb2, v2.1.0",9,2014,2024,DATA/tvk_Latn
+lex,lex_Latn,Latn,Luang,101,1487744,"FineWeb2, v2.1.0",7,2017,2024,DATA/lex_Latn
+spp,spp_Latn,Latn,Supyire Senoufo,112,1483392,"FineWeb2, v2.1.0",8,2013,2023,DATA/spp_Latn
+ppk,ppk_Latn,Latn,Uma,149,1481498,"FineWeb2, v2.1.0",11,2013,2024,DATA/ppk_Latn
+aly,aly_Latn,Latn,Alyawarr,85,1479692,"FineWeb2, v2.1.0",5,2013,2024,DATA/aly_Latn
+nsn,nsn_Latn,Latn,Nehan,140,1477680,"FineWeb2, v2.1.0",8,2017,2024,DATA/nsn_Latn
+snc,snc_Latn,Latn,Sinaugoro,80,1475280,"FineWeb2, v2.1.0",5,2014,2023,DATA/snc_Latn
+fai,fai_Latn,Latn,Faiwol,72,1472836,"FineWeb2, v2.1.0",5,2018,2023,DATA/fai_Latn
+mxq,mxq_Latn,Latn,Juquila Mixe,93,1471188,"FineWeb2, v2.1.0",4,2013,2023,DATA/mxq_Latn
+lee,lee_Latn,Latn,Lyélé,125,1470438,"FineWeb2, v2.1.0",6,2013,2023,DATA/lee_Latn
+kyg,kyg_Latn,Latn,Keyagana,73,1465390,"FineWeb2, v2.1.0",5,2015,2023,DATA/kyg_Latn
+und,und_Ethi,Ethi,Undetermined,1907,1465227,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Ethi
+bfd,bfd_Latn,Latn,Bafut,120,1462598,"FineWeb2, v2.1.0",5,2013,2022,DATA/bfd_Latn
+yrb,yrb_Latn,Latn,Yareba,78,1460174,"FineWeb2, v2.1.0",3,2018,2022,DATA/yrb_Latn
+bgr,bgr_Latn,Latn,Bawm Chin,95,1458359,"FineWeb2, v2.1.0",7,2013,2023,DATA/bgr_Latn
+kms,kms_Latn,Latn,Kamasau,95,1458125,"FineWeb2, v2.1.0",7,2013,2023,DATA/kms_Latn
+nab,nab_Latn,Latn,Southern Nambikuára,76,1456748,"FineWeb2, v2.1.0",5,2018,2023,DATA/nab_Latn
+kjs,kjs_Latn,Latn,East Kewa,80,1455642,"FineWeb2, v2.1.0",6,2013,2023,DATA/kjs_Latn
+ngl,ngl_Latn,Latn,Lomwe,173,1446358,"FineWeb2, v2.1.0",6,2017,2023,DATA/ngl_Latn
+lef,lef_Latn,Latn,Lelemi,86,1445750,"FineWeb2, v2.1.0",4,2013,2017,DATA/lef_Latn
+gdn,gdn_Latn,Latn,Umanakaina,76,1442548,"FineWeb2, v2.1.0",5,2018,2023,DATA/gdn_Latn
+tif,tif_Latn,Latn,Tifal,78,1441361,"FineWeb2, v2.1.0",7,2018,2024,DATA/tif_Latn
+und,und_Tang,Tang,Undetermined,9219,1439873,"FineWeb2, v2.1.0",8,2017,2024,DATA/und_Tang
+gog,gog_Latn,Latn,Gogo,78,1431300,"FineWeb2, v2.1.0",5,2013,2022,DATA/gog_Latn
+atb,atb_Latn,Latn,Zaiwa,335,1431141,"FineWeb2, v2.1.0",8,2017,2024,DATA/atb_Latn
+wnc,wnc_Latn,Latn,Wantoat,78,1429808,"FineWeb2, v2.1.0",3,2017,2023,DATA/wnc_Latn
+alq,alq_Latn,Latn,Algonquin,110,1428971,"FineWeb2, v2.1.0",9,2014,2023,DATA/alq_Latn
+mwv,mwv_Latn,Latn,Mentawai,90,1424873,"FineWeb2, v2.1.0",8,2013,2023,DATA/mwv_Latn
+kpz,kpz_Latn,Latn,Kupsabiny,80,1422568,"FineWeb2, v2.1.0",5,2013,2021,DATA/kpz_Latn
+gbo,gbo_Latn,Latn,Northern Grebo,114,1420092,"FineWeb2, v2.1.0",5,2013,2023,DATA/gbo_Latn
+gvf,gvf_Latn,Latn,Golin,76,1418056,"FineWeb2, v2.1.0",3,2018,2020,DATA/gvf_Latn
+cya,cya_Latn,Latn,Nopala Chatino,87,1417559,"FineWeb2, v2.1.0",7,2013,2024,DATA/cya_Latn
+ssd,ssd_Latn,Latn,Siroi,78,1411921,"FineWeb2, v2.1.0",5,2018,2023,DATA/ssd_Latn
+rai,rai_Latn,Latn,Ramoaaina,79,1411750,"FineWeb2, v2.1.0",2,2018,2021,DATA/rai_Latn
+myw,myw_Latn,Latn,Muyuw,79,1411265,"FineWeb2, v2.1.0",6,2013,2023,DATA/myw_Latn
+isd,isd_Latn,Latn,Isnag,93,1409814,"FineWeb2, v2.1.0",6,2017,2023,DATA/isd_Latn
+qve,qve_Latn,Latn,Eastern Apurímac Quechua,105,1409442,"FineWeb2, v2.1.0",11,2013,2023,DATA/qve_Latn
+mic,mic_Latn,Latn,Mi'kmaq,121,1405651,"FineWeb2, v2.1.0",9,2013,2024,DATA/mic_Latn
+grt,grt_Beng,Beng,Garo,122,1405478,"FineWeb2, v2.1.0",3,2013,2017,DATA/grt_Beng
+kqp,kqp_Latn,Latn,Kimré,88,1405417,"FineWeb2, v2.1.0",5,2013,2022,DATA/kqp_Latn
+mcu,mcu_Latn,Latn,Cameroon Mambila,100,1401658,"FineWeb2, v2.1.0",4,2013,2017,DATA/mcu_Latn
+nba,nba_Latn,Latn,Nyemba,149,1401188,"FineWeb2, v2.1.0",8,2014,2022,DATA/nba_Latn
+yut,yut_Latn,Latn,Yopno,87,1398559,"FineWeb2, v2.1.0",5,2018,2024,DATA/yut_Latn
+hay,hay_Latn,Latn,Haya,90,1398152,"FineWeb2, v2.1.0",11,2013,2024,DATA/hay_Latn
+mtp,mtp_Latn,Latn,Wichí Lhamtés Nocten,82,1397039,"FineWeb2, v2.1.0",5,2014,2022,DATA/mtp_Latn
+avt,avt_Latn,Latn,Au,81,1394754,"FineWeb2, v2.1.0",3,2018,2023,DATA/avt_Latn
+lia,lia_Latn,Latn,West-Central Limba,80,1394589,"FineWeb2, v2.1.0",4,2013,2017,DATA/lia_Latn
+tsc,tsc_Latn,Latn,Tswa,123,1389717,"FineWeb2, v2.1.0",6,2017,2024,DATA/tsc_Latn
+noa,noa_Latn,Latn,Woun Meu,198,1385018,"FineWeb2, v2.1.0",8,2013,2022,DATA/noa_Latn
+swp,swp_Latn,Latn,Suau,87,1383769,"FineWeb2, v2.1.0",7,2013,2022,DATA/swp_Latn
+wuv,wuv_Latn,Latn,Wuvulu-Aua,87,1383169,"FineWeb2, v2.1.0",7,2017,2024,DATA/wuv_Latn
+bpy,bpy_Beng,Beng,Bishnupriya,343,1378477,"FineWeb2, v2.1.0",12,2013,2024,DATA/bpy_Beng
+bhw,bhw_Latn,Latn,Biak,114,1377568,"FineWeb2, v2.1.0",5,2017,2022,DATA/bhw_Latn
+mzw,mzw_Latn,Latn,Deg,94,1377017,"FineWeb2, v2.1.0",5,2013,2021,DATA/mzw_Latn
+tby,tby_Latn,Latn,Tabaru,72,1370481,"FineWeb2, v2.1.0",4,2013,2017,DATA/tby_Latn
+cap,cap_Latn,Latn,Chipaya,107,1367696,"FineWeb2, v2.1.0",6,2013,2023,DATA/cap_Latn
+pah,pah_Latn,Latn,Tenharim,104,1363036,"FineWeb2, v2.1.0",7,2013,2023,DATA/pah_Latn
+gai,gai_Latn,Latn,Borei,74,1359856,"FineWeb2, v2.1.0",5,2018,2023,DATA/gai_Latn
+xrb,xrb_Latn,Latn,Eastern Karaboro,83,1356248,"FineWeb2, v2.1.0",5,2013,2022,DATA/xrb_Latn
+mau,mau_Latn,Latn,Huautla Mazatec,123,1355831,"FineWeb2, v2.1.0",10,2014,2024,DATA/mau_Latn
+alp,alp_Latn,Latn,Alune,78,1346149,"FineWeb2, v2.1.0",6,2018,2024,DATA/alp_Latn
+ctu,ctu_Latn,Latn,Chol,137,1340250,"FineWeb2, v2.1.0",10,2013,2024,DATA/ctu_Latn
+amn,amn_Latn,Latn,Amanab,80,1337334,"FineWeb2, v2.1.0",5,2017,2021,DATA/amn_Latn
+mdy,mdy_Ethi,Ethi,Male (Ethiopia),254,1336768,"FineWeb2, v2.1.0",9,2013,2024,DATA/mdy_Ethi
+hch,hch_Latn,Latn,Huichol,118,1334951,"FineWeb2, v2.1.0",9,2014,2024,DATA/hch_Latn
+rmn,rmn_Cyrl,Cyrl,Balkan Romani,191,1334829,"FineWeb2, v2.1.0",8,2017,2024,DATA/rmn_Cyrl
+okv,okv_Latn,Latn,Orokaiva,155,1331391,"FineWeb2, v2.1.0",10,2013,2024,DATA/okv_Latn
+cpy,cpy_Latn,Latn,South Ucayali Ashéninka,97,1328551,"FineWeb2, v2.1.0",4,2019,2022,DATA/cpy_Latn
+wim,wim_Latn,Latn,Wik-Mungkan,81,1328104,"FineWeb2, v2.1.0",4,2017,2022,DATA/wim_Latn
+dts,dts_Latn,Latn,Toro So Dogon,78,1315869,"FineWeb2, v2.1.0",5,2013,2023,DATA/dts_Latn
+bib,bib_Latn,Latn,Bissa,94,1315323,"FineWeb2, v2.1.0",8,2013,2023,DATA/bib_Latn
+ceg,ceg_Latn,Latn,Chamacoco,97,1306995,"FineWeb2, v2.1.0",4,2013,2017,DATA/ceg_Latn
+und,und_Vaii,Vaii,Undetermined,1371,1306858,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Vaii
+chw,chw_Latn,Latn,Chuwabu,221,1295707,"FineWeb2, v2.1.0",9,2016,2024,DATA/chw_Latn
+kue,kue_Latn,Latn,Kuman (Papua New Guinea),82,1294725,"FineWeb2, v2.1.0",7,2013,2021,DATA/kue_Latn
+sll,sll_Latn,Latn,Salt-Yui,96,1286621,"FineWeb2, v2.1.0",5,2018,2023,DATA/sll_Latn
+kij,kij_Latn,Latn,Kilivila,75,1286382,"FineWeb2, v2.1.0",3,2022,2024,DATA/kij_Latn
+iws,iws_Latn,Latn,Sepik Iwam,79,1285578,"FineWeb2, v2.1.0",4,2013,2023,DATA/iws_Latn
+skr,skr_Arab,Arab,Saraiki,220,1284551,"FineWeb2, v2.1.0",10,2013,2024,DATA/skr_Arab
+aoi,aoi_Latn,Latn,Anindilyakwa,70,1284507,"FineWeb2, v2.1.0",3,2014,2021,DATA/aoi_Latn
+cjp,cjp_Latn,Latn,Cabécar,94,1282085,"FineWeb2, v2.1.0",5,2013,2019,DATA/cjp_Latn
+kpx,kpx_Latn,Latn,Mountain Koiali,76,1281790,"FineWeb2, v2.1.0",5,2013,2023,DATA/kpx_Latn
+apb,apb_Latn,Latn,Sa'a,79,1276518,"FineWeb2, v2.1.0",3,2021,2023,DATA/apb_Latn
+ojb,ojb_Cans,Cans,Northwestern Ojibwa,240,1276241,"FineWeb2, v2.1.0",8,2013,2023,DATA/ojb_Cans
+bpr,bpr_Latn,Latn,Koronadal Blaan,82,1274715,"FineWeb2, v2.1.0",7,2013,2022,DATA/bpr_Latn
+fuh,fuh_Latn,Latn,Western Niger Fulfulde,160,1274496,"FineWeb2, v2.1.0",11,2013,2024,DATA/fuh_Latn
+nfr,nfr_Latn,Latn,Nafaanra,77,1271148,"FineWeb2, v2.1.0",4,2013,2017,DATA/nfr_Latn
+ifb,ifb_Latn,Latn,Batad Ifugao,75,1269194,"FineWeb2, v2.1.0",6,2013,2024,DATA/ifb_Latn
+kqw,kqw_Latn,Latn,Kandas,86,1268638,"FineWeb2, v2.1.0",6,2018,2023,DATA/kqw_Latn
+apr,apr_Latn,Latn,Arop-Lokep,65,1251060,"FineWeb2, v2.1.0",4,2019,2024,DATA/apr_Latn
+biv,biv_Latn,Latn,Southern Birifor,93,1250202,"FineWeb2, v2.1.0",6,2013,2024,DATA/biv_Latn
+toh,toh_Latn,Latn,Gitonga,96,1249552,"FineWeb2, v2.1.0",7,2015,2022,DATA/toh_Latn
+wiu,wiu_Latn,Latn,Wiru,80,1248667,"FineWeb2, v2.1.0",5,2017,2022,DATA/wiu_Latn
+izr,izr_Latn,Latn,Izere,91,1247852,"FineWeb2, v2.1.0",6,2013,2021,DATA/izr_Latn
+tgp,tgp_Latn,Latn,Tangoa,97,1242346,"FineWeb2, v2.1.0",8,2013,2023,DATA/tgp_Latn
+aji,aji_Latn,Latn,Ajië,124,1239680,"FineWeb2, v2.1.0",3,2017,2019,DATA/aji_Latn
+nhr,nhr_Latn,Latn,Naro,121,1239053,"FineWeb2, v2.1.0",4,2017,2022,DATA/nhr_Latn
+xav,xav_Latn,Latn,Xavánte,146,1236554,"FineWeb2, v2.1.0",9,2013,2024,DATA/xav_Latn
+jiv,jiv_Latn,Latn,Shuar,120,1235259,"FineWeb2, v2.1.0",10,2013,2024,DATA/jiv_Latn
+rro,rro_Latn,Latn,Waima,86,1233497,"FineWeb2, v2.1.0",6,2013,2023,DATA/rro_Latn
+knk,knk_Latn,Latn,Kuranko,73,1229391,"FineWeb2, v2.1.0",4,2013,2017,DATA/knk_Latn
+wnu,wnu_Latn,Latn,Usan,78,1228615,"FineWeb2, v2.1.0",5,2017,2023,DATA/wnu_Latn
+kao,kao_Latn,Latn,Xaasongaxango,91,1226190,"FineWeb2, v2.1.0",8,2013,2024,DATA/kao_Latn
+fat,fat_Latn,Latn,Fanti,256,1224276,"FineWeb2, v2.1.0",11,2013,2024,DATA/fat_Latn
+gvl,gvl_Latn,Latn,Gulay,104,1221382,"FineWeb2, v2.1.0",5,2014,2019,DATA/gvl_Latn
+bud,bud_Latn,Latn,Ntcham,115,1219923,"FineWeb2, v2.1.0",6,2013,2020,DATA/bud_Latn
+lsm,lsm_Latn,Latn,Saamia,74,1217648,"FineWeb2, v2.1.0",6,2013,2020,DATA/lsm_Latn
+kus,kus_Latn,Latn,Kusaal,87,1213789,"FineWeb2, v2.1.0",8,2013,2022,DATA/kus_Latn
+nov,nov_Latn,Latn,Novial,546,1204570,"FineWeb2, v2.1.0",12,2013,2024,DATA/nov_Latn
+usa,usa_Latn,Latn,Usarufa,95,1203110,"FineWeb2, v2.1.0",3,2018,2022,DATA/usa_Latn
+ziw,ziw_Latn,Latn,Zigula,74,1201955,"FineWeb2, v2.1.0",4,2017,2020,DATA/ziw_Latn
+mti,mti_Latn,Latn,Maiwa (Papua New Guinea),92,1201315,"FineWeb2, v2.1.0",9,2014,2023,DATA/mti_Latn
+nou,nou_Latn,Latn,Ewage-Notu,79,1200105,"FineWeb2, v2.1.0",2,2018,2019,DATA/nou_Latn
+yre,yre_Latn,Latn,Yaouré,81,1196400,"FineWeb2, v2.1.0",5,2018,2024,DATA/yre_Latn
+xmv,xmv_Latn,Latn,Antankarana Malagasy,144,1193161,"FineWeb2, v2.1.0",9,2013,2024,DATA/xmv_Latn
+ztq,ztq_Latn,Latn,Quioquitani-Quierí Zapotec,99,1191846,"FineWeb2, v2.1.0",9,2013,2023,DATA/ztq_Latn
+att,att_Latn,Latn,Pamplona Atta,87,1190622,"FineWeb2, v2.1.0",5,2017,2023,DATA/att_Latn
+quh,quh_Latn,Latn,South Bolivian Quechua,166,1188757,"FineWeb2, v2.1.0",12,2013,2024,DATA/quh_Latn
+mfz,mfz_Latn,Latn,Mabaan,84,1188243,"FineWeb2, v2.1.0",4,2013,2017,DATA/mfz_Latn
+sab,sab_Latn,Latn,Buglere,82,1187003,"FineWeb2, v2.1.0",7,2013,2024,DATA/sab_Latn
+kki,kki_Latn,Latn,Kagulu,76,1185886,"FineWeb2, v2.1.0",5,2013,2019,DATA/kki_Latn
+gun,gun_Latn,Latn,Mbyá Guaraní,117,1182035,"FineWeb2, v2.1.0",8,2013,2023,DATA/gun_Latn
+kyz,kyz_Latn,Latn,Kayabí,85,1181465,"FineWeb2, v2.1.0",7,2013,2023,DATA/kyz_Latn
+tay,tay_Latn,Latn,Atayal,2653,1178703,"FineWeb2, v2.1.0",10,2013,2024,DATA/tay_Latn
+tnk,tnk_Latn,Latn,Kwamera,88,1165476,"FineWeb2, v2.1.0",7,2017,2023,DATA/tnk_Latn
+kwd,kwd_Latn,Latn,Kwaio,80,1164055,"FineWeb2, v2.1.0",2,2017,2019,DATA/kwd_Latn
+wer,wer_Latn,Latn,Weri,82,1154909,"FineWeb2, v2.1.0",5,2017,2024,DATA/wer_Latn
+lac,lac_Latn,Latn,Lacandon,100,1154487,"FineWeb2, v2.1.0",6,2014,2024,DATA/lac_Latn
+fal,fal_Latn,Latn,South Fali,85,1152460,"FineWeb2, v2.1.0",4,2013,2017,DATA/fal_Latn
+xtn,xtn_Latn,Latn,Northern Tlaxiaco Mixtec,121,1151896,"FineWeb2, v2.1.0",5,2019,2024,DATA/xtn_Latn
+mmn,mmn_Latn,Latn,Mamanwa,61,1149570,"FineWeb2, v2.1.0",5,2017,2022,DATA/mmn_Latn
+sgz,sgz_Latn,Latn,Sursurunga,126,1147950,"FineWeb2, v2.1.0",8,2014,2024,DATA/sgz_Latn
+hag,hag_Latn,Latn,Hanga,70,1138423,"FineWeb2, v2.1.0",3,2013,2017,DATA/hag_Latn
+djr,djr_Latn,Latn,Djambarrpuyngu,135,1137959,"FineWeb2, v2.1.0",5,2014,2021,DATA/djr_Latn
+kpf,kpf_Latn,Latn,Komba,80,1137636,"FineWeb2, v2.1.0",5,2018,2024,DATA/kpf_Latn
+naq,naq_Latn,Latn,Khoekhoe,141,1135580,"FineWeb2, v2.1.0",11,2013,2024,DATA/naq_Latn
+knf,knf_Latn,Latn,Mankanya,100,1135061,"FineWeb2, v2.1.0",4,2017,2020,DATA/knf_Latn
+ssg,ssg_Latn,Latn,Seimat,88,1132047,"FineWeb2, v2.1.0",3,2018,2024,DATA/ssg_Latn
+tbo,tbo_Latn,Latn,Tawala,87,1126509,"FineWeb2, v2.1.0",5,2018,2023,DATA/tbo_Latn
+keo,keo_Latn,Latn,Kakwa,86,1124955,"FineWeb2, v2.1.0",7,2014,2023,DATA/keo_Latn
+dgi,dgi_Latn,Latn,Northern Dagara,115,1117932,"FineWeb2, v2.1.0",5,2013,2022,DATA/dgi_Latn
+tnp,tnp_Latn,Latn,Whitesands,87,1115922,"FineWeb2, v2.1.0",5,2017,2023,DATA/tnp_Latn
+gul,gul_Latn,Latn,Sea Island Creole English,103,1109436,"FineWeb2, v2.1.0",9,2013,2023,DATA/gul_Latn
+und,und_Orya,Orya,Undetermined,1182,1106593,"FineWeb2, v2.1.0",11,2014,2024,DATA/und_Orya
+mxp,mxp_Latn,Latn,Tlahuitoltepec Mixe,91,1105627,"FineWeb2, v2.1.0",5,2014,2022,DATA/mxp_Latn
+enq,enq_Latn,Latn,Enga,89,1103141,"FineWeb2, v2.1.0",6,2017,2023,DATA/enq_Latn
+ayp,ayp_Arab,Arab,North Mesopotamian Arabic,139,1092596,"FineWeb2, v2.1.0",8,2016,2023,DATA/ayp_Arab
+hot,hot_Latn,Latn,Hote,90,1091309,"FineWeb2, v2.1.0",8,2017,2024,DATA/hot_Latn
+bgt,bgt_Latn,Latn,Bughotu,87,1086907,"FineWeb2, v2.1.0",11,2013,2024,DATA/bgt_Latn
+snd,snd_Latn,Latn,Sindhi,270,1083274,"FineWeb2, v2.1.0",12,2013,2024,DATA/snd_Latn
+nnb,nnb_Latn,Latn,Nande,117,1077234,"FineWeb2, v2.1.0",9,2013,2022,DATA/nnb_Latn
+kas,kas_Deva,Deva,Kashmiri,605,1074743,"FineWeb2, v2.1.0",12,2013,2024,DATA/kas_Deva
+zpv,zpv_Latn,Latn,Chichicapan Zapotec,93,1070244,"FineWeb2, v2.1.0",9,2014,2024,DATA/zpv_Latn
+aia,aia_Latn,Latn,Arosi,79,1063498,"FineWeb2, v2.1.0",2,2017,2019,DATA/aia_Latn
+mpm,mpm_Latn,Latn,Yosondúa Mixtec,93,1061426,"FineWeb2, v2.1.0",8,2013,2023,DATA/mpm_Latn
+mup,mup_Deva,Deva,Malvi,283,1059364,"FineWeb2, v2.1.0",11,2014,2024,DATA/mup_Deva
+ian,ian_Latn,Latn,Iatmul,76,1058926,"FineWeb2, v2.1.0",5,2018,2023,DATA/ian_Latn
+und,und_Hluw,Hluw,Undetermined,843,1058286,"FineWeb2, v2.1.0",8,2017,2024,DATA/und_Hluw
+akp,akp_Latn,Latn,Siwu,78,1056539,"FineWeb2, v2.1.0",3,2017,2024,DATA/akp_Latn
+mbi,mbi_Latn,Latn,Ilianen Manobo,80,1052792,"FineWeb2, v2.1.0",2,2017,2018,DATA/mbi_Latn
+tim,tim_Latn,Latn,Timbe,75,1047677,"FineWeb2, v2.1.0",2,2018,2021,DATA/tim_Latn
+bjp,bjp_Latn,Latn,Fanamaket,88,1035176,"FineWeb2, v2.1.0",5,2018,2024,DATA/bjp_Latn
+emi,emi_Latn,Latn,Mussau-Emira,86,1033899,"FineWeb2, v2.1.0",6,2018,2024,DATA/emi_Latn
+mcd,mcd_Latn,Latn,Sharanahua,134,1031873,"FineWeb2, v2.1.0",5,2014,2020,DATA/mcd_Latn
+dua,dua_Latn,Latn,Duala,160,1023822,"FineWeb2, v2.1.0",9,2014,2024,DATA/dua_Latn
+atj,atj_Latn,Latn,Atikamekw,239,1023033,"FineWeb2, v2.1.0",12,2013,2024,DATA/atj_Latn
+cta,cta_Latn,Latn,Tataltepec Chatino,84,1021044,"FineWeb2, v2.1.0",8,2014,2024,DATA/cta_Latn
+nim,nim_Latn,Latn,Nilamba,80,1019764,"FineWeb2, v2.1.0",5,2013,2022,DATA/nim_Latn
+toc,toc_Latn,Latn,Coyutla Totonac,87,1012573,"FineWeb2, v2.1.0",7,2013,2023,DATA/toc_Latn
+dgc,dgc_Latn,Latn,Casiguran Dumagat Agta,78,1011607,"FineWeb2, v2.1.0",6,2017,2023,DATA/dgc_Latn
+akb,akb_Latn,Latn,Batak Angkola,141,1011487,"FineWeb2, v2.1.0",12,2013,2024,DATA/akb_Latn
+ptp,ptp_Latn,Latn,Patep,97,1010976,"FineWeb2, v2.1.0",4,2014,2021,DATA/ptp_Latn
+llg,llg_Latn,Latn,Lole,74,1010138,"FineWeb2, v2.1.0",3,2019,2023,DATA/llg_Latn
+nyo,nyo_Latn,Latn,Nyoro,113,999059,"FineWeb2, v2.1.0",10,2013,2024,DATA/nyo_Latn
+akh,akh_Latn,Latn,Angal Heneng,73,994467,"FineWeb2, v2.1.0",3,2018,2021,DATA/akh_Latn
+xbi,xbi_Latn,Latn,Kombio,81,993231,"FineWeb2, v2.1.0",7,2013,2023,DATA/xbi_Latn
+gam,gam_Latn,Latn,Kandawo,78,990624,"FineWeb2, v2.1.0",5,2018,2024,DATA/gam_Latn
+nhy,nhy_Latn,Latn,Northern Oaxaca Nahuatl,104,985912,"FineWeb2, v2.1.0",11,2013,2024,DATA/nhy_Latn
+kss,kss_Latn,Latn,Southern Kisi,118,967915,"FineWeb2, v2.1.0",6,2013,2021,DATA/kss_Latn
+lww,lww_Latn,Latn,Lewo,84,964829,"FineWeb2, v2.1.0",6,2014,2023,DATA/lww_Latn
+snf,snf_Latn,Latn,Noon,111,964597,"FineWeb2, v2.1.0",7,2017,2024,DATA/snf_Latn
+mna,mna_Latn,Latn,Mbula,92,963884,"FineWeb2, v2.1.0",7,2014,2024,DATA/mna_Latn
+ckt,ckt_Cyrl,Cyrl,Chukot,266,962752,"FineWeb2, v2.1.0",10,2013,2024,DATA/ckt_Cyrl
+mhx,mhx_Latn,Latn,Maru,98,962278,"FineWeb2, v2.1.0",7,2013,2023,DATA/mhx_Latn
+arl,arl_Latn,Latn,Arabela,89,961534,"FineWeb2, v2.1.0",8,2013,2024,DATA/arl_Latn
+bdh,bdh_Latn,Latn,Baka (South Sudan),92,957732,"FineWeb2, v2.1.0",1,2018,2018,DATA/bdh_Latn
+npl,npl_Latn,Latn,Southeastern Puebla Nahuatl,102,954256,"FineWeb2, v2.1.0",11,2013,2024,DATA/npl_Latn
+und,und_Sgnw,Sgnw,Undetermined,929,953193,"FineWeb2, v2.1.0",8,2017,2024,DATA/und_Sgnw
+udu,udu_Latn,Latn,Uduk,78,949812,"FineWeb2, v2.1.0",7,2013,2022,DATA/udu_Latn
+apy,apy_Latn,Latn,Apalaí,95,939282,"FineWeb2, v2.1.0",6,2014,2022,DATA/apy_Latn
+mur,mur_Latn,Latn,Murle,83,937036,"FineWeb2, v2.1.0",6,2013,2023,DATA/mur_Latn
+gso,gso_Latn,Latn,Southwest Gbaya,105,934295,"FineWeb2, v2.1.0",6,2013,2019,DATA/gso_Latn
+cko,cko_Latn,Latn,Anufo,83,926398,"FineWeb2, v2.1.0",4,2013,2017,DATA/cko_Latn
+mca,mca_Latn,Latn,Maca,92,925901,"FineWeb2, v2.1.0",4,2018,2022,DATA/mca_Latn
+kbc,kbc_Latn,Latn,Kadiwéu,98,924765,"FineWeb2, v2.1.0",5,2014,2023,DATA/kbc_Latn
+mxv,mxv_Latn,Latn,Metlatónoc Mixtec,150,920665,"FineWeb2, v2.1.0",10,2014,2024,DATA/mxv_Latn
+hub,hub_Latn,Latn,Huambisa,92,918606,"FineWeb2, v2.1.0",8,2013,2023,DATA/hub_Latn
+lif,lif_Deva,Deva,Limbu,122,912721,"FineWeb2, v2.1.0",7,2013,2023,DATA/lif_Deva
+gng,gng_Latn,Latn,Ngangam,106,911353,"FineWeb2, v2.1.0",8,2013,2024,DATA/gng_Latn
+guo,guo_Latn,Latn,Guayabero,97,911201,"FineWeb2, v2.1.0",7,2013,2024,DATA/guo_Latn
+zat,zat_Latn,Latn,Tabaa Zapotec,88,907377,"FineWeb2, v2.1.0",4,2014,2023,DATA/zat_Latn
+rkb,rkb_Latn,Latn,Rikbaktsa,76,906360,"FineWeb2, v2.1.0",6,2014,2023,DATA/rkb_Latn
+zpc,zpc_Latn,Latn,Choapan Zapotec,107,904536,"FineWeb2, v2.1.0",6,2014,2022,DATA/zpc_Latn
+caf,caf_Latn,Latn,Southern Carrier,90,904243,"FineWeb2, v2.1.0",5,2014,2023,DATA/caf_Latn
+row,row_Latn,Latn,Dela-Oenale,86,899733,"FineWeb2, v2.1.0",6,2018,2024,DATA/row_Latn
+bgs,bgs_Latn,Latn,Tagabawa,92,895465,"FineWeb2, v2.1.0",3,2019,2023,DATA/bgs_Latn
+tll,tll_Latn,Latn,Tetela,133,894886,"FineWeb2, v2.1.0",9,2015,2024,DATA/tll_Latn
+ese,ese_Latn,Latn,Ese Ejja,81,894427,"FineWeb2, v2.1.0",8,2014,2024,DATA/ese_Latn
+heg,heg_Latn,Latn,Helong,99,891179,"FineWeb2, v2.1.0",6,2017,2024,DATA/heg_Latn
+shp,shp_Latn,Latn,Shipibo-Conibo,113,889613,"FineWeb2, v2.1.0",9,2013,2023,DATA/shp_Latn
+rtm,rtm_Latn,Latn,Rotuman,164,887543,"FineWeb2, v2.1.0",8,2013,2024,DATA/rtm_Latn
+bus,bus_Latn,Latn,Bokobaru,99,886724,"FineWeb2, v2.1.0",5,2017,2023,DATA/bus_Latn
+ken,ken_Latn,Latn,Kenyang,112,883785,"FineWeb2, v2.1.0",7,2013,2022,DATA/ken_Latn
+nbq,nbq_Latn,Latn,Nggem,86,872638,"FineWeb2, v2.1.0",4,2017,2023,DATA/nbq_Latn
+lbb,lbb_Latn,Latn,Label,85,869919,"FineWeb2, v2.1.0",4,2018,2023,DATA/lbb_Latn
+awb,awb_Latn,Latn,Awa (Papua New Guinea),88,868097,"FineWeb2, v2.1.0",4,2013,2021,DATA/awb_Latn
+chf,chf_Latn,Latn,Tabasco Chontal,114,861203,"FineWeb2, v2.1.0",7,2014,2023,DATA/chf_Latn
+und,und_Lina,Lina,Undetermined,1115,860933,"FineWeb2, v2.1.0",8,2017,2024,DATA/und_Lina
+tum,tum_Latn,Latn,Tumbuka,114,857221,"FineWeb2, v2.1.0",11,2013,2024,DATA/tum_Latn
+ghs,ghs_Latn,Latn,Guhu-Samane,77,852785,"FineWeb2, v2.1.0",6,2017,2024,DATA/ghs_Latn
+esu,esu_Latn,Latn,Central Yupik,179,851912,"FineWeb2, v2.1.0",9,2013,2022,DATA/esu_Latn
+tsg,tsg_Latn,Latn,Tausug,158,849526,"FineWeb2, v2.1.0",10,2013,2023,DATA/tsg_Latn
+bim,bim_Latn,Latn,Bimoba,96,842440,"FineWeb2, v2.1.0",9,2013,2023,DATA/bim_Latn
+enm,enm_Latn,Latn,Middle English (1100-1500),562,842381,"FineWeb2, v2.1.0",12,2013,2024,DATA/enm_Latn
+kqc,kqc_Latn,Latn,Doromu-Koki,131,837920,"FineWeb2, v2.1.0",5,2017,2023,DATA/kqc_Latn
+kde,kde_Latn,Latn,Makonde,120,828884,"FineWeb2, v2.1.0",8,2013,2024,DATA/kde_Latn
+waj,waj_Latn,Latn,Waffa,70,827779,"FineWeb2, v2.1.0",4,2017,2021,DATA/waj_Latn
+snn,snn_Latn,Latn,Siona,82,823361,"FineWeb2, v2.1.0",4,2020,2023,DATA/snn_Latn
+caa,caa_Latn,Latn,Chortí,103,822582,"FineWeb2, v2.1.0",9,2013,2023,DATA/caa_Latn
+guz,guz_Latn,Latn,Gusii,127,820714,"FineWeb2, v2.1.0",12,2013,2024,DATA/guz_Latn
+ncl,ncl_Latn,Latn,Michoacán Nahuatl,98,818322,"FineWeb2, v2.1.0",8,2014,2024,DATA/ncl_Latn
+aca,aca_Latn,Latn,Achagua,90,817089,"FineWeb2, v2.1.0",4,2016,2024,DATA/aca_Latn
+otm,otm_Latn,Latn,Eastern Highland Otomi,110,813730,"FineWeb2, v2.1.0",7,2014,2023,DATA/otm_Latn
+gcr,gcr_Latn,Latn,Guianese Creole French,388,813691,"FineWeb2, v2.1.0",10,2013,2024,DATA/gcr_Latn
+hak,hak_Hani,Hani,Hakka Chinese,7147,812766,"FineWeb2, v2.1.0",8,2017,2024,DATA/hak_Hani
+mto,mto_Latn,Latn,Totontepec Mixe,90,810228,"FineWeb2, v2.1.0",3,2014,2022,DATA/mto_Latn
+txq,txq_Latn,Latn,Tii,83,809348,"FineWeb2, v2.1.0",6,2016,2024,DATA/txq_Latn
+kje,kje_Latn,Latn,Kisar,80,808840,"FineWeb2, v2.1.0",3,2014,2022,DATA/kje_Latn
+nuy,nuy_Latn,Latn,Nunggubuyu,79,808392,"FineWeb2, v2.1.0",5,2017,2022,DATA/nuy_Latn
+lfn,lfn_Cyrl,Cyrl,Lingua Franca Nova,228,806494,"FineWeb2, v2.1.0",11,2013,2024,DATA/lfn_Cyrl
+gnw,gnw_Latn,Latn,Western Bolivian Guaraní,109,798432,"FineWeb2, v2.1.0",7,2014,2023,DATA/gnw_Latn
+kwf,kwf_Latn,Latn,Kwara'ae,95,796893,"FineWeb2, v2.1.0",10,2013,2024,DATA/kwf_Latn
+plu,plu_Latn,Latn,Palikúr,95,793714,"FineWeb2, v2.1.0",8,2013,2022,DATA/plu_Latn
+dgr,dgr_Latn,Latn,Tlicho,133,788597,"FineWeb2, v2.1.0",9,2014,2024,DATA/dgr_Latn
+enl,enl_Latn,Latn,Enlhet,96,787406,"FineWeb2, v2.1.0",3,2019,2023,DATA/enl_Latn
+ame,ame_Latn,Latn,Yanesha',122,785840,"FineWeb2, v2.1.0",9,2013,2023,DATA/ame_Latn
+und,und_Bamu,Bamu,Undetermined,1752,782142,"FineWeb2, v2.1.0",9,2016,2024,DATA/und_Bamu
+nhg,nhg_Latn,Latn,Tetelcingo Nahuatl,87,781369,"FineWeb2, v2.1.0",6,2014,2024,DATA/nhg_Latn
+zyp,zyp_Latn,Latn,Zyphe Chin,102,779619,"FineWeb2, v2.1.0",8,2013,2023,DATA/zyp_Latn
+rav,rav_Deva,Deva,Sampang,95,769202,"FineWeb2, v2.1.0",3,2014,2017,DATA/rav_Deva
+kbh,kbh_Latn,Latn,Camsá,100,766792,"FineWeb2, v2.1.0",5,2014,2023,DATA/kbh_Latn
+suz,suz_Deva,Deva,Sunwar,126,766693,"FineWeb2, v2.1.0",6,2017,2023,DATA/suz_Deva
+kas,kas_Arab,Arab,Kashmiri,243,766378,"FineWeb2, v2.1.0",11,2013,2024,DATA/kas_Arab
+tkr,tkr_Cyrl,Cyrl,Tsakhur,129,763655,"FineWeb2, v2.1.0",7,2017,2024,DATA/tkr_Cyrl
+nyy,nyy_Latn,Latn,Nyakyusa-Ngonde,124,761928,"FineWeb2, v2.1.0",8,2013,2024,DATA/nyy_Latn
+wbp,wbp_Latn,Latn,Warlpiri,80,761070,"FineWeb2, v2.1.0",7,2017,2024,DATA/wbp_Latn
+kyf,kyf_Latn,Latn,Kouya,105,755823,"FineWeb2, v2.1.0",4,2014,2023,DATA/kyf_Latn
+geb,geb_Latn,Latn,Kire,72,752855,"FineWeb2, v2.1.0",4,2019,2023,DATA/geb_Latn
+ctp,ctp_Latn,Latn,Western Highland Chatino,97,752290,"FineWeb2, v2.1.0",6,2014,2023,DATA/ctp_Latn
+kxc,kxc_Ethi,Ethi,Konso,185,748014,"FineWeb2, v2.1.0",5,2013,2019,DATA/kxc_Ethi
+pls,pls_Latn,Latn,San Marcos Tlacoyalco Popoloca,105,744253,"FineWeb2, v2.1.0",10,2013,2024,DATA/pls_Latn
+tiy,tiy_Latn,Latn,Tiruray,69,740909,"FineWeb2, v2.1.0",3,2017,2023,DATA/tiy_Latn
+eza,eza_Latn,Latn,Ezaa,105,739051,"FineWeb2, v2.1.0",3,2017,2019,DATA/eza_Latn
+nod,nod_Thai,Thai,Northern Thai,407,738915,"FineWeb2, v2.1.0",9,2015,2023,DATA/nod_Thai
+nmf,nmf_Latn,Latn,Tangkhul Naga (India),113,732704,"FineWeb2, v2.1.0",8,2017,2024,DATA/nmf_Latn
+bbb,bbb_Latn,Latn,Barai,72,731841,"FineWeb2, v2.1.0",3,2017,2020,DATA/bbb_Latn
+amr,amr_Latn,Latn,Amarakaeri,93,731394,"FineWeb2, v2.1.0",7,2013,2023,DATA/amr_Latn
+kix,kix_Latn,Latn,Khiamniungan Naga,86,730859,"FineWeb2, v2.1.0",5,2014,2024,DATA/kix_Latn
+sat,sat_Latn,Latn,Santali,169,729199,"FineWeb2, v2.1.0",8,2013,2024,DATA/sat_Latn
+kca,kca_Cyrl,Cyrl,Khanty,179,729055,"FineWeb2, v2.1.0",9,2016,2024,DATA/kca_Cyrl
+eko,eko_Latn,Latn,Koti,79,726156,"FineWeb2, v2.1.0",5,2017,2022,DATA/eko_Latn
+rng,rng_Latn,Latn,Ronga,151,720060,"FineWeb2, v2.1.0",6,2017,2023,DATA/rng_Latn
+qxn,qxn_Latn,Latn,Northern Conchucos Ancash Quechua,106,716856,"FineWeb2, v2.1.0",9,2013,2024,DATA/qxn_Latn
+azg,azg_Latn,Latn,San Pedro Amuzgos Amuzgo,91,715493,"FineWeb2, v2.1.0",8,2014,2024,DATA/azg_Latn
+apu,apu_Latn,Latn,Apurinã,78,709793,"FineWeb2, v2.1.0",5,2014,2023,DATA/apu_Latn
+trc,trc_Latn,Latn,Copala Triqui,115,709745,"FineWeb2, v2.1.0",9,2014,2024,DATA/trc_Latn
+pao,pao_Latn,Latn,Northern Paiute,83,706191,"FineWeb2, v2.1.0",8,2013,2024,DATA/pao_Latn
+qxr,qxr_Latn,Latn,Cañar Highland Quichua,303,704622,"FineWeb2, v2.1.0",7,2013,2021,DATA/qxr_Latn
+xsr,xsr_Deva,Deva,Sherpa,125,695141,"FineWeb2, v2.1.0",8,2017,2024,DATA/xsr_Deva
+eve,eve_Cyrl,Cyrl,Even,224,691831,"FineWeb2, v2.1.0",10,2013,2024,DATA/eve_Cyrl
+mbl,mbl_Latn,Latn,Maxakalí,87,690589,"FineWeb2, v2.1.0",6,2014,2023,DATA/mbl_Latn
+cut,cut_Latn,Latn,Teutila Cuicatec,83,689979,"FineWeb2, v2.1.0",6,2014,2024,DATA/cut_Latn
+cao,cao_Latn,Latn,Chácobo,86,689602,"FineWeb2, v2.1.0",5,2014,2024,DATA/cao_Latn
+mav,mav_Latn,Latn,Sateré-Mawé,101,685296,"FineWeb2, v2.1.0",8,2014,2024,DATA/mav_Latn
+mwp,mwp_Latn,Latn,Kala Lagaw Ya,69,683774,"FineWeb2, v2.1.0",6,2014,2024,DATA/mwp_Latn
+bzi,bzi_Thai,Thai,Bisu,243,679704,"FineWeb2, v2.1.0",9,2014,2024,DATA/bzi_Thai
+und,und_Khmr,Khmr,Undetermined,604,674997,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Khmr
+cpc,cpc_Latn,Latn,Ajyíninka Apurucayali,90,673792,"FineWeb2, v2.1.0",7,2014,2024,DATA/cpc_Latn
+cbr,cbr_Latn,Latn,Cashibo-Cacataibo,96,672319,"FineWeb2, v2.1.0",7,2013,2023,DATA/cbr_Latn
+mbs,mbs_Latn,Latn,Sarangani Manobo,82,669719,"FineWeb2, v2.1.0",5,2017,2022,DATA/mbs_Latn
+mas,mas_Latn,Latn,Masai,134,669115,"FineWeb2, v2.1.0",10,2014,2024,DATA/mas_Latn
+cto,cto_Latn,Latn,Emberá-Catío,112,665472,"FineWeb2, v2.1.0",4,2017,2021,DATA/cto_Latn
+kgp,kgp_Latn,Latn,Kaingang,143,661813,"FineWeb2, v2.1.0",11,2013,2023,DATA/kgp_Latn
+crk,crk_Latn,Latn,Plains Cree,225,661305,"FineWeb2, v2.1.0",9,2013,2024,DATA/crk_Latn
+qvc,qvc_Latn,Latn,Cajamarca Quechua,104,657829,"FineWeb2, v2.1.0",7,2013,2024,DATA/qvc_Latn
+bco,bco_Latn,Latn,Kaluli,80,647479,"FineWeb2, v2.1.0",5,2018,2024,DATA/bco_Latn
+zos,zos_Latn,Latn,Francisco León Zoque,106,644809,"FineWeb2, v2.1.0",6,2014,2022,DATA/zos_Latn
+faa,faa_Latn,Latn,Fasu,87,644244,"FineWeb2, v2.1.0",6,2013,2024,DATA/faa_Latn
+kdi,kdi_Latn,Latn,Kumam,89,644218,"FineWeb2, v2.1.0",5,2014,2022,DATA/kdi_Latn
+cwe,cwe_Latn,Latn,Kwere,74,643845,"FineWeb2, v2.1.0",7,2017,2023,DATA/cwe_Latn
+kne,kne_Latn,Latn,Kankanaey,113,643780,"FineWeb2, v2.1.0",8,2015,2023,DATA/kne_Latn
+cbi,cbi_Latn,Latn,Chachi,138,642186,"FineWeb2, v2.1.0",10,2013,2023,DATA/cbi_Latn
+tew,tew_Latn,Latn,Tewa (USA),104,640562,"FineWeb2, v2.1.0",7,2018,2024,DATA/tew_Latn
+bvd,bvd_Latn,Latn,Baeggu,79,624742,"FineWeb2, v2.1.0",3,2017,2024,DATA/bvd_Latn
+lmp,lmp_Latn,Latn,Limbum,103,624738,"FineWeb2, v2.1.0",4,2017,2023,DATA/lmp_Latn
+mqj,mqj_Latn,Latn,Mamasa,171,623183,"FineWeb2, v2.1.0",9,2014,2023,DATA/mqj_Latn
+tgo,tgo_Latn,Latn,Sudest,79,620390,"FineWeb2, v2.1.0",5,2019,2023,DATA/tgo_Latn
+kgf,kgf_Latn,Latn,Kube,88,619953,"FineWeb2, v2.1.0",5,2017,2024,DATA/kgf_Latn
+bno,bno_Latn,Latn,Bantoanon,109,619429,"FineWeb2, v2.1.0",10,2013,2024,DATA/bno_Latn
+caq,caq_Latn,Latn,Car Nicobarese,92,613173,"FineWeb2, v2.1.0",2,2017,2018,DATA/caq_Latn
+hrx,hrx_Latn,Latn,Hunsrik,127,611452,"FineWeb2, v2.1.0",8,2017,2024,DATA/hrx_Latn
+cot,cot_Latn,Latn,Caquinte,89,608607,"FineWeb2, v2.1.0",6,2014,2024,DATA/cot_Latn
+xed,xed_Latn,Latn,Hdi,86,602581,"FineWeb2, v2.1.0",3,2017,2022,DATA/xed_Latn
+nif,nif_Latn,Latn,Nek,85,601513,"FineWeb2, v2.1.0",3,2018,2023,DATA/nif_Latn
+trp,trp_Latn,Latn,Kok Borok,198,596483,"FineWeb2, v2.1.0",8,2017,2024,DATA/trp_Latn
+ncu,ncu_Latn,Latn,Chumburung,89,596054,"FineWeb2, v2.1.0",6,2013,2023,DATA/ncu_Latn
+nss,nss_Latn,Latn,Nali,84,589638,"FineWeb2, v2.1.0",5,2013,2023,DATA/nss_Latn
+vid,vid_Latn,Latn,Vidunda,73,584228,"FineWeb2, v2.1.0",7,2017,2023,DATA/vid_Latn
+cjv,cjv_Latn,Latn,Chuave,68,584032,"FineWeb2, v2.1.0",5,2017,2022,DATA/cjv_Latn
+cof,cof_Latn,Latn,Colorado,82,583826,"FineWeb2, v2.1.0",9,2013,2023,DATA/cof_Latn
+pot,pot_Latn,Latn,Potawatomi,107,580010,"FineWeb2, v2.1.0",7,2013,2023,DATA/pot_Latn
+gah,gah_Latn,Latn,Alekano,82,577938,"FineWeb2, v2.1.0",3,2018,2023,DATA/gah_Latn
+mnk,mnk_Latn,Latn,Mandinka,145,576748,"FineWeb2, v2.1.0",10,2013,2023,DATA/mnk_Latn
+sgw,sgw_Ethi,Ethi,Sebat Bet Gurage,381,569339,"FineWeb2, v2.1.0",10,2013,2024,DATA/sgw_Ethi
+xtd,xtd_Latn,Latn,Diuxi-Tilantongo Mixtec,99,565291,"FineWeb2, v2.1.0",8,2013,2023,DATA/xtd_Latn
+hns,hns_Latn,Latn,Caribbean Hindustani,164,562877,"FineWeb2, v2.1.0",10,2014,2024,DATA/hns_Latn
+bkq,bkq_Latn,Latn,Bakairí,105,560613,"FineWeb2, v2.1.0",6,2014,2021,DATA/bkq_Latn
+tuk,tuk_Arab,Arab,Turkmen,151,557359,"FineWeb2, v2.1.0",9,2016,2024,DATA/tuk_Arab
+urt,urt_Latn,Latn,Urat,75,555488,"FineWeb2, v2.1.0",3,2018,2021,DATA/urt_Latn
+aba,aba_Latn,Latn,Abé,754,554255,"FineWeb2, v2.1.0",3,2017,2019,DATA/aba_Latn
+sxn,sxn_Latn,Latn,Sangir,115,552912,"FineWeb2, v2.1.0",8,2014,2024,DATA/sxn_Latn
+lbj,lbj_Tibt,Tibt,Ladakhi,136,549472,"FineWeb2, v2.1.0",4,2020,2023,DATA/lbj_Tibt
+cbt,cbt_Latn,Latn,Chayahuita,89,548916,"FineWeb2, v2.1.0",7,2013,2023,DATA/cbt_Latn
+dhm,dhm_Latn,Latn,Zemba,86,541111,"FineWeb2, v2.1.0",4,2014,2019,DATA/dhm_Latn
+kvg,kvg_Latn,Latn,Kuni-Boazi,115,536204,"FineWeb2, v2.1.0",5,2019,2024,DATA/kvg_Latn
+bhg,bhg_Latn,Latn,Binandere,90,535269,"FineWeb2, v2.1.0",5,2013,2023,DATA/bhg_Latn
+zab,zab_Latn,Latn,Western Tlacolula Valley Zapotec,106,533719,"FineWeb2, v2.1.0",9,2013,2023,DATA/zab_Latn
+adz,adz_Latn,Latn,Adzera,88,530240,"FineWeb2, v2.1.0",7,2017,2024,DATA/adz_Latn
+etr,etr_Latn,Latn,Edolo,89,529913,"FineWeb2, v2.1.0",6,2017,2022,DATA/etr_Latn
+blw,blw_Latn,Latn,Balangao,88,528751,"FineWeb2, v2.1.0",7,2017,2024,DATA/blw_Latn
+tkl,tkl_Latn,Latn,Tokelau,116,527510,"FineWeb2, v2.1.0",9,2013,2024,DATA/tkl_Latn
+ogo,ogo_Latn,Latn,Khana,197,519141,"FineWeb2, v2.1.0",8,2013,2023,DATA/ogo_Latn
+crm,crm_Cans,Cans,Moose Cree,259,519080,"FineWeb2, v2.1.0",8,2013,2024,DATA/crm_Cans
+mbc,mbc_Latn,Latn,Macushi,112,518698,"FineWeb2, v2.1.0",6,2014,2022,DATA/mbc_Latn
+too,too_Latn,Latn,Xicotepec De Juárez Totonac,88,516419,"FineWeb2, v2.1.0",5,2014,2023,DATA/too_Latn
+msk,msk_Latn,Latn,Mansaka,63,516308,"FineWeb2, v2.1.0",6,2017,2024,DATA/msk_Latn
+cgc,cgc_Latn,Latn,Kagayanen,109,515010,"FineWeb2, v2.1.0",9,2013,2024,DATA/cgc_Latn
+und,und_Cher,Cher,Undetermined,1550,514163,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Cher
+cek,cek_Latn,Latn,Eastern Khumi Chin,159,514065,"FineWeb2, v2.1.0",8,2013,2024,DATA/cek_Latn
+kzj,kzj_Latn,Latn,UNKNOWN,195,512938,"FineWeb2, v2.1.0",10,2013,2024,DATA/kzj_Latn
+abs,abs_Latn,Latn,Ambonese Malay,117,510182,"FineWeb2, v2.1.0",11,2014,2024,DATA/abs_Latn
+beq,beq_Latn,Latn,Beembe,77,507426,"FineWeb2, v2.1.0",4,2017,2022,DATA/beq_Latn
+kkl,kkl_Latn,Latn,Kosarek Yale,76,504399,"FineWeb2, v2.1.0",4,2020,2023,DATA/kkl_Latn
+sxb,sxb_Latn,Latn,Suba,82,502170,"FineWeb2, v2.1.0",7,2017,2024,DATA/sxb_Latn
+prg,prg_Latn,Latn,Prussian,233,492865,"FineWeb2, v2.1.0",10,2013,2024,DATA/prg_Latn
+rgu,rgu_Latn,Latn,Ringgou,79,492345,"FineWeb2, v2.1.0",4,2019,2023,DATA/rgu_Latn
+nlg,nlg_Latn,Latn,Gela,97,491355,"FineWeb2, v2.1.0",7,2017,2024,DATA/nlg_Latn
+bqp,bqp_Latn,Latn,Busa,103,490971,"FineWeb2, v2.1.0",4,2017,2023,DATA/bqp_Latn
+mwn,mwn_Latn,Latn,Nyamwanga,112,488208,"FineWeb2, v2.1.0",6,2017,2024,DATA/mwn_Latn
+bsq,bsq_Latn,Latn,Bassa,153,488123,"FineWeb2, v2.1.0",7,2013,2024,DATA/bsq_Latn
+apn,apn_Latn,Latn,Apinayé,77,487675,"FineWeb2, v2.1.0",5,2014,2022,DATA/apn_Latn
+otw,otw_Latn,Latn,Ottawa,145,484047,"FineWeb2, v2.1.0",9,2013,2023,DATA/otw_Latn
+mio,mio_Latn,Latn,Pinotepa Nacional Mixtec,97,483738,"FineWeb2, v2.1.0",9,2014,2024,DATA/mio_Latn
+kvn,kvn_Latn,Latn,Border Kuna,87,481482,"FineWeb2, v2.1.0",5,2014,2022,DATA/kvn_Latn
+pem,pem_Latn,Latn,Phende,104,477640,"FineWeb2, v2.1.0",3,2014,2018,DATA/pem_Latn
+myk,myk_Latn,Latn,Mamara Senoufo,108,471816,"FineWeb2, v2.1.0",7,2013,2024,DATA/myk_Latn
+poi,poi_Latn,Latn,Highland Popoluca,95,471205,"FineWeb2, v2.1.0",7,2014,2024,DATA/poi_Latn
+zar,zar_Latn,Latn,Rincón Zapotec,97,465785,"FineWeb2, v2.1.0",5,2014,2023,DATA/zar_Latn
+tku,tku_Latn,Latn,Upper Necaxa Totonac,110,464058,"FineWeb2, v2.1.0",5,2014,2023,DATA/tku_Latn
+amx,amx_Latn,Latn,Anmatyerre,78,463058,"FineWeb2, v2.1.0",2,2021,2022,DATA/amx_Latn
+yaq,yaq_Latn,Latn,Yaqui,69,462926,"FineWeb2, v2.1.0",5,2014,2023,DATA/yaq_Latn
+qxo,qxo_Latn,Latn,Southern Conchucos Ancash Quechua,122,458966,"FineWeb2, v2.1.0",9,2013,2023,DATA/qxo_Latn
+tod,tod_Latn,Latn,Toma,97,458590,"FineWeb2, v2.1.0",6,2017,2023,DATA/tod_Latn
+csw,csw_Latn,Latn,Swampy Cree,272,457351,"FineWeb2, v2.1.0",11,2013,2024,DATA/csw_Latn
+tmd,tmd_Latn,Latn,Haruai,81,452096,"FineWeb2, v2.1.0",3,2021,2023,DATA/tmd_Latn
+apw,apw_Latn,Latn,Western Apache,105,448056,"FineWeb2, v2.1.0",7,2014,2024,DATA/apw_Latn
+pib,pib_Latn,Latn,Yine,79,447119,"FineWeb2, v2.1.0",6,2014,2023,DATA/pib_Latn
+rej,rej_Latn,Latn,Rejang,98,446823,"FineWeb2, v2.1.0",9,2013,2022,DATA/rej_Latn
+cpb,cpb_Latn,Latn,Ucayali-Yurúa Ashéninka,91,443401,"FineWeb2, v2.1.0",6,2014,2022,DATA/cpb_Latn
+ttc,ttc_Latn,Latn,Tektiteko,95,441137,"FineWeb2, v2.1.0",6,2014,2024,DATA/ttc_Latn
+und,und_Goth,Goth,Undetermined,349,440719,"FineWeb2, v2.1.0",12,2013,2024,DATA/und_Goth
+zaa,zaa_Latn,Latn,Sierra de Juárez Zapotec,98,440054,"FineWeb2, v2.1.0",6,2014,2024,DATA/zaa_Latn
+dga,dga_Latn,Latn,Southern Dagaare,212,439960,"FineWeb2, v2.1.0",9,2013,2024,DATA/dga_Latn
+kdc,kdc_Latn,Latn,Kutu,78,435818,"FineWeb2, v2.1.0",7,2018,2024,DATA/kdc_Latn
+syb,syb_Latn,Latn,Central Subanen,83,435762,"FineWeb2, v2.1.0",6,2017,2024,DATA/syb_Latn
+abz,abz_Latn,Latn,Abui,91,435537,"FineWeb2, v2.1.0",6,2014,2022,DATA/abz_Latn
+tna,tna_Latn,Latn,Tacana,91,433569,"FineWeb2, v2.1.0",5,2017,2022,DATA/tna_Latn
+boa,boa_Latn,Latn,Bora,94,433480,"FineWeb2, v2.1.0",8,2013,2023,DATA/boa_Latn
+ruf,ruf_Latn,Latn,Luguru,73,433414,"FineWeb2, v2.1.0",7,2017,2023,DATA/ruf_Latn
+amk,amk_Latn,Latn,Ambai,79,432954,"FineWeb2, v2.1.0",6,2017,2023,DATA/amk_Latn
+bzd,bzd_Latn,Latn,Bribri,158,432057,"FineWeb2, v2.1.0",8,2013,2022,DATA/bzd_Latn
+daa,daa_Latn,Latn,Dangaléat,102,431847,"FineWeb2, v2.1.0",6,2014,2023,DATA/daa_Latn
+mer,mer_Latn,Latn,Meru,100,431782,"FineWeb2, v2.1.0",9,2013,2024,DATA/mer_Latn
+atg,atg_Latn,Latn,Ivbie North-Okpela-Arhe,99,429844,"FineWeb2, v2.1.0",7,2014,2022,DATA/atg_Latn
+mgh,mgh_Latn,Latn,Makhuwa-Meetto,134,426363,"FineWeb2, v2.1.0",5,2018,2024,DATA/mgh_Latn
+kpe,kpe_Latn,Latn,Kpelle,166,425518,"FineWeb2, v2.1.0",9,2013,2024,DATA/kpe_Latn
+nnq,nnq_Latn,Latn,Ngindo,85,425243,"FineWeb2, v2.1.0",6,2018,2024,DATA/nnq_Latn
+kbq,kbq_Latn,Latn,Kamano,90,425015,"FineWeb2, v2.1.0",4,2018,2023,DATA/kbq_Latn
+ssx,ssx_Latn,Latn,Samberigi,73,424203,"FineWeb2, v2.1.0",4,2017,2023,DATA/ssx_Latn
+nuj,nuj_Latn,Latn,Nyole,93,424012,"FineWeb2, v2.1.0",7,2018,2024,DATA/nuj_Latn
+nin,nin_Latn,Latn,Ninzo,121,422906,"FineWeb2, v2.1.0",7,2014,2023,DATA/nin_Latn
+tav,tav_Latn,Latn,Tatuyo,103,422784,"FineWeb2, v2.1.0",4,2019,2024,DATA/tav_Latn
+mih,mih_Latn,Latn,Chayuco Mixtec,86,421340,"FineWeb2, v2.1.0",5,2014,2024,DATA/mih_Latn
+kdl,kdl_Latn,Latn,Tsikimba,92,420886,"FineWeb2, v2.1.0",5,2014,2022,DATA/kdl_Latn
+mir,mir_Latn,Latn,Isthmus Mixe,95,419240,"FineWeb2, v2.1.0",5,2013,2023,DATA/mir_Latn
+nus,nus_Latn,Latn,Nuer,164,418589,"FineWeb2, v2.1.0",10,2013,2024,DATA/nus_Latn
+guk,guk_Ethi,Ethi,Gumuz,246,417548,"FineWeb2, v2.1.0",3,2013,2019,DATA/guk_Ethi
+tcs,tcs_Latn,Latn,Torres Strait Creole,96,416963,"FineWeb2, v2.1.0",8,2017,2024,DATA/tcs_Latn
+msb,msb_Latn,Latn,Masbatenyo,140,413747,"FineWeb2, v2.1.0",7,2017,2023,DATA/msb_Latn
+tsw,tsw_Latn,Latn,Tsishingini,96,413278,"FineWeb2, v2.1.0",6,2014,2024,DATA/tsw_Latn
+eri,eri_Latn,Latn,Ogea,90,411323,"FineWeb2, v2.1.0",4,2018,2023,DATA/eri_Latn
+swb,swb_Latn,Latn,Maore Comorian,112,408914,"FineWeb2, v2.1.0",6,2016,2021,DATA/swb_Latn
+liv,liv_Latn,Latn,Liv,257,407610,"FineWeb2, v2.1.0",9,2013,2024,DATA/liv_Latn
+ted,ted_Latn,Latn,Tepo Krumen,93,406968,"FineWeb2, v2.1.0",4,2017,2022,DATA/ted_Latn
+zas,zas_Latn,Latn,Santo Domingo Albarradas Zapotec,92,406669,"FineWeb2, v2.1.0",6,2013,2023,DATA/zas_Latn
+nfa,nfa_Latn,Latn,Dhao,95,404127,"FineWeb2, v2.1.0",5,2017,2023,DATA/nfa_Latn
+agt,agt_Latn,Latn,Central Cagayan Agta,72,403630,"FineWeb2, v2.1.0",6,2017,2023,DATA/agt_Latn
+mvn,mvn_Latn,Latn,Minaveha,72,403366,"FineWeb2, v2.1.0",4,2019,2023,DATA/mvn_Latn
+zgh,zgh_Tfng,Tfng,Standard Moroccan Tamazight,165,403045,"FineWeb2, v2.1.0",8,2017,2024,DATA/zgh_Tfng
+pwn,pwn_Latn,Latn,Paiwan,2284,401913,"FineWeb2, v2.1.0",7,2018,2024,DATA/pwn_Latn
+wmw,wmw_Latn,Latn,Mwani,109,401550,"FineWeb2, v2.1.0",8,2013,2023,DATA/wmw_Latn
+izz,izz_Latn,Latn,Izii,106,401096,"FineWeb2, v2.1.0",4,2018,2022,DATA/izz_Latn
+not,not_Latn,Latn,Nomatsiguenga,93,397311,"FineWeb2, v2.1.0",6,2013,2022,DATA/not_Latn
+huu,huu_Latn,Latn,Murui Huitoto,117,397004,"FineWeb2, v2.1.0",10,2013,2024,DATA/huu_Latn
+nbu,nbu_Latn,Latn,Rongmei Naga,86,395523,"FineWeb2, v2.1.0",6,2019,2024,DATA/nbu_Latn
+anv,anv_Latn,Latn,Denya,92,393561,"FineWeb2, v2.1.0",7,2013,2024,DATA/anv_Latn
+azz,azz_Latn,Latn,Highland Puebla Nahuatl,81,393143,"FineWeb2, v2.1.0",4,2013,2019,DATA/azz_Latn
+for,for_Latn,Latn,Fore,53,393054,"FineWeb2, v2.1.0",6,2019,2024,DATA/for_Latn
+mwc,mwc_Latn,Latn,Are,86,392056,"FineWeb2, v2.1.0",5,2018,2023,DATA/mwc_Latn
+nko,nko_Latn,Latn,Nkonya,112,391377,"FineWeb2, v2.1.0",6,2014,2024,DATA/nko_Latn
+upv,upv_Latn,Latn,Uripiv-Wala-Rano-Atchin,74,391075,"FineWeb2, v2.1.0",7,2014,2024,DATA/upv_Latn
+lwo,lwo_Latn,Latn,Luwo,82,390889,"FineWeb2, v2.1.0",5,2013,2024,DATA/lwo_Latn
+bkd,bkd_Latn,Latn,Binukid,76,390287,"FineWeb2, v2.1.0",8,2016,2024,DATA/bkd_Latn
+mlh,mlh_Latn,Latn,Mape,88,386745,"FineWeb2, v2.1.0",4,2018,2023,DATA/mlh_Latn
+moh,moh_Latn,Latn,Mohawk,225,382371,"FineWeb2, v2.1.0",7,2013,2023,DATA/moh_Latn
+kgk,kgk_Latn,Latn,Kaiwá,106,381003,"FineWeb2, v2.1.0",5,2016,2022,DATA/kgk_Latn
+gvn,gvn_Latn,Latn,Kuku-Yalanji,84,380027,"FineWeb2, v2.1.0",6,2015,2024,DATA/gvn_Latn
+auc,auc_Latn,Latn,Waorani,89,379375,"FineWeb2, v2.1.0",4,2014,2022,DATA/auc_Latn
+mni,mni_Mtei,Mtei,Manipuri,365,376576,"FineWeb2, v2.1.0",6,2019,2024,DATA/mni_Mtei
+luc,luc_Latn,Latn,Aringa,118,375585,"FineWeb2, v2.1.0",4,2021,2024,DATA/luc_Latn
+wed,wed_Latn,Latn,Wedau,102,372719,"FineWeb2, v2.1.0",6,2015,2023,DATA/wed_Latn
+prf,prf_Latn,Latn,Paranan,102,370989,"FineWeb2, v2.1.0",6,2014,2023,DATA/prf_Latn
+hae,hae_Latn,Latn,Eastern Oromo,386,369179,"FineWeb2, v2.1.0",11,2013,2023,DATA/hae_Latn
+mit,mit_Latn,Latn,Southern Puebla Mixtec,105,368952,"FineWeb2, v2.1.0",7,2013,2024,DATA/mit_Latn
+sey,sey_Latn,Latn,Secoya,93,366479,"FineWeb2, v2.1.0",4,2017,2022,DATA/sey_Latn
+ttj,ttj_Latn,Latn,Tooro,105,364640,"FineWeb2, v2.1.0",10,2013,2024,DATA/ttj_Latn
+ake,ake_Latn,Latn,Akawaio,79,362346,"FineWeb2, v2.1.0",4,2013,2019,DATA/ake_Latn
+ati,ati_Latn,Latn,Attié,117,362040,"FineWeb2, v2.1.0",5,2017,2021,DATA/ati_Latn
+stp,stp_Latn,Latn,Southeastern Tepehuan,90,361807,"FineWeb2, v2.1.0",7,2013,2023,DATA/stp_Latn
+amf,amf_Latn,Latn,Hamer-Banna,83,360806,"FineWeb2, v2.1.0",6,2017,2024,DATA/amf_Latn
+spm,spm_Latn,Latn,Akukem,72,358047,"FineWeb2, v2.1.0",3,2019,2023,DATA/spm_Latn
+zpm,zpm_Latn,Latn,Mixtepec Zapotec,99,357481,"FineWeb2, v2.1.0",5,2014,2024,DATA/zpm_Latn
+wls,wls_Latn,Latn,Wallisian,162,357020,"FineWeb2, v2.1.0",9,2013,2024,DATA/wls_Latn
+sil,sil_Latn,Latn,Tumulung Sisaala,90,356190,"FineWeb2, v2.1.0",7,2013,2024,DATA/sil_Latn
+huv,huv_Latn,Latn,San Mateo Del Mar Huave,111,354255,"FineWeb2, v2.1.0",9,2013,2022,DATA/huv_Latn
+kck,kck_Latn,Latn,Kalanga,119,352420,"FineWeb2, v2.1.0",10,2013,2024,DATA/kck_Latn
+hnn,hnn_Latn,Latn,Hanunoo,213,350591,"FineWeb2, v2.1.0",6,2013,2022,DATA/hnn_Latn
+awx,awx_Latn,Latn,Awara,87,348993,"FineWeb2, v2.1.0",6,2017,2023,DATA/awx_Latn
+soy,soy_Latn,Latn,Miyobe,86,348979,"FineWeb2, v2.1.0",3,2017,2020,DATA/soy_Latn
+arp,arp_Latn,Latn,Arapaho,80,344947,"FineWeb2, v2.1.0",7,2015,2022,DATA/arp_Latn
+abn,abn_Latn,Latn,Abua,117,344853,"FineWeb2, v2.1.0",5,2017,2023,DATA/abn_Latn
+gdg,gdg_Latn,Latn,Ga'dang,88,344526,"FineWeb2, v2.1.0",6,2017,2024,DATA/gdg_Latn
+ota,ota_Arab,Arab,Ottoman Turkish (1500-1928),205,343880,"FineWeb2, v2.1.0",10,2013,2024,DATA/ota_Arab
+lif,lif_Limb,Limb,Limbu,130,343067,"FineWeb2, v2.1.0",6,2013,2023,DATA/lif_Limb
+clu,clu_Latn,Latn,Caluyanun,100,341665,"FineWeb2, v2.1.0",7,2016,2023,DATA/clu_Latn
+yva,yva_Latn,Latn,Yawa,79,339990,"FineWeb2, v2.1.0",5,2014,2021,DATA/yva_Latn
+ajg,ajg_Latn,Latn,Aja (Benin),146,339937,"FineWeb2, v2.1.0",8,2013,2024,DATA/ajg_Latn
+ifu,ifu_Latn,Latn,Mayoyao Ifugao,83,339203,"FineWeb2, v2.1.0",4,2013,2024,DATA/ifu_Latn
+trq,trq_Latn,Latn,San Martín Itunyoso Triqui,90,337676,"FineWeb2, v2.1.0",3,2017,2024,DATA/trq_Latn
+tue,tue_Latn,Latn,Tuyuca,113,337176,"FineWeb2, v2.1.0",5,2013,2021,DATA/tue_Latn
+gmv,gmv_Ethi,Ethi,Gamo,210,333212,"FineWeb2, v2.1.0",5,2014,2022,DATA/gmv_Ethi
+gwi,gwi_Latn,Latn,Gwichʼin,166,331971,"FineWeb2, v2.1.0",8,2013,2023,DATA/gwi_Latn
+tuf,tuf_Latn,Latn,Central Tunebo,97,331496,"FineWeb2, v2.1.0",7,2013,2024,DATA/tuf_Latn
+mbj,mbj_Latn,Latn,Nadëb,169,328158,"FineWeb2, v2.1.0",4,2014,2021,DATA/mbj_Latn
+xnn,xnn_Latn,Latn,Northern Kankanay,78,327923,"FineWeb2, v2.1.0",7,2017,2024,DATA/xnn_Latn
+zpt,zpt_Latn,Latn,San Vicente Coatlán Zapotec,88,326562,"FineWeb2, v2.1.0",5,2019,2024,DATA/zpt_Latn
+zao,zao_Latn,Latn,Ozolotepec Zapotec,96,325887,"FineWeb2, v2.1.0",8,2013,2024,DATA/zao_Latn
+kaq,kaq_Latn,Latn,Capanahua,80,324537,"FineWeb2, v2.1.0",5,2014,2024,DATA/kaq_Latn
+dng,dng_Cyrl,Cyrl,Dungan,298,321692,"FineWeb2, v2.1.0",7,2017,2023,DATA/dng_Cyrl
+muy,muy_Latn,Latn,Muyang,107,320927,"FineWeb2, v2.1.0",6,2017,2022,DATA/muy_Latn
+cub,cub_Latn,Latn,Cubeo,112,320210,"FineWeb2, v2.1.0",6,2014,2023,DATA/cub_Latn
+tar,tar_Latn,Latn,Central Tarahumara,109,318386,"FineWeb2, v2.1.0",6,2014,2022,DATA/tar_Latn
+nrf,nrf_Latn,Latn,Jèrriais,558,318208,"FineWeb2, v2.1.0",7,2016,2022,DATA/nrf_Latn
+mjc,mjc_Latn,Latn,San Juan Colorado Mixtec,94,317322,"FineWeb2, v2.1.0",5,2014,2023,DATA/mjc_Latn
+yka,yka_Latn,Latn,Yakan,197,315637,"FineWeb2, v2.1.0",7,2013,2024,DATA/yka_Latn
+cnl,cnl_Latn,Latn,Lalana Chinantec,101,315239,"FineWeb2, v2.1.0",6,2013,2022,DATA/cnl_Latn
+czt,czt_Latn,Latn,Zotung Chin,179,314773,"FineWeb2, v2.1.0",9,2014,2024,DATA/czt_Latn
+taq,taq_Tfng,Tfng,Tamasheq,147,314583,"FineWeb2, v2.1.0",8,2017,2024,DATA/taq_Tfng
+aer,aer_Latn,Latn,Eastern Arrernte,80,313279,"FineWeb2, v2.1.0",5,2018,2024,DATA/aer_Latn
+ycn,ycn_Latn,Latn,Yucuna,95,310111,"FineWeb2, v2.1.0",7,2013,2024,DATA/ycn_Latn
+atd,atd_Latn,Latn,Ata Manobo,77,310107,"FineWeb2, v2.1.0",6,2017,2024,DATA/atd_Latn
+daf,daf_Latn,Latn,UNKNOWN,118,308085,"FineWeb2, v2.1.0",3,2017,2023,DATA/daf_Latn
+mie,mie_Latn,Latn,Ocotepec Mixtec,83,306887,"FineWeb2, v2.1.0",6,2013,2022,DATA/mie_Latn
+bla,bla_Latn,Latn,Siksika,96,306809,"FineWeb2, v2.1.0",5,2017,2023,DATA/bla_Latn
+chq,chq_Latn,Latn,Quiotepec Chinantec,110,306719,"FineWeb2, v2.1.0",7,2013,2022,DATA/chq_Latn
+nnw,nnw_Latn,Latn,Southern Nuni,111,303738,"FineWeb2, v2.1.0",6,2013,2023,DATA/nnw_Latn
+myu,myu_Latn,Latn,Mundurukú,103,302294,"FineWeb2, v2.1.0",6,2014,2023,DATA/myu_Latn
+kqe,kqe_Latn,Latn,Kalagan,122,302107,"FineWeb2, v2.1.0",4,2017,2022,DATA/kqe_Latn
+ish,ish_Latn,Latn,Esan,90,301702,"FineWeb2, v2.1.0",3,2018,2022,DATA/ish_Latn
+miy,miy_Latn,Latn,Ayutla Mixtec,94,301371,"FineWeb2, v2.1.0",5,2019,2023,DATA/miy_Latn
+sda,sda_Latn,Latn,Toraja-Sa'dan,82,299687,"FineWeb2, v2.1.0",10,2013,2023,DATA/sda_Latn
+btd,btd_Latn,Latn,Batak Dairi,96,299260,"FineWeb2, v2.1.0",9,2013,2023,DATA/btd_Latn
+pio,pio_Latn,Latn,Piapoco,88,297434,"FineWeb2, v2.1.0",6,2014,2022,DATA/pio_Latn
+mza,mza_Latn,Latn,Santa María Zacatepec Mixtec,103,295694,"FineWeb2, v2.1.0",6,2015,2024,DATA/mza_Latn
+ots,ots_Latn,Latn,Estado de México Otomi,639,292522,"FineWeb2, v2.1.0",7,2013,2023,DATA/ots_Latn
+yaa,yaa_Latn,Latn,Yaminahua,93,292248,"FineWeb2, v2.1.0",5,2014,2023,DATA/yaa_Latn
+bps,bps_Latn,Latn,Sarangani Blaan,101,289965,"FineWeb2, v2.1.0",9,2013,2023,DATA/bps_Latn
+lcp,lcp_Thai,Thai,Western Lawa,200,287891,"FineWeb2, v2.1.0",6,2018,2023,DATA/lcp_Thai
+ikk,ikk_Latn,Latn,Ika,98,287707,"FineWeb2, v2.1.0",4,2019,2023,DATA/ikk_Latn
+rml,rml_Latn,Latn,Baltic Romani,150,287515,"FineWeb2, v2.1.0",6,2016,2023,DATA/rml_Latn
+ndh,ndh_Latn,Latn,Ndali,82,286826,"FineWeb2, v2.1.0",6,2017,2023,DATA/ndh_Latn
+ewo,ewo_Latn,Latn,Ewondo,178,285122,"FineWeb2, v2.1.0",9,2013,2024,DATA/ewo_Latn
+cag,cag_Latn,Latn,Nivaclé,151,284926,"FineWeb2, v2.1.0",5,2017,2021,DATA/cag_Latn
+mks,mks_Latn,Latn,Silacayoapan Mixtec,79,284365,"FineWeb2, v2.1.0",5,2014,2022,DATA/mks_Latn
+jic,jic_Latn,Latn,Tol,93,282935,"FineWeb2, v2.1.0",7,2013,2024,DATA/jic_Latn
+kff,kff_Telu,Telu,Koya,103,282473,"FineWeb2, v2.1.0",2,2017,2021,DATA/kff_Telu
+nyf,nyf_Latn,Latn,Giryama,86,282386,"FineWeb2, v2.1.0",6,2013,2023,DATA/nyf_Latn
+lsi,lsi_Latn,Latn,Lashi,104,281887,"FineWeb2, v2.1.0",7,2013,2024,DATA/lsi_Latn
+bcw,bcw_Latn,Latn,Bana,89,277289,"FineWeb2, v2.1.0",4,2013,2023,DATA/bcw_Latn
+mcf,mcf_Latn,Latn,Matsés,122,276225,"FineWeb2, v2.1.0",8,2013,2023,DATA/mcf_Latn
+far,far_Latn,Latn,Fataleka,78,275415,"FineWeb2, v2.1.0",4,2018,2021,DATA/far_Latn
+mzk,mzk_Latn,Latn,Nigeria Mambila,100,274184,"FineWeb2, v2.1.0",5,2013,2019,DATA/mzk_Latn
+mpt,mpt_Latn,Latn,Mian,73,273602,"FineWeb2, v2.1.0",5,2017,2022,DATA/mpt_Latn
+knc,knc_Latn,Latn,Central Kanuri,161,268093,"FineWeb2, v2.1.0",9,2013,2024,DATA/knc_Latn
+klt,klt_Latn,Latn,Nukna,89,264673,"FineWeb2, v2.1.0",8,2013,2023,DATA/klt_Latn
+loq,loq_Latn,Latn,Lobala,93,264358,"FineWeb2, v2.1.0",3,2020,2023,DATA/loq_Latn
+kqf,kqf_Latn,Latn,Kakabai,91,264155,"FineWeb2, v2.1.0",6,2017,2023,DATA/kqf_Latn
+yad,yad_Latn,Latn,Yagua,83,263146,"FineWeb2, v2.1.0",6,2013,2023,DATA/yad_Latn
+ign,ign_Latn,Latn,Ignaciano,99,261455,"FineWeb2, v2.1.0",8,2013,2023,DATA/ign_Latn
+ann,ann_Latn,Latn,Obolo,222,261097,"FineWeb2, v2.1.0",9,2013,2024,DATA/ann_Latn
+cux,cux_Latn,Latn,Tepeuxila Cuicatec,99,259921,"FineWeb2, v2.1.0",4,2014,2019,DATA/cux_Latn
+hix,hix_Latn,Latn,Hixkaryána,73,259890,"FineWeb2, v2.1.0",8,2014,2022,DATA/hix_Latn
+zam,zam_Latn,Latn,Miahuatlán Zapotec,90,257847,"FineWeb2, v2.1.0",6,2013,2021,DATA/zam_Latn
+gyr,gyr_Latn,Latn,Guarayu,109,257362,"FineWeb2, v2.1.0",9,2013,2024,DATA/gyr_Latn
+wmt,wmt_Latn,Latn,Walmajarri,54,255678,"FineWeb2, v2.1.0",4,2017,2021,DATA/wmt_Latn
+aui,aui_Latn,Latn,Anuki,87,254637,"FineWeb2, v2.1.0",7,2014,2023,DATA/aui_Latn
+oke,oke_Latn,Latn,Okpe (Southwestern Edo),98,254012,"FineWeb2, v2.1.0",3,2017,2021,DATA/oke_Latn
+miz,miz_Latn,Latn,Coatzospan Mixtec,106,253645,"FineWeb2, v2.1.0",4,2013,2022,DATA/miz_Latn
+cpu,cpu_Latn,Latn,Pichis Ashéninka,93,251515,"FineWeb2, v2.1.0",6,2013,2021,DATA/cpu_Latn
+ngp,ngp_Latn,Latn,Ngulu,69,250192,"FineWeb2, v2.1.0",5,2018,2022,DATA/ngp_Latn
+con,con_Latn,Latn,Cofán,93,249831,"FineWeb2, v2.1.0",7,2013,2021,DATA/con_Latn
+lbk,lbk_Latn,Latn,Central Bontok,90,247405,"FineWeb2, v2.1.0",9,2013,2023,DATA/lbk_Latn
+bwd,bwd_Latn,Latn,Bwaidoka,67,243569,"FineWeb2, v2.1.0",3,2017,2023,DATA/bwd_Latn
+idu,idu_Latn,Latn,Idoma,128,242851,"FineWeb2, v2.1.0",6,2019,2024,DATA/idu_Latn
+suc,suc_Latn,Latn,Western Subanon,106,241959,"FineWeb2, v2.1.0",5,2018,2024,DATA/suc_Latn
+ige,ige_Latn,Latn,Igede,133,241219,"FineWeb2, v2.1.0",6,2013,2022,DATA/ige_Latn
+mib,mib_Latn,Latn,Atatláhuca Mixtec,87,241067,"FineWeb2, v2.1.0",6,2014,2022,DATA/mib_Latn
+mhw,mhw_Latn,Latn,Mbukushu,133,239831,"FineWeb2, v2.1.0",2,2018,2019,DATA/mhw_Latn
+got,got_Goth,Goth,Gothic,276,237463,"FineWeb2, v2.1.0",12,2013,2024,DATA/got_Goth
+mbf,mbf_Latn,Latn,Baba Malay,121,234500,"FineWeb2, v2.1.0",10,2013,2023,DATA/mbf_Latn
+nsu,nsu_Latn,Latn,Sierra Negra Nahuatl,97,233853,"FineWeb2, v2.1.0",7,2013,2024,DATA/nsu_Latn
+mig,mig_Latn,Latn,San Miguel El Grande Mixtec,80,229552,"FineWeb2, v2.1.0",4,2019,2022,DATA/mig_Latn
+lew,lew_Latn,Latn,Ledo Kaili,84,228830,"FineWeb2, v2.1.0",8,2017,2024,DATA/lew_Latn
+pbb,pbb_Latn,Latn,Páez,134,227125,"FineWeb2, v2.1.0",8,2013,2024,DATA/pbb_Latn
+yan,yan_Latn,Latn,Mayangna,121,226567,"FineWeb2, v2.1.0",10,2013,2023,DATA/yan_Latn
+whk,whk_Latn,Latn,Wahau Kenyah,86,226147,"FineWeb2, v2.1.0",4,2016,2019,DATA/whk_Latn
+wap,wap_Latn,Latn,Wapishana,93,225766,"FineWeb2, v2.1.0",6,2014,2023,DATA/wap_Latn
+laj,laj_Latn,Latn,Lango (Uganda),90,224217,"FineWeb2, v2.1.0",10,2013,2024,DATA/laj_Latn
+leh,leh_Latn,Latn,Lenje,89,222441,"FineWeb2, v2.1.0",6,2013,2023,DATA/leh_Latn
+poy,poy_Latn,Latn,Pogolo,71,221921,"FineWeb2, v2.1.0",4,2017,2022,DATA/poy_Latn
+rmq,rmq_Latn,Latn,Caló,98,221053,"FineWeb2, v2.1.0",5,2018,2022,DATA/rmq_Latn
+njb,njb_Latn,Latn,Nocte Naga,82,219863,"FineWeb2, v2.1.0",2,2018,2019,DATA/njb_Latn
+nmo,nmo_Latn,Latn,Moyon Naga,73,217817,"FineWeb2, v2.1.0",2,2019,2021,DATA/nmo_Latn
+ibg,ibg_Latn,Latn,Ibanag,95,216297,"FineWeb2, v2.1.0",8,2013,2024,DATA/ibg_Latn
+cnw,cnw_Latn,Latn,Ngawn Chin,83,216178,"FineWeb2, v2.1.0",4,2020,2023,DATA/cnw_Latn
+zae,zae_Latn,Latn,Yareni Zapotec,98,214050,"FineWeb2, v2.1.0",4,2017,2023,DATA/zae_Latn
+bwu,bwu_Latn,Latn,Buli (Ghana),79,211819,"FineWeb2, v2.1.0",6,2013,2022,DATA/bwu_Latn
+lwg,lwg_Latn,Latn,Wanga,91,211341,"FineWeb2, v2.1.0",7,2017,2023,DATA/lwg_Latn
+bug,bug_Latn,Latn,Buginese,173,210365,"FineWeb2, v2.1.0",11,2013,2024,DATA/bug_Latn
+ebk,ebk_Latn,Latn,Eastern Bontok,87,209383,"FineWeb2, v2.1.0",4,2017,2022,DATA/ebk_Latn
+mck,mck_Latn,Latn,Mbunda,89,208791,"FineWeb2, v2.1.0",9,2013,2023,DATA/mck_Latn
+plg,plg_Latn,Latn,Pilagá,93,207519,"FineWeb2, v2.1.0",5,2013,2022,DATA/plg_Latn
+vmk,vmk_Latn,Latn,Makhuwa-Shirima,99,207384,"FineWeb2, v2.1.0",5,2013,2023,DATA/vmk_Latn
+zpo,zpo_Latn,Latn,Amatlán Zapotec,92,206816,"FineWeb2, v2.1.0",7,2013,2024,DATA/zpo_Latn
+xsu,xsu_Latn,Latn,Sanumá,96,206746,"FineWeb2, v2.1.0",4,2013,2019,DATA/xsu_Latn
+maj,maj_Latn,Latn,Jalapa De Díaz Mazatec,87,205312,"FineWeb2, v2.1.0",5,2014,2024,DATA/maj_Latn
+mvp,mvp_Latn,Latn,Duri,79,205002,"FineWeb2, v2.1.0",8,2013,2023,DATA/mvp_Latn
+wbm,wbm_Latn,Latn,Wa,90,204834,"FineWeb2, v2.1.0",6,2017,2024,DATA/wbm_Latn
+mfh,mfh_Latn,Latn,Matal,84,204212,"FineWeb2, v2.1.0",6,2013,2021,DATA/mfh_Latn
+lgl,lgl_Latn,Latn,Wala,71,200097,"FineWeb2, v2.1.0",2,2019,2023,DATA/lgl_Latn
+sdc,sdc_Latn,Latn,Sassarese Sardinian,110,199011,"FineWeb2, v2.1.0",9,2016,2024,DATA/sdc_Latn
+nhx,nhx_Latn,Latn,Isthmus-Mecayapan Nahuatl,105,197803,"FineWeb2, v2.1.0",7,2017,2024,DATA/nhx_Latn
+dje,dje_Latn,Latn,Zarma,108,197072,"FineWeb2, v2.1.0",8,2017,2024,DATA/dje_Latn
+sby,sby_Latn,Latn,Soli,105,192778,"FineWeb2, v2.1.0",5,2017,2021,DATA/sby_Latn
+ikw,ikw_Latn,Latn,Ikwere,127,191853,"FineWeb2, v2.1.0",4,2017,2023,DATA/ikw_Latn
+tob,tob_Latn,Latn,Toba,119,191813,"FineWeb2, v2.1.0",10,2013,2024,DATA/tob_Latn
+box,box_Latn,Latn,Buamu,103,191174,"FineWeb2, v2.1.0",4,2019,2022,DATA/box_Latn
+mcp,mcp_Latn,Latn,Makaa,103,190670,"FineWeb2, v2.1.0",2,2019,2020,DATA/mcp_Latn
+bwi,bwi_Latn,Latn,Baniwa,106,190456,"FineWeb2, v2.1.0",2,2016,2017,DATA/bwi_Latn
+mbd,mbd_Latn,Latn,Dibabawon Manobo,77,189157,"FineWeb2, v2.1.0",5,2017,2022,DATA/mbd_Latn
+yam,yam_Latn,Latn,Yamba,123,186117,"FineWeb2, v2.1.0",5,2013,2023,DATA/yam_Latn
+mkl,mkl_Latn,Latn,Mokole,98,185897,"FineWeb2, v2.1.0",3,2017,2019,DATA/mkl_Latn
+crk,crk_Cans,Cans,Plains Cree,237,184121,"FineWeb2, v2.1.0",9,2013,2024,DATA/crk_Cans
+fub,fub_Latn,Latn,Adamawa Fulfulde,155,183842,"FineWeb2, v2.1.0",8,2014,2023,DATA/fub_Latn
+dug,dug_Latn,Latn,Duruma,76,183468,"FineWeb2, v2.1.0",5,2013,2023,DATA/dug_Latn
+cjo,cjo_Latn,Latn,Ashéninka Pajonal,100,182680,"FineWeb2, v2.1.0",7,2014,2023,DATA/cjo_Latn
+bmk,bmk_Latn,Latn,Ghayavi,87,182477,"FineWeb2, v2.1.0",4,2017,2020,DATA/bmk_Latn
+mta,mta_Latn,Latn,Cotabato Manobo,73,182345,"FineWeb2, v2.1.0",2,2019,2022,DATA/mta_Latn
+neb,neb_Latn,Latn,Toura (Côte d'Ivoire),115,181130,"FineWeb2, v2.1.0",5,2013,2019,DATA/neb_Latn
+mzz,mzz_Latn,Latn,Maiadomu,90,180936,"FineWeb2, v2.1.0",3,2018,2020,DATA/mzz_Latn
+kmk,kmk_Latn,Latn,Limos Kalinga,83,180869,"FineWeb2, v2.1.0",3,2019,2023,DATA/kmk_Latn
+sba,sba_Latn,Latn,Ngambay,95,179644,"FineWeb2, v2.1.0",6,2014,2022,DATA/sba_Latn
+rap,rap_Latn,Latn,Rapanui,117,179506,"FineWeb2, v2.1.0",6,2017,2023,DATA/rap_Latn
+qxl,qxl_Latn,Latn,Salasaca Highland Quichua,105,178037,"FineWeb2, v2.1.0",8,2016,2024,DATA/qxl_Latn
+old,old_Latn,Latn,Mochi,81,177618,"FineWeb2, v2.1.0",4,2013,2023,DATA/old_Latn
+lip,lip_Latn,Latn,Sekpele,90,176778,"FineWeb2, v2.1.0",6,2014,2023,DATA/lip_Latn
+qul,qul_Latn,Latn,North Bolivian Quechua,108,176402,"FineWeb2, v2.1.0",6,2017,2023,DATA/qul_Latn
+bxh,bxh_Latn,Latn,Buhutu,72,174421,"FineWeb2, v2.1.0",3,2021,2023,DATA/bxh_Latn
+kxw,kxw_Latn,Latn,Konai,71,173472,"FineWeb2, v2.1.0",2,2017,2021,DATA/kxw_Latn
+kmm,kmm_Latn,Latn,Kom (India),144,173407,"FineWeb2, v2.1.0",7,2013,2024,DATA/kmm_Latn
+xtm,xtm_Latn,Latn,Magdalena Peñasco Mixtec,93,171478,"FineWeb2, v2.1.0",4,2017,2023,DATA/xtm_Latn
+myx,myx_Latn,Latn,Masaaba,89,169621,"FineWeb2, v2.1.0",7,2017,2024,DATA/myx_Latn
+crl,crl_Cans,Cans,Northern East Cree,210,167694,"FineWeb2, v2.1.0",6,2017,2023,DATA/crl_Cans
+pse,pse_Latn,Latn,Central Malay,64,167611,"FineWeb2, v2.1.0",3,2017,2019,DATA/pse_Latn
+lem,lem_Latn,Latn,Nomaande,91,166253,"FineWeb2, v2.1.0",4,2013,2022,DATA/lem_Latn
+njn,njn_Latn,Latn,Liangmai Naga,133,165607,"FineWeb2, v2.1.0",6,2019,2024,DATA/njn_Latn
+kcg,kcg_Latn,Latn,Tyap,318,165324,"FineWeb2, v2.1.0",7,2013,2024,DATA/kcg_Latn
+aoz,aoz_Latn,Latn,Uab Meto,127,165005,"FineWeb2, v2.1.0",7,2013,2020,DATA/aoz_Latn
+syl,syl_Beng,Beng,Sylheti,145,163925,"FineWeb2, v2.1.0",6,2019,2024,DATA/syl_Beng
+mfy,mfy_Latn,Latn,Mayo,116,163470,"FineWeb2, v2.1.0",6,2014,2023,DATA/mfy_Latn
+chr,chr_Cher,Cher,Cherokee,210,162333,"FineWeb2, v2.1.0",6,2013,2024,DATA/chr_Cher
+gqr,gqr_Latn,Latn,Gor,79,161907,"FineWeb2, v2.1.0",4,2017,2024,DATA/gqr_Latn
+arq,arq_Arab,Arab,Algerian Arabic,184,160766,"FineWeb2, v2.1.0",10,2013,2024,DATA/arq_Arab
+mph,mph_Latn,Latn,Maung,73,160445,"FineWeb2, v2.1.0",2,2019,2023,DATA/mph_Latn
+mim,mim_Latn,Latn,Alacatlatzala Mixtec,86,159807,"FineWeb2, v2.1.0",3,2021,2023,DATA/mim_Latn
+kjb,kjb_Latn,Latn,Q'anjob'al,104,158227,"FineWeb2, v2.1.0",9,2013,2022,DATA/kjb_Latn
+zav,zav_Latn,Latn,Yatzachi Zapotec,88,157853,"FineWeb2, v2.1.0",3,2014,2020,DATA/zav_Latn
+lai,lai_Latn,Latn,Lambya,86,156692,"FineWeb2, v2.1.0",3,2019,2022,DATA/lai_Latn
+cme,cme_Latn,Latn,Cerma,97,155011,"FineWeb2, v2.1.0",7,2013,2023,DATA/cme_Latn
+var,var_Latn,Latn,Huarijio,64,153699,"FineWeb2, v2.1.0",3,2019,2022,DATA/var_Latn
+hra,hra_Latn,Latn,Hrangkhol,79,153024,"FineWeb2, v2.1.0",3,2019,2022,DATA/hra_Latn
+vag,vag_Latn,Latn,Vagla,83,152104,"FineWeb2, v2.1.0",3,2013,2017,DATA/vag_Latn
+njm,njm_Latn,Latn,Angami Naga,94,151214,"FineWeb2, v2.1.0",7,2014,2024,DATA/njm_Latn
+pbi,pbi_Latn,Latn,Parkwa,99,151165,"FineWeb2, v2.1.0",4,2013,2024,DATA/pbi_Latn
+tke,tke_Latn,Latn,Takwane,121,150473,"FineWeb2, v2.1.0",3,2019,2022,DATA/tke_Latn
+mqy,mqy_Latn,Latn,Manggarai,89,148962,"FineWeb2, v2.1.0",7,2014,2022,DATA/mqy_Latn
+tui,tui_Latn,Latn,Tupuri,118,148619,"FineWeb2, v2.1.0",5,2014,2023,DATA/tui_Latn
+gnb,gnb_Latn,Latn,Gangte,97,148230,"FineWeb2, v2.1.0",5,2013,2023,DATA/gnb_Latn
+bav,bav_Latn,Latn,Vengo,89,147537,"FineWeb2, v2.1.0",2,2013,2017,DATA/bav_Latn
+are,are_Latn,Latn,Western Arrarnta,75,147260,"FineWeb2, v2.1.0",3,2015,2020,DATA/are_Latn
+hav,hav_Latn,Latn,Havu,87,145734,"FineWeb2, v2.1.0",3,2018,2021,DATA/hav_Latn
+ria,ria_Latn,Latn,Riang (India),98,145264,"FineWeb2, v2.1.0",5,2018,2023,DATA/ria_Latn
+kub,kub_Latn,Latn,Kutep,99,144955,"FineWeb2, v2.1.0",6,2013,2023,DATA/kub_Latn
+srq,srq_Latn,Latn,Sirionó,94,144052,"FineWeb2, v2.1.0",4,2017,2022,DATA/srq_Latn
+pkb,pkb_Latn,Latn,Pokomo,80,144041,"FineWeb2, v2.1.0",5,2013,2023,DATA/pkb_Latn
+csk,csk_Latn,Latn,Jola-Kasa,87,141108,"FineWeb2, v2.1.0",5,2013,2022,DATA/csk_Latn
+mnf,mnf_Latn,Latn,Mundani,107,140682,"FineWeb2, v2.1.0",3,2013,2017,DATA/mnf_Latn
+ons,ons_Latn,Latn,Ono,100,139921,"FineWeb2, v2.1.0",3,2019,2023,DATA/ons_Latn
+ntp,ntp_Latn,Latn,Northern Tepehuan,71,138947,"FineWeb2, v2.1.0",6,2014,2023,DATA/ntp_Latn
+dln,dln_Latn,Latn,Darlong,97,138558,"FineWeb2, v2.1.0",2,2017,2018,DATA/dln_Latn
+ain,ain_Latn,Latn,Ainu (Japan),201,138375,"FineWeb2, v2.1.0",7,2014,2024,DATA/ain_Latn
+snw,snw_Latn,Latn,Selee,70,138029,"FineWeb2, v2.1.0",3,2019,2023,DATA/snw_Latn
+taw,taw_Latn,Latn,Tai,64,136464,"FineWeb2, v2.1.0",3,2021,2023,DATA/taw_Latn
+tcc,tcc_Latn,Latn,Datooga,75,133967,"FineWeb2, v2.1.0",5,2013,2022,DATA/tcc_Latn
+tik,tik_Latn,Latn,Tikar,109,133932,"FineWeb2, v2.1.0",2,2013,2017,DATA/tik_Latn
+kri,kri_Latn,Latn,Krio,91,133751,"FineWeb2, v2.1.0",7,2014,2024,DATA/kri_Latn
+pmf,pmf_Latn,Latn,Pamona,83,132836,"FineWeb2, v2.1.0",7,2013,2024,DATA/pmf_Latn
+cul,cul_Latn,Latn,Culina,69,132486,"FineWeb2, v2.1.0",2,2019,2022,DATA/cul_Latn
+jmc,jmc_Latn,Latn,Machame,77,131735,"FineWeb2, v2.1.0",3,2013,2022,DATA/jmc_Latn
+dru,dru_Latn,Latn,Rukai,1610,131272,"FineWeb2, v2.1.0",6,2018,2024,DATA/dru_Latn
+xuo,xuo_Latn,Latn,Kuo,112,130499,"FineWeb2, v2.1.0",3,2019,2023,DATA/xuo_Latn
+frd,frd_Latn,Latn,Fordata,75,130432,"FineWeb2, v2.1.0",4,2017,2024,DATA/frd_Latn
+qva,qva_Latn,Latn,Ambo-Pasco Quechua,99,128696,"FineWeb2, v2.1.0",1,2021,2021,DATA/qva_Latn
+rim,rim_Latn,Latn,Nyaturu,83,128361,"FineWeb2, v2.1.0",3,2014,2020,DATA/rim_Latn
+mzm,mzm_Latn,Latn,Mumuye,99,128030,"FineWeb2, v2.1.0",3,2013,2023,DATA/mzm_Latn
+srr,srr_Latn,Latn,Serer,117,127252,"FineWeb2, v2.1.0",4,2013,2019,DATA/srr_Latn
+mlu,mlu_Latn,Latn,To'abaita,92,127208,"FineWeb2, v2.1.0",2,2017,2018,DATA/mlu_Latn
+guq,guq_Latn,Latn,Aché,90,126716,"FineWeb2, v2.1.0",3,2017,2024,DATA/guq_Latn
+kru,kru_Deva,Deva,Kurukh,164,126403,"FineWeb2, v2.1.0",7,2017,2024,DATA/kru_Deva
+dur,dur_Latn,Latn,Dii,103,125441,"FineWeb2, v2.1.0",3,2017,2021,DATA/dur_Latn
+ktu,ktu_Latn,Latn,Kituba (Democratic Republic of Congo),172,125229,"FineWeb2, v2.1.0",10,2013,2024,DATA/ktu_Latn
+ade,ade_Latn,Latn,Adele,87,125165,"FineWeb2, v2.1.0",3,2013,2017,DATA/ade_Latn
+bsp,bsp_Latn,Latn,Baga Sitemu,85,124831,"FineWeb2, v2.1.0",6,2017,2023,DATA/bsp_Latn
+wob,wob_Latn,Latn,Wè Northern,76,124504,"FineWeb2, v2.1.0",5,2013,2021,DATA/wob_Latn
+xmm,xmm_Latn,Latn,Manado Malay,116,123593,"FineWeb2, v2.1.0",10,2013,2024,DATA/xmm_Latn
+zsr,zsr_Latn,Latn,Southern Rincon Zapotec,90,120645,"FineWeb2, v2.1.0",3,2014,2021,DATA/zsr_Latn
+gej,gej_Latn,Latn,Gen,104,119985,"FineWeb2, v2.1.0",5,2013,2022,DATA/gej_Latn
+ldi,ldi_Latn,Latn,Laari,109,119395,"FineWeb2, v2.1.0",4,2017,2023,DATA/ldi_Latn
+pis,pis_Latn,Latn,Pijin,87,118754,"FineWeb2, v2.1.0",8,2013,2023,DATA/pis_Latn
+dnw,dnw_Latn,Latn,Western Dani,86,117164,"FineWeb2, v2.1.0",8,2017,2024,DATA/dnw_Latn
+wib,wib_Latn,Latn,Southern Toussian,109,116420,"FineWeb2, v2.1.0",2,2021,2023,DATA/wib_Latn
+twx,twx_Latn,Latn,Tewe,108,116264,"FineWeb2, v2.1.0",3,2017,2019,DATA/twx_Latn
+wlv,wlv_Latn,Latn,Wichí Lhamtés Vejoz,92,115247,"FineWeb2, v2.1.0",5,2017,2024,DATA/wlv_Latn
+sld,sld_Latn,Latn,Sissala,97,114299,"FineWeb2, v2.1.0",3,2013,2023,DATA/sld_Latn
+drg,drg_Latn,Latn,Rungus,88,113815,"FineWeb2, v2.1.0",9,2013,2024,DATA/drg_Latn
+zpi,zpi_Latn,Latn,Santa María Quiegolani Zapotec,103,112354,"FineWeb2, v2.1.0",6,2013,2023,DATA/zpi_Latn
+tpa,tpa_Latn,Latn,Taupota,90,111239,"FineWeb2, v2.1.0",3,2018,2022,DATA/tpa_Latn
+kpj,kpj_Latn,Latn,Karajá,99,109350,"FineWeb2, v2.1.0",5,2014,2023,DATA/kpj_Latn
+any,any_Latn,Latn,Anyin,94,108086,"FineWeb2, v2.1.0",5,2017,2022,DATA/any_Latn
+shk,shk_Latn,Latn,Shilluk,97,107395,"FineWeb2, v2.1.0",4,2013,2022,DATA/shk_Latn
+ses,ses_Latn,Latn,Koyraboro Senni Songhai,104,107364,"FineWeb2, v2.1.0",9,2016,2024,DATA/ses_Latn
+uth,uth_Latn,Latn,ut-Hun,92,105798,"FineWeb2, v2.1.0",3,2019,2022,DATA/uth_Latn
+ojb,ojb_Latn,Latn,Northwestern Ojibwa,191,105483,"FineWeb2, v2.1.0",7,2017,2023,DATA/ojb_Latn
+gof,gof_Ethi,Ethi,Gofa,207,105231,"FineWeb2, v2.1.0",7,2017,2024,DATA/gof_Ethi
+wlx,wlx_Latn,Latn,Wali (Ghana),102,104731,"FineWeb2, v2.1.0",5,2017,2024,DATA/wlx_Latn
+pne,pne_Latn,Latn,Western Penan,128,104661,"FineWeb2, v2.1.0",5,2013,2019,DATA/pne_Latn
+duo,duo_Latn,Latn,Dupaninan Agta,78,103005,"FineWeb2, v2.1.0",5,2017,2023,DATA/duo_Latn
+kas,kas_Latn,Latn,Kashmiri,146,102465,"FineWeb2, v2.1.0",7,2017,2023,DATA/kas_Latn
+ksc,ksc_Latn,Latn,Southern Kalinga,93,101738,"FineWeb2, v2.1.0",5,2017,2023,DATA/ksc_Latn
+icr,icr_Latn,Latn,Islander Creole English,123,101296,"FineWeb2, v2.1.0",6,2017,2023,DATA/icr_Latn
+mtg,mtg_Latn,Latn,Una,77,100897,"FineWeb2, v2.1.0",1,2023,2023,DATA/mtg_Latn
+tlb,tlb_Latn,Latn,Tobelo,80,98456,"FineWeb2, v2.1.0",3,2017,2020,DATA/tlb_Latn
+zdj,zdj_Latn,Latn,Ngazidja Comorian,109,97137,"FineWeb2, v2.1.0",7,2013,2024,DATA/zdj_Latn
+tpp,tpp_Latn,Latn,Pisaflores Tepehua,94,94634,"FineWeb2, v2.1.0",5,2014,2024,DATA/tpp_Latn
+lrc,lrc_Arab,Arab,Northern Luri,193,93944,"FineWeb2, v2.1.0",9,2014,2024,DATA/lrc_Arab
+fue,fue_Latn,Latn,Borgu Fulfulde,78,92831,"FineWeb2, v2.1.0",4,2017,2023,DATA/fue_Latn
+pov,pov_Latn,Latn,Upper Guinea Crioulo,124,92729,"FineWeb2, v2.1.0",9,2013,2024,DATA/pov_Latn
+ybb,ybb_Latn,Latn,Yemba,173,90935,"FineWeb2, v2.1.0",6,2017,2023,DATA/ybb_Latn
+ktj,ktj_Latn,Latn,Plapo Krumen,79,89601,"FineWeb2, v2.1.0",2,2019,2020,DATA/ktj_Latn
+qus,qus_Latn,Latn,Santiago del Estero Quichua,84,89542,"FineWeb2, v2.1.0",2,2018,2023,DATA/qus_Latn
+otd,otd_Latn,Latn,Ot Danum,70,88185,"FineWeb2, v2.1.0",3,2018,2023,DATA/otd_Latn
+crj,crj_Cans,Cans,Southern East Cree,213,86695,"FineWeb2, v2.1.0",7,2014,2023,DATA/crj_Cans
+ksp,ksp_Latn,Latn,Kaba,76,86498,"FineWeb2, v2.1.0",3,2019,2022,DATA/ksp_Latn
+nvm,nvm_Latn,Latn,Namiae,72,86015,"FineWeb2, v2.1.0",3,2018,2022,DATA/nvm_Latn
+wba,wba_Latn,Latn,Warao,90,84468,"FineWeb2, v2.1.0",8,2014,2022,DATA/wba_Latn
+mrq,mrq_Latn,Latn,North Marquesan,114,84248,"FineWeb2, v2.1.0",3,2017,2022,DATA/mrq_Latn
+tnc,tnc_Latn,Latn,Tanimuca-Retuarã,96,81696,"FineWeb2, v2.1.0",3,2019,2023,DATA/tnc_Latn
+lad,lad_Hebr,Hebr,Ladino,175,80217,"FineWeb2, v2.1.0",12,2013,2024,DATA/lad_Hebr
+mhy,mhy_Latn,Latn,Ma'anyan,75,79991,"FineWeb2, v2.1.0",6,2013,2024,DATA/mhy_Latn
+lki,lki_Arab,Arab,Laki,183,79566,"FineWeb2, v2.1.0",9,2015,2024,DATA/lki_Arab
+syl,syl_Latn,Latn,Sylheti,167,79008,"FineWeb2, v2.1.0",8,2016,2024,DATA/syl_Latn
+ddg,ddg_Latn,Latn,Fataluku,101,77788,"FineWeb2, v2.1.0",6,2017,2023,DATA/ddg_Latn
+cjk,cjk_Latn,Latn,Chokwe,92,77379,"FineWeb2, v2.1.0",8,2013,2023,DATA/cjk_Latn
+swk,swk_Latn,Latn,Malawi Sena,77,76748,"FineWeb2, v2.1.0",2,2018,2021,DATA/swk_Latn
+kmy,kmy_Latn,Latn,Koma,83,75141,"FineWeb2, v2.1.0",4,2017,2022,DATA/kmy_Latn
+mhi,mhi_Latn,Latn,Ma'di,91,74136,"FineWeb2, v2.1.0",7,2013,2022,DATA/mhi_Latn
+bea,bea_Latn,Latn,Beaver,67,74124,"FineWeb2, v2.1.0",2,2018,2019,DATA/bea_Latn
+cjs,cjs_Cyrl,Cyrl,Shor,139,73562,"FineWeb2, v2.1.0",7,2013,2023,DATA/cjs_Cyrl
+plw,plw_Latn,Latn,Brooke's Point Palawano,80,72202,"FineWeb2, v2.1.0",5,2017,2024,DATA/plw_Latn
+rub,rub_Latn,Latn,Gungu,84,71016,"FineWeb2, v2.1.0",2,2022,2023,DATA/rub_Latn
+dhg,dhg_Latn,Latn,Dhangu-Djangu,85,70966,"FineWeb2, v2.1.0",5,2019,2023,DATA/dhg_Latn
+niy,niy_Latn,Latn,Ngiti,111,70391,"FineWeb2, v2.1.0",5,2017,2024,DATA/niy_Latn
+ncq,ncq_Laoo,Laoo,Northern Katang,63,69768,"FineWeb2, v2.1.0",2,2019,2024,DATA/ncq_Laoo
+lmk,lmk_Latn,Latn,Lamkang,78,68918,"FineWeb2, v2.1.0",3,2018,2023,DATA/lmk_Latn
+way,way_Latn,Latn,Wayana,86,68890,"FineWeb2, v2.1.0",4,2013,2024,DATA/way_Latn
+zad,zad_Latn,Latn,Cajonos Zapotec,94,68259,"FineWeb2, v2.1.0",5,2013,2024,DATA/zad_Latn
+lun,lun_Latn,Latn,Lunda,90,67198,"FineWeb2, v2.1.0",7,2015,2024,DATA/lun_Latn
+chr,chr_Latn,Latn,Cherokee,156,66463,"FineWeb2, v2.1.0",1,2017,2017,DATA/chr_Latn
+xog,xog_Latn,Latn,Soga,85,66118,"FineWeb2, v2.1.0",7,2018,2024,DATA/xog_Latn
+adi,adi_Latn,Latn,Adi,132,64969,"FineWeb2, v2.1.0",7,2014,2023,DATA/adi_Latn
+tih,tih_Latn,Latn,Timugon Murut,219,63153,"FineWeb2, v2.1.0",7,2013,2023,DATA/tih_Latn
+sgh,sgh_Cyrl,Cyrl,Shughni,206,62907,"FineWeb2, v2.1.0",7,2017,2023,DATA/sgh_Cyrl
+nph,nph_Latn,Latn,Phom Naga,93,61033,"FineWeb2, v2.1.0",6,2017,2024,DATA/nph_Latn
+nse,nse_Latn,Latn,Nsenga,158,59920,"FineWeb2, v2.1.0",7,2017,2023,DATA/nse_Latn
+nav,nav_Latn,Latn,Navajo,98,59196,"FineWeb2, v2.1.0",6,2014,2024,DATA/nav_Latn
+lnd,lnd_Latn,Latn,Lundayeh,84,57799,"FineWeb2, v2.1.0",6,2013,2020,DATA/lnd_Latn
+smt,smt_Latn,Latn,Simte,89,57359,"FineWeb2, v2.1.0",5,2013,2023,DATA/smt_Latn
+pmq,pmq_Latn,Latn,Northern Pame,90,55860,"FineWeb2, v2.1.0",1,2020,2020,DATA/pmq_Latn
+ker,ker_Latn,Latn,Kera,118,54888,"FineWeb2, v2.1.0",4,2014,2021,DATA/ker_Latn
+nbe,nbe_Latn,Latn,Konyak Naga,82,53694,"FineWeb2, v2.1.0",5,2017,2024,DATA/nbe_Latn
+tem,tem_Latn,Latn,Timne,91,52770,"FineWeb2, v2.1.0",7,2013,2020,DATA/tem_Latn
+fuv,fuv_Arab,Arab,Nigerian Fulfulde,54,52264,"FineWeb2, v2.1.0",1,2022,2022,DATA/fuv_Arab
+mog,mog_Latn,Latn,Mongondow,91,50881,"FineWeb2, v2.1.0",7,2013,2023,DATA/mog_Latn
+rjs,rjs_Deva,Deva,Rajbanshi,128,49223,"FineWeb2, v2.1.0",3,2018,2023,DATA/rjs_Deva
+maw,maw_Latn,Latn,Mampruli,81,47590,"FineWeb2, v2.1.0",5,2013,2023,DATA/maw_Latn
+obo,obo_Latn,Latn,Obo Manobo,79,47051,"FineWeb2, v2.1.0",6,2014,2023,DATA/obo_Latn
+sck,sck_Deva,Deva,Sadri,139,46986,"FineWeb2, v2.1.0",6,2017,2024,DATA/sck_Deva
+kny,kny_Latn,Latn,Kanyok,78,46952,"FineWeb2, v2.1.0",2,2022,2023,DATA/kny_Latn
+mny,mny_Latn,Latn,Manyawa,92,45942,"FineWeb2, v2.1.0",4,2016,2019,DATA/mny_Latn
+adh,adh_Latn,Latn,Adhola,82,45399,"FineWeb2, v2.1.0",9,2014,2023,DATA/adh_Latn
+tap,tap_Latn,Latn,Taabwa,70,45374,"FineWeb2, v2.1.0",2,2017,2019,DATA/tap_Latn
+msc,msc_Latn,Latn,Sankaran Maninka,79,44796,"FineWeb2, v2.1.0",5,2018,2023,DATA/msc_Latn
+yim,yim_Latn,Latn,Yimchungru Naga,76,44341,"FineWeb2, v2.1.0",4,2016,2024,DATA/yim_Latn
+apt,apt_Latn,Latn,Apatani,90,44296,"FineWeb2, v2.1.0",5,2017,2024,DATA/apt_Latn
+nbc,nbc_Latn,Latn,Chang Naga,79,44062,"FineWeb2, v2.1.0",4,2017,2024,DATA/nbc_Latn
+biu,biu_Latn,Latn,Biete,96,43721,"FineWeb2, v2.1.0",5,2017,2024,DATA/biu_Latn
+poe,poe_Latn,Latn,San Juan Atzingo Popoloca,100,43419,"FineWeb2, v2.1.0",3,2014,2023,DATA/poe_Latn
+esi,esi_Latn,Latn,North Alaskan Inupiatun,93,43259,"FineWeb2, v2.1.0",7,2013,2024,DATA/esi_Latn
+nnh,nnh_Latn,Latn,Ngiemboon,120,43012,"FineWeb2, v2.1.0",5,2014,2022,DATA/nnh_Latn
+sri,sri_Latn,Latn,Siriano,97,43001,"FineWeb2, v2.1.0",4,2013,2021,DATA/sri_Latn
+oto,oto_Latn,Latn,UNKNOWN,100,42596,"FineWeb2, v2.1.0",6,2013,2023,DATA/oto_Latn
+ivv,ivv_Latn,Latn,Ivatan,842,42054,"FineWeb2, v2.1.0",6,2018,2023,DATA/ivv_Latn
+guu,guu_Latn,Latn,Yanomamö,86,41927,"FineWeb2, v2.1.0",3,2014,2024,DATA/guu_Latn
+bdq,bdq_Latn,Latn,Bahnar,136,41287,"FineWeb2, v2.1.0",4,2019,2023,DATA/bdq_Latn
+mip,mip_Latn,Latn,Apasco-Apoala Mixtec,103,40461,"FineWeb2, v2.1.0",5,2013,2023,DATA/mip_Latn
+tpm,tpm_Latn,Latn,Tampulma,73,40435,"FineWeb2, v2.1.0",1,2013,2013,DATA/tpm_Latn
+gjn,gjn_Latn,Latn,Gonja,82,40335,"FineWeb2, v2.1.0",7,2013,2024,DATA/gjn_Latn
+gwr,gwr_Latn,Latn,Gwere,77,39812,"FineWeb2, v2.1.0",5,2019,2023,DATA/gwr_Latn
+ndj,ndj_Latn,Latn,Ndamba,77,39749,"FineWeb2, v2.1.0",3,2018,2021,DATA/ndj_Latn
+ksj,ksj_Latn,Latn,Uare,74,39659,"FineWeb2, v2.1.0",3,2018,2024,DATA/ksj_Latn
+pww,pww_Thai,Thai,Pwo Northern Karen,134,38731,"FineWeb2, v2.1.0",8,2013,2023,DATA/pww_Thai
+naw,naw_Latn,Latn,Nawuri,68,38655,"FineWeb2, v2.1.0",1,2022,2022,DATA/naw_Latn
+mus,mus_Latn,Latn,Creek,99,38457,"FineWeb2, v2.1.0",6,2015,2023,DATA/mus_Latn
+ifa,ifa_Latn,Latn,Amganad Ifugao,70,36985,"FineWeb2, v2.1.0",4,2017,2020,DATA/ifa_Latn
+kyu,kyu_Kali,Kali,Western Kayah,108,36833,"FineWeb2, v2.1.0",4,2019,2024,DATA/kyu_Kali
+cmr,cmr_Latn,Latn,Mro-Khimi Chin,75,36620,"FineWeb2, v2.1.0",5,2017,2023,DATA/cmr_Latn
+otn,otn_Latn,Latn,Tenango Otomi,81,35710,"FineWeb2, v2.1.0",5,2014,2024,DATA/otn_Latn
+mzh,mzh_Latn,Latn,Wichí Lhamtés Güisnay,99,35655,"FineWeb2, v2.1.0",5,2013,2020,DATA/mzh_Latn
+gvc,gvc_Latn,Latn,Guanano,101,35550,"FineWeb2, v2.1.0",5,2013,2023,DATA/gvc_Latn
+sju,sju_Latn,Latn,Ume Sami,87,35138,"FineWeb2, v2.1.0",6,2017,2022,DATA/sju_Latn
+fan,fan_Latn,Latn,Fang (Equatorial Guinea),109,34275,"FineWeb2, v2.1.0",6,2016,2022,DATA/fan_Latn
+rhg,rhg_Latn,Latn,Rohingya,144,34252,"FineWeb2, v2.1.0",8,2017,2024,DATA/rhg_Latn
+bgz,bgz_Latn,Latn,Banggai,92,34065,"FineWeb2, v2.1.0",5,2016,2023,DATA/bgz_Latn
+pxm,pxm_Latn,Latn,Quetzaltepec Mixe,109,33940,"FineWeb2, v2.1.0",9,2016,2024,DATA/pxm_Latn
+shu,shu_Arab,Arab,Chadian Arabic,103,33359,"FineWeb2, v2.1.0",5,2016,2020,DATA/shu_Arab
+kdh,kdh_Latn,Latn,Tem,125,33267,"FineWeb2, v2.1.0",4,2019,2023,DATA/kdh_Latn
+sdo,sdo_Latn,Latn,Bukar-Sadung Bidayuh,80,33018,"FineWeb2, v2.1.0",3,2013,2018,DATA/sdo_Latn
+zca,zca_Latn,Latn,Coatecas Altas Zapotec,87,32930,"FineWeb2, v2.1.0",4,2013,2023,DATA/zca_Latn
+moc,moc_Latn,Latn,Mocoví,92,32623,"FineWeb2, v2.1.0",3,2014,2024,DATA/moc_Latn
+diu,diu_Latn,Latn,Diriku,75,32535,"FineWeb2, v2.1.0",2,2020,2021,DATA/diu_Latn
+bqj,bqj_Latn,Latn,Bandial,90,32500,"FineWeb2, v2.1.0",5,2017,2022,DATA/bqj_Latn
+pui,pui_Latn,Latn,Puinave,83,32496,"FineWeb2, v2.1.0",5,2017,2024,DATA/pui_Latn
+omb,omb_Latn,Latn,East Ambae,76,32066,"FineWeb2, v2.1.0",4,2017,2024,DATA/omb_Latn
+bkl,bkl_Latn,Latn,Berik,64,31504,"FineWeb2, v2.1.0",1,2017,2017,DATA/bkl_Latn
+nmw,nmw_Latn,Latn,Nimoa,70,31286,"FineWeb2, v2.1.0",5,2018,2024,DATA/nmw_Latn
+dis,dis_Latn,Latn,Dimasa,81,31241,"FineWeb2, v2.1.0",4,2017,2024,DATA/dis_Latn
+ife,ife_Latn,Latn,Ifè,126,31176,"FineWeb2, v2.1.0",4,2019,2023,DATA/ife_Latn
+sfw,sfw_Latn,Latn,Sehwi,92,31063,"FineWeb2, v2.1.0",2,2020,2021,DATA/sfw_Latn
+kog,kog_Latn,Latn,Cogui,96,30776,"FineWeb2, v2.1.0",3,2019,2022,DATA/kog_Latn
+qvo,qvo_Latn,Latn,Napo Lowland Quechua,84,30766,"FineWeb2, v2.1.0",6,2013,2021,DATA/qvo_Latn
+mpg,mpg_Latn,Latn,Marba,82,30465,"FineWeb2, v2.1.0",4,2014,2019,DATA/mpg_Latn
+mns,mns_Cyrl,Cyrl,Mansi,115,30390,"FineWeb2, v2.1.0",5,2017,2023,DATA/mns_Cyrl
+zpg,zpg_Latn,Latn,Guevea De Humboldt Zapotec,120,30075,"FineWeb2, v2.1.0",4,2017,2020,DATA/zpg_Latn
+ood,ood_Latn,Latn,Tohono O'odham,80,29966,"FineWeb2, v2.1.0",3,2013,2017,DATA/ood_Latn
+zpq,zpq_Latn,Latn,Zoogocho Zapotec,90,29817,"FineWeb2, v2.1.0",4,2014,2022,DATA/zpq_Latn
+nyk,nyk_Latn,Latn,Nyaneka,87,29048,"FineWeb2, v2.1.0",2,2018,2019,DATA/nyk_Latn
+wat,wat_Latn,Latn,Kaninuwa,71,28216,"FineWeb2, v2.1.0",3,2021,2023,DATA/wat_Latn
+fmu,fmu_Deva,Deva,Far Western Muria,126,27656,"FineWeb2, v2.1.0",5,2017,2023,DATA/fmu_Deva
+wsg,wsg_Telu,Telu,Adilabad Gondi,90,27333,"FineWeb2, v2.1.0",5,2016,2023,DATA/wsg_Telu
+mcn,mcn_Latn,Latn,Masana,81,27177,"FineWeb2, v2.1.0",4,2014,2021,DATA/mcn_Latn
+aim,aim_Latn,Latn,Aimol,112,27072,"FineWeb2, v2.1.0",3,2019,2024,DATA/aim_Latn
+lud,lud_Latn,Latn,Ludian,152,26928,"FineWeb2, v2.1.0",2,2017,2020,DATA/lud_Latn
+krx,krx_Latn,Latn,Karon,83,26666,"FineWeb2, v2.1.0",3,2019,2024,DATA/krx_Latn
+rnl,rnl_Latn,Latn,Ranglong,90,26285,"FineWeb2, v2.1.0",3,2019,2023,DATA/rnl_Latn
+npo,npo_Latn,Latn,Pochuri Naga,80,26224,"FineWeb2, v2.1.0",5,2017,2024,DATA/npo_Latn
+bmq,bmq_Latn,Latn,Bomu,94,26116,"FineWeb2, v2.1.0",3,2017,2023,DATA/bmq_Latn
+yup,yup_Latn,Latn,Yukpa,90,25897,"FineWeb2, v2.1.0",3,2017,2019,DATA/yup_Latn
+kgr,kgr_Latn,Latn,Abun,68,25732,"FineWeb2, v2.1.0",1,2017,2017,DATA/kgr_Latn
+cho,cho_Latn,Latn,Choctaw,91,25577,"FineWeb2, v2.1.0",6,2013,2023,DATA/cho_Latn
+kno,kno_Latn,Latn,Kono (Sierra Leone),71,25442,"FineWeb2, v2.1.0",3,2013,2023,DATA/kno_Latn
+btt,btt_Latn,Latn,Bete-Bendi,83,25364,"FineWeb2, v2.1.0",3,2015,2019,DATA/btt_Latn
+kby,kby_Latn,Latn,Manga Kanuri,88,24974,"FineWeb2, v2.1.0",3,2019,2023,DATA/kby_Latn
+moa,moa_Latn,Latn,Mwan,82,24396,"FineWeb2, v2.1.0",2,2019,2021,DATA/moa_Latn
+gud,gud_Latn,Latn,Yocoboué Dida,86,24391,"FineWeb2, v2.1.0",4,2014,2020,DATA/gud_Latn
+tbl,tbl_Latn,Latn,Tboli,82,24249,"FineWeb2, v2.1.0",2,2019,2022,DATA/tbl_Latn
+llb,llb_Latn,Latn,Lolo,89,24152,"FineWeb2, v2.1.0",2,2017,2018,DATA/llb_Latn
+kvj,kvj_Latn,Latn,Psikye,81,23625,"FineWeb2, v2.1.0",3,2017,2022,DATA/kvj_Latn
+kdr,kdr_Latn,Latn,Karaim,124,23615,"FineWeb2, v2.1.0",3,2020,2023,DATA/kdr_Latn
+nre,nre_Latn,Latn,Southern Rengma Naga,78,23227,"FineWeb2, v2.1.0",3,2019,2024,DATA/nre_Latn
+bbj,bbj_Latn,Latn,Ghomálá',123,23140,"FineWeb2, v2.1.0",5,2017,2024,DATA/bbj_Latn
+hop,hop_Latn,Latn,Hopi,101,23007,"FineWeb2, v2.1.0",6,2014,2023,DATA/hop_Latn
+ktm,ktm_Latn,Latn,Kurti,69,22837,"FineWeb2, v2.1.0",2,2017,2021,DATA/ktm_Latn
+bkv,bkv_Latn,Latn,Bekwarra,77,22783,"FineWeb2, v2.1.0",2,2014,2017,DATA/bkv_Latn
+did,did_Latn,Latn,Didinga,79,22752,"FineWeb2, v2.1.0",3,2020,2024,DATA/did_Latn
+hvn,hvn_Latn,Latn,Sabu,65,22705,"FineWeb2, v2.1.0",3,2017,2022,DATA/hvn_Latn
+yrl,yrl_Latn,Latn,Nhengatu,114,22680,"FineWeb2, v2.1.0",5,2018,2023,DATA/yrl_Latn
+kxm,kxm_Thai,Thai,Northern Khmer,156,22631,"FineWeb2, v2.1.0",4,2013,2023,DATA/kxm_Thai
+kyu,kyu_Latn,Latn,Western Kayah,97,22302,"FineWeb2, v2.1.0",2,2019,2023,DATA/kyu_Latn
+kbo,kbo_Latn,Latn,Keliko,99,21979,"FineWeb2, v2.1.0",2,2021,2023,DATA/kbo_Latn
+nsm,nsm_Latn,Latn,Sumi Naga,91,21896,"FineWeb2, v2.1.0",5,2017,2024,DATA/nsm_Latn
+wwa,wwa_Latn,Latn,Waama,81,21717,"FineWeb2, v2.1.0",5,2014,2023,DATA/wwa_Latn
+bhz,bhz_Latn,Latn,Bada (Indonesia),74,21397,"FineWeb2, v2.1.0",4,2017,2023,DATA/bhz_Latn
+tuv,tuv_Latn,Latn,Turkana,78,21308,"FineWeb2, v2.1.0",5,2020,2024,DATA/tuv_Latn
+nri,nri_Latn,Latn,Chokri Naga,74,21001,"FineWeb2, v2.1.0",2,2017,2024,DATA/nri_Latn
+fuq,fuq_Latn,Latn,Central-Eastern Niger Fulfulde,79,20990,"FineWeb2, v2.1.0",3,2019,2023,DATA/fuq_Latn
+mzl,mzl_Latn,Latn,Mazatlán Mixe,86,20680,"FineWeb2, v2.1.0",1,2014,2014,DATA/mzl_Latn
+bth,bth_Latn,Latn,Biatah Bidayuh,84,20333,"FineWeb2, v2.1.0",4,2017,2020,DATA/bth_Latn
+ilb,ilb_Latn,Latn,Ila,69,20267,"FineWeb2, v2.1.0",3,2018,2020,DATA/ilb_Latn
+tmc,tmc_Latn,Latn,Tumak,76,20163,"FineWeb2, v2.1.0",2,2018,2020,DATA/tmc_Latn
+trs,trs_Latn,Latn,Chicahuaxtla Triqui,121,19957,"FineWeb2, v2.1.0",6,2016,2023,DATA/trs_Latn
+lln,lln_Latn,Latn,Lele (Chad),68,19821,"FineWeb2, v2.1.0",2,2017,2021,DATA/lln_Latn
+kzf,kzf_Latn,Latn,Da'a Kaili,67,19631,"FineWeb2, v2.1.0",4,2013,2022,DATA/kzf_Latn
+njz,njz_Latn,Latn,Nyishi,79,19599,"FineWeb2, v2.1.0",3,2019,2023,DATA/njz_Latn
+met,met_Latn,Latn,Mato,63,19588,"FineWeb2, v2.1.0",2,2021,2022,DATA/met_Latn
+fad,fad_Latn,Latn,Wagi,72,19525,"FineWeb2, v2.1.0",2,2019,2023,DATA/fad_Latn
+tbk,tbk_Latn,Latn,Calamian Tagbanwa,67,19371,"FineWeb2, v2.1.0",3,2017,2021,DATA/tbk_Latn
+bhp,bhp_Latn,Latn,Bima,79,19329,"FineWeb2, v2.1.0",6,2013,2024,DATA/bhp_Latn
+mwm,mwm_Latn,Latn,Sar,113,18932,"FineWeb2, v2.1.0",2,2014,2021,DATA/mwm_Latn
+nkf,nkf_Latn,Latn,Inpui Naga,62,18827,"FineWeb2, v2.1.0",2,2017,2018,DATA/nkf_Latn
+nzm,nzm_Latn,Latn,Zeme Naga,75,18423,"FineWeb2, v2.1.0",5,2019,2024,DATA/nzm_Latn
+bov,bov_Latn,Latn,Tuwuli,78,18372,"FineWeb2, v2.1.0",3,2018,2021,DATA/bov_Latn
+ttq,ttq_Latn,Latn,Tawallammat Tamajaq,86,18325,"FineWeb2, v2.1.0",4,2017,2022,DATA/ttq_Latn
+ndz,ndz_Latn,Latn,Ndogo,97,18264,"FineWeb2, v2.1.0",2,2013,2021,DATA/ndz_Latn
+kia,kia_Latn,Latn,Kim,86,18086,"FineWeb2, v2.1.0",2,2017,2019,DATA/kia_Latn
+mor,mor_Latn,Latn,Moro,54,17943,"FineWeb2, v2.1.0",2,2017,2019,DATA/mor_Latn
+tlj,tlj_Latn,Latn,Talinga-Bwisi,77,17852,"FineWeb2, v2.1.0",3,2017,2020,DATA/tlj_Latn
+ngb,ngb_Latn,Latn,Northern Ngbandi,108,17826,"FineWeb2, v2.1.0",4,2013,2021,DATA/ngb_Latn
+giz,giz_Latn,Latn,South Giziga,95,17716,"FineWeb2, v2.1.0",3,2014,2021,DATA/giz_Latn
+pmx,pmx_Latn,Latn,Poumei Naga,73,17300,"FineWeb2, v2.1.0",4,2019,2024,DATA/pmx_Latn
+gbr,gbr_Latn,Latn,Gbagyi,83,16962,"FineWeb2, v2.1.0",3,2017,2023,DATA/gbr_Latn
+urb,urb_Latn,Latn,Urubú-Kaapor,76,16918,"FineWeb2, v2.1.0",3,2018,2020,DATA/urb_Latn
+nst,nst_Latn,Latn,Tase Naga,76,16665,"FineWeb2, v2.1.0",2,2019,2021,DATA/nst_Latn
+lhi,lhi_Latn,Latn,Lahu Shi,300,16547,"FineWeb2, v2.1.0",2,2019,2024,DATA/lhi_Latn
+bsc,bsc_Latn,Latn,Bassari,80,16422,"FineWeb2, v2.1.0",3,2019,2022,DATA/bsc_Latn
+mnb,mnb_Latn,Latn,Muna,84,16314,"FineWeb2, v2.1.0",4,2013,2021,DATA/mnb_Latn
+etu,etu_Latn,Latn,Ejagham,110,16252,"FineWeb2, v2.1.0",3,2014,2021,DATA/etu_Latn
+ccp,ccp_Latn,Latn,Chakma,76,16225,"FineWeb2, v2.1.0",5,2014,2023,DATA/ccp_Latn
+goa,goa_Latn,Latn,Guro,100,16114,"FineWeb2, v2.1.0",2,2017,2018,DATA/goa_Latn
+xsb,xsb_Latn,Latn,Sambal,76,16087,"FineWeb2, v2.1.0",3,2017,2022,DATA/xsb_Latn
+mfk,mfk_Latn,Latn,North Mofu,79,15747,"FineWeb2, v2.1.0",2,2014,2018,DATA/mfk_Latn
+mug,mug_Latn,Latn,Musgu,69,15412,"FineWeb2, v2.1.0",1,2019,2019,DATA/mug_Latn
+nng,nng_Latn,Latn,Maring Naga,71,15393,"FineWeb2, v2.1.0",2,2019,2020,DATA/nng_Latn
+maf,maf_Latn,Latn,Mafa,79,15322,"FineWeb2, v2.1.0",2,2019,2022,DATA/maf_Latn
+oym,oym_Latn,Latn,Wayampi,70,15178,"FineWeb2, v2.1.0",2,2019,2020,DATA/oym_Latn
+dks,dks_Latn,Latn,Southeastern Dinka,83,15124,"FineWeb2, v2.1.0",4,2017,2023,DATA/dks_Latn
+nnp,nnp_Latn,Latn,Wancho Naga,71,15101,"FineWeb2, v2.1.0",1,2020,2020,DATA/nnp_Latn
+kuj,kuj_Latn,Latn,Kuria,64,14899,"FineWeb2, v2.1.0",2,2019,2022,DATA/kuj_Latn
+nmz,nmz_Latn,Latn,Nawdm,79,14878,"FineWeb2, v2.1.0",3,2017,2024,DATA/nmz_Latn
+sjo,sjo_Mong,Mong,Xibe,236,14616,"FineWeb2, v2.1.0",3,2021,2023,DATA/sjo_Mong
+log,log_Latn,Latn,Logo,92,14400,"FineWeb2, v2.1.0",3,2018,2023,DATA/log_Latn
+ndi,ndi_Latn,Latn,Samba Leko,98,14383,"FineWeb2, v2.1.0",3,2017,2020,DATA/ndi_Latn
+kdj,kdj_Latn,Latn,Karamojong,62,14271,"FineWeb2, v2.1.0",4,2014,2022,DATA/kdj_Latn
+bex,bex_Latn,Latn,Jur Modo,78,13513,"FineWeb2, v2.1.0",3,2013,2022,DATA/bex_Latn
+ivb,ivb_Latn,Latn,Ibatan,69,13238,"FineWeb2, v2.1.0",2,2019,2021,DATA/ivb_Latn
+avn,avn_Latn,Latn,Avatime,88,13219,"FineWeb2, v2.1.0",2,2017,2022,DATA/avn_Latn
+anm,anm_Latn,Latn,Anal,71,13080,"FineWeb2, v2.1.0",2,2019,2024,DATA/anm_Latn
+jun,jun_Orya,Orya,Juang,101,12997,"FineWeb2, v2.1.0",3,2018,2023,DATA/jun_Orya
+ury,ury_Latn,Latn,Orya,79,12979,"FineWeb2, v2.1.0",4,2017,2020,DATA/ury_Latn
+nma,nma_Latn,Latn,Maram Naga,67,12882,"FineWeb2, v2.1.0",2,2017,2018,DATA/nma_Latn
+gya,gya_Latn,Latn,Northwest Gbaya,101,12872,"FineWeb2, v2.1.0",3,2014,2019,DATA/gya_Latn
+mev,mev_Latn,Latn,Mano,101,12807,"FineWeb2, v2.1.0",1,2019,2019,DATA/mev_Latn
+iry,iry_Latn,Latn,Iraya,60,12772,"FineWeb2, v2.1.0",1,2013,2013,DATA/iry_Latn
+enx,enx_Latn,Latn,Enxet,79,12708,"FineWeb2, v2.1.0",2,2018,2019,DATA/enx_Latn
+uri,uri_Latn,Latn,Urim,54,12446,"FineWeb2, v2.1.0",1,2019,2019,DATA/uri_Latn
+nwb,nwb_Latn,Latn,Nyabwa,76,12039,"FineWeb2, v2.1.0",2,2014,2021,DATA/nwb_Latn
+mgc,mgc_Latn,Latn,Morokodo,72,11932,"FineWeb2, v2.1.0",1,2023,2023,DATA/mgc_Latn
+nmh,nmh_Latn,Latn,Monsang Naga,67,11859,"FineWeb2, v2.1.0",2,2019,2024,DATA/nmh_Latn
+lom,lom_Latn,Latn,Loma (Liberia),101,11846,"FineWeb2, v2.1.0",5,2017,2022,DATA/lom_Latn
+urw,urw_Latn,Latn,Sop,56,11635,"FineWeb2, v2.1.0",3,2019,2021,DATA/urw_Latn
+abi,abi_Latn,Latn,Abidji,90,11590,"FineWeb2, v2.1.0",3,2018,2021,DATA/abi_Latn
+nio,nio_Cyrl,Cyrl,Nganasan,85,11585,"FineWeb2, v2.1.0",1,2020,2020,DATA/nio_Cyrl
+yaz,yaz_Latn,Latn,Lokaa,71,11530,"FineWeb2, v2.1.0",3,2019,2022,DATA/yaz_Latn
+iri,iri_Latn,Latn,Rigwe,85,11422,"FineWeb2, v2.1.0",2,2017,2020,DATA/iri_Latn
+xbr,xbr_Latn,Latn,Kambera,66,11276,"FineWeb2, v2.1.0",2,2017,2018,DATA/xbr_Latn
+zsm,zsm_Arab,Arab,Standard Malay,82,11200,"FineWeb2, v2.1.0",3,2017,2019,DATA/zsm_Arab
+chj,chj_Latn,Latn,Ojitlán Chinantec,73,10857,"FineWeb2, v2.1.0",1,2019,2019,DATA/chj_Latn
+due,due_Latn,Latn,Umiray Dumaget Agta,62,10847,"FineWeb2, v2.1.0",1,2019,2019,DATA/due_Latn
+mse,mse_Latn,Latn,Musey,83,10643,"FineWeb2, v2.1.0",1,2019,2019,DATA/mse_Latn
+pps,pps_Latn,Latn,San Luís Temalacayuca Popoloca,80,10519,"FineWeb2, v2.1.0",2,2021,2023,DATA/pps_Latn
+cou,cou_Latn,Latn,Wamey,82,10497,"FineWeb2, v2.1.0",3,2019,2022,DATA/cou_Latn
+nnl,nnl_Latn,Latn,Northern Rengma Naga,74,10395,"FineWeb2, v2.1.0",2,2019,2024,DATA/nnl_Latn
+nsa,nsa_Latn,Latn,Sangtam Naga,73,10384,"FineWeb2, v2.1.0",2,2019,2024,DATA/nsa_Latn
+kqs,kqs_Latn,Latn,Northern Kissi,83,10352,"FineWeb2, v2.1.0",2,2019,2022,DATA/kqs_Latn
+byv,byv_Latn,Latn,Medumba,113,10312,"FineWeb2, v2.1.0",3,2018,2022,DATA/byv_Latn
+ktz,ktz_Latn,Latn,Juǀʼhoan,103,10241,"FineWeb2, v2.1.0",3,2017,2020,DATA/ktz_Latn
+iqw,iqw_Latn,Latn,Ikwo,91,10133,"FineWeb2, v2.1.0",3,2017,2020,DATA/iqw_Latn
+asg,asg_Latn,Latn,Cishingini,75,9736,"FineWeb2, v2.1.0",1,2017,2017,DATA/asg_Latn
+gna,gna_Latn,Latn,Kaansa,90,9695,"FineWeb2, v2.1.0",2,2021,2022,DATA/gna_Latn
+cgg,cgg_Latn,Latn,Chiga,69,9441,"FineWeb2, v2.1.0",5,2017,2022,DATA/cgg_Latn
+lob,lob_Latn,Latn,Lobi,86,9280,"FineWeb2, v2.1.0",3,2014,2019,DATA/lob_Latn
+prq,prq_Latn,Latn,Ashéninka Perené,72,9224,"FineWeb2, v2.1.0",2,2019,2022,DATA/prq_Latn
+ess,ess_Latn,Latn,Central Siberian Yupik,70,9190,"FineWeb2, v2.1.0",3,2018,2024,DATA/ess_Latn
+crt,crt_Latn,Latn,Iyojwa'ja Chorote,82,8994,"FineWeb2, v2.1.0",3,2014,2021,DATA/crt_Latn
+myb,myb_Latn,Latn,Mbay,71,8994,"FineWeb2, v2.1.0",3,2016,2022,DATA/myb_Latn
+mda,mda_Latn,Latn,Mada (Nigeria),91,8760,"FineWeb2, v2.1.0",3,2013,2018,DATA/mda_Latn
+vut,vut_Latn,Latn,Vute,104,8697,"FineWeb2, v2.1.0",2,2019,2022,DATA/vut_Latn
+sdq,sdq_Latn,Latn,Semandang,70,8597,"FineWeb2, v2.1.0",2,2016,2019,DATA/sdq_Latn
+pbc,pbc_Latn,Latn,Patamona,73,8481,"FineWeb2, v2.1.0",3,2013,2022,DATA/pbc_Latn
+stn,stn_Latn,Latn,Owa,65,8461,"FineWeb2, v2.1.0",2,2013,2019,DATA/stn_Latn
+mrg,mrg_Latn,Latn,Mising,66,8446,"FineWeb2, v2.1.0",1,2019,2019,DATA/mrg_Latn
+mua,mua_Latn,Latn,Mundang,75,8339,"FineWeb2, v2.1.0",2,2019,2020,DATA/mua_Latn
+vot,vot_Latn,Latn,Votic,129,8268,"FineWeb2, v2.1.0",3,2018,2021,DATA/vot_Latn
+tpw,tpw_Latn,Latn,UNKNOWN,96,8204,"FineWeb2, v2.1.0",2,2014,2021,DATA/tpw_Latn
+phm,phm_Latn,Latn,Phimbi,72,8138,"FineWeb2, v2.1.0",2,2016,2020,DATA/phm_Latn
+knx,knx_Latn,Latn,Kendayan,73,8032,"FineWeb2, v2.1.0",2,2017,2020,DATA/knx_Latn
+ksb,ksb_Latn,Latn,Shambala,63,7691,"FineWeb2, v2.1.0",3,2018,2020,DATA/ksb_Latn
+yat,yat_Latn,Latn,Yambeta,71,7584,"FineWeb2, v2.1.0",1,2022,2022,DATA/yat_Latn
+bbk,bbk_Latn,Latn,Babanki,108,7530,"FineWeb2, v2.1.0",2,2020,2023,DATA/bbk_Latn
+dow,dow_Latn,Latn,Doyayo,78,7413,"FineWeb2, v2.1.0",2,2014,2018,DATA/dow_Latn
+mgo,mgo_Latn,Latn,Meta',108,7294,"FineWeb2, v2.1.0",3,2017,2020,DATA/mgo_Latn
+kql,kql_Latn,Latn,Kyenele,64,7214,"FineWeb2, v2.1.0",1,2019,2019,DATA/kql_Latn
+tnr,tnr_Latn,Latn,Ménik,88,7149,"FineWeb2, v2.1.0",2,2017,2020,DATA/tnr_Latn
+atq,atq_Latn,Latn,Aralle-Tabulahan,58,7071,"FineWeb2, v2.1.0",2,2017,2019,DATA/atq_Latn
+kle,kle_Deva,Deva,Kulung (Nepal),81,6999,"FineWeb2, v2.1.0",1,2018,2018,DATA/kle_Deva
+rme,rme_Latn,Latn,Angloromani,79,6969,"FineWeb2, v2.1.0",2,2018,2019,DATA/rme_Latn
+ajz,ajz_Latn,Latn,Amri Karbi,66,6847,"FineWeb2, v2.1.0",3,2019,2024,DATA/ajz_Latn
+kqy,kqy_Ethi,Ethi,Koorete,186,6845,"FineWeb2, v2.1.0",3,2017,2020,DATA/kqy_Ethi
+adl,adl_Latn,Latn,Galo,65,6771,"FineWeb2, v2.1.0",2,2019,2021,DATA/adl_Latn
+sbd,sbd_Latn,Latn,Southern Samo,87,6649,"FineWeb2, v2.1.0",2,2013,2014,DATA/sbd_Latn
+dos,dos_Latn,Latn,Dogosé,85,6246,"FineWeb2, v2.1.0",2,2020,2023,DATA/dos_Latn
+kak,kak_Latn,Latn,Kalanguya,52,6215,"FineWeb2, v2.1.0",2,2021,2023,DATA/kak_Latn
+lap,lap_Latn,Latn,Laka (Chad),67,6167,"FineWeb2, v2.1.0",2,2020,2022,DATA/lap_Latn
+lis,lis_Lisu,Lisu,Lisu,78,6093,"FineWeb2, v2.1.0",2,2022,2023,DATA/lis_Lisu
+bfo,bfo_Latn,Latn,Malba Birifor,75,5978,"FineWeb2, v2.1.0",2,2017,2019,DATA/bfo_Latn
+lgm,lgm_Latn,Latn,Lega-Mwenga,58,5925,"FineWeb2, v2.1.0",2,2019,2020,DATA/lgm_Latn
+eka,eka_Latn,Latn,Ekajuk,61,5723,"FineWeb2, v2.1.0",2,2017,2019,DATA/eka_Latn
+jaa,jaa_Latn,Latn,Jamamadí,55,5686,"FineWeb2, v2.1.0",2,2018,2019,DATA/jaa_Latn
+yuz,yuz_Latn,Latn,Yuracare,67,5672,"FineWeb2, v2.1.0",1,2013,2013,DATA/yuz_Latn
+bom,bom_Latn,Latn,Berom,87,5582,"FineWeb2, v2.1.0",3,2017,2020,DATA/bom_Latn
+tbw,tbw_Latn,Latn,Tagbanwa,50,5436,"FineWeb2, v2.1.0",1,2019,2019,DATA/tbw_Latn
+gid,gid_Latn,Latn,Gidar,68,5063,"FineWeb2, v2.1.0",1,2019,2019,DATA/gid_Latn
+fud,fud_Latn,Latn,East Futuna,70,4921,"FineWeb2, v2.1.0",6,2013,2023,DATA/fud_Latn
+kei,kei_Latn,Latn,Kei,57,4802,"FineWeb2, v2.1.0",2,2021,2022,DATA/kei_Latn
+ayo,ayo_Latn,Latn,Ayoreo,72,4698,"FineWeb2, v2.1.0",2,2017,2018,DATA/ayo_Latn
+rel,rel_Latn,Latn,Rendille,62,4586,"FineWeb2, v2.1.0",1,2019,2019,DATA/rel_Latn
+lok,lok_Latn,Latn,Loko,59,4156,"FineWeb2, v2.1.0",1,2018,2018,DATA/lok_Latn
+whg,whg_Latn,Latn,North Wahgi,71,4102,"FineWeb2, v2.1.0",1,2023,2023,DATA/whg_Latn
+pss,pss_Latn,Latn,Kaulong,56,3905,"FineWeb2, v2.1.0",1,2022,2022,DATA/pss_Latn
+bvc,bvc_Latn,Latn,Baelelea,59,3861,"FineWeb2, v2.1.0",1,2019,2019,DATA/bvc_Latn
+nwx,nwx_Deva,Deva,Middle Newar,72,3829,"FineWeb2, v2.1.0",1,2022,2022,DATA/nwx_Deva
+dtb,dtb_Latn,Latn,Labuk-Kinabatangan Kadazan,53,3774,"FineWeb2, v2.1.0",1,2019,2019,DATA/dtb_Latn
+mnx,mnx_Latn,Latn,Manikion,51,3750,"FineWeb2, v2.1.0",1,2018,2018,DATA/mnx_Latn
+sbs,sbs_Latn,Latn,Subiya,53,3742,"FineWeb2, v2.1.0",2,2018,2021,DATA/sbs_Latn
+agw,agw_Latn,Latn,Kahua,44,3722,"FineWeb2, v2.1.0",1,2019,2019,DATA/agw_Latn
+kyu,kyu_Mymr,Mymr,Western Kayah,68,3686,"FineWeb2, v2.1.0",1,2018,2018,DATA/kyu_Mymr
+lol,lol_Latn,Latn,Mongo,68,3550,"FineWeb2, v2.1.0",3,2018,2022,DATA/lol_Latn
+dty,dty_Deva,Deva,Dotyali,93,3461,"FineWeb2, v2.1.0",4,2018,2023,DATA/dty_Deva
+tul,tul_Latn,Latn,Tula,51,3256,"FineWeb2, v2.1.0",1,2019,2019,DATA/tul_Latn
+alj,alj_Latn,Latn,Alangan,45,3012,"FineWeb2, v2.1.0",1,2018,2018,DATA/alj_Latn
+oku,oku_Latn,Latn,Oku,74,2968,"FineWeb2, v2.1.0",1,2020,2020,DATA/oku_Latn
+ktb,ktb_Ethi,Ethi,Kambaata,137,2850,"FineWeb2, v2.1.0",2,2014,2019,DATA/ktb_Ethi
+kqo,kqo_Latn,Latn,Eastern Krahn,63,2772,"FineWeb2, v2.1.0",1,2021,2021,DATA/kqo_Latn
+pos,pos_Latn,Latn,Sayula Popoluca,69,2758,"FineWeb2, v2.1.0",1,2019,2019,DATA/pos_Latn
+bmv,bmv_Latn,Latn,Bum,76,2702,"FineWeb2, v2.1.0",1,2017,2017,DATA/bmv_Latn
+tro,tro_Latn,Latn,Tarao Naga,59,2651,"FineWeb2, v2.1.0",1,2019,2019,DATA/tro_Latn
+nxd,nxd_Latn,Latn,Ngando (Democratic Republic of Congo),55,2611,"FineWeb2, v2.1.0",1,2019,2019,DATA/nxd_Latn
+bbo,bbo_Latn,Latn,Northern Bobo Madaré,63,2569,"FineWeb2, v2.1.0",1,2017,2017,DATA/bbo_Latn
+ksf,ksf_Latn,Latn,Bafia,74,2557,"FineWeb2, v2.1.0",1,2019,2019,DATA/ksf_Latn
+nza,nza_Latn,Latn,Tigon Mbembe,86,2523,"FineWeb2, v2.1.0",1,2019,2019,DATA/nza_Latn
+kpq,kpq_Latn,Latn,Korupun-Sela,59,2468,"FineWeb2, v2.1.0",1,2020,2020,DATA/kpq_Latn
+mkz,mkz_Latn,Latn,Makasae,57,2466,"FineWeb2, v2.1.0",1,2018,2018,DATA/mkz_Latn
+mfg,mfg_Latn,Latn,Mogofin,58,2460,"FineWeb2, v2.1.0",2,2023,2024,DATA/mfg_Latn
+mwf,mwf_Latn,Latn,Murrinh-Patha,50,2437,"FineWeb2, v2.1.0",1,2014,2014,DATA/mwf_Latn
+ngc,ngc_Latn,Latn,Ngombe (Democratic Republic of Congo),59,2368,"FineWeb2, v2.1.0",1,2019,2019,DATA/ngc_Latn
+pfe,pfe_Latn,Latn,Pere,78,2272,"FineWeb2, v2.1.0",1,2022,2022,DATA/pfe_Latn
+ttq,ttq_Tfng,Tfng,Tawallammat Tamajaq,37,2178,"FineWeb2, v2.1.0",1,2020,2020,DATA/ttq_Tfng
+ldn,ldn_Latn,Latn,Láadan,52,2157,"FineWeb2, v2.1.0",1,2021,2021,DATA/ldn_Latn
+loe,loe_Latn,Latn,Saluan,43,2102,"FineWeb2, v2.1.0",2,2018,2023,DATA/loe_Latn
+tzl,tzl_Latn,Latn,Talossan,69,1667,"FineWeb2, v2.1.0",1,2019,2019,DATA/tzl_Latn
+wes,wes_Latn,Latn,Cameroon Pidgin,59,1577,"FineWeb2, v2.1.0",3,2018,2020,DATA/wes_Latn
+ddn,ddn_Latn,Latn,Dendi (Benin),59,1212,"FineWeb2, v2.1.0",1,2017,2017,DATA/ddn_Latn
+pny,pny_Latn,Latn,Pinyin,67,1206,"FineWeb2, v2.1.0",1,2019,2019,DATA/pny_Latn
+nct,nct_Latn,Latn,Chothe Naga,47,1155,"FineWeb2, v2.1.0",1,2017,2017,DATA/nct_Latn
+soe,soe_Latn,Latn,Songomeno,45,1029,"FineWeb2, v2.1.0",2,2017,2018,DATA/soe_Latn
+tqo,tqo_Latn,Latn,Toaripi,46,920,"FineWeb2, v2.1.0",1,2017,2017,DATA/tqo_Latn
+bwq,bwq_Latn,Latn,Southern Bobo Madaré,53,771,"FineWeb2, v2.1.0",2,2013,2014,DATA/bwq_Latn
+aha,aha_Latn,Latn,Ahanta,42,655,"FineWeb2, v2.1.0",1,2017,2017,DATA/aha_Latn
+wew,wew_Latn,Latn,Wejewa,33,609,"FineWeb2, v2.1.0",1,2018,2018,DATA/wew_Latn
+mrv,mrv_Latn,Latn,Mangareva,25,607,"FineWeb2, v2.1.0",1,2017,2017,DATA/mrv_Latn
+nhk,nhk_Latn,Latn,Isthmus-Cosoleacaque Nahuatl,39,607,"FineWeb2, v2.1.0",1,2018,2018,DATA/nhk_Latn
+nhd,nhd_Latn,Latn,Chiripá,38,504,"FineWeb2, v2.1.0",1,2020,2020,DATA/nhd_Latn
+zpj,zpj_Latn,Latn,Quiavicuzas Zapotec,41,481,"FineWeb2, v2.1.0",1,2017,2017,DATA/zpj_Latn
+eto,eto_Latn,Latn,Eton (Cameroon),39,456,"FineWeb2, v2.1.0",1,2018,2018,DATA/eto_Latn
+cly,cly_Latn,Latn,Eastern Highland Chatino,48,430,"FineWeb2, v2.1.0",1,2017,2017,DATA/cly_Latn
+tig,tig_Ethi,Ethi,Tigre,92,360,"FineWeb2, v2.1.0",1,2020,2020,DATA/tig_Ethi

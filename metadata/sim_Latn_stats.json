@@ -1,0 +1,16 @@
+{
+  "language_code": "sim_Latn",
+  "iso_639_3": "sim",
+  "script": "Latn",
+  "language_name": "Mende (Papua New Guinea)",
+  "total_characters": 83,
+  "total_frequency": 1909925,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.355502"
+}

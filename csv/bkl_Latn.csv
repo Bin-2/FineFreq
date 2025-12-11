@@ -1,0 +1,65 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency
+bkl,Latn,bkl_Latn,Berik,a,Ll,LATIN SMALL LETTER A,5023,1,2017,5023
+bkl,Latn,bkl_Latn,Berik, ,Zs,SPACE,4509,1,2017,4509
+bkl,Latn,bkl_Latn,Berik,e,Ll,LATIN SMALL LETTER E,4022,1,2017,4022
+bkl,Latn,bkl_Latn,Berik,n,Ll,LATIN SMALL LETTER N,2375,1,2017,2375
+bkl,Latn,bkl_Latn,Berik,i,Ll,LATIN SMALL LETTER I,2122,1,2017,2122
+bkl,Latn,bkl_Latn,Berik,m,Ll,LATIN SMALL LETTER M,1824,1,2017,1824
+bkl,Latn,bkl_Latn,Berik,s,Ll,LATIN SMALL LETTER S,1371,1,2017,1371
+bkl,Latn,bkl_Latn,Berik,r,Ll,LATIN SMALL LETTER R,1292,1,2017,1292
+bkl,Latn,bkl_Latn,Berik,g,Ll,LATIN SMALL LETTER G,1265,1,2017,1265
+bkl,Latn,bkl_Latn,Berik,t,Ll,LATIN SMALL LETTER T,919,1,2017,919
+bkl,Latn,bkl_Latn,Berik,b,Ll,LATIN SMALL LETTER B,871,1,2017,871
+bkl,Latn,bkl_Latn,Berik,j,Ll,LATIN SMALL LETTER J,817,1,2017,817
+bkl,Latn,bkl_Latn,Berik,w,Ll,LATIN SMALL LETTER W,641,1,2017,641
+bkl,Latn,bkl_Latn,Berik,f,Ll,LATIN SMALL LETTER F,485,1,2017,485
+bkl,Latn,bkl_Latn,Berik,u,Ll,LATIN SMALL LETTER U,452,1,2017,452
+bkl,Latn,bkl_Latn,Berik,l,Ll,LATIN SMALL LETTER L,440,1,2017,440
+bkl,Latn,bkl_Latn,Berik,",",Po,COMMA,341,1,2017,341
+bkl,Latn,bkl_Latn,Berik,.,Po,FULL STOP,278,1,2017,278
+bkl,Latn,bkl_Latn,Berik,o,Ll,LATIN SMALL LETTER O,262,1,2017,262
+bkl,Latn,bkl_Latn,Berik,y,Ll,LATIN SMALL LETTER Y,258,1,2017,258
+bkl,Latn,bkl_Latn,Berik,k,Ll,LATIN SMALL LETTER K,238,1,2017,238
+bkl,Latn,bkl_Latn,Berik,S,Lu,LATIN CAPITAL LETTER S,190,1,2017,190
+bkl,Latn,bkl_Latn,Berik,J,Lu,LATIN CAPITAL LETTER J,184,1,2017,184
+bkl,Latn,bkl_Latn,Berik,U,Lu,LATIN CAPITAL LETTER U,181,1,2017,181
+bkl,Latn,bkl_Latn,Berik,p,Ll,LATIN SMALL LETTER P,149,1,2017,149
+bkl,Latn,bkl_Latn,Berik,A,Lu,LATIN CAPITAL LETTER A,138,1,2017,138
+bkl,Latn,bkl_Latn,Berik,-,Pd,HYPHEN-MINUS,118,1,2017,118
+bkl,Latn,bkl_Latn,Berik,d,Ll,LATIN SMALL LETTER D,86,1,2017,86
+bkl,Latn,bkl_Latn,Berik,Y,Lu,LATIN CAPITAL LETTER Y,80,1,2017,80
+bkl,Latn,bkl_Latn,Berik,1,Nd,DIGIT ONE,73,1,2017,73
+bkl,Latn,bkl_Latn,Berik,T,Lu,LATIN CAPITAL LETTER T,53,1,2017,53
+bkl,Latn,bkl_Latn,Berik,K,Lu,LATIN CAPITAL LETTER K,47,1,2017,47
+bkl,Latn,bkl_Latn,Berik,2,Nd,DIGIT TWO,40,1,2017,40
+bkl,Latn,bkl_Latn,Berik,"""",Po,QUOTATION MARK,34,1,2017,34
+bkl,Latn,bkl_Latn,Berik,M,Lu,LATIN CAPITAL LETTER M,34,1,2017,34
+bkl,Latn,bkl_Latn,Berik,h,Ll,LATIN SMALL LETTER H,31,1,2017,31
+bkl,Latn,bkl_Latn,Berik,N,Lu,LATIN CAPITAL LETTER N,27,1,2017,27
+bkl,Latn,bkl_Latn,Berik,:,Po,COLON,19,1,2017,19
+bkl,Latn,bkl_Latn,Berik,R,Lu,LATIN CAPITAL LETTER R,15,1,2017,15
+bkl,Latn,bkl_Latn,Berik,6,Nd,DIGIT SIX,15,1,2017,15
+bkl,Latn,bkl_Latn,Berik,4,Nd,DIGIT FOUR,14,1,2017,14
+bkl,Latn,bkl_Latn,Berik,3,Nd,DIGIT THREE,14,1,2017,14
+bkl,Latn,bkl_Latn,Berik,E,Lu,LATIN CAPITAL LETTER E,12,1,2017,12
+bkl,Latn,bkl_Latn,Berik,5,Nd,DIGIT FIVE,12,1,2017,12
+bkl,Latn,bkl_Latn,Berik,7,Nd,DIGIT SEVEN,12,1,2017,12
+bkl,Latn,bkl_Latn,Berik,8,Nd,DIGIT EIGHT,11,1,2017,11
+bkl,Latn,bkl_Latn,Berik,9,Nd,DIGIT NINE,11,1,2017,11
+bkl,Latn,bkl_Latn,Berik,D,Lu,LATIN CAPITAL LETTER D,11,1,2017,11
+bkl,Latn,bkl_Latn,Berik,I,Lu,LATIN CAPITAL LETTER I,10,1,2017,10
+bkl,Latn,bkl_Latn,Berik,G,Lu,LATIN CAPITAL LETTER G,10,1,2017,10
+bkl,Latn,bkl_Latn,Berik,0,Nd,DIGIT ZERO,10,1,2017,10
+bkl,Latn,bkl_Latn,Berik,B,Lu,LATIN CAPITAL LETTER B,9,1,2017,9
+bkl,Latn,bkl_Latn,Berik,!,Po,EXCLAMATION MARK,6,1,2017,6
+bkl,Latn,bkl_Latn,Berik,/,Po,SOLIDUS,6,1,2017,6
+bkl,Latn,bkl_Latn,Berik,),Pe,RIGHT PARENTHESIS,6,1,2017,6
+bkl,Latn,bkl_Latn,Berik,(,Ps,LEFT PARENTHESIS,6,1,2017,6
+bkl,Latn,bkl_Latn,Berik,;,Po,SEMICOLON,5,1,2017,5
+bkl,Latn,bkl_Latn,Berik,?,Po,QUESTION MARK,5,1,2017,5
+bkl,Latn,bkl_Latn,Berik,O,Lu,LATIN CAPITAL LETTER O,4,1,2017,4
+bkl,Latn,bkl_Latn,Berik,H,Lu,LATIN CAPITAL LETTER H,4,1,2017,4
+bkl,Latn,bkl_Latn,Berik,W,Lu,LATIN CAPITAL LETTER W,2,1,2017,2
+bkl,Latn,bkl_Latn,Berik,L,Lu,LATIN CAPITAL LETTER L,2,1,2017,2
+bkl,Latn,bkl_Latn,Berik,P,Lu,LATIN CAPITAL LETTER P,2,1,2017,2
+bkl,Latn,bkl_Latn,Berik,C,Lu,LATIN CAPITAL LETTER C,1,1,2017,1

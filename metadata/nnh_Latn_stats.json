@@ -1,0 +1,17 @@
+{
+  "language_code": "nnh_Latn",
+  "iso_639_3": "nnh",
+  "script": "Latn",
+  "language_name": "Ngiemboon",
+  "total_characters": 120,
+  "total_frequency": 43012,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2019",
+    "2020",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:06.281281"
+}

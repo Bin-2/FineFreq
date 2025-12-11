@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2021_frequency
+nwb,Latn,nwb_Latn,Nyabwa, ,Zs,SPACE,2017,2,"2014,2021",556,1461
+nwb,Latn,nwb_Latn,Nyabwa,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,996,1,2021,0,996
+nwb,Latn,nwb_Latn,Nyabwa,a,Ll,LATIN SMALL LETTER A,917,2,"2014,2021",293,624
+nwb,Latn,nwb_Latn,Nyabwa,ʋ,Ll,LATIN SMALL LETTER V WITH HOOK,594,2,"2014,2021",176,418
+nwb,Latn,nwb_Latn,Nyabwa,l,Ll,LATIN SMALL LETTER L,560,2,"2014,2021",166,394
+nwb,Latn,nwb_Latn,Nyabwa,-,Pd,HYPHEN-MINUS,486,2,"2014,2021",133,353
+nwb,Latn,nwb_Latn,Nyabwa,e,Ll,LATIN SMALL LETTER E,459,2,"2014,2021",110,349
+nwb,Latn,nwb_Latn,Nyabwa,ɔ,Ll,LATIN SMALL LETTER OPEN O,454,2,"2014,2021",134,320
+nwb,Latn,nwb_Latn,Nyabwa,n,Ll,LATIN SMALL LETTER N,428,2,"2014,2021",120,308
+nwb,Latn,nwb_Latn,Nyabwa,i,Ll,LATIN SMALL LETTER I,413,2,"2014,2021",127,286
+nwb,Latn,nwb_Latn,Nyabwa,',Po,APOSTROPHE,376,1,2014,376,0
+nwb,Latn,nwb_Latn,Nyabwa,y,Ll,LATIN SMALL LETTER Y,315,2,"2014,2021",83,232
+nwb,Latn,nwb_Latn,Nyabwa,ɩ,Ll,LATIN SMALL LETTER IOTA,309,2,"2014,2021",84,225
+nwb,Latn,nwb_Latn,Nyabwa,o,Ll,LATIN SMALL LETTER O,305,2,"2014,2021",102,203
+nwb,Latn,nwb_Latn,Nyabwa,k,Ll,LATIN SMALL LETTER K,267,2,"2014,2021",80,187
+nwb,Latn,nwb_Latn,Nyabwa,b,Ll,LATIN SMALL LETTER B,254,2,"2014,2021",68,186
+nwb,Latn,nwb_Latn,Nyabwa,ɛ,Ll,LATIN SMALL LETTER OPEN E,238,2,"2014,2021",52,186
+nwb,Latn,nwb_Latn,Nyabwa,m,Ll,LATIN SMALL LETTER M,231,2,"2014,2021",60,171
+nwb,Latn,nwb_Latn,Nyabwa,",",Po,COMMA,213,2,"2014,2021",63,150
+nwb,Latn,nwb_Latn,Nyabwa,w,Ll,LATIN SMALL LETTER W,203,2,"2014,2021",71,132
+nwb,Latn,nwb_Latn,Nyabwa,u,Ll,LATIN SMALL LETTER U,196,2,"2014,2021",51,145
+nwb,Latn,nwb_Latn,Nyabwa,z,Ll,LATIN SMALL LETTER Z,168,2,"2014,2021",55,113
+nwb,Latn,nwb_Latn,Nyabwa,d,Ll,LATIN SMALL LETTER D,150,2,"2014,2021",37,113
+nwb,Latn,nwb_Latn,Nyabwa,g,Ll,LATIN SMALL LETTER G,119,2,"2014,2021",27,92
+nwb,Latn,nwb_Latn,Nyabwa,.,Po,FULL STOP,118,2,"2014,2021",35,83
+nwb,Latn,nwb_Latn,Nyabwa,t,Ll,LATIN SMALL LETTER T,115,2,"2014,2021",27,88
+nwb,Latn,nwb_Latn,Nyabwa,p,Ll,LATIN SMALL LETTER P,106,2,"2014,2021",30,76
+nwb,Latn,nwb_Latn,Nyabwa,s,Ll,LATIN SMALL LETTER S,101,2,"2014,2021",31,70
+nwb,Latn,nwb_Latn,Nyabwa,h,Ll,LATIN SMALL LETTER H,96,2,"2014,2021",22,74
+nwb,Latn,nwb_Latn,Nyabwa,Z,Lu,LATIN CAPITAL LETTER Z,81,2,"2014,2021",29,52
+nwb,Latn,nwb_Latn,Nyabwa,r,Ll,LATIN SMALL LETTER R,65,2,"2014,2021",11,54
+nwb,Latn,nwb_Latn,Nyabwa,A,Lu,LATIN CAPITAL LETTER A,56,2,"2014,2021",24,32
+nwb,Latn,nwb_Latn,Nyabwa,L,Lu,LATIN CAPITAL LETTER L,53,2,"2014,2021",14,39
+nwb,Latn,nwb_Latn,Nyabwa,*,Po,ASTERISK,47,1,2021,0,47
+nwb,Latn,nwb_Latn,Nyabwa,1,Nd,DIGIT ONE,45,2,"2014,2021",14,31
+nwb,Latn,nwb_Latn,Nyabwa,E,Lu,LATIN CAPITAL LETTER E,39,2,"2014,2021",10,29
+nwb,Latn,nwb_Latn,Nyabwa,f,Ll,LATIN SMALL LETTER F,38,2,"2014,2021",11,27
+nwb,Latn,nwb_Latn,Nyabwa,B,Lu,LATIN CAPITAL LETTER B,30,2,"2014,2021",8,22
+nwb,Latn,nwb_Latn,Nyabwa,2,Nd,DIGIT TWO,29,2,"2014,2021",9,20
+nwb,Latn,nwb_Latn,Nyabwa,:,Po,COLON,29,2,"2014,2021",4,25
+nwb,Latn,nwb_Latn,Nyabwa,Ɔ,Lu,LATIN CAPITAL LETTER OPEN O,28,2,"2014,2021",10,18
+nwb,Latn,nwb_Latn,Nyabwa,M,Lu,LATIN CAPITAL LETTER M,24,2,"2014,2021",10,14
+nwb,Latn,nwb_Latn,Nyabwa,N,Lu,LATIN CAPITAL LETTER N,20,2,"2014,2021",5,15
+nwb,Latn,nwb_Latn,Nyabwa,I,Lu,LATIN CAPITAL LETTER I,18,2,"2014,2021",7,11
+nwb,Latn,nwb_Latn,Nyabwa,D,Lu,LATIN CAPITAL LETTER D,17,2,"2014,2021",7,10
+nwb,Latn,nwb_Latn,Nyabwa,S,Lu,LATIN CAPITAL LETTER S,17,2,"2014,2021",8,9
+nwb,Latn,nwb_Latn,Nyabwa,Ʋ,Lu,LATIN CAPITAL LETTER V WITH HOOK,17,2,"2014,2021",3,14
+nwb,Latn,nwb_Latn,Nyabwa,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,16,2,"2014,2021",5,11
+nwb,Latn,nwb_Latn,Nyabwa,v,Ll,LATIN SMALL LETTER V,15,2,"2014,2021",6,9
+nwb,Latn,nwb_Latn,Nyabwa,c,Ll,LATIN SMALL LETTER C,12,1,2021,0,12
+nwb,Latn,nwb_Latn,Nyabwa,K,Lu,LATIN CAPITAL LETTER K,12,2,"2014,2021",5,7
+nwb,Latn,nwb_Latn,Nyabwa,3,Nd,DIGIT THREE,12,2,"2014,2021",3,9
+nwb,Latn,nwb_Latn,Nyabwa,W,Lu,LATIN CAPITAL LETTER W,11,2,"2014,2021",4,7
+nwb,Latn,nwb_Latn,Nyabwa,O,Lu,LATIN CAPITAL LETTER O,9,2,"2014,2021",4,5
+nwb,Latn,nwb_Latn,Nyabwa,4,Nd,DIGIT FOUR,8,2,"2014,2021",3,5
+nwb,Latn,nwb_Latn,Nyabwa,5,Nd,DIGIT FIVE,8,2,"2014,2021",3,5
+nwb,Latn,nwb_Latn,Nyabwa,8,Nd,DIGIT EIGHT,7,2,"2014,2021",2,5
+nwb,Latn,nwb_Latn,Nyabwa,9,Nd,DIGIT NINE,7,2,"2014,2021",2,5
+nwb,Latn,nwb_Latn,Nyabwa,0,Nd,DIGIT ZERO,7,2,"2014,2021",2,5
+nwb,Latn,nwb_Latn,Nyabwa,7,Nd,DIGIT SEVEN,7,2,"2014,2021",2,5
+nwb,Latn,nwb_Latn,Nyabwa,6,Nd,DIGIT SIX,6,2,"2014,2021",2,4
+nwb,Latn,nwb_Latn,Nyabwa,!,Po,EXCLAMATION MARK,6,2,"2014,2021",2,4
+nwb,Latn,nwb_Latn,Nyabwa,j,Ll,LATIN SMALL LETTER J,6,2,"2014,2021",1,5
+nwb,Latn,nwb_Latn,Nyabwa,F,Lu,LATIN CAPITAL LETTER F,4,2,"2014,2021",2,2
+nwb,Latn,nwb_Latn,Nyabwa,T,Lu,LATIN CAPITAL LETTER T,4,2,"2014,2021",1,3
+nwb,Latn,nwb_Latn,Nyabwa,Ɩ,Lu,LATIN CAPITAL LETTER IOTA,3,2,"2014,2021",1,2
+nwb,Latn,nwb_Latn,Nyabwa,R,Lu,LATIN CAPITAL LETTER R,3,2,"2014,2021",1,2
+nwb,Latn,nwb_Latn,Nyabwa,C,Lu,LATIN CAPITAL LETTER C,3,1,2021,0,3
+nwb,Latn,nwb_Latn,Nyabwa,?,Po,QUESTION MARK,3,1,2021,0,3
+nwb,Latn,nwb_Latn,Nyabwa,Y,Lu,LATIN CAPITAL LETTER Y,2,1,2021,0,2
+nwb,Latn,nwb_Latn,Nyabwa,U,Lu,LATIN CAPITAL LETTER U,2,2,"2014,2021",1,1
+nwb,Latn,nwb_Latn,Nyabwa,G,Lu,LATIN CAPITAL LETTER G,2,1,2021,0,2
+nwb,Latn,nwb_Latn,Nyabwa,),Pe,RIGHT PARENTHESIS,2,1,2021,0,2
+nwb,Latn,nwb_Latn,Nyabwa,(,Ps,LEFT PARENTHESIS,2,1,2021,0,2
+nwb,Latn,nwb_Latn,Nyabwa,;,Po,SEMICOLON,2,2,"2014,2021",1,1
+nwb,Latn,nwb_Latn,Nyabwa,q,Ll,LATIN SMALL LETTER Q,1,1,2014,1,0

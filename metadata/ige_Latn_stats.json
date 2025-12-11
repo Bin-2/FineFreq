@@ -1,0 +1,18 @@
+{
+  "language_code": "ige_Latn",
+  "iso_639_3": "ige",
+  "script": "Latn",
+  "language_name": "Igede",
+  "total_characters": 133,
+  "total_frequency": 241219,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:56.339639"
+}

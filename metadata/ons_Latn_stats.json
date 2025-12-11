@@ -1,0 +1,15 @@
+{
+  "language_code": "ons_Latn",
+  "iso_639_3": "ons",
+  "script": "Latn",
+  "language_name": "Ono",
+  "total_characters": 100,
+  "total_frequency": 139921,
+  "years_covered": [
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.297090"
+}

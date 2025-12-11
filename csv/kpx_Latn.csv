@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2017_frequency,year_2018_frequency,year_2022_frequency,year_2023_frequency
+kpx,Latn,kpx_Latn,Mountain Koiali, ,Zs,SPACE,198311,5,"2013,2017,2018,2022,2023",1792,6531,188913,695,380
+kpx,Latn,kpx_Latn,Mountain Koiali,a,Ll,LATIN SMALL LETTER A,157500,5,"2013,2017,2018,2022,2023",1544,5841,149148,649,318
+kpx,Latn,kpx_Latn,Mountain Koiali,e,Ll,LATIN SMALL LETTER E,151049,5,"2013,2017,2018,2022,2023",1415,4948,143841,541,304
+kpx,Latn,kpx_Latn,Mountain Koiali,i,Ll,LATIN SMALL LETTER I,94592,5,"2013,2017,2018,2022,2023",1048,3539,89394,399,212
+kpx,Latn,kpx_Latn,Mountain Koiali,o,Ll,LATIN SMALL LETTER O,87825,5,"2013,2017,2018,2022,2023",754,2771,83763,338,199
+kpx,Latn,kpx_Latn,Mountain Koiali,l,Ll,LATIN SMALL LETTER L,66617,5,"2013,2017,2018,2022,2023",557,2440,63196,262,162
+kpx,Latn,kpx_Latn,Mountain Koiali,u,Ll,LATIN SMALL LETTER U,61873,5,"2013,2017,2018,2022,2023",510,2370,58663,242,88
+kpx,Latn,kpx_Latn,Mountain Koiali,v,Ll,LATIN SMALL LETTER V,57118,5,"2013,2017,2018,2022,2023",676,2107,53936,258,141
+kpx,Latn,kpx_Latn,Mountain Koiali,h,Ll,LATIN SMALL LETTER H,48413,5,"2013,2017,2018,2022,2023",443,1652,46003,201,114
+kpx,Latn,kpx_Latn,Mountain Koiali,t,Ll,LATIN SMALL LETTER T,44865,5,"2013,2017,2018,2022,2023",387,1240,43026,148,64
+kpx,Latn,kpx_Latn,Mountain Koiali,n,Ll,LATIN SMALL LETTER N,37304,5,"2013,2017,2018,2022,2023",291,1141,35677,127,68
+kpx,Latn,kpx_Latn,Mountain Koiali,s,Ll,LATIN SMALL LETTER S,34936,5,"2013,2017,2018,2022,2023",242,939,33608,103,44
+kpx,Latn,kpx_Latn,Mountain Koiali,m,Ll,LATIN SMALL LETTER M,32305,5,"2013,2017,2018,2022,2023",236,1011,30897,108,53
+kpx,Latn,kpx_Latn,Mountain Koiali,k,Ll,LATIN SMALL LETTER K,28583,5,"2013,2017,2018,2022,2023",289,961,27167,104,62
+kpx,Latn,kpx_Latn,Mountain Koiali,b,Ll,LATIN SMALL LETTER B,22682,5,"2013,2017,2018,2022,2023",224,762,21564,94,38
+kpx,Latn,kpx_Latn,Mountain Koiali,g,Ll,LATIN SMALL LETTER G,21892,5,"2013,2017,2018,2022,2023",182,768,20797,99,46
+kpx,Latn,kpx_Latn,Mountain Koiali,.,Po,FULL STOP,18218,5,"2013,2017,2018,2022,2023",162,652,17301,60,43
+kpx,Latn,kpx_Latn,Mountain Koiali,d,Ll,LATIN SMALL LETTER D,15717,5,"2013,2017,2018,2022,2023",139,468,15048,42,20
+kpx,Latn,kpx_Latn,Mountain Koiali,r,Ll,LATIN SMALL LETTER R,13012,1,2018,0,0,13012,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,I,Lu,LATIN CAPITAL LETTER I,9995,5,"2013,2017,2018,2022,2023",77,343,9524,35,16
+kpx,Latn,kpx_Latn,Mountain Koiali,D,Lu,LATIN CAPITAL LETTER D,6287,5,"2013,2017,2018,2022,2023",46,329,5873,33,6
+kpx,Latn,kpx_Latn,Mountain Koiali,K,Lu,LATIN CAPITAL LETTER K,4975,5,"2013,2017,2018,2022,2023",44,237,4663,18,13
+kpx,Latn,kpx_Latn,Mountain Koiali,",",Po,COMMA,4903,5,"2013,2017,2018,2022,2023",17,115,4756,9,6
+kpx,Latn,kpx_Latn,Mountain Koiali,1,Nd,DIGIT ONE,3921,5,"2013,2017,2018,2022,2023",38,126,3728,18,11
+kpx,Latn,kpx_Latn,Mountain Koiali,c,Ll,LATIN SMALL LETTER C,3873,1,2018,0,0,3873,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,T,Lu,LATIN CAPITAL LETTER T,3017,4,"2013,2017,2018,2022",14,31,2971,1,0
+kpx,Latn,kpx_Latn,Mountain Koiali,V,Lu,LATIN CAPITAL LETTER V,3002,4,"2013,2017,2018,2022",3,27,2967,5,0
+kpx,Latn,kpx_Latn,Mountain Koiali,S,Lu,LATIN CAPITAL LETTER S,2556,4,"2013,2017,2018,2022",1,36,2515,4,0
+kpx,Latn,kpx_Latn,Mountain Koiali,w,Ll,LATIN SMALL LETTER W,2460,1,2018,0,0,2460,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,',Po,APOSTROPHE,2426,1,2018,0,0,2426,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,E,Lu,LATIN CAPITAL LETTER E,2413,4,"2013,2017,2018,2023",7,34,2371,0,1
+kpx,Latn,kpx_Latn,Mountain Koiali,2,Nd,DIGIT TWO,2392,5,"2013,2017,2018,2022,2023",12,87,2285,6,2
+kpx,Latn,kpx_Latn,Mountain Koiali,f,Ll,LATIN SMALL LETTER F,2043,1,2018,0,0,2043,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,p,Ll,LATIN SMALL LETTER P,2038,1,2018,0,0,2038,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,“,Pi,LEFT DOUBLE QUOTATION MARK,1925,5,"2013,2017,2018,2022,2023",9,57,1851,5,3
+kpx,Latn,kpx_Latn,Mountain Koiali,N,Lu,LATIN CAPITAL LETTER N,1837,5,"2013,2017,2018,2022,2023",7,36,1773,7,14
+kpx,Latn,kpx_Latn,Mountain Koiali,”,Pf,RIGHT DOUBLE QUOTATION MARK,1781,5,"2013,2017,2018,2022,2023",9,56,1709,4,3
+kpx,Latn,kpx_Latn,Mountain Koiali,A,Lu,LATIN CAPITAL LETTER A,1772,5,"2013,2017,2018,2022,2023",29,65,1668,7,3
+kpx,Latn,kpx_Latn,Mountain Koiali,H,Lu,LATIN CAPITAL LETTER H,1737,5,"2013,2017,2018,2022,2023",6,16,1712,1,2
+kpx,Latn,kpx_Latn,Mountain Koiali,B,Lu,LATIN CAPITAL LETTER B,1713,5,"2013,2017,2018,2022,2023",9,43,1659,1,1
+kpx,Latn,kpx_Latn,Mountain Koiali,L,Lu,LATIN CAPITAL LETTER L,1632,5,"2013,2017,2018,2022,2023",7,28,1591,2,4
+kpx,Latn,kpx_Latn,Mountain Koiali,3,Nd,DIGIT THREE,1462,5,"2013,2017,2018,2022,2023",8,42,1405,4,3
+kpx,Latn,kpx_Latn,Mountain Koiali,y,Ll,LATIN SMALL LETTER Y,1427,1,2018,0,0,1427,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,x,Ll,LATIN SMALL LETTER X,1416,1,2018,0,0,1416,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,M,Lu,LATIN CAPITAL LETTER M,1337,4,"2013,2017,2018,2022",8,62,1264,3,0
+kpx,Latn,kpx_Latn,Mountain Koiali,4,Nd,DIGIT FOUR,1090,5,"2013,2017,2018,2022,2023",8,39,1037,4,2
+kpx,Latn,kpx_Latn,Mountain Koiali,0,Nd,DIGIT ZERO,1033,5,"2013,2017,2018,2022,2023",5,28,997,2,1
+kpx,Latn,kpx_Latn,Mountain Koiali,G,Lu,LATIN CAPITAL LETTER G,987,3,"2013,2017,2018",2,12,973,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,U,Lu,LATIN CAPITAL LETTER U,876,3,"2017,2018,2023",0,1,874,0,1
+kpx,Latn,kpx_Latn,Mountain Koiali,5,Nd,DIGIT FIVE,848,5,"2013,2017,2018,2022,2023",8,37,797,4,2
+kpx,Latn,kpx_Latn,Mountain Koiali,8,Nd,DIGIT EIGHT,834,5,"2013,2017,2018,2022,2023",5,26,799,2,2
+kpx,Latn,kpx_Latn,Mountain Koiali,P,Lu,LATIN CAPITAL LETTER P,820,1,2018,0,0,820,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,6,Nd,DIGIT SIX,731,5,"2013,2017,2018,2022,2023",6,36,684,3,2
+kpx,Latn,kpx_Latn,Mountain Koiali,7,Nd,DIGIT SEVEN,728,5,"2013,2017,2018,2022,2023",5,45,673,3,2
+kpx,Latn,kpx_Latn,Mountain Koiali,J,Lu,LATIN CAPITAL LETTER J,648,1,2018,0,0,648,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,C,Lu,LATIN CAPITAL LETTER C,639,1,2018,0,0,639,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,9,Nd,DIGIT NINE,610,5,"2013,2017,2018,2022,2023",5,25,577,2,1
+kpx,Latn,kpx_Latn,Mountain Koiali,‘,Pi,LEFT SINGLE QUOTATION MARK,452,4,"2013,2017,2018,2022",1,11,439,1,0
+kpx,Latn,kpx_Latn,Mountain Koiali,’,Pf,RIGHT SINGLE QUOTATION MARK,446,4,"2013,2017,2018,2022",1,11,433,1,0
+kpx,Latn,kpx_Latn,Mountain Koiali,),Pe,RIGHT PARENTHESIS,443,2,"2017,2018",0,13,430,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,(,Ps,LEFT PARENTHESIS,443,2,"2017,2018",0,13,430,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,-,Pd,HYPHEN-MINUS,432,4,"2013,2017,2018,2022",1,5,422,4,0
+kpx,Latn,kpx_Latn,Mountain Koiali,W,Lu,LATIN CAPITAL LETTER W,406,1,2018,0,0,406,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,O,Lu,LATIN CAPITAL LETTER O,303,4,"2013,2017,2018,2023",2,8,292,0,1
+kpx,Latn,kpx_Latn,Mountain Koiali,R,Lu,LATIN CAPITAL LETTER R,234,1,2018,0,0,234,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,:,Po,COLON,206,2,"2017,2018",0,1,205,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,`,Sk,GRAVE ACCENT,203,1,2018,0,0,203,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,X,Lu,LATIN CAPITAL LETTER X,203,1,2018,0,0,203,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,F,Lu,LATIN CAPITAL LETTER F,203,1,2018,0,0,203,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,q,Ll,LATIN SMALL LETTER Q,203,1,2018,0,0,203,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,©,So,COPYRIGHT SIGN,203,1,2018,0,0,203,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,Y,Lu,LATIN CAPITAL LETTER Y,202,1,2018,0,0,202,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,&,Po,AMPERSAND,202,1,2018,0,0,202,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,;,Po,SEMICOLON,7,1,2018,0,0,7,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,!,Po,EXCLAMATION MARK,2,1,2018,0,0,2,0,0
+kpx,Latn,kpx_Latn,Mountain Koiali,/,Po,SOLIDUS,1,1,2018,0,0,1,0,0

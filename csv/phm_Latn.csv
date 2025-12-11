@@ -1,0 +1,73 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2020_frequency
+phm,Latn,phm_Latn,Phimbi,a,Ll,LATIN SMALL LETTER A,1323,2,"2016,2020",559,764
+phm,Latn,phm_Latn,Phimbi, ,Zs,SPACE,1024,2,"2016,2020",432,592
+phm,Latn,phm_Latn,Phimbi,i,Ll,LATIN SMALL LETTER I,651,2,"2016,2020",272,379
+phm,Latn,phm_Latn,Phimbi,e,Ll,LATIN SMALL LETTER E,477,2,"2016,2020",234,243
+phm,Latn,phm_Latn,Phimbi,u,Ll,LATIN SMALL LETTER U,466,2,"2016,2020",153,313
+phm,Latn,phm_Latn,Phimbi,n,Ll,LATIN SMALL LETTER N,405,2,"2016,2020",123,282
+phm,Latn,phm_Latn,Phimbi,k,Ll,LATIN SMALL LETTER K,387,2,"2016,2020",175,212
+phm,Latn,phm_Latn,Phimbi,l,Ll,LATIN SMALL LETTER L,352,2,"2016,2020",149,203
+phm,Latn,phm_Latn,Phimbi,d,Ll,LATIN SMALL LETTER D,321,2,"2016,2020",112,209
+phm,Latn,phm_Latn,Phimbi,m,Ll,LATIN SMALL LETTER M,268,2,"2016,2020",97,171
+phm,Latn,phm_Latn,Phimbi,o,Ll,LATIN SMALL LETTER O,254,2,"2016,2020",102,152
+phm,Latn,phm_Latn,Phimbi,w,Ll,LATIN SMALL LETTER W,213,2,"2016,2020",80,133
+phm,Latn,phm_Latn,Phimbi,h,Ll,LATIN SMALL LETTER H,206,2,"2016,2020",88,118
+phm,Latn,phm_Latn,Phimbi,y,Ll,LATIN SMALL LETTER Y,187,2,"2016,2020",70,117
+phm,Latn,phm_Latn,Phimbi,t,Ll,LATIN SMALL LETTER T,179,2,"2016,2020",67,112
+phm,Latn,phm_Latn,Phimbi,z,Ll,LATIN SMALL LETTER Z,169,2,"2016,2020",74,95
+phm,Latn,phm_Latn,Phimbi,b,Ll,LATIN SMALL LETTER B,168,2,"2016,2020",82,86
+phm,Latn,phm_Latn,Phimbi,p,Ll,LATIN SMALL LETTER P,132,2,"2016,2020",51,81
+phm,Latn,phm_Latn,Phimbi,s,Ll,LATIN SMALL LETTER S,98,2,"2016,2020",45,53
+phm,Latn,phm_Latn,Phimbi,",",Po,COMMA,80,2,"2016,2020",25,55
+phm,Latn,phm_Latn,Phimbi,c,Ll,LATIN SMALL LETTER C,71,2,"2016,2020",20,51
+phm,Latn,phm_Latn,Phimbi,.,Po,FULL STOP,69,2,"2016,2020",16,53
+phm,Latn,phm_Latn,Phimbi,M,Lu,LATIN CAPITAL LETTER M,65,2,"2016,2020",21,44
+phm,Latn,phm_Latn,Phimbi,v,Ll,LATIN SMALL LETTER V,59,2,"2016,2020",30,29
+phm,Latn,phm_Latn,Phimbi,g,Ll,LATIN SMALL LETTER G,48,2,"2016,2020",10,38
+phm,Latn,phm_Latn,Phimbi,f,Ll,LATIN SMALL LETTER F,46,2,"2016,2020",22,24
+phm,Latn,phm_Latn,Phimbi,A,Lu,LATIN CAPITAL LETTER A,40,2,"2016,2020",22,18
+phm,Latn,phm_Latn,Phimbi,;,Po,SEMICOLON,39,2,"2016,2020",38,1
+phm,Latn,phm_Latn,Phimbi,J,Lu,LATIN CAPITAL LETTER J,39,2,"2016,2020",30,9
+phm,Latn,phm_Latn,Phimbi,”,Pf,RIGHT DOUBLE QUOTATION MARK,23,2,"2016,2020",2,21
+phm,Latn,phm_Latn,Phimbi,“,Pi,LEFT DOUBLE QUOTATION MARK,23,2,"2016,2020",2,21
+phm,Latn,phm_Latn,Phimbi,r,Ll,LATIN SMALL LETTER R,19,2,"2016,2020",14,5
+phm,Latn,phm_Latn,Phimbi,K,Lu,LATIN CAPITAL LETTER K,19,2,"2016,2020",6,13
+phm,Latn,phm_Latn,Phimbi,N,Lu,LATIN CAPITAL LETTER N,18,2,"2016,2020",3,15
+phm,Latn,phm_Latn,Phimbi,Y,Lu,LATIN CAPITAL LETTER Y,17,2,"2016,2020",2,15
+phm,Latn,phm_Latn,Phimbi,I,Lu,LATIN CAPITAL LETTER I,16,2,"2016,2020",5,11
+phm,Latn,phm_Latn,Phimbi,D,Lu,LATIN CAPITAL LETTER D,11,2,"2016,2020",8,3
+phm,Latn,phm_Latn,Phimbi,P,Lu,LATIN CAPITAL LETTER P,11,2,"2016,2020",7,4
+phm,Latn,phm_Latn,Phimbi,S,Lu,LATIN CAPITAL LETTER S,11,2,"2016,2020",6,5
+phm,Latn,phm_Latn,Phimbi,C,Lu,LATIN CAPITAL LETTER C,10,2,"2016,2020",5,5
+phm,Latn,phm_Latn,Phimbi,2,Nd,DIGIT TWO,9,1,2016,9,0
+phm,Latn,phm_Latn,Phimbi,),Pe,RIGHT PARENTHESIS,9,2,"2016,2020",6,3
+phm,Latn,phm_Latn,Phimbi,?,Po,QUESTION MARK,9,1,2020,0,9
+phm,Latn,phm_Latn,Phimbi,(,Ps,LEFT PARENTHESIS,9,2,"2016,2020",6,3
+phm,Latn,phm_Latn,Phimbi,E,Lu,LATIN CAPITAL LETTER E,8,2,"2016,2020",6,2
+phm,Latn,phm_Latn,Phimbi,T,Lu,LATIN CAPITAL LETTER T,8,2,"2016,2020",4,4
+phm,Latn,phm_Latn,Phimbi,B,Lu,LATIN CAPITAL LETTER B,8,2,"2016,2020",6,2
+phm,Latn,phm_Latn,Phimbi,U,Lu,LATIN CAPITAL LETTER U,7,2,"2016,2020",3,4
+phm,Latn,phm_Latn,Phimbi,1,Nd,DIGIT ONE,7,2,"2016,2020",6,1
+phm,Latn,phm_Latn,Phimbi,Z,Lu,LATIN CAPITAL LETTER Z,7,2,"2016,2020",5,2
+phm,Latn,phm_Latn,Phimbi,:,Po,COLON,7,2,"2016,2020",3,4
+phm,Latn,phm_Latn,Phimbi,L,Lu,LATIN CAPITAL LETTER L,6,1,2016,6,0
+phm,Latn,phm_Latn,Phimbi,H,Lu,LATIN CAPITAL LETTER H,4,1,2016,4,0
+phm,Latn,phm_Latn,Phimbi,j,Ll,LATIN SMALL LETTER J,4,1,2020,0,4
+phm,Latn,phm_Latn,Phimbi,-,Pd,HYPHEN-MINUS,3,2,"2016,2020",1,2
+phm,Latn,phm_Latn,Phimbi,O,Lu,LATIN CAPITAL LETTER O,2,1,2016,2,0
+phm,Latn,phm_Latn,Phimbi,6,Nd,DIGIT SIX,2,1,2016,2,0
+phm,Latn,phm_Latn,Phimbi,q,Ll,LATIN SMALL LETTER Q,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,R,Lu,LATIN CAPITAL LETTER R,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,W,Lu,LATIN CAPITAL LETTER W,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,!,Po,EXCLAMATION MARK,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,4,Nd,DIGIT FOUR,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,–,Pd,EN DASH,1,1,2020,0,1
+phm,Latn,phm_Latn,Phimbi,5,Nd,DIGIT FIVE,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,3,Nd,DIGIT THREE,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,0,Nd,DIGIT ZERO,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,9,Nd,DIGIT NINE,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,8,Nd,DIGIT EIGHT,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,7,Nd,DIGIT SEVEN,1,1,2016,1,0
+phm,Latn,phm_Latn,Phimbi,F,Lu,LATIN CAPITAL LETTER F,1,1,2020,0,1

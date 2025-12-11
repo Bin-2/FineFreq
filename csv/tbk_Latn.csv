@@ -1,0 +1,68 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2021_frequency
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,a,Ll,LATIN SMALL LETTER A,3516,3,"2017,2019,2021",219,2716,581
+tbk,Latn,tbk_Latn,Calamian Tagbanwa, ,Zs,SPACE,3069,3,"2017,2019,2021",182,2385,502
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,n,Ll,LATIN SMALL LETTER N,2466,3,"2017,2019,2021",136,1912,418
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,g,Ll,LATIN SMALL LETTER G,1734,3,"2017,2019,2021",90,1352,292
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,i,Ll,LATIN SMALL LETTER I,1120,3,"2017,2019,2021",65,874,181
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,u,Ll,LATIN SMALL LETTER U,1018,3,"2017,2019,2021",61,775,182
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,t,Ll,LATIN SMALL LETTER T,825,3,"2017,2019,2021",45,654,126
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,y,Ll,LATIN SMALL LETTER Y,602,3,"2017,2019,2021",41,462,99
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,m,Ll,LATIN SMALL LETTER M,488,3,"2017,2019,2021",40,366,82
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,s,Ll,LATIN SMALL LETTER S,461,3,"2017,2019,2021",30,363,68
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,p,Ll,LATIN SMALL LETTER P,449,3,"2017,2019,2021",30,330,89
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,e,Ll,LATIN SMALL LETTER E,438,3,"2017,2019,2021",26,343,69
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,k,Ll,LATIN SMALL LETTER K,365,3,"2017,2019,2021",28,260,77
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,l,Ll,LATIN SMALL LETTER L,346,3,"2017,2019,2021",24,264,58
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,r,Ll,LATIN SMALL LETTER R,315,3,"2017,2019,2021",19,247,49
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,d,Ll,LATIN SMALL LETTER D,303,3,"2017,2019,2021",29,225,49
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,̱,Mn,COMBINING MACRON BELOW,257,3,"2017,2019,2021",4,205,48
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,",",Po,COMMA,189,3,"2017,2019,2021",10,153,26
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,b,Ll,LATIN SMALL LETTER B,158,3,"2017,2019,2021",10,129,19
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,.,Po,FULL STOP,129,3,"2017,2019,2021",8,105,16
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,w,Ll,LATIN SMALL LETTER W,121,3,"2017,2019,2021",7,89,25
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,o,Ll,LATIN SMALL LETTER O,96,3,"2017,2019,2021",4,79,13
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,J,Lu,LATIN CAPITAL LETTER J,68,3,"2017,2019,2021",1,52,15
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,1,Nd,DIGIT ONE,62,3,"2017,2019,2021",1,49,12
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,D,Lu,LATIN CAPITAL LETTER D,59,3,"2017,2019,2021",2,48,9
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,T,Lu,LATIN CAPITAL LETTER T,58,3,"2017,2019,2021",2,24,32
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,N,Lu,LATIN CAPITAL LETTER N,43,3,"2017,2019,2021",1,25,17
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,Y,Lu,LATIN CAPITAL LETTER Y,42,3,"2017,2019,2021",1,28,13
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,:,Po,COLON,42,3,"2017,2019,2021",1,25,16
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,A,Lu,LATIN CAPITAL LETTER A,39,3,"2017,2019,2021",4,30,5
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,P,Lu,LATIN CAPITAL LETTER P,36,3,"2017,2019,2021",1,32,3
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,B,Lu,LATIN CAPITAL LETTER B,36,2,"2019,2021",0,11,25
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,“,Pi,LEFT DOUBLE QUOTATION MARK,31,2,"2019,2021",0,29,2
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,K,Lu,LATIN CAPITAL LETTER K,31,3,"2017,2019,2021",3,11,17
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,M,Lu,LATIN CAPITAL LETTER M,31,2,"2019,2021",0,30,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,”,Pf,RIGHT DOUBLE QUOTATION MARK,30,2,"2019,2021",0,29,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,3,Nd,DIGIT THREE,27,3,"2017,2019,2021",1,22,4
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,2,Nd,DIGIT TWO,26,2,"2019,2021",0,24,2
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,4,Nd,DIGIT FOUR,25,2,"2019,2021",0,24,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,-,Pd,HYPHEN-MINUS,22,3,"2017,2019,2021",2,18,2
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,I,Lu,LATIN CAPITAL LETTER I,21,2,"2019,2021",0,12,9
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,S,Lu,LATIN CAPITAL LETTER S,17,2,"2019,2021",0,14,3
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,5,Nd,DIGIT FIVE,14,1,2019,0,14,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,8,Nd,DIGIT EIGHT,12,2,"2019,2021",0,11,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,7,Nd,DIGIT SEVEN,11,1,2019,0,11,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,G,Lu,LATIN CAPITAL LETTER G,10,2,"2019,2021",0,9,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,9,Nd,DIGIT NINE,10,2,"2019,2021",0,8,2
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,?,Po,QUESTION MARK,10,1,2019,0,10,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,0,Nd,DIGIT ZERO,9,2,"2019,2021",0,8,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,#,Po,NUMBER SIGN,9,1,2019,0,9,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,6,Nd,DIGIT SIX,9,3,"2017,2019,2021",1,7,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,C,Lu,LATIN CAPITAL LETTER C,8,1,2019,0,8,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,E,Lu,LATIN CAPITAL LETTER E,8,2,"2019,2021",0,6,2
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,),Pe,RIGHT PARENTHESIS,7,1,2019,0,7,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,(,Ps,LEFT PARENTHESIS,7,1,2019,0,7,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,U,Lu,LATIN CAPITAL LETTER U,7,2,"2019,2021",0,6,1
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,F,Lu,LATIN CAPITAL LETTER F,6,1,2019,0,6,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,',Po,APOSTROPHE,3,1,2017,3,0,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,‘,Pi,LEFT SINGLE QUOTATION MARK,3,1,2019,0,3,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,R,Lu,LATIN CAPITAL LETTER R,3,1,2019,0,3,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,’,Pf,RIGHT SINGLE QUOTATION MARK,3,1,2019,0,3,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,c,Ll,LATIN SMALL LETTER C,2,1,2019,0,2,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,z,Ll,LATIN SMALL LETTER Z,2,1,2019,0,2,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,f,Ll,LATIN SMALL LETTER F,2,1,2019,0,2,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,!,Po,EXCLAMATION MARK,2,1,2019,0,2,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,h,Ll,LATIN SMALL LETTER H,2,1,2017,2,0,0
+tbk,Latn,tbk_Latn,Calamian Tagbanwa,L,Lu,LATIN CAPITAL LETTER L,1,1,2017,1,0,0

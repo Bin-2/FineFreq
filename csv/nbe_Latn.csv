@@ -1,0 +1,83 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2024_frequency
+nbe,Latn,nbe_Latn,Konyak Naga, ,Zs,SPACE,8753,5,"2017,2018,2019,2020,2024",102,6224,653,452,1322
+nbe,Latn,nbe_Latn,Konyak Naga,a,Ll,LATIN SMALL LETTER A,5547,5,"2017,2018,2019,2020,2024",98,3577,451,350,1071
+nbe,Latn,nbe_Latn,Konyak Naga,n,Ll,LATIN SMALL LETTER N,5530,5,"2017,2018,2019,2020,2024",102,3743,483,231,971
+nbe,Latn,nbe_Latn,Konyak Naga,e,Ll,LATIN SMALL LETTER E,4374,5,"2017,2018,2019,2020,2024",61,2902,353,228,830
+nbe,Latn,nbe_Latn,Konyak Naga,g,Ll,LATIN SMALL LETTER G,2964,5,"2017,2018,2019,2020,2024",44,1933,329,106,552
+nbe,Latn,nbe_Latn,Konyak Naga,i,Ll,LATIN SMALL LETTER I,2901,5,"2017,2018,2019,2020,2024",36,1966,241,146,512
+nbe,Latn,nbe_Latn,Konyak Naga,h,Ll,LATIN SMALL LETTER H,2788,5,"2017,2018,2019,2020,2024",37,1808,282,174,487
+nbe,Latn,nbe_Latn,Konyak Naga,o,Ll,LATIN SMALL LETTER O,2173,5,"2017,2018,2019,2020,2024",22,1385,153,124,489
+nbe,Latn,nbe_Latn,Konyak Naga,m,Ll,LATIN SMALL LETTER M,1889,5,"2017,2018,2019,2020,2024",19,1268,147,81,374
+nbe,Latn,nbe_Latn,Konyak Naga,p,Ll,LATIN SMALL LETTER P,1857,5,"2017,2018,2019,2020,2024",32,1224,90,135,376
+nbe,Latn,nbe_Latn,Konyak Naga,t,Ll,LATIN SMALL LETTER T,1727,5,"2017,2018,2019,2020,2024",39,1140,119,86,343
+nbe,Latn,nbe_Latn,Konyak Naga,y,Ll,LATIN SMALL LETTER Y,1650,5,"2017,2018,2019,2020,2024",12,1105,190,63,280
+nbe,Latn,nbe_Latn,Konyak Naga,u,Ll,LATIN SMALL LETTER U,1501,5,"2017,2018,2019,2020,2024",36,1041,63,76,285
+nbe,Latn,nbe_Latn,Konyak Naga,k,Ll,LATIN SMALL LETTER K,1437,5,"2017,2018,2019,2020,2024",6,989,130,55,257
+nbe,Latn,nbe_Latn,Konyak Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,1249,4,"2018,2019,2020,2024",0,742,183,83,241
+nbe,Latn,nbe_Latn,Konyak Naga,l,Ll,LATIN SMALL LETTER L,1173,5,"2017,2018,2019,2020,2024",25,684,100,67,297
+nbe,Latn,nbe_Latn,Konyak Naga,s,Ll,LATIN SMALL LETTER S,682,5,"2017,2018,2019,2020,2024",7,467,30,67,111
+nbe,Latn,nbe_Latn,Konyak Naga,j,Ll,LATIN SMALL LETTER J,581,5,"2017,2018,2019,2020,2024",3,392,14,24,148
+nbe,Latn,nbe_Latn,Konyak Naga,w,Ll,LATIN SMALL LETTER W,557,5,"2017,2018,2019,2020,2024",9,340,100,23,85
+nbe,Latn,nbe_Latn,Konyak Naga,.,Po,FULL STOP,488,5,"2017,2018,2019,2020,2024",3,367,36,20,62
+nbe,Latn,nbe_Latn,Konyak Naga,",",Po,COMMA,482,5,"2017,2018,2019,2020,2024",8,252,53,60,109
+nbe,Latn,nbe_Latn,Konyak Naga,-,Pd,HYPHEN-MINUS,452,5,"2017,2018,2019,2020,2024",1,288,14,6,143
+nbe,Latn,nbe_Latn,Konyak Naga,I,Lu,LATIN CAPITAL LETTER I,174,5,"2017,2018,2019,2020,2024",1,152,4,16,1
+nbe,Latn,nbe_Latn,Konyak Naga,K,Lu,LATIN CAPITAL LETTER K,153,5,"2017,2018,2019,2020,2024",3,93,35,10,12
+nbe,Latn,nbe_Latn,Konyak Naga,r,Ll,LATIN SMALL LETTER R,149,4,"2017,2018,2020,2024",5,76,0,31,37
+nbe,Latn,nbe_Latn,Konyak Naga,J,Lu,LATIN CAPITAL LETTER J,140,5,"2017,2018,2019,2020,2024",2,103,1,33,1
+nbe,Latn,nbe_Latn,Konyak Naga,c,Ll,LATIN SMALL LETTER C,137,5,"2017,2018,2019,2020,2024",2,95,18,8,14
+nbe,Latn,nbe_Latn,Konyak Naga,N,Lu,LATIN CAPITAL LETTER N,128,5,"2017,2018,2019,2020,2024",1,53,2,3,69
+nbe,Latn,nbe_Latn,Konyak Naga,H,Lu,LATIN CAPITAL LETTER H,126,5,"2017,2018,2019,2020,2024",1,80,30,10,5
+nbe,Latn,nbe_Latn,Konyak Naga,1,Nd,DIGIT ONE,110,5,"2017,2018,2019,2020,2024",3,70,15,18,4
+nbe,Latn,nbe_Latn,Konyak Naga,d,Ll,LATIN SMALL LETTER D,109,4,"2017,2018,2020,2024",3,73,0,21,12
+nbe,Latn,nbe_Latn,Konyak Naga,),Pe,RIGHT PARENTHESIS,99,3,"2018,2020,2024",0,85,0,4,10
+nbe,Latn,nbe_Latn,Konyak Naga,(,Ps,LEFT PARENTHESIS,98,3,"2018,2020,2024",0,84,0,4,10
+nbe,Latn,nbe_Latn,Konyak Naga,:,Po,COLON,92,4,"2017,2018,2020,2024",1,86,0,3,2
+nbe,Latn,nbe_Latn,Konyak Naga,T,Lu,LATIN CAPITAL LETTER T,89,5,"2017,2018,2019,2020,2024",3,56,5,5,20
+nbe,Latn,nbe_Latn,Konyak Naga,b,Ll,LATIN SMALL LETTER B,82,4,"2017,2018,2020,2024",6,7,0,33,36
+nbe,Latn,nbe_Latn,Konyak Naga,R,Lu,LATIN CAPITAL LETTER R,77,3,"2018,2020,2024",0,10,0,6,61
+nbe,Latn,nbe_Latn,Konyak Naga,2,Nd,DIGIT TWO,75,4,"2018,2019,2020,2024",0,44,13,11,7
+nbe,Latn,nbe_Latn,Konyak Naga,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,70,4,"2018,2019,2020,2024",0,60,3,2,5
+nbe,Latn,nbe_Latn,Konyak Naga,A,Lu,LATIN CAPITAL LETTER A,70,4,"2017,2018,2020,2024",1,40,0,23,6
+nbe,Latn,nbe_Latn,Konyak Naga,ϋ,Ll,GREEK SMALL LETTER UPSILON WITH DIALYTIKA,70,1,2018,0,70,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,Y,Lu,LATIN CAPITAL LETTER Y,60,4,"2018,2019,2020,2024",0,46,4,7,3
+nbe,Latn,nbe_Latn,Konyak Naga,M,Lu,LATIN CAPITAL LETTER M,55,4,"2017,2018,2020,2024",1,25,0,9,20
+nbe,Latn,nbe_Latn,Konyak Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,54,4,"2018,2019,2020,2024",0,37,12,2,3
+nbe,Latn,nbe_Latn,Konyak Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,47,4,"2018,2019,2020,2024",0,29,12,2,4
+nbe,Latn,nbe_Latn,Konyak Naga,3,Nd,DIGIT THREE,42,4,"2018,2019,2020,2024",0,30,5,6,1
+nbe,Latn,nbe_Latn,Konyak Naga,v,Ll,LATIN SMALL LETTER V,40,3,"2018,2020,2024",0,24,0,7,9
+nbe,Latn,nbe_Latn,Konyak Naga,D,Lu,LATIN CAPITAL LETTER D,34,4,"2017,2018,2020,2024",1,7,0,8,18
+nbe,Latn,nbe_Latn,Konyak Naga,P,Lu,LATIN CAPITAL LETTER P,34,5,"2017,2018,2019,2020,2024",3,6,1,7,17
+nbe,Latn,nbe_Latn,Konyak Naga,5,Nd,DIGIT FIVE,33,4,"2018,2019,2020,2024",0,25,3,3,2
+nbe,Latn,nbe_Latn,Konyak Naga,4,Nd,DIGIT FOUR,31,5,"2017,2018,2019,2020,2024",1,22,3,4,1
+nbe,Latn,nbe_Latn,Konyak Naga,0,Nd,DIGIT ZERO,31,4,"2018,2019,2020,2024",0,23,3,2,3
+nbe,Latn,nbe_Latn,Konyak Naga,6,Nd,DIGIT SIX,28,3,"2018,2019,2020",0,23,3,2,0
+nbe,Latn,nbe_Latn,Konyak Naga,;,Po,SEMICOLON,28,4,"2018,2019,2020,2024",0,8,15,1,4
+nbe,Latn,nbe_Latn,Konyak Naga,L,Lu,LATIN CAPITAL LETTER L,26,4,"2018,2019,2020,2024",0,14,1,2,9
+nbe,Latn,nbe_Latn,Konyak Naga,S,Lu,LATIN CAPITAL LETTER S,26,3,"2018,2020,2024",0,9,0,7,10
+nbe,Latn,nbe_Latn,Konyak Naga,F,Lu,LATIN CAPITAL LETTER F,26,2,"2018,2024",0,2,0,0,24
+nbe,Latn,nbe_Latn,Konyak Naga,f,Ll,LATIN SMALL LETTER F,25,2,"2018,2024",0,15,0,0,10
+nbe,Latn,nbe_Latn,Konyak Naga,8,Nd,DIGIT EIGHT,24,5,"2017,2018,2019,2020,2024",1,15,3,4,1
+nbe,Latn,nbe_Latn,Konyak Naga,z,Ll,LATIN SMALL LETTER Z,22,2,"2020,2024",0,0,0,17,5
+nbe,Latn,nbe_Latn,Konyak Naga,9,Nd,DIGIT NINE,22,5,"2017,2018,2019,2020,2024",1,13,3,3,2
+nbe,Latn,nbe_Latn,Konyak Naga,B,Lu,LATIN CAPITAL LETTER B,21,4,"2017,2018,2020,2024",4,1,0,9,7
+nbe,Latn,nbe_Latn,Konyak Naga,E,Lu,LATIN CAPITAL LETTER E,20,3,"2018,2020,2024",0,11,0,7,2
+nbe,Latn,nbe_Latn,Konyak Naga,–,Pd,EN DASH,19,2,"2018,2024",0,16,0,0,3
+nbe,Latn,nbe_Latn,Konyak Naga,U,Lu,LATIN CAPITAL LETTER U,19,4,"2017,2018,2020,2024",2,8,0,3,6
+nbe,Latn,nbe_Latn,Konyak Naga,?,Po,QUESTION MARK,19,2,"2018,2024",0,18,0,0,1
+nbe,Latn,nbe_Latn,Konyak Naga,7,Nd,DIGIT SEVEN,18,3,"2018,2019,2020",0,12,3,3,0
+nbe,Latn,nbe_Latn,Konyak Naga,@,Po,COMMERCIAL AT,16,1,2018,0,16,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,C,Lu,LATIN CAPITAL LETTER C,11,4,"2017,2018,2020,2024",1,7,0,1,2
+nbe,Latn,nbe_Latn,Konyak Naga,q,Ll,LATIN SMALL LETTER Q,10,1,2018,0,10,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,W,Lu,LATIN CAPITAL LETTER W,9,2,"2018,2019",0,5,4,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,x,Ll,LATIN SMALL LETTER X,8,2,"2018,2024",0,7,0,0,1
+nbe,Latn,nbe_Latn,Konyak Naga,!,Po,EXCLAMATION MARK,7,2,"2017,2018",2,5,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,O,Lu,LATIN CAPITAL LETTER O,5,2,"2020,2024",0,0,0,2,3
+nbe,Latn,nbe_Latn,Konyak Naga,Z,Lu,LATIN CAPITAL LETTER Z,5,1,2020,0,0,0,5,0
+nbe,Latn,nbe_Latn,Konyak Naga,/,Po,SOLIDUS,5,3,"2017,2018,2020",2,1,0,2,0
+nbe,Latn,nbe_Latn,Konyak Naga,',Po,APOSTROPHE,4,2,"2017,2020",2,0,0,2,0
+nbe,Latn,nbe_Latn,Konyak Naga,V,Lu,LATIN CAPITAL LETTER V,2,2,"2018,2024",0,1,0,0,1
+nbe,Latn,nbe_Latn,Konyak Naga,\,Po,REVERSE SOLIDUS,2,2,"2017,2020",1,0,0,1,0
+nbe,Latn,nbe_Latn,Konyak Naga,$,Sc,DOLLAR SIGN,1,1,2018,0,1,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,`,Sk,GRAVE ACCENT,1,1,2018,0,1,0,0,0
+nbe,Latn,nbe_Latn,Konyak Naga,G,Lu,LATIN CAPITAL LETTER G,1,1,2024,0,0,0,0,1

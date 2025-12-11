@@ -1,0 +1,74 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2021_frequency,year_2023_frequency
+ssx,Latn,ssx_Latn,Samberigi,a,Ll,LATIN SMALL LETTER A,66553,4,"2017,2018,2021,2023",14582,49719,518,1734
+ssx,Latn,ssx_Latn,Samberigi, ,Zs,SPACE,62346,4,"2017,2018,2021,2023",13096,47240,410,1600
+ssx,Latn,ssx_Latn,Samberigi,e,Ll,LATIN SMALL LETTER E,39985,4,"2017,2018,2021,2023",7890,30874,270,951
+ssx,Latn,ssx_Latn,Samberigi,꞉,Sk,MODIFIER LETTER COLON,33552,4,"2017,2018,2021,2023",7860,24557,272,863
+ssx,Latn,ssx_Latn,Samberigi,i,Ll,LATIN SMALL LETTER I,27054,4,"2017,2018,2021,2023",5909,20398,191,556
+ssx,Latn,ssx_Latn,Samberigi,k,Ll,LATIN SMALL LETTER K,22429,4,"2017,2018,2021,2023",4678,17078,176,497
+ssx,Latn,ssx_Latn,Samberigi,o,Ll,LATIN SMALL LETTER O,21938,4,"2017,2018,2021,2023",4586,16585,143,624
+ssx,Latn,ssx_Latn,Samberigi,m,Ll,LATIN SMALL LETTER M,19166,4,"2017,2018,2021,2023",4102,14405,136,523
+ssx,Latn,ssx_Latn,Samberigi,p,Ll,LATIN SMALL LETTER P,17556,4,"2017,2018,2021,2023",3760,13241,141,414
+ssx,Latn,ssx_Latn,Samberigi,t,Ll,LATIN SMALL LETTER T,17349,4,"2017,2018,2021,2023",3599,13184,122,444
+ssx,Latn,ssx_Latn,Samberigi,n,Ll,LATIN SMALL LETTER N,17100,4,"2017,2018,2021,2023",3523,13025,144,408
+ssx,Latn,ssx_Latn,Samberigi,l,Ll,LATIN SMALL LETTER L,15901,4,"2017,2018,2021,2023",3302,12122,91,386
+ssx,Latn,ssx_Latn,Samberigi,h,Ll,LATIN SMALL LETTER H,11544,4,"2017,2018,2021,2023",2361,8731,89,363
+ssx,Latn,ssx_Latn,Samberigi,u,Ll,LATIN SMALL LETTER U,9528,4,"2017,2018,2021,2023",2027,7127,65,309
+ssx,Latn,ssx_Latn,Samberigi,d,Ll,LATIN SMALL LETTER D,6978,4,"2017,2018,2021,2023",1331,5478,43,126
+ssx,Latn,ssx_Latn,Samberigi,s,Ll,LATIN SMALL LETTER S,4144,4,"2017,2018,2021,2023",690,3355,17,82
+ssx,Latn,ssx_Latn,Samberigi,w,Ll,LATIN SMALL LETTER W,4095,4,"2017,2018,2021,2023",878,3108,20,89
+ssx,Latn,ssx_Latn,Samberigi,.,Po,FULL STOP,3582,4,"2017,2018,2021,2023",790,2647,36,109
+ssx,Latn,ssx_Latn,Samberigi,y,Ll,LATIN SMALL LETTER Y,3550,4,"2017,2018,2021,2023",775,2631,25,119
+ssx,Latn,ssx_Latn,Samberigi,K,Lu,LATIN CAPITAL LETTER K,2711,4,"2017,2018,2021,2023",780,1841,21,69
+ssx,Latn,ssx_Latn,Samberigi,b,Ll,LATIN SMALL LETTER B,1699,4,"2017,2018,2021,2023",274,1391,8,26
+ssx,Latn,ssx_Latn,Samberigi,r,Ll,LATIN SMALL LETTER R,1188,1,2018,0,1188,0,0
+ssx,Latn,ssx_Latn,Samberigi,̱,Mn,COMBINING MACRON BELOW,1134,4,"2017,2018,2021,2023",350,706,9,69
+ssx,Latn,ssx_Latn,Samberigi,I,Lu,LATIN CAPITAL LETTER I,1083,4,"2017,2018,2021,2023",299,718,4,62
+ssx,Latn,ssx_Latn,Samberigi,1,Nd,DIGIT ONE,980,4,"2017,2018,2021,2023",214,729,11,26
+ssx,Latn,ssx_Latn,Samberigi,Y,Lu,LATIN CAPITAL LETTER Y,695,4,"2017,2018,2021,2023",125,545,4,21
+ssx,Latn,ssx_Latn,Samberigi,S,Lu,LATIN CAPITAL LETTER S,646,4,"2017,2018,2021,2023",78,562,1,5
+ssx,Latn,ssx_Latn,Samberigi,2,Nd,DIGIT TWO,644,4,"2017,2018,2021,2023",116,515,2,11
+ssx,Latn,ssx_Latn,Samberigi,P,Lu,LATIN CAPITAL LETTER P,613,4,"2017,2018,2021,2023",148,450,2,13
+ssx,Latn,ssx_Latn,Samberigi,M,Lu,LATIN CAPITAL LETTER M,587,4,"2017,2018,2021,2023",93,476,4,14
+ssx,Latn,ssx_Latn,Samberigi,T,Lu,LATIN CAPITAL LETTER T,523,4,"2017,2018,2021,2023",85,417,9,12
+ssx,Latn,ssx_Latn,Samberigi,E,Lu,LATIN CAPITAL LETTER E,492,3,"2017,2018,2023",33,457,0,2
+ssx,Latn,ssx_Latn,Samberigi,D,Lu,LATIN CAPITAL LETTER D,488,3,"2017,2018,2023",92,387,0,9
+ssx,Latn,ssx_Latn,Samberigi,H,Lu,LATIN CAPITAL LETTER H,483,4,"2017,2018,2021,2023",42,436,1,4
+ssx,Latn,ssx_Latn,Samberigi,3,Nd,DIGIT THREE,424,4,"2017,2018,2021,2023",49,367,2,6
+ssx,Latn,ssx_Latn,Samberigi,N,Lu,LATIN CAPITAL LETTER N,397,4,"2017,2018,2021,2023",51,335,7,4
+ssx,Latn,ssx_Latn,Samberigi,V,Lu,LATIN CAPITAL LETTER V,390,1,2018,0,390,0,0
+ssx,Latn,ssx_Latn,Samberigi,c,Ll,LATIN SMALL LETTER C,330,1,2018,0,330,0,0
+ssx,Latn,ssx_Latn,Samberigi,4,Nd,DIGIT FOUR,299,4,"2017,2018,2021,2023",41,251,2,5
+ssx,Latn,ssx_Latn,Samberigi,f,Ll,LATIN SMALL LETTER F,281,1,2018,0,281,0,0
+ssx,Latn,ssx_Latn,Samberigi,",",Po,COMMA,277,1,2018,0,277,0,0
+ssx,Latn,ssx_Latn,Samberigi,g,Ll,LATIN SMALL LETTER G,276,1,2018,0,276,0,0
+ssx,Latn,ssx_Latn,Samberigi,5,Nd,DIGIT FIVE,235,4,"2017,2018,2021,2023",39,190,2,4
+ssx,Latn,ssx_Latn,Samberigi,A,Lu,LATIN CAPITAL LETTER A,230,4,"2017,2018,2021,2023",66,158,1,5
+ssx,Latn,ssx_Latn,Samberigi,0,Nd,DIGIT ZERO,228,4,"2017,2018,2021,2023",33,190,1,4
+ssx,Latn,ssx_Latn,Samberigi,8,Nd,DIGIT EIGHT,213,4,"2017,2018,2021,2023",35,172,2,4
+ssx,Latn,ssx_Latn,Samberigi,6,Nd,DIGIT SIX,192,4,"2017,2018,2021,2023",36,150,2,4
+ssx,Latn,ssx_Latn,Samberigi,7,Nd,DIGIT SEVEN,178,4,"2017,2018,2021,2023",35,137,2,4
+ssx,Latn,ssx_Latn,Samberigi,9,Nd,DIGIT NINE,172,4,"2017,2018,2021,2023",34,133,1,4
+ssx,Latn,ssx_Latn,Samberigi,W,Lu,LATIN CAPITAL LETTER W,168,3,"2017,2018,2023",6,161,0,1
+ssx,Latn,ssx_Latn,Samberigi,U,Lu,LATIN CAPITAL LETTER U,156,1,2018,0,156,0,0
+ssx,Latn,ssx_Latn,Samberigi,B,Lu,LATIN CAPITAL LETTER B,151,3,"2017,2018,2023",10,140,0,1
+ssx,Latn,ssx_Latn,Samberigi,L,Lu,LATIN CAPITAL LETTER L,134,3,"2017,2018,2023",9,124,0,1
+ssx,Latn,ssx_Latn,Samberigi,',Po,APOSTROPHE,126,1,2018,0,126,0,0
+ssx,Latn,ssx_Latn,Samberigi,G,Lu,LATIN CAPITAL LETTER G,120,1,2018,0,120,0,0
+ssx,Latn,ssx_Latn,Samberigi,v,Ll,LATIN SMALL LETTER V,116,1,2018,0,116,0,0
+ssx,Latn,ssx_Latn,Samberigi,C,Lu,LATIN CAPITAL LETTER C,115,1,2018,0,115,0,0
+ssx,Latn,ssx_Latn,Samberigi,J,Lu,LATIN CAPITAL LETTER J,115,1,2018,0,115,0,0
+ssx,Latn,ssx_Latn,Samberigi,x,Ll,LATIN SMALL LETTER X,101,1,2018,0,101,0,0
+ssx,Latn,ssx_Latn,Samberigi,-,Pd,HYPHEN-MINUS,94,2,"2017,2018",5,89,0,0
+ssx,Latn,ssx_Latn,Samberigi,O,Lu,LATIN CAPITAL LETTER O,59,3,"2017,2018,2023",15,39,0,5
+ssx,Latn,ssx_Latn,Samberigi,R,Lu,LATIN CAPITAL LETTER R,39,1,2018,0,39,0,0
+ssx,Latn,ssx_Latn,Samberigi,q,Ll,LATIN SMALL LETTER Q,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,©,So,COPYRIGHT SIGN,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,:,Po,COLON,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,F,Lu,LATIN CAPITAL LETTER F,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,X,Lu,LATIN CAPITAL LETTER X,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,`,Sk,GRAVE ACCENT,38,1,2018,0,38,0,0
+ssx,Latn,ssx_Latn,Samberigi,(,Ps,LEFT PARENTHESIS,17,2,"2017,2018",1,16,0,0
+ssx,Latn,ssx_Latn,Samberigi,),Pe,RIGHT PARENTHESIS,17,2,"2017,2018",1,16,0,0
+ssx,Latn,ssx_Latn,Samberigi,&,Po,AMPERSAND,5,1,2018,0,5,0,0
+ssx,Latn,ssx_Latn,Samberigi,[,Ps,LEFT SQUARE BRACKET,2,1,2018,0,2,0,0
+ssx,Latn,ssx_Latn,Samberigi,],Pe,RIGHT SQUARE BRACKET,2,1,2018,0,2,0,0

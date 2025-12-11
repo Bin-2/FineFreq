@@ -1,0 +1,14 @@
+{
+  "language_code": "adl_Latn",
+  "iso_639_3": "adl",
+  "script": "Latn",
+  "language_name": "Galo",
+  "total_characters": 65,
+  "total_frequency": 6771,
+  "years_covered": [
+    "2019",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.448354"
+}

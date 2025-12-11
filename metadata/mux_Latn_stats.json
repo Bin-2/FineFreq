@@ -1,0 +1,18 @@
+{
+  "language_code": "mux_Latn",
+  "iso_639_3": "mux",
+  "script": "Latn",
+  "language_name": "Bo-Ung",
+  "total_characters": 92,
+  "total_frequency": 2339880,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:04.657775"
+}

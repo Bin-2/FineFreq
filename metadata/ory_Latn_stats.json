@@ -1,0 +1,24 @@
+{
+  "language_code": "ory_Latn",
+  "iso_639_3": "ory",
+  "script": "Latn",
+  "language_name": "Odia",
+  "total_characters": 543,
+  "total_frequency": 9178757,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.357220"
+}

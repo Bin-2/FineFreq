@@ -1,0 +1,24 @@
+{
+  "language_code": "kpv_Cyrl",
+  "iso_639_3": "kpv",
+  "script": "Cyrl",
+  "language_name": "Komi-Zyrian",
+  "total_characters": 714,
+  "total_frequency": 38508556,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:00.258744"
+}

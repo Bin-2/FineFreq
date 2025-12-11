@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency
+nst,Latn,nst_Latn,Tase Naga, ,Zs,SPACE,2698,2,"2019,2021",2133,565
+nst,Latn,nst_Latn,Tase Naga,a,Ll,LATIN SMALL LETTER A,2326,2,"2019,2021",1865,461
+nst,Latn,nst_Latn,Tase Naga,i,Ll,LATIN SMALL LETTER I,1696,2,"2019,2021",1377,319
+nst,Latn,nst_Latn,Tase Naga,n,Ll,LATIN SMALL LETTER N,956,2,"2019,2021",814,142
+nst,Latn,nst_Latn,Tase Naga,h,Ll,LATIN SMALL LETTER H,756,2,"2019,2021",640,116
+nst,Latn,nst_Latn,Tase Naga,t,Ll,LATIN SMALL LETTER T,710,2,"2019,2021",600,110
+nst,Latn,nst_Latn,Tase Naga,k,Ll,LATIN SMALL LETTER K,674,2,"2019,2021",540,134
+nst,Latn,nst_Latn,Tase Naga,q,Ll,LATIN SMALL LETTER Q,645,2,"2019,2021",521,124
+nst,Latn,nst_Latn,Tase Naga,m,Ll,LATIN SMALL LETTER M,601,2,"2019,2021",449,152
+nst,Latn,nst_Latn,Tase Naga,o,Ll,LATIN SMALL LETTER O,592,2,"2019,2021",495,97
+nst,Latn,nst_Latn,Tase Naga,r,Ll,LATIN SMALL LETTER R,591,2,"2019,2021",496,95
+nst,Latn,nst_Latn,Tase Naga,s,Ll,LATIN SMALL LETTER S,527,2,"2019,2021",396,131
+nst,Latn,nst_Latn,Tase Naga,e,Ll,LATIN SMALL LETTER E,479,2,"2019,2021",337,142
+nst,Latn,nst_Latn,Tase Naga,g,Ll,LATIN SMALL LETTER G,405,2,"2019,2021",357,48
+nst,Latn,nst_Latn,Tase Naga,l,Ll,LATIN SMALL LETTER L,297,2,"2019,2021",244,53
+nst,Latn,nst_Latn,Tase Naga,p,Ll,LATIN SMALL LETTER P,296,2,"2019,2021",248,48
+nst,Latn,nst_Latn,Tase Naga,u,Ll,LATIN SMALL LETTER U,278,2,"2019,2021",210,68
+nst,Latn,nst_Latn,Tase Naga,w,Ll,LATIN SMALL LETTER W,245,2,"2019,2021",199,46
+nst,Latn,nst_Latn,Tase Naga,.,Po,FULL STOP,215,2,"2019,2021",182,33
+nst,Latn,nst_Latn,Tase Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,161,2,"2019,2021",142,19
+nst,Latn,nst_Latn,Tase Naga,b,Ll,LATIN SMALL LETTER B,114,2,"2019,2021",80,34
+nst,Latn,nst_Latn,Tase Naga,j,Ll,LATIN SMALL LETTER J,113,2,"2019,2021",89,24
+nst,Latn,nst_Latn,Tase Naga,c,Ll,LATIN SMALL LETTER C,105,2,"2019,2021",90,15
+nst,Latn,nst_Latn,Tase Naga,K,Lu,LATIN CAPITAL LETTER K,100,2,"2019,2021",66,34
+nst,Latn,nst_Latn,Tase Naga,",",Po,COMMA,99,2,"2019,2021",84,15
+nst,Latn,nst_Latn,Tase Naga,A,Lu,LATIN CAPITAL LETTER A,74,2,"2019,2021",49,25
+nst,Latn,nst_Latn,Tase Naga,1,Nd,DIGIT ONE,71,2,"2019,2021",56,15
+nst,Latn,nst_Latn,Tase Naga,d,Ll,LATIN SMALL LETTER D,69,2,"2019,2021",54,15
+nst,Latn,nst_Latn,Tase Naga,R,Lu,LATIN CAPITAL LETTER R,60,2,"2019,2021",51,9
+nst,Latn,nst_Latn,Tase Naga,S,Lu,LATIN CAPITAL LETTER S,58,2,"2019,2021",46,12
+nst,Latn,nst_Latn,Tase Naga,y,Ll,LATIN SMALL LETTER Y,56,2,"2019,2021",46,10
+nst,Latn,nst_Latn,Tase Naga,J,Lu,LATIN CAPITAL LETTER J,53,2,"2019,2021",13,40
+nst,Latn,nst_Latn,Tase Naga,2,Nd,DIGIT TWO,46,2,"2019,2021",35,11
+nst,Latn,nst_Latn,Tase Naga,;,Po,SEMICOLON,39,2,"2019,2021",4,35
+nst,Latn,nst_Latn,Tase Naga,T,Lu,LATIN CAPITAL LETTER T,32,2,"2019,2021",29,3
+nst,Latn,nst_Latn,Tase Naga,B,Lu,LATIN CAPITAL LETTER B,24,2,"2019,2021",17,7
+nst,Latn,nst_Latn,Tase Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,23,2,"2019,2021",21,2
+nst,Latn,nst_Latn,Tase Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,23,2,"2019,2021",21,2
+nst,Latn,nst_Latn,Tase Naga,3,Nd,DIGIT THREE,22,2,"2019,2021",16,6
+nst,Latn,nst_Latn,Tase Naga,I,Lu,LATIN CAPITAL LETTER I,22,2,"2019,2021",19,3
+nst,Latn,nst_Latn,Tase Naga,-,Pd,HYPHEN-MINUS,22,2,"2019,2021",18,4
+nst,Latn,nst_Latn,Tase Naga,M,Lu,LATIN CAPITAL LETTER M,20,2,"2019,2021",5,15
+nst,Latn,nst_Latn,Tase Naga,f,Ll,LATIN SMALL LETTER F,19,1,2019,19,0
+nst,Latn,nst_Latn,Tase Naga,E,Lu,LATIN CAPITAL LETTER E,19,2,"2019,2021",13,6
+nst,Latn,nst_Latn,Tase Naga,H,Lu,LATIN CAPITAL LETTER H,18,2,"2019,2021",14,4
+nst,Latn,nst_Latn,Tase Naga,N,Lu,LATIN CAPITAL LETTER N,17,2,"2019,2021",15,2
+nst,Latn,nst_Latn,Tase Naga,5,Nd,DIGIT FIVE,15,2,"2019,2021",12,3
+nst,Latn,nst_Latn,Tase Naga,0,Nd,DIGIT ZERO,15,2,"2019,2021",13,2
+nst,Latn,nst_Latn,Tase Naga,4,Nd,DIGIT FOUR,14,2,"2019,2021",11,3
+nst,Latn,nst_Latn,Tase Naga,6,Nd,DIGIT SIX,11,2,"2019,2021",9,2
+nst,Latn,nst_Latn,Tase Naga,9,Nd,DIGIT NINE,10,2,"2019,2021",8,2
+nst,Latn,nst_Latn,Tase Naga,8,Nd,DIGIT EIGHT,10,2,"2019,2021",7,3
+nst,Latn,nst_Latn,Tase Naga,P,Lu,LATIN CAPITAL LETTER P,10,2,"2019,2021",8,2
+nst,Latn,nst_Latn,Tase Naga,(,Ps,LEFT PARENTHESIS,9,2,"2019,2021",3,6
+nst,Latn,nst_Latn,Tase Naga,),Pe,RIGHT PARENTHESIS,9,2,"2019,2021",3,6
+nst,Latn,nst_Latn,Tase Naga,/,Po,SOLIDUS,9,1,2019,9,0
+nst,Latn,nst_Latn,Tase Naga,W,Lu,LATIN CAPITAL LETTER W,9,2,"2019,2021",6,3
+nst,Latn,nst_Latn,Tase Naga,7,Nd,DIGIT SEVEN,9,2,"2019,2021",6,3
+nst,Latn,nst_Latn,Tase Naga,:,Po,COLON,9,2,"2019,2021",8,1
+nst,Latn,nst_Latn,Tase Naga,O,Lu,LATIN CAPITAL LETTER O,8,2,"2019,2021",6,2
+nst,Latn,nst_Latn,Tase Naga,L,Lu,LATIN CAPITAL LETTER L,8,2,"2019,2021",6,2
+nst,Latn,nst_Latn,Tase Naga,D,Lu,LATIN CAPITAL LETTER D,7,1,2021,0,7
+nst,Latn,nst_Latn,Tase Naga,—,Pd,EM DASH,6,1,2019,6,0
+nst,Latn,nst_Latn,Tase Naga,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,5,1,2019,5,0
+nst,Latn,nst_Latn,Tase Naga,U,Lu,LATIN CAPITAL LETTER U,5,2,"2019,2021",2,3
+nst,Latn,nst_Latn,Tase Naga,C,Lu,LATIN CAPITAL LETTER C,4,1,2019,4,0
+nst,Latn,nst_Latn,Tase Naga,G,Lu,LATIN CAPITAL LETTER G,3,1,2019,3,0
+nst,Latn,nst_Latn,Tase Naga,z,Ll,LATIN SMALL LETTER Z,3,1,2019,3,0
+nst,Latn,nst_Latn,Tase Naga,!,Po,EXCLAMATION MARK,2,1,2019,2,0
+nst,Latn,nst_Latn,Tase Naga,Q,Lu,LATIN CAPITAL LETTER Q,2,1,2019,2,0
+nst,Latn,nst_Latn,Tase Naga,v,Ll,LATIN SMALL LETTER V,2,1,2019,2,0
+nst,Latn,nst_Latn,Tase Naga,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2019,1,0
+nst,Latn,nst_Latn,Tase Naga,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2019,1,0
+nst,Latn,nst_Latn,Tase Naga,_,Pc,LOW LINE,1,1,2019,1,0
+nst,Latn,nst_Latn,Tase Naga,|,Sm,VERTICAL LINE,1,1,2019,1,0
+nst,Latn,nst_Latn,Tase Naga,',Po,APOSTROPHE,1,1,2019,1,0

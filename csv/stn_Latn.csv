@@ -1,0 +1,66 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2019_frequency
+stn,Latn,stn_Latn,Owa,a,Ll,LATIN SMALL LETTER A,1735,2,"2013,2019",90,1645
+stn,Latn,stn_Latn,Owa, ,Zs,SPACE,1622,2,"2013,2019",84,1538
+stn,Latn,stn_Latn,Owa,i,Ll,LATIN SMALL LETTER I,677,2,"2013,2019",41,636
+stn,Latn,stn_Latn,Owa,n,Ll,LATIN SMALL LETTER N,609,2,"2013,2019",40,569
+stn,Latn,stn_Latn,Owa,o,Ll,LATIN SMALL LETTER O,440,2,"2013,2019",25,415
+stn,Latn,stn_Latn,Owa,e,Ll,LATIN SMALL LETTER E,410,2,"2013,2019",20,390
+stn,Latn,stn_Latn,Owa,k,Ll,LATIN SMALL LETTER K,388,2,"2013,2019",13,375
+stn,Latn,stn_Latn,Owa,r,Ll,LATIN SMALL LETTER R,384,2,"2013,2019",20,364
+stn,Latn,stn_Latn,Owa,m,Ll,LATIN SMALL LETTER M,244,2,"2013,2019",8,236
+stn,Latn,stn_Latn,Owa,u,Ll,LATIN SMALL LETTER U,224,2,"2013,2019",11,213
+stn,Latn,stn_Latn,Owa,g,Ll,LATIN SMALL LETTER G,201,2,"2013,2019",18,183
+stn,Latn,stn_Latn,Owa,t,Ll,LATIN SMALL LETTER T,195,2,"2013,2019",20,175
+stn,Latn,stn_Latn,Owa,f,Ll,LATIN SMALL LETTER F,167,2,"2013,2019",16,151
+stn,Latn,stn_Latn,Owa,s,Ll,LATIN SMALL LETTER S,167,2,"2013,2019",4,163
+stn,Latn,stn_Latn,Owa,p,Ll,LATIN SMALL LETTER P,105,2,"2013,2019",6,99
+stn,Latn,stn_Latn,Owa,w,Ll,LATIN SMALL LETTER W,103,2,"2013,2019",4,99
+stn,Latn,stn_Latn,Owa,",",Po,COMMA,95,2,"2013,2019",5,90
+stn,Latn,stn_Latn,Owa,.,Po,FULL STOP,86,2,"2013,2019",5,81
+stn,Latn,stn_Latn,Owa,J,Lu,LATIN CAPITAL LETTER J,63,1,2019,0,63
+stn,Latn,stn_Latn,Owa,A,Lu,LATIN CAPITAL LETTER A,43,2,"2013,2019",3,40
+stn,Latn,stn_Latn,Owa,l,Ll,LATIN SMALL LETTER L,43,2,"2013,2019",2,41
+stn,Latn,stn_Latn,Owa,M,Lu,LATIN CAPITAL LETTER M,42,1,2019,0,42
+stn,Latn,stn_Latn,Owa,1,Nd,DIGIT ONE,35,2,"2013,2019",4,31
+stn,Latn,stn_Latn,Owa,d,Ll,LATIN SMALL LETTER D,33,2,"2013,2019",7,26
+stn,Latn,stn_Latn,Owa,2,Nd,DIGIT TWO,23,1,2019,0,23
+stn,Latn,stn_Latn,Owa,E,Lu,LATIN CAPITAL LETTER E,20,2,"2013,2019",2,18
+stn,Latn,stn_Latn,Owa,b,Ll,LATIN SMALL LETTER B,20,2,"2013,2019",1,19
+stn,Latn,stn_Latn,Owa,S,Lu,LATIN CAPITAL LETTER S,19,2,"2013,2019",1,18
+stn,Latn,stn_Latn,Owa,q,Ll,LATIN SMALL LETTER Q,19,2,"2013,2019",1,18
+stn,Latn,stn_Latn,Owa,h,Ll,LATIN SMALL LETTER H,19,2,"2013,2019",5,14
+stn,Latn,stn_Latn,Owa,H,Lu,LATIN CAPITAL LETTER H,16,2,"2013,2019",1,15
+stn,Latn,stn_Latn,Owa,O,Lu,LATIN CAPITAL LETTER O,16,1,2019,0,16
+stn,Latn,stn_Latn,Owa,3,Nd,DIGIT THREE,13,1,2019,0,13
+stn,Latn,stn_Latn,Owa,I,Lu,LATIN CAPITAL LETTER I,12,2,"2013,2019",1,11
+stn,Latn,stn_Latn,Owa,T,Lu,LATIN CAPITAL LETTER T,12,2,"2013,2019",1,11
+stn,Latn,stn_Latn,Owa,“,Pi,LEFT DOUBLE QUOTATION MARK,12,1,2019,0,12
+stn,Latn,stn_Latn,Owa,”,Pf,RIGHT DOUBLE QUOTATION MARK,12,1,2019,0,12
+stn,Latn,stn_Latn,Owa,4,Nd,DIGIT FOUR,10,1,2019,0,10
+stn,Latn,stn_Latn,Owa,B,Lu,LATIN CAPITAL LETTER B,10,2,"2013,2019",1,9
+stn,Latn,stn_Latn,Owa,v,Ll,LATIN SMALL LETTER V,10,2,"2013,2019",1,9
+stn,Latn,stn_Latn,Owa,R,Lu,LATIN CAPITAL LETTER R,9,2,"2013,2019",2,7
+stn,Latn,stn_Latn,Owa,D,Lu,LATIN CAPITAL LETTER D,8,2,"2013,2019",1,7
+stn,Latn,stn_Latn,Owa,N,Lu,LATIN CAPITAL LETTER N,7,1,2019,0,7
+stn,Latn,stn_Latn,Owa,F,Lu,LATIN CAPITAL LETTER F,7,2,"2013,2019",1,6
+stn,Latn,stn_Latn,Owa,G,Lu,LATIN CAPITAL LETTER G,7,2,"2013,2019",3,4
+stn,Latn,stn_Latn,Owa,5,Nd,DIGIT FIVE,7,1,2019,0,7
+stn,Latn,stn_Latn,Owa,6,Nd,DIGIT SIX,6,2,"2013,2019",1,5
+stn,Latn,stn_Latn,Owa,9,Nd,DIGIT NINE,5,1,2019,0,5
+stn,Latn,stn_Latn,Owa,P,Lu,LATIN CAPITAL LETTER P,5,2,"2013,2019",2,3
+stn,Latn,stn_Latn,Owa,0,Nd,DIGIT ZERO,5,1,2019,0,5
+stn,Latn,stn_Latn,Owa,7,Nd,DIGIT SEVEN,5,1,2019,0,5
+stn,Latn,stn_Latn,Owa,8,Nd,DIGIT EIGHT,5,1,2019,0,5
+stn,Latn,stn_Latn,Owa,U,Lu,LATIN CAPITAL LETTER U,4,1,2019,0,4
+stn,Latn,stn_Latn,Owa,),Pe,RIGHT PARENTHESIS,4,1,2019,0,4
+stn,Latn,stn_Latn,Owa,(,Ps,LEFT PARENTHESIS,4,1,2019,0,4
+stn,Latn,stn_Latn,Owa,K,Lu,LATIN CAPITAL LETTER K,4,1,2019,0,4
+stn,Latn,stn_Latn,Owa,?,Po,QUESTION MARK,3,1,2019,0,3
+stn,Latn,stn_Latn,Owa,j,Ll,LATIN SMALL LETTER J,2,1,2019,0,2
+stn,Latn,stn_Latn,Owa,L,Lu,LATIN CAPITAL LETTER L,2,1,2019,0,2
+stn,Latn,stn_Latn,Owa,!,Po,EXCLAMATION MARK,2,2,"2013,2019",1,1
+stn,Latn,stn_Latn,Owa,y,Ll,LATIN SMALL LETTER Y,2,2,"2013,2019",1,1
+stn,Latn,stn_Latn,Owa,c,Ll,LATIN SMALL LETTER C,1,1,2013,1,0
+stn,Latn,stn_Latn,Owa,C,Lu,LATIN CAPITAL LETTER C,1,1,2019,0,1
+stn,Latn,stn_Latn,Owa,:,Po,COLON,1,1,2013,1,0
+stn,Latn,stn_Latn,Owa,V,Lu,LATIN CAPITAL LETTER V,1,1,2013,1,0

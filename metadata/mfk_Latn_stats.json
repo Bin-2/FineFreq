@@ -1,0 +1,14 @@
+{
+  "language_code": "mfk_Latn",
+  "iso_639_3": "mfk",
+  "script": "Latn",
+  "language_name": "North Mofu",
+  "total_characters": 79,
+  "total_frequency": 15747,
+  "years_covered": [
+    "2014",
+    "2018"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.286683"
+}

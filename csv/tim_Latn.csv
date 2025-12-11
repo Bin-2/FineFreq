@@ -1,0 +1,76 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2021_frequency
+tim,Latn,tim_Latn,Timbe, ,Zs,SPACE,162547,2,"2018,2021",162109,438
+tim,Latn,tim_Latn,Timbe,e,Ll,LATIN SMALL LETTER E,97352,2,"2018,2021",97047,305
+tim,Latn,tim_Latn,Timbe,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,79399,2,"2018,2021",79140,259
+tim,Latn,tim_Latn,Timbe,a,Ll,LATIN SMALL LETTER A,73817,2,"2018,2021",73642,175
+tim,Latn,tim_Latn,Timbe,n,Ll,LATIN SMALL LETTER N,56679,2,"2018,2021",56483,196
+tim,Latn,tim_Latn,Timbe,m,Ll,LATIN SMALL LETTER M,53822,2,"2018,2021",53650,172
+tim,Latn,tim_Latn,Timbe,i,Ll,LATIN SMALL LETTER I,51522,2,"2018,2021",51360,162
+tim,Latn,tim_Latn,Timbe,k,Ll,LATIN SMALL LETTER K,45048,2,"2018,2021",44922,126
+tim,Latn,tim_Latn,Timbe,t,Ll,LATIN SMALL LETTER T,41223,2,"2018,2021",41132,91
+tim,Latn,tim_Latn,Timbe,o,Ll,LATIN SMALL LETTER O,40450,2,"2018,2021",40329,121
+tim,Latn,tim_Latn,Timbe,ŋ,Ll,LATIN SMALL LETTER ENG,39621,2,"2018,2021",39466,155
+tim,Latn,tim_Latn,Timbe,g,Ll,LATIN SMALL LETTER G,34959,2,"2018,2021",34857,102
+tim,Latn,tim_Latn,Timbe,u,Ll,LATIN SMALL LETTER U,27668,2,"2018,2021",27584,84
+tim,Latn,tim_Latn,Timbe,r,Ll,LATIN SMALL LETTER R,25769,2,"2018,2021",25719,50
+tim,Latn,tim_Latn,Timbe,l,Ll,LATIN SMALL LETTER L,22764,2,"2018,2021",22695,69
+tim,Latn,tim_Latn,Timbe,b,Ll,LATIN SMALL LETTER B,22040,2,"2018,2021",21962,78
+tim,Latn,tim_Latn,Timbe,p,Ll,LATIN SMALL LETTER P,19948,2,"2018,2021",19914,34
+tim,Latn,tim_Latn,Timbe,d,Ll,LATIN SMALL LETTER D,18111,2,"2018,2021",18063,48
+tim,Latn,tim_Latn,Timbe,h,Ll,LATIN SMALL LETTER H,18059,2,"2018,2021",18013,46
+tim,Latn,tim_Latn,Timbe,s,Ll,LATIN SMALL LETTER S,17189,2,"2018,2021",17162,27
+tim,Latn,tim_Latn,Timbe,y,Ll,LATIN SMALL LETTER Y,14004,2,"2018,2021",13941,63
+tim,Latn,tim_Latn,Timbe,.,Po,FULL STOP,13213,2,"2018,2021",13177,36
+tim,Latn,tim_Latn,Timbe,w,Ll,LATIN SMALL LETTER W,10964,2,"2018,2021",10934,30
+tim,Latn,tim_Latn,Timbe,A,Lu,LATIN CAPITAL LETTER A,7535,2,"2018,2021",7511,24
+tim,Latn,tim_Latn,Timbe,",",Po,COMMA,3616,2,"2018,2021",3609,7
+tim,Latn,tim_Latn,Timbe,H,Lu,LATIN CAPITAL LETTER H,3203,2,"2018,2021",3193,10
+tim,Latn,tim_Latn,Timbe,1,Nd,DIGIT ONE,3079,2,"2018,2021",3068,11
+tim,Latn,tim_Latn,Timbe,Y,Lu,LATIN CAPITAL LETTER Y,2987,2,"2018,2021",2979,8
+tim,Latn,tim_Latn,Timbe,c,Ll,LATIN SMALL LETTER C,2354,1,2018,2354,0
+tim,Latn,tim_Latn,Timbe,S,Lu,LATIN CAPITAL LETTER S,2100,1,2018,2100,0
+tim,Latn,tim_Latn,Timbe,T,Lu,LATIN CAPITAL LETTER T,2098,1,2018,2098,0
+tim,Latn,tim_Latn,Timbe,V,Lu,LATIN CAPITAL LETTER V,2058,1,2018,2058,0
+tim,Latn,tim_Latn,Timbe,E,Lu,LATIN CAPITAL LETTER E,1932,1,2018,1932,0
+tim,Latn,tim_Latn,Timbe,2,Nd,DIGIT TWO,1791,2,"2018,2021",1789,2
+tim,Latn,tim_Latn,Timbe,K,Lu,LATIN CAPITAL LETTER K,1683,2,"2018,2021",1678,5
+tim,Latn,tim_Latn,Timbe,f,Ll,LATIN SMALL LETTER F,1592,1,2018,1592,0
+tim,Latn,tim_Latn,Timbe,N,Lu,LATIN CAPITAL LETTER N,1538,2,"2018,2021",1535,3
+tim,Latn,tim_Latn,Timbe,G,Lu,LATIN CAPITAL LETTER G,1414,2,"2018,2021",1409,5
+tim,Latn,tim_Latn,Timbe,“,Pi,LEFT DOUBLE QUOTATION MARK,1385,2,"2018,2021",1383,2
+tim,Latn,tim_Latn,Timbe,D,Lu,LATIN CAPITAL LETTER D,1351,2,"2018,2021",1347,4
+tim,Latn,tim_Latn,Timbe,”,Pf,RIGHT DOUBLE QUOTATION MARK,1341,2,"2018,2021",1339,2
+tim,Latn,tim_Latn,Timbe,',Po,APOSTROPHE,1218,1,2018,1218,0
+tim,Latn,tim_Latn,Timbe,P,Lu,LATIN CAPITAL LETTER P,1189,2,"2018,2021",1187,2
+tim,Latn,tim_Latn,Timbe,I,Lu,LATIN CAPITAL LETTER I,1125,2,"2018,2021",1124,1
+tim,Latn,tim_Latn,Timbe,v,Ll,LATIN SMALL LETTER V,1066,1,2018,1066,0
+tim,Latn,tim_Latn,Timbe,3,Nd,DIGIT THREE,1050,2,"2018,2021",1048,2
+tim,Latn,tim_Latn,Timbe,U,Lu,LATIN CAPITAL LETTER U,876,1,2018,876,0
+tim,Latn,tim_Latn,Timbe,B,Lu,LATIN CAPITAL LETTER B,848,2,"2018,2021",846,2
+tim,Latn,tim_Latn,Timbe,4,Nd,DIGIT FOUR,815,2,"2018,2021",813,2
+tim,Latn,tim_Latn,Timbe,x,Ll,LATIN SMALL LETTER X,798,1,2018,798,0
+tim,Latn,tim_Latn,Timbe,M,Lu,LATIN CAPITAL LETTER M,781,1,2018,781,0
+tim,Latn,tim_Latn,Timbe,L,Lu,LATIN CAPITAL LETTER L,757,2,"2018,2021",753,4
+tim,Latn,tim_Latn,Timbe,0,Nd,DIGIT ZERO,716,2,"2018,2021",715,1
+tim,Latn,tim_Latn,Timbe,8,Nd,DIGIT EIGHT,647,2,"2018,2021",645,2
+tim,Latn,tim_Latn,Timbe,5,Nd,DIGIT FIVE,636,2,"2018,2021",634,2
+tim,Latn,tim_Latn,Timbe,J,Lu,LATIN CAPITAL LETTER J,602,1,2018,602,0
+tim,Latn,tim_Latn,Timbe,C,Lu,LATIN CAPITAL LETTER C,594,1,2018,594,0
+tim,Latn,tim_Latn,Timbe,6,Nd,DIGIT SIX,550,2,"2018,2021",548,2
+tim,Latn,tim_Latn,Timbe,W,Lu,LATIN CAPITAL LETTER W,543,1,2018,543,0
+tim,Latn,tim_Latn,Timbe,7,Nd,DIGIT SEVEN,540,2,"2018,2021",538,2
+tim,Latn,tim_Latn,Timbe,-,Pd,HYPHEN-MINUS,455,1,2018,455,0
+tim,Latn,tim_Latn,Timbe,?,Po,QUESTION MARK,453,1,2018,453,0
+tim,Latn,tim_Latn,Timbe,9,Nd,DIGIT NINE,431,2,"2018,2021",430,1
+tim,Latn,tim_Latn,Timbe,R,Lu,LATIN CAPITAL LETTER R,286,1,2018,286,0
+tim,Latn,tim_Latn,Timbe,q,Ll,LATIN SMALL LETTER Q,189,1,2018,189,0
+tim,Latn,tim_Latn,Timbe,F,Lu,LATIN CAPITAL LETTER F,189,1,2018,189,0
+tim,Latn,tim_Latn,Timbe,©,So,COPYRIGHT SIGN,189,1,2018,189,0
+tim,Latn,tim_Latn,Timbe,:,Po,COLON,189,1,2018,189,0
+tim,Latn,tim_Latn,Timbe,`,Sk,GRAVE ACCENT,189,1,2018,189,0
+tim,Latn,tim_Latn,Timbe,Â,Lu,LATIN CAPITAL LETTER A WITH CIRCUMFLEX,172,1,2018,172,0
+tim,Latn,tim_Latn,Timbe,O,Lu,LATIN CAPITAL LETTER O,106,2,"2018,2021",103,3
+tim,Latn,tim_Latn,Timbe,&,Po,AMPERSAND,84,1,2018,84,0
+tim,Latn,tim_Latn,Timbe,(,Ps,LEFT PARENTHESIS,84,1,2018,84,0
+tim,Latn,tim_Latn,Timbe,),Pe,RIGHT PARENTHESIS,84,1,2018,84,0
+tim,Latn,tim_Latn,Timbe,z,Ll,LATIN SMALL LETTER Z,1,1,2018,1,0

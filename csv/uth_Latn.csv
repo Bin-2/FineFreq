@@ -1,0 +1,93 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency,year_2022_frequency
+uth,Latn,uth_Latn,ut-Hun, ,Zs,SPACE,18489,3,"2019,2021,2022",42,438,18009
+uth,Latn,uth_Latn,ut-Hun,̱,Mn,COMBINING MACRON BELOW,14230,3,"2019,2021,2022",21,113,14096
+uth,Latn,uth_Latn,ut-Hun,o,Ll,LATIN SMALL LETTER O,7904,3,"2019,2021,2022",23,52,7829
+uth,Latn,uth_Latn,ut-Hun,e,Ll,LATIN SMALL LETTER E,7213,3,"2019,2021,2022",40,72,7101
+uth,Latn,uth_Latn,ut-Hun,n,Ll,LATIN SMALL LETTER N,6817,3,"2019,2021,2022",9,130,6678
+uth,Latn,uth_Latn,ut-Hun,u,Ll,LATIN SMALL LETTER U,5566,3,"2019,2021,2022",10,183,5373
+uth,Latn,uth_Latn,ut-Hun,a,Ll,LATIN SMALL LETTER A,4815,3,"2019,2021,2022",25,335,4455
+uth,Latn,uth_Latn,ut-Hun,-,Pd,HYPHEN-MINUS,4610,3,"2019,2021,2022",9,1,4600
+uth,Latn,uth_Latn,ut-Hun,r,Ll,LATIN SMALL LETTER R,3797,3,"2019,2021,2022",32,73,3692
+uth,Latn,uth_Latn,ut-Hun,m,Ll,LATIN SMALL LETTER M,3688,3,"2019,2021,2022",10,78,3600
+uth,Latn,uth_Latn,ut-Hun,t,Ll,LATIN SMALL LETTER T,2491,3,"2019,2021,2022",26,62,2403
+uth,Latn,uth_Latn,ut-Hun,s,Ll,LATIN SMALL LETTER S,2459,3,"2019,2021,2022",10,67,2382
+uth,Latn,uth_Latn,ut-Hun,k,Ll,LATIN SMALL LETTER K,2206,3,"2019,2021,2022",5,157,2044
+uth,Latn,uth_Latn,ut-Hun,y,Ll,LATIN SMALL LETTER Y,2074,3,"2019,2021,2022",5,61,2008
+uth,Latn,uth_Latn,ut-Hun,i,Ll,LATIN SMALL LETTER I,2029,3,"2019,2021,2022",16,126,1887
+uth,Latn,uth_Latn,ut-Hun,h,Ll,LATIN SMALL LETTER H,1808,3,"2019,2021,2022",9,140,1659
+uth,Latn,uth_Latn,ut-Hun,w,Ll,LATIN SMALL LETTER W,1500,3,"2019,2021,2022",3,19,1478
+uth,Latn,uth_Latn,ut-Hun,g,Ll,LATIN SMALL LETTER G,1349,3,"2019,2021,2022",8,47,1294
+uth,Latn,uth_Latn,ut-Hun,",",Po,COMMA,1191,2,"2021,2022",0,48,1143
+uth,Latn,uth_Latn,ut-Hun,b,Ll,LATIN SMALL LETTER B,1163,3,"2019,2021,2022",4,37,1122
+uth,Latn,uth_Latn,ut-Hun,.,Po,FULL STOP,1157,2,"2021,2022",0,27,1130
+uth,Latn,uth_Latn,ut-Hun,d,Ll,LATIN SMALL LETTER D,1105,3,"2019,2021,2022",9,46,1050
+uth,Latn,uth_Latn,ut-Hun,1,Nd,DIGIT ONE,650,3,"2019,2021,2022",1,14,635
+uth,Latn,uth_Latn,ut-Hun,à,Ll,LATIN SMALL LETTER A WITH GRAVE,600,1,2022,0,0,600
+uth,Latn,uth_Latn,ut-Hun,K,Lu,LATIN CAPITAL LETTER K,498,3,"2019,2021,2022",1,9,488
+uth,Latn,uth_Latn,ut-Hun,S,Lu,LATIN CAPITAL LETTER S,474,3,"2019,2021,2022",1,6,467
+uth,Latn,uth_Latn,ut-Hun,',Po,APOSTROPHE,467,2,"2019,2022",1,0,466
+uth,Latn,uth_Latn,ut-Hun,:,Po,COLON,439,3,"2019,2021,2022",2,2,435
+uth,Latn,uth_Latn,ut-Hun,p,Ll,LATIN SMALL LETTER P,437,3,"2019,2021,2022",2,4,431
+uth,Latn,uth_Latn,ut-Hun,2,Nd,DIGIT TWO,334,3,"2019,2021,2022",4,10,320
+uth,Latn,uth_Latn,ut-Hun,Y,Lu,LATIN CAPITAL LETTER Y,322,2,"2021,2022",0,26,296
+uth,Latn,uth_Latn,ut-Hun,c,Ll,LATIN SMALL LETTER C,297,3,"2019,2021,2022",4,7,286
+uth,Latn,uth_Latn,ut-Hun,z,Ll,LATIN SMALL LETTER Z,271,2,"2021,2022",0,30,241
+uth,Latn,uth_Latn,ut-Hun,á,Ll,LATIN SMALL LETTER A WITH ACUTE,257,1,2022,0,0,257
+uth,Latn,uth_Latn,ut-Hun,W,Lu,LATIN CAPITAL LETTER W,232,3,"2019,2021,2022",1,1,230
+uth,Latn,uth_Latn,ut-Hun,M,Lu,LATIN CAPITAL LETTER M,227,2,"2021,2022",0,20,207
+uth,Latn,uth_Latn,ut-Hun,R,Lu,LATIN CAPITAL LETTER R,177,3,"2019,2021,2022",2,4,171
+uth,Latn,uth_Latn,ut-Hun,B,Lu,LATIN CAPITAL LETTER B,174,2,"2021,2022",0,7,167
+uth,Latn,uth_Latn,ut-Hun,T,Lu,LATIN CAPITAL LETTER T,161,3,"2019,2021,2022",1,8,152
+uth,Latn,uth_Latn,ut-Hun,3,Nd,DIGIT THREE,141,3,"2019,2021,2022",2,6,133
+uth,Latn,uth_Latn,ut-Hun,A,Lu,LATIN CAPITAL LETTER A,140,3,"2019,2021,2022",1,23,116
+uth,Latn,uth_Latn,ut-Hun,4,Nd,DIGIT FOUR,129,3,"2019,2021,2022",1,3,125
+uth,Latn,uth_Latn,ut-Hun,j,Ll,LATIN SMALL LETTER J,127,3,"2019,2021,2022",1,10,116
+uth,Latn,uth_Latn,ut-Hun,N,Lu,LATIN CAPITAL LETTER N,125,2,"2021,2022",0,10,115
+uth,Latn,uth_Latn,ut-Hun,6,Nd,DIGIT SIX,118,3,"2019,2021,2022",2,2,114
+uth,Latn,uth_Latn,ut-Hun,H,Lu,LATIN CAPITAL LETTER H,113,2,"2019,2022",2,0,111
+uth,Latn,uth_Latn,ut-Hun,U,Lu,LATIN CAPITAL LETTER U,111,1,2022,0,0,111
+uth,Latn,uth_Latn,ut-Hun,5,Nd,DIGIT FIVE,107,3,"2019,2021,2022",2,3,102
+uth,Latn,uth_Latn,ut-Hun,9,Nd,DIGIT NINE,86,3,"2019,2021,2022",1,2,83
+uth,Latn,uth_Latn,ut-Hun,8,Nd,DIGIT EIGHT,83,3,"2019,2021,2022",2,3,78
+uth,Latn,uth_Latn,ut-Hun,7,Nd,DIGIT SEVEN,83,3,"2019,2021,2022",1,2,80
+uth,Latn,uth_Latn,ut-Hun,0,Nd,DIGIT ZERO,67,3,"2019,2021,2022",1,2,64
+uth,Latn,uth_Latn,ut-Hun,G,Lu,LATIN CAPITAL LETTER G,66,2,"2021,2022",0,2,64
+uth,Latn,uth_Latn,ut-Hun,*,Po,ASTERISK,56,1,2022,0,0,56
+uth,Latn,uth_Latn,ut-Hun,O,Lu,LATIN CAPITAL LETTER O,47,2,"2021,2022",0,2,45
+uth,Latn,uth_Latn,ut-Hun,†,Po,DAGGER,46,1,2022,0,0,46
+uth,Latn,uth_Latn,ut-Hun,D,Lu,LATIN CAPITAL LETTER D,41,2,"2021,2022",0,6,35
+uth,Latn,uth_Latn,ut-Hun,l,Ll,LATIN SMALL LETTER L,40,2,"2019,2021",8,32,0
+uth,Latn,uth_Latn,ut-Hun,‡,Po,DOUBLE DAGGER,37,1,2022,0,0,37
+uth,Latn,uth_Latn,ut-Hun,é,Ll,LATIN SMALL LETTER E WITH ACUTE,32,1,2022,0,0,32
+uth,Latn,uth_Latn,ut-Hun,§,Po,SECTION SIGN,31,1,2022,0,0,31
+uth,Latn,uth_Latn,ut-Hun,;,Po,SEMICOLON,24,1,2022,0,0,24
+uth,Latn,uth_Latn,ut-Hun,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,24,1,2021,0,24,0
+uth,Latn,uth_Latn,ut-Hun,!,Po,EXCLAMATION MARK,22,1,2022,0,0,22
+uth,Latn,uth_Latn,ut-Hun,“,Pi,LEFT DOUBLE QUOTATION MARK,20,2,"2021,2022",0,3,17
+uth,Latn,uth_Latn,ut-Hun,”,Pf,RIGHT DOUBLE QUOTATION MARK,20,2,"2021,2022",0,3,17
+uth,Latn,uth_Latn,ut-Hun,f,Ll,LATIN SMALL LETTER F,19,2,"2019,2021",13,6,0
+uth,Latn,uth_Latn,ut-Hun,P,Lu,LATIN CAPITAL LETTER P,19,2,"2021,2022",0,2,17
+uth,Latn,uth_Latn,ut-Hun,I,Lu,LATIN CAPITAL LETTER I,17,2,"2021,2022",0,2,15
+uth,Latn,uth_Latn,ut-Hun,J,Lu,LATIN CAPITAL LETTER J,16,2,"2021,2022",0,14,2
+uth,Latn,uth_Latn,ut-Hun,E,Lu,LATIN CAPITAL LETTER E,15,2,"2021,2022",0,2,13
+uth,Latn,uth_Latn,ut-Hun,—,Pd,EM DASH,12,1,2022,0,0,12
+uth,Latn,uth_Latn,ut-Hun,(,Ps,LEFT PARENTHESIS,11,3,"2019,2021,2022",3,1,7
+uth,Latn,uth_Latn,ut-Hun,),Pe,RIGHT PARENTHESIS,11,3,"2019,2021,2022",3,1,7
+uth,Latn,uth_Latn,ut-Hun,Z,Lu,LATIN CAPITAL LETTER Z,9,2,"2021,2022",0,6,3
+uth,Latn,uth_Latn,ut-Hun,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,8,1,2021,0,8,0
+uth,Latn,uth_Latn,ut-Hun,¿,Po,INVERTED QUESTION MARK,7,1,2022,0,0,7
+uth,Latn,uth_Latn,ut-Hun,?,Po,QUESTION MARK,7,1,2022,0,0,7
+uth,Latn,uth_Latn,ut-Hun,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,5,1,2022,0,0,5
+uth,Latn,uth_Latn,ut-Hun,v,Ll,LATIN SMALL LETTER V,5,2,"2019,2021",2,3,0
+uth,Latn,uth_Latn,ut-Hun,q,Ll,LATIN SMALL LETTER Q,5,1,2021,0,5,0
+uth,Latn,uth_Latn,ut-Hun,C,Lu,LATIN CAPITAL LETTER C,4,1,2022,0,0,4
+uth,Latn,uth_Latn,ut-Hun,L,Lu,LATIN CAPITAL LETTER L,2,1,2021,0,2,0
+uth,Latn,uth_Latn,ut-Hun,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,2,1,2022,0,0,2
+uth,Latn,uth_Latn,ut-Hun,F,Lu,LATIN CAPITAL LETTER F,2,1,2019,2,0,0
+uth,Latn,uth_Latn,ut-Hun,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,2,1,2021,0,2,0
+uth,Latn,uth_Latn,ut-Hun,ṉ,Ll,LATIN SMALL LETTER N WITH LINE BELOW,1,1,2019,1,0,0
+uth,Latn,uth_Latn,ut-Hun,[,Ps,LEFT SQUARE BRACKET,1,1,2022,0,0,1
+uth,Latn,uth_Latn,ut-Hun,],Pe,RIGHT SQUARE BRACKET,1,1,2022,0,0,1
+uth,Latn,uth_Latn,ut-Hun,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,1,1,2022,0,0,1
+uth,Latn,uth_Latn,ut-Hun,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2022,0,0,1
+uth,Latn,uth_Latn,ut-Hun,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2022,0,0,1

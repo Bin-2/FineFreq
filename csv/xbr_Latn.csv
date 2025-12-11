@@ -1,0 +1,67 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency
+xbr,Latn,xbr_Latn,Kambera,a,Ll,LATIN SMALL LETTER A,2165,2,"2017,2018",2032,133
+xbr,Latn,xbr_Latn,Kambera, ,Zs,SPACE,1960,2,"2017,2018",1852,108
+xbr,Latn,xbr_Latn,Kambera,n,Ll,LATIN SMALL LETTER N,982,2,"2017,2018",922,60
+xbr,Latn,xbr_Latn,Kambera,u,Ll,LATIN SMALL LETTER U,860,2,"2017,2018",797,63
+xbr,Latn,xbr_Latn,Kambera,i,Ll,LATIN SMALL LETTER I,533,2,"2017,2018",510,23
+xbr,Latn,xbr_Latn,Kambera,g,Ll,LATIN SMALL LETTER G,384,2,"2017,2018",360,24
+xbr,Latn,xbr_Latn,Kambera,m,Ll,LATIN SMALL LETTER M,341,2,"2017,2018",311,30
+xbr,Latn,xbr_Latn,Kambera,l,Ll,LATIN SMALL LETTER L,304,2,"2017,2018",291,13
+xbr,Latn,xbr_Latn,Kambera,d,Ll,LATIN SMALL LETTER D,295,2,"2017,2018",278,17
+xbr,Latn,xbr_Latn,Kambera,p,Ll,LATIN SMALL LETTER P,261,2,"2017,2018",247,14
+xbr,Latn,xbr_Latn,Kambera,h,Ll,LATIN SMALL LETTER H,258,2,"2017,2018",244,14
+xbr,Latn,xbr_Latn,Kambera,k,Ll,LATIN SMALL LETTER K,232,2,"2017,2018",212,20
+xbr,Latn,xbr_Latn,Kambera,t,Ll,LATIN SMALL LETTER T,212,2,"2017,2018",203,9
+xbr,Latn,xbr_Latn,Kambera,y,Ll,LATIN SMALL LETTER Y,191,2,"2017,2018",176,15
+xbr,Latn,xbr_Latn,Kambera,A,Lu,LATIN CAPITAL LETTER A,174,2,"2017,2018",170,4
+xbr,Latn,xbr_Latn,Kambera,r,Ll,LATIN SMALL LETTER R,172,2,"2017,2018",167,5
+xbr,Latn,xbr_Latn,Kambera,.,Po,FULL STOP,162,2,"2017,2018",154,8
+xbr,Latn,xbr_Latn,Kambera,b,Ll,LATIN SMALL LETTER B,157,2,"2017,2018",143,14
+xbr,Latn,xbr_Latn,Kambera,N,Lu,LATIN CAPITAL LETTER N,148,2,"2017,2018",144,4
+xbr,Latn,xbr_Latn,Kambera,-,Pd,HYPHEN-MINUS,119,2,"2017,2018",114,5
+xbr,Latn,xbr_Latn,Kambera,e,Ll,LATIN SMALL LETTER E,93,2,"2017,2018",89,4
+xbr,Latn,xbr_Latn,Kambera,w,Ll,LATIN SMALL LETTER W,78,2,"2017,2018",68,10
+xbr,Latn,xbr_Latn,Kambera,",",Po,COMMA,74,2,"2017,2018",65,9
+xbr,Latn,xbr_Latn,Kambera,1,Nd,DIGIT ONE,73,1,2017,73,0
+xbr,Latn,xbr_Latn,Kambera,j,Ll,LATIN SMALL LETTER J,71,2,"2017,2018",65,6
+xbr,Latn,xbr_Latn,Kambera,P,Lu,LATIN CAPITAL LETTER P,70,2,"2017,2018",69,1
+xbr,Latn,xbr_Latn,Kambera,H,Lu,LATIN CAPITAL LETTER H,62,2,"2017,2018",55,7
+xbr,Latn,xbr_Latn,Kambera,:,Po,COLON,60,1,2017,60,0
+xbr,Latn,xbr_Latn,Kambera,Y,Lu,LATIN CAPITAL LETTER Y,60,2,"2017,2018",58,2
+xbr,Latn,xbr_Latn,Kambera,U,Lu,LATIN CAPITAL LETTER U,55,1,2017,55,0
+xbr,Latn,xbr_Latn,Kambera,o,Ll,LATIN SMALL LETTER O,49,2,"2017,2018",46,3
+xbr,Latn,xbr_Latn,Kambera,I,Lu,LATIN CAPITAL LETTER I,44,1,2017,44,0
+xbr,Latn,xbr_Latn,Kambera,M,Lu,LATIN CAPITAL LETTER M,44,2,"2017,2018",42,2
+xbr,Latn,xbr_Latn,Kambera,G,Lu,LATIN CAPITAL LETTER G,40,1,2017,40,0
+xbr,Latn,xbr_Latn,Kambera,2,Nd,DIGIT TWO,38,1,2017,38,0
+xbr,Latn,xbr_Latn,Kambera,?,Po,QUESTION MARK,36,1,2017,36,0
+xbr,Latn,xbr_Latn,Kambera,4,Nd,DIGIT FOUR,27,1,2017,27,0
+xbr,Latn,xbr_Latn,Kambera,3,Nd,DIGIT THREE,26,1,2017,26,0
+xbr,Latn,xbr_Latn,Kambera,—,Pd,EM DASH,26,1,2017,26,0
+xbr,Latn,xbr_Latn,Kambera,”,Pf,RIGHT DOUBLE QUOTATION MARK,24,1,2017,24,0
+xbr,Latn,xbr_Latn,Kambera,L,Lu,LATIN CAPITAL LETTER L,24,1,2017,24,0
+xbr,Latn,xbr_Latn,Kambera,5,Nd,DIGIT FIVE,22,1,2017,22,0
+xbr,Latn,xbr_Latn,Kambera,D,Lu,LATIN CAPITAL LETTER D,21,1,2017,21,0
+xbr,Latn,xbr_Latn,Kambera,K,Lu,LATIN CAPITAL LETTER K,21,2,"2017,2018",19,2
+xbr,Latn,xbr_Latn,Kambera,W,Lu,LATIN CAPITAL LETTER W,20,1,2017,20,0
+xbr,Latn,xbr_Latn,Kambera,T,Lu,LATIN CAPITAL LETTER T,20,2,"2017,2018",19,1
+xbr,Latn,xbr_Latn,Kambera,’,Pf,RIGHT SINGLE QUOTATION MARK,19,1,2017,19,0
+xbr,Latn,xbr_Latn,Kambera,R,Lu,LATIN CAPITAL LETTER R,18,1,2017,18,0
+xbr,Latn,xbr_Latn,Kambera,B,Lu,LATIN CAPITAL LETTER B,15,1,2017,15,0
+xbr,Latn,xbr_Latn,Kambera,6,Nd,DIGIT SIX,14,1,2017,14,0
+xbr,Latn,xbr_Latn,Kambera,7,Nd,DIGIT SEVEN,13,1,2017,13,0
+xbr,Latn,xbr_Latn,Kambera,8,Nd,DIGIT EIGHT,13,1,2017,13,0
+xbr,Latn,xbr_Latn,Kambera,0,Nd,DIGIT ZERO,13,1,2017,13,0
+xbr,Latn,xbr_Latn,Kambera,s,Ll,LATIN SMALL LETTER S,11,2,"2017,2018",9,2
+xbr,Latn,xbr_Latn,Kambera,),Pe,RIGHT PARENTHESIS,10,1,2017,10,0
+xbr,Latn,xbr_Latn,Kambera,%,Po,PERCENT SIGN,10,1,2017,10,0
+xbr,Latn,xbr_Latn,Kambera,(,Ps,LEFT PARENTHESIS,10,1,2017,10,0
+xbr,Latn,xbr_Latn,Kambera,9,Nd,DIGIT NINE,9,1,2017,9,0
+xbr,Latn,xbr_Latn,Kambera,;,Po,SEMICOLON,7,1,2017,7,0
+xbr,Latn,xbr_Latn,Kambera,J,Lu,LATIN CAPITAL LETTER J,6,1,2017,6,0
+xbr,Latn,xbr_Latn,Kambera,!,Po,EXCLAMATION MARK,6,1,2017,6,0
+xbr,Latn,xbr_Latn,Kambera,c,Ll,LATIN SMALL LETTER C,5,1,2017,5,0
+xbr,Latn,xbr_Latn,Kambera,O,Lu,LATIN CAPITAL LETTER O,3,1,2017,3,0
+xbr,Latn,xbr_Latn,Kambera,E,Lu,LATIN CAPITAL LETTER E,2,1,2017,2,0
+xbr,Latn,xbr_Latn,Kambera,S,Lu,LATIN CAPITAL LETTER S,2,1,2017,2,0
+xbr,Latn,xbr_Latn,Kambera,f,Ll,LATIN SMALL LETTER F,2,1,2017,2,0

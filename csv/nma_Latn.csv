@@ -1,0 +1,68 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency
+nma,Latn,nma_Latn,Maram Naga,i,Ll,LATIN SMALL LETTER I,2192,2,"2017,2018",959,1233
+nma,Latn,nma_Latn,Maram Naga, ,Zs,SPACE,1781,2,"2017,2018",754,1027
+nma,Latn,nma_Latn,Maram Naga,a,Ll,LATIN SMALL LETTER A,1369,2,"2017,2018",596,773
+nma,Latn,nma_Latn,Maram Naga,n,Ll,LATIN SMALL LETTER N,790,2,"2017,2018",344,446
+nma,Latn,nma_Latn,Maram Naga,t,Ll,LATIN SMALL LETTER T,704,2,"2017,2018",254,450
+nma,Latn,nma_Latn,Maram Naga,e,Ll,LATIN SMALL LETTER E,619,2,"2017,2018",258,361
+nma,Latn,nma_Latn,Maram Naga,k,Ll,LATIN SMALL LETTER K,586,2,"2017,2018",252,334
+nma,Latn,nma_Latn,Maram Naga,o,Ll,LATIN SMALL LETTER O,568,2,"2017,2018",234,334
+nma,Latn,nma_Latn,Maram Naga,g,Ll,LATIN SMALL LETTER G,519,2,"2017,2018",203,316
+nma,Latn,nma_Latn,Maram Naga,m,Ll,LATIN SMALL LETTER M,508,2,"2017,2018",230,278
+nma,Latn,nma_Latn,Maram Naga,l,Ll,LATIN SMALL LETTER L,393,2,"2017,2018",176,217
+nma,Latn,nma_Latn,Maram Naga,u,Ll,LATIN SMALL LETTER U,361,2,"2017,2018",165,196
+nma,Latn,nma_Latn,Maram Naga,h,Ll,LATIN SMALL LETTER H,347,2,"2017,2018",134,213
+nma,Latn,nma_Latn,Maram Naga,p,Ll,LATIN SMALL LETTER P,322,2,"2017,2018",153,169
+nma,Latn,nma_Latn,Maram Naga,s,Ll,LATIN SMALL LETTER S,294,2,"2017,2018",135,159
+nma,Latn,nma_Latn,Maram Naga,y,Ll,LATIN SMALL LETTER Y,166,2,"2017,2018",78,88
+nma,Latn,nma_Latn,Maram Naga,d,Ll,LATIN SMALL LETTER D,139,2,"2017,2018",62,77
+nma,Latn,nma_Latn,Maram Naga,r,Ll,LATIN SMALL LETTER R,137,2,"2017,2018",56,81
+nma,Latn,nma_Latn,Maram Naga,",",Po,COMMA,115,2,"2017,2018",58,57
+nma,Latn,nma_Latn,Maram Naga,w,Ll,LATIN SMALL LETTER W,81,2,"2017,2018",27,54
+nma,Latn,nma_Latn,Maram Naga,.,Po,FULL STOP,74,2,"2017,2018",33,41
+nma,Latn,nma_Latn,Maram Naga,c,Ll,LATIN SMALL LETTER C,60,2,"2017,2018",21,39
+nma,Latn,nma_Latn,Maram Naga,-,Pd,HYPHEN-MINUS,59,2,"2017,2018",22,37
+nma,Latn,nma_Latn,Maram Naga,1,Nd,DIGIT ONE,52,2,"2017,2018",15,37
+nma,Latn,nma_Latn,Maram Naga,J,Lu,LATIN CAPITAL LETTER J,52,2,"2017,2018",17,35
+nma,Latn,nma_Latn,Maram Naga,S,Lu,LATIN CAPITAL LETTER S,50,2,"2017,2018",23,27
+nma,Latn,nma_Latn,Maram Naga,b,Ll,LATIN SMALL LETTER B,49,2,"2017,2018",19,30
+nma,Latn,nma_Latn,Maram Naga,z,Ll,LATIN SMALL LETTER Z,37,2,"2017,2018",13,24
+nma,Latn,nma_Latn,Maram Naga,I,Lu,LATIN CAPITAL LETTER I,35,2,"2017,2018",10,25
+nma,Latn,nma_Latn,Maram Naga,2,Nd,DIGIT TWO,32,2,"2017,2018",16,16
+nma,Latn,nma_Latn,Maram Naga,j,Ll,LATIN SMALL LETTER J,30,2,"2017,2018",10,20
+nma,Latn,nma_Latn,Maram Naga,M,Lu,LATIN CAPITAL LETTER M,27,2,"2017,2018",11,16
+nma,Latn,nma_Latn,Maram Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,25,2,"2017,2018",8,17
+nma,Latn,nma_Latn,Maram Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,24,2,"2017,2018",8,16
+nma,Latn,nma_Latn,Maram Naga,3,Nd,DIGIT THREE,23,2,"2017,2018",13,10
+nma,Latn,nma_Latn,Maram Naga,f,Ll,LATIN SMALL LETTER F,22,2,"2017,2018",12,10
+nma,Latn,nma_Latn,Maram Naga,A,Lu,LATIN CAPITAL LETTER A,18,2,"2017,2018",5,13
+nma,Latn,nma_Latn,Maram Naga,N,Lu,LATIN CAPITAL LETTER N,17,2,"2017,2018",9,8
+nma,Latn,nma_Latn,Maram Naga,H,Lu,LATIN CAPITAL LETTER H,15,1,2018,0,15
+nma,Latn,nma_Latn,Maram Naga,;,Po,SEMICOLON,15,2,"2017,2018",1,14
+nma,Latn,nma_Latn,Maram Naga,T,Lu,LATIN CAPITAL LETTER T,15,1,2018,0,15
+nma,Latn,nma_Latn,Maram Naga,B,Lu,LATIN CAPITAL LETTER B,12,1,2018,0,12
+nma,Latn,nma_Latn,Maram Naga,K,Lu,LATIN CAPITAL LETTER K,11,2,"2017,2018",6,5
+nma,Latn,nma_Latn,Maram Naga,L,Lu,LATIN CAPITAL LETTER L,10,1,2018,0,10
+nma,Latn,nma_Latn,Maram Naga,6,Nd,DIGIT SIX,10,2,"2017,2018",4,6
+nma,Latn,nma_Latn,Maram Naga,8,Nd,DIGIT EIGHT,9,2,"2017,2018",3,6
+nma,Latn,nma_Latn,Maram Naga,5,Nd,DIGIT FIVE,8,2,"2017,2018",4,4
+nma,Latn,nma_Latn,Maram Naga,9,Nd,DIGIT NINE,8,2,"2017,2018",3,5
+nma,Latn,nma_Latn,Maram Naga,4,Nd,DIGIT FOUR,8,2,"2017,2018",4,4
+nma,Latn,nma_Latn,Maram Naga,7,Nd,DIGIT SEVEN,7,2,"2017,2018",3,4
+nma,Latn,nma_Latn,Maram Naga,0,Nd,DIGIT ZERO,7,2,"2017,2018",4,3
+nma,Latn,nma_Latn,Maram Naga,?,Po,QUESTION MARK,7,2,"2017,2018",5,2
+nma,Latn,nma_Latn,Maram Naga,P,Lu,LATIN CAPITAL LETTER P,6,2,"2017,2018",2,4
+nma,Latn,nma_Latn,Maram Naga,G,Lu,LATIN CAPITAL LETTER G,6,1,2018,0,6
+nma,Latn,nma_Latn,Maram Naga,v,Ll,LATIN SMALL LETTER V,6,2,"2017,2018",5,1
+nma,Latn,nma_Latn,Maram Naga,:,Po,COLON,6,2,"2017,2018",1,5
+nma,Latn,nma_Latn,Maram Naga,/,Po,SOLIDUS,6,1,2017,6,0
+nma,Latn,nma_Latn,Maram Naga,U,Lu,LATIN CAPITAL LETTER U,4,1,2018,0,4
+nma,Latn,nma_Latn,Maram Naga,R,Lu,LATIN CAPITAL LETTER R,4,2,"2017,2018",2,2
+nma,Latn,nma_Latn,Maram Naga,E,Lu,LATIN CAPITAL LETTER E,4,1,2018,0,4
+nma,Latn,nma_Latn,Maram Naga,’,Pf,RIGHT SINGLE QUOTATION MARK,4,1,2018,0,4
+nma,Latn,nma_Latn,Maram Naga,(,Ps,LEFT PARENTHESIS,4,2,"2017,2018",2,2
+nma,Latn,nma_Latn,Maram Naga,),Pe,RIGHT PARENTHESIS,4,2,"2017,2018",2,2
+nma,Latn,nma_Latn,Maram Naga,‘,Pi,LEFT SINGLE QUOTATION MARK,4,1,2018,0,4
+nma,Latn,nma_Latn,Maram Naga,D,Lu,LATIN CAPITAL LETTER D,2,1,2017,2,0
+nma,Latn,nma_Latn,Maram Naga,F,Lu,LATIN CAPITAL LETTER F,2,2,"2017,2018",1,1
+nma,Latn,nma_Latn,Maram Naga,!,Po,EXCLAMATION MARK,1,1,2018,0,1

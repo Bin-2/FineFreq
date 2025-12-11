@@ -1,0 +1,102 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2018_frequency,year_2019_frequency
+gya,Latn,gya_Latn,Northwest Gbaya, ,Zs,SPACE,2616,3,"2014,2018,2019",1361,65,1190
+gya,Latn,gya_Latn,Northwest Gbaya,a,Ll,LATIN SMALL LETTER A,1070,3,"2014,2018,2019",525,32,513
+gya,Latn,gya_Latn,Northwest Gbaya,ɛ,Ll,LATIN SMALL LETTER OPEN E,886,3,"2014,2018,2019",496,14,376
+gya,Latn,gya_Latn,Northwest Gbaya,n,Ll,LATIN SMALL LETTER N,662,3,"2014,2018,2019",362,21,279
+gya,Latn,gya_Latn,Northwest Gbaya,ɔ,Ll,LATIN SMALL LETTER OPEN O,504,3,"2014,2018,2019",226,14,264
+gya,Latn,gya_Latn,Northwest Gbaya,i,Ll,LATIN SMALL LETTER I,481,3,"2014,2018,2019",267,12,202
+gya,Latn,gya_Latn,Northwest Gbaya,̧,Mn,COMBINING CEDILLA,477,3,"2014,2018,2019",246,11,220
+gya,Latn,gya_Latn,Northwest Gbaya,e,Ll,LATIN SMALL LETTER E,401,3,"2014,2018,2019",225,10,166
+gya,Latn,gya_Latn,Northwest Gbaya,k,Ll,LATIN SMALL LETTER K,372,3,"2014,2018,2019",194,12,166
+gya,Latn,gya_Latn,Northwest Gbaya,o,Ll,LATIN SMALL LETTER O,363,3,"2014,2018,2019",144,11,208
+gya,Latn,gya_Latn,Northwest Gbaya,m,Ll,LATIN SMALL LETTER M,349,3,"2014,2018,2019",172,3,174
+gya,Latn,gya_Latn,Northwest Gbaya,s,Ll,LATIN SMALL LETTER S,253,3,"2014,2018,2019",130,7,116
+gya,Latn,gya_Latn,Northwest Gbaya,t,Ll,LATIN SMALL LETTER T,250,3,"2014,2018,2019",156,12,82
+gya,Latn,gya_Latn,Northwest Gbaya,u,Ll,LATIN SMALL LETTER U,199,3,"2014,2018,2019",98,10,91
+gya,Latn,gya_Latn,Northwest Gbaya,b,Ll,LATIN SMALL LETTER B,198,3,"2014,2018,2019",91,5,102
+gya,Latn,gya_Latn,Northwest Gbaya,w,Ll,LATIN SMALL LETTER W,191,3,"2014,2018,2019",102,10,79
+gya,Latn,gya_Latn,Northwest Gbaya,́,Mn,COMBINING ACUTE ACCENT,187,3,"2014,2018,2019",130,3,54
+gya,Latn,gya_Latn,Northwest Gbaya,-,Pd,HYPHEN-MINUS,187,3,"2014,2018,2019",90,5,92
+gya,Latn,gya_Latn,Northwest Gbaya,d,Ll,LATIN SMALL LETTER D,179,3,"2014,2018,2019",77,4,98
+gya,Latn,gya_Latn,Northwest Gbaya,̀,Mn,COMBINING GRAVE ACCENT,173,3,"2014,2018,2019",115,6,52
+gya,Latn,gya_Latn,Northwest Gbaya,",",Po,COMMA,170,3,"2014,2018,2019",78,5,87
+gya,Latn,gya_Latn,Northwest Gbaya,.,Po,FULL STOP,162,3,"2014,2018,2019",82,1,79
+gya,Latn,gya_Latn,Northwest Gbaya,r,Ll,LATIN SMALL LETTER R,154,3,"2014,2018,2019",68,8,78
+gya,Latn,gya_Latn,Northwest Gbaya,ŋ,Ll,LATIN SMALL LETTER ENG,150,3,"2014,2018,2019",71,2,77
+gya,Latn,gya_Latn,Northwest Gbaya,z,Ll,LATIN SMALL LETTER Z,140,3,"2014,2018,2019",56,2,82
+gya,Latn,gya_Latn,Northwest Gbaya,y,Ll,LATIN SMALL LETTER Y,107,3,"2014,2018,2019",46,4,57
+gya,Latn,gya_Latn,Northwest Gbaya,g,Ll,LATIN SMALL LETTER G,105,3,"2014,2018,2019",43,2,60
+gya,Latn,gya_Latn,Northwest Gbaya,h,Ll,LATIN SMALL LETTER H,103,3,"2014,2018,2019",55,3,45
+gya,Latn,gya_Latn,Northwest Gbaya,S,Lu,LATIN CAPITAL LETTER S,87,3,"2014,2018,2019",41,3,43
+gya,Latn,gya_Latn,Northwest Gbaya,1,Nd,DIGIT ONE,86,3,"2014,2018,2019",39,2,45
+gya,Latn,gya_Latn,Northwest Gbaya,l,Ll,LATIN SMALL LETTER L,83,3,"2014,2018,2019",42,6,35
+gya,Latn,gya_Latn,Northwest Gbaya,í,Ll,LATIN SMALL LETTER I WITH ACUTE,80,2,"2014,2019",57,0,23
+gya,Latn,gya_Latn,Northwest Gbaya,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,78,2,"2014,2019",37,0,41
+gya,Latn,gya_Latn,Northwest Gbaya,J,Lu,LATIN CAPITAL LETTER J,66,2,"2014,2019",36,0,30
+gya,Latn,gya_Latn,Northwest Gbaya,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,66,3,"2014,2018,2019",30,4,32
+gya,Latn,gya_Latn,Northwest Gbaya,2,Nd,DIGIT TWO,60,2,"2014,2019",25,0,35
+gya,Latn,gya_Latn,Northwest Gbaya,p,Ll,LATIN SMALL LETTER P,58,3,"2014,2018,2019",39,2,17
+gya,Latn,gya_Latn,Northwest Gbaya,:,Po,COLON,56,2,"2014,2019",40,0,16
+gya,Latn,gya_Latn,Northwest Gbaya,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,53,2,"2014,2019",34,0,19
+gya,Latn,gya_Latn,Northwest Gbaya,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,53,2,"2014,2019",34,0,19
+gya,Latn,gya_Latn,Northwest Gbaya,A,Lu,LATIN CAPITAL LETTER A,53,3,"2014,2018,2019",23,7,23
+gya,Latn,gya_Latn,Northwest Gbaya,',Po,APOSTROPHE,49,2,"2014,2019",35,0,14
+gya,Latn,gya_Latn,Northwest Gbaya,M,Lu,LATIN CAPITAL LETTER M,47,2,"2014,2019",30,0,17
+gya,Latn,gya_Latn,Northwest Gbaya,f,Ll,LATIN SMALL LETTER F,42,3,"2014,2018,2019",27,1,14
+gya,Latn,gya_Latn,Northwest Gbaya,3,Nd,DIGIT THREE,39,2,"2014,2019",25,0,14
+gya,Latn,gya_Latn,Northwest Gbaya,‘,Pi,LEFT SINGLE QUOTATION MARK,37,2,"2014,2019",30,0,7
+gya,Latn,gya_Latn,Northwest Gbaya,;,Po,SEMICOLON,36,2,"2014,2019",16,0,20
+gya,Latn,gya_Latn,Northwest Gbaya,W,Lu,LATIN CAPITAL LETTER W,33,3,"2014,2018,2019",25,2,6
+gya,Latn,gya_Latn,Northwest Gbaya,N,Lu,LATIN CAPITAL LETTER N,31,3,"2014,2018,2019",20,2,9
+gya,Latn,gya_Latn,Northwest Gbaya,4,Nd,DIGIT FOUR,29,2,"2014,2019",18,0,11
+gya,Latn,gya_Latn,Northwest Gbaya,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,28,3,"2014,2018,2019",23,1,4
+gya,Latn,gya_Latn,Northwest Gbaya,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,26,2,"2014,2019",15,0,11
+gya,Latn,gya_Latn,Northwest Gbaya,’,Pf,RIGHT SINGLE QUOTATION MARK,25,3,"2014,2018,2019",17,3,5
+gya,Latn,gya_Latn,Northwest Gbaya,B,Lu,LATIN CAPITAL LETTER B,23,3,"2014,2018,2019",15,2,6
+gya,Latn,gya_Latn,Northwest Gbaya,K,Lu,LATIN CAPITAL LETTER K,22,3,"2014,2018,2019",11,5,6
+gya,Latn,gya_Latn,Northwest Gbaya,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,21,3,"2014,2018,2019",16,1,4
+gya,Latn,gya_Latn,Northwest Gbaya,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,19,2,"2014,2019",5,0,14
+gya,Latn,gya_Latn,Northwest Gbaya,5,Nd,DIGIT FIVE,19,2,"2014,2019",9,0,10
+gya,Latn,gya_Latn,Northwest Gbaya,#,Po,NUMBER SIGN,18,2,"2014,2019",7,0,11
+gya,Latn,gya_Latn,Northwest Gbaya,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,18,2,"2014,2019",13,0,5
+gya,Latn,gya_Latn,Northwest Gbaya,8,Nd,DIGIT EIGHT,18,2,"2014,2019",12,0,6
+gya,Latn,gya_Latn,Northwest Gbaya,G,Lu,LATIN CAPITAL LETTER G,16,3,"2014,2018,2019",10,2,4
+gya,Latn,gya_Latn,Northwest Gbaya,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,15,2,"2014,2019",3,0,12
+gya,Latn,gya_Latn,Northwest Gbaya,E,Lu,LATIN CAPITAL LETTER E,15,2,"2014,2019",5,0,10
+gya,Latn,gya_Latn,Northwest Gbaya,7,Nd,DIGIT SEVEN,15,2,"2014,2019",5,0,10
+gya,Latn,gya_Latn,Northwest Gbaya,à,Ll,LATIN SMALL LETTER A WITH GRAVE,15,2,"2014,2019",5,0,10
+gya,Latn,gya_Latn,Northwest Gbaya,á,Ll,LATIN SMALL LETTER A WITH ACUTE,14,2,"2014,2019",13,0,1
+gya,Latn,gya_Latn,Northwest Gbaya,0,Nd,DIGIT ZERO,14,2,"2014,2019",6,0,8
+gya,Latn,gya_Latn,Northwest Gbaya,9,Nd,DIGIT NINE,14,2,"2014,2019",8,0,6
+gya,Latn,gya_Latn,Northwest Gbaya,O,Lu,LATIN CAPITAL LETTER O,13,3,"2014,2018,2019",4,2,7
+gya,Latn,gya_Latn,Northwest Gbaya,!,Po,EXCLAMATION MARK,13,2,"2014,2019",6,0,7
+gya,Latn,gya_Latn,Northwest Gbaya,6,Nd,DIGIT SIX,13,2,"2014,2019",5,0,8
+gya,Latn,gya_Latn,Northwest Gbaya,(,Ps,LEFT PARENTHESIS,12,3,"2014,2018,2019",8,1,3
+gya,Latn,gya_Latn,Northwest Gbaya,),Pe,RIGHT PARENTHESIS,12,3,"2014,2018,2019",8,1,3
+gya,Latn,gya_Latn,Northwest Gbaya,Z,Lu,LATIN CAPITAL LETTER Z,12,2,"2014,2019",2,0,10
+gya,Latn,gya_Latn,Northwest Gbaya,L,Lu,LATIN CAPITAL LETTER L,11,3,"2014,2018,2019",4,2,5
+gya,Latn,gya_Latn,Northwest Gbaya,?,Po,QUESTION MARK,11,1,2014,11,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,F,Lu,LATIN CAPITAL LETTER F,10,2,"2014,2019",8,0,2
+gya,Latn,gya_Latn,Northwest Gbaya,T,Lu,LATIN CAPITAL LETTER T,10,3,"2014,2018,2019",3,3,4
+gya,Latn,gya_Latn,Northwest Gbaya,D,Lu,LATIN CAPITAL LETTER D,9,3,"2014,2018,2019",2,1,6
+gya,Latn,gya_Latn,Northwest Gbaya,é,Ll,LATIN SMALL LETTER E WITH ACUTE,8,2,"2014,2019",6,0,2
+gya,Latn,gya_Latn,Northwest Gbaya,v,Ll,LATIN SMALL LETTER V,8,2,"2014,2019",2,0,6
+gya,Latn,gya_Latn,Northwest Gbaya,Ɔ,Lu,LATIN CAPITAL LETTER OPEN O,8,3,"2014,2018,2019",3,2,3
+gya,Latn,gya_Latn,Northwest Gbaya,Ŋ,Lu,LATIN CAPITAL LETTER ENG,7,2,"2014,2019",3,0,4
+gya,Latn,gya_Latn,Northwest Gbaya,R,Lu,LATIN CAPITAL LETTER R,6,3,"2014,2018,2019",1,1,4
+gya,Latn,gya_Latn,Northwest Gbaya,H,Lu,LATIN CAPITAL LETTER H,5,2,"2014,2019",4,0,1
+gya,Latn,gya_Latn,Northwest Gbaya,I,Lu,LATIN CAPITAL LETTER I,5,2,"2014,2019",3,0,2
+gya,Latn,gya_Latn,Northwest Gbaya,›,Pf,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,4,1,2014,4,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,‹,Pi,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,4,1,2014,4,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,P,Lu,LATIN CAPITAL LETTER P,4,2,"2014,2019",3,0,1
+gya,Latn,gya_Latn,Northwest Gbaya,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,4,2,"2014,2019",1,0,3
+gya,Latn,gya_Latn,Northwest Gbaya,c,Ll,LATIN SMALL LETTER C,3,1,2014,3,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,Y,Lu,LATIN CAPITAL LETTER Y,3,1,2019,0,0,3
+gya,Latn,gya_Latn,Northwest Gbaya,ų,Ll,LATIN SMALL LETTER U WITH OGONEK,2,1,2014,2,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,“,Pi,LEFT DOUBLE QUOTATION MARK,2,1,2018,0,2,0
+gya,Latn,gya_Latn,Northwest Gbaya,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,1,2018,0,2,0
+gya,Latn,gya_Latn,Northwest Gbaya,U,Lu,LATIN CAPITAL LETTER U,1,1,2019,0,0,1
+gya,Latn,gya_Latn,Northwest Gbaya,x,Ll,LATIN SMALL LETTER X,1,1,2014,1,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,V,Lu,LATIN CAPITAL LETTER V,1,1,2018,0,1,0
+gya,Latn,gya_Latn,Northwest Gbaya,C,Lu,LATIN CAPITAL LETTER C,1,1,2014,1,0,0
+gya,Latn,gya_Latn,Northwest Gbaya,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,1,1,2019,0,0,1

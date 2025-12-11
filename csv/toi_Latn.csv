@@ -1,0 +1,635 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2015_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+toi,Latn,toi_Latn,Tonga (Zambia),a,Ll,LATIN SMALL LETTER A,1064858,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1806,1570,4084,84072,764528,43953,49487,61829,37782,15747
+toi,Latn,toi_Latn,Tonga (Zambia), ,Zs,SPACE,886174,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1534,1260,3330,63208,624476,37028,44882,61609,31270,17577
+toi,Latn,toi_Latn,Tonga (Zambia),i,Ll,LATIN SMALL LETTER I,575542,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1036,827,2234,40244,415689,22521,28478,35395,20704,8414
+toi,Latn,toi_Latn,Tonga (Zambia),u,Ll,LATIN SMALL LETTER U,506707,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1073,928,1878,34268,361345,18653,24568,34128,20013,9853
+toi,Latn,toi_Latn,Tonga (Zambia),k,Ll,LATIN SMALL LETTER K,396246,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",775,679,1559,25744,286957,14835,18884,24978,15081,6754
+toi,Latn,toi_Latn,Tonga (Zambia),n,Ll,LATIN SMALL LETTER N,349896,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",718,618,1367,26821,250035,12066,16624,22358,13131,6158
+toi,Latn,toi_Latn,Tonga (Zambia),o,Ll,LATIN SMALL LETTER O,326041,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",468,390,1177,26475,231665,13749,15571,20507,10721,5318
+toi,Latn,toi_Latn,Tonga (Zambia),e,Ll,LATIN SMALL LETTER E,325854,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",659,537,1262,26024,228052,13624,15586,21927,11688,6495
+toi,Latn,toi_Latn,Tonga (Zambia),b,Ll,LATIN SMALL LETTER B,320918,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",404,365,1189,25139,232365,13324,15237,17567,11180,4148
+toi,Latn,toi_Latn,Tonga (Zambia),l,Ll,LATIN SMALL LETTER L,314347,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",779,676,1269,24137,222331,11877,15066,20750,11780,5682
+toi,Latn,toi_Latn,Tonga (Zambia),m,Ll,LATIN SMALL LETTER M,294106,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",525,441,1107,22384,209673,12474,14542,17754,10729,4477
+toi,Latn,toi_Latn,Tonga (Zambia),w,Ll,LATIN SMALL LETTER W,241945,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",507,441,937,17641,169227,11648,13024,15732,8999,3789
+toi,Latn,toi_Latn,Tonga (Zambia),y,Ll,LATIN SMALL LETTER Y,216316,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",376,330,928,15346,158070,6804,9751,13807,7462,3442
+toi,Latn,toi_Latn,Tonga (Zambia),t,Ll,LATIN SMALL LETTER T,190870,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",323,231,791,11907,137626,7970,9194,12412,6844,3572
+toi,Latn,toi_Latn,Tonga (Zambia),z,Ll,LATIN SMALL LETTER Z,147479,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",196,158,531,11955,104614,6159,6742,8683,5811,2630
+toi,Latn,toi_Latn,Tonga (Zambia),s,Ll,LATIN SMALL LETTER S,128942,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",261,198,495,9888,87967,6536,6548,9232,5141,2676
+toi,Latn,toi_Latn,Tonga (Zambia),d,Ll,LATIN SMALL LETTER D,90964,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",189,150,340,5288,65400,4184,4711,5973,3268,1461
+toi,Latn,toi_Latn,Tonga (Zambia),c,Ll,LATIN SMALL LETTER C,80459,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",171,122,304,7064,56534,3193,3815,5045,2930,1281
+toi,Latn,toi_Latn,Tonga (Zambia),.,Po,FULL STOP,73611,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",117,65,274,4643,52039,3509,3732,5221,2611,1400
+toi,Latn,toi_Latn,Tonga (Zambia),g,Ll,LATIN SMALL LETTER G,64571,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",172,183,289,3750,46670,2335,3092,4362,2525,1193
+toi,Latn,toi_Latn,Tonga (Zambia),",",Po,COMMA,63689,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",90,73,234,7604,40761,3517,3816,4571,1715,1308
+toi,Latn,toi_Latn,Tonga (Zambia),p,Ll,LATIN SMALL LETTER P,53313,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",77,78,219,3671,37567,2933,2590,3194,1949,1035
+toi,Latn,toi_Latn,Tonga (Zambia),A,Lu,LATIN CAPITAL LETTER A,29382,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",12,23,53,1688,23677,515,678,1197,1349,190
+toi,Latn,toi_Latn,Tonga (Zambia),M,Lu,LATIN CAPITAL LETTER M,29192,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",28,32,86,1552,21588,891,1157,2061,1204,593
+toi,Latn,toi_Latn,Tonga (Zambia),h,Ll,LATIN SMALL LETTER H,28854,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",60,1,84,1539,18909,1935,2697,1904,1419,306
+toi,Latn,toi_Latn,Tonga (Zambia),j,Ll,LATIN SMALL LETTER J,26454,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",34,25,104,1611,19434,795,1170,1690,979,612
+toi,Latn,toi_Latn,Tonga (Zambia),1,Nd,DIGIT ONE,25359,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",19,13,112,1828,19191,896,1420,1134,471,275
+toi,Latn,toi_Latn,Tonga (Zambia),B,Lu,LATIN CAPITAL LETTER B,22646,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",11,12,71,577,18758,384,606,1044,905,278
+toi,Latn,toi_Latn,Tonga (Zambia),L,Lu,LATIN CAPITAL LETTER L,21266,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",12,15,35,1547,14137,1674,769,1568,1014,495
+toi,Latn,toi_Latn,Tonga (Zambia),N,Lu,LATIN CAPITAL LETTER N,19892,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",12,13,49,1339,14589,689,849,1327,837,188
+toi,Latn,toi_Latn,Tonga (Zambia),J,Lu,LATIN CAPITAL LETTER J,19469,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1,1,52,1577,14626,700,1017,895,451,149
+toi,Latn,toi_Latn,Tonga (Zambia),K,Lu,LATIN CAPITAL LETTER K,18893,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",27,52,109,493,14341,460,540,1437,943,491
+toi,Latn,toi_Latn,Tonga (Zambia),I,Lu,LATIN CAPITAL LETTER I,17510,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",8,10,61,666,13824,265,698,1029,806,143
+toi,Latn,toi_Latn,Tonga (Zambia),r,Ll,LATIN SMALL LETTER R,17321,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",35,2,111,1526,10953,1659,724,1256,623,432
+toi,Latn,toi_Latn,Tonga (Zambia),v,Ll,LATIN SMALL LETTER V,17152,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",27,11,78,1955,12206,737,706,935,401,96
+toi,Latn,toi_Latn,Tonga (Zambia),2,Nd,DIGIT TWO,16356,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",19,13,52,1413,11915,726,923,757,369,169
+toi,Latn,toi_Latn,Tonga (Zambia),:,Po,COLON,16171,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",3,2,61,246,13799,217,382,808,481,172
+toi,Latn,toi_Latn,Tonga (Zambia),f,Ll,LATIN SMALL LETTER F,14788,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",28,6,29,1351,10495,593,690,975,440,181
+toi,Latn,toi_Latn,Tonga (Zambia),-,Pd,HYPHEN-MINUS,12057,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",4,33,21,4492,6004,403,256,268,314,262
+toi,Latn,toi_Latn,Tonga (Zambia),U,Lu,LATIN CAPITAL LETTER U,10435,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",17,20,19,219,8445,182,181,514,744,94
+toi,Latn,toi_Latn,Tonga (Zambia),3,Nd,DIGIT THREE,10397,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",10,4,29,945,7378,460,634,575,221,141
+toi,Latn,toi_Latn,Tonga (Zambia),+,Sm,PLUS SIGN,9876,5,"2018,2019,2020,2021,2022",0,0,0,40,9197,44,158,437,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),?,Po,QUESTION MARK,9668,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,26,328,8003,163,406,522,176,44
+toi,Latn,toi_Latn,Tonga (Zambia),“,Pi,LEFT DOUBLE QUOTATION MARK,9154,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,18,51,7299,298,524,710,97,157
+toi,Latn,toi_Latn,Tonga (Zambia),E,Lu,LATIN CAPITAL LETTER E,9098,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",4,4,18,699,7021,253,204,380,463,52
+toi,Latn,toi_Latn,Tonga (Zambia),”,Pf,RIGHT DOUBLE QUOTATION MARK,8660,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,18,51,6812,264,545,712,87,171
+toi,Latn,toi_Latn,Tonga (Zambia),S,Lu,LATIN CAPITAL LETTER S,8071,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",3,5,22,406,6040,337,254,564,362,78
+toi,Latn,toi_Latn,Tonga (Zambia),C,Lu,LATIN CAPITAL LETTER C,7936,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",5,5,20,168,6486,94,204,407,406,141
+toi,Latn,toi_Latn,Tonga (Zambia),T,Lu,LATIN CAPITAL LETTER T,7919,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",9,5,29,229,5644,384,524,605,385,105
+toi,Latn,toi_Latn,Tonga (Zambia),0,Nd,DIGIT ZERO,7735,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",12,3,17,392,6034,235,394,343,195,110
+toi,Latn,toi_Latn,Tonga (Zambia),P,Lu,LATIN CAPITAL LETTER P,7692,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1,1,19,323,5294,558,520,620,253,103
+toi,Latn,toi_Latn,Tonga (Zambia),4,Nd,DIGIT FOUR,7544,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",6,3,23,626,5304,299,478,490,178,137
+toi,Latn,toi_Latn,Tonga (Zambia),),Pe,RIGHT PARENTHESIS,7037,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",3,2,28,126,5868,133,321,206,333,17
+toi,Latn,toi_Latn,Tonga (Zambia),(,Ps,LEFT PARENTHESIS,7033,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",3,2,28,126,5867,135,321,206,328,17
+toi,Latn,toi_Latn,Tonga (Zambia),5,Nd,DIGIT FIVE,6374,9,"2015,2017,2018,2019,2020,2021,2022,2023,2024",0,3,38,510,4532,249,439,366,148,89
+toi,Latn,toi_Latn,Tonga (Zambia),W,Lu,LATIN CAPITAL LETTER W,6276,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",2,7,27,195,4685,156,187,487,391,139
+toi,Latn,toi_Latn,Tonga (Zambia),O,Lu,LATIN CAPITAL LETTER O,5861,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",17,22,13,101,4751,95,144,298,361,59
+toi,Latn,toi_Latn,Tonga (Zambia),6,Nd,DIGIT SIX,5299,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",6,3,17,437,3760,208,353,329,94,92
+toi,Latn,toi_Latn,Tonga (Zambia),7,Nd,DIGIT SEVEN,5251,9,"2015,2017,2018,2019,2020,2021,2022,2023,2024",0,3,10,416,3677,196,453,314,85,97
+toi,Latn,toi_Latn,Tonga (Zambia),9,Nd,DIGIT NINE,4752,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",8,3,15,389,3463,215,316,214,90,39
+toi,Latn,toi_Latn,Tonga (Zambia),/,Po,SOLIDUS,4744,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",3,0,11,1,4684,1,6,26,5,7
+toi,Latn,toi_Latn,Tonga (Zambia),8,Nd,DIGIT EIGHT,4720,9,"2015,2017,2018,2019,2020,2021,2022,2023,2024",0,3,21,404,3363,197,322,250,100,60
+toi,Latn,toi_Latn,Tonga (Zambia),Y,Lu,LATIN CAPITAL LETTER Y,4616,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",2,3,7,19,4116,30,46,194,193,6
+toi,Latn,toi_Latn,Tonga (Zambia),Z,Lu,LATIN CAPITAL LETTER Z,4511,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",8,4,10,121,3572,64,80,209,382,61
+toi,Latn,toi_Latn,Tonga (Zambia),;,Po,SEMICOLON,3927,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",3,3,3,403,2849,156,91,226,78,115
+toi,Latn,toi_Latn,Tonga (Zambia),—,Pd,EM DASH,3302,7,"2017,2018,2019,2020,2021,2022,2024",0,0,23,54,2966,17,87,63,0,92
+toi,Latn,toi_Latn,Tonga (Zambia),D,Lu,LATIN CAPITAL LETTER D,3127,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",4,1,12,58,2502,79,77,201,180,13
+toi,Latn,toi_Latn,Tonga (Zambia),G,Lu,LATIN CAPITAL LETTER G,3013,10,"2013,2015,2017,2018,2019,2020,2021,2022,2023,2024",1,2,7,65,2579,59,89,81,120,10
+toi,Latn,toi_Latn,Tonga (Zambia),’,Pf,RIGHT SINGLE QUOTATION MARK,2655,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",1,0,1,17,2369,11,64,165,23,4
+toi,Latn,toi_Latn,Tonga (Zambia),‘,Pi,LEFT SINGLE QUOTATION MARK,2362,7,"2017,2018,2019,2020,2021,2022,2023",0,0,1,16,2223,8,52,53,9,0
+toi,Latn,toi_Latn,Tonga (Zambia),!,Po,EXCLAMATION MARK,2238,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,6,110,1703,34,130,204,33,18
+toi,Latn,toi_Latn,Tonga (Zambia),*,Po,ASTERISK,2023,7,"2017,2018,2019,2020,2021,2022,2024",0,0,1,8,1881,8,29,93,0,3
+toi,Latn,toi_Latn,Tonga (Zambia),R,Lu,LATIN CAPITAL LETTER R,1882,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",2,0,8,83,958,473,197,48,75,38
+toi,Latn,toi_Latn,Tonga (Zambia),"""",Po,QUOTATION MARK,1831,3,"2019,2020,2023",0,0,0,0,1296,22,0,0,513,0
+toi,Latn,toi_Latn,Tonga (Zambia),H,Lu,LATIN CAPITAL LETTER H,1668,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",4,0,11,128,1158,45,61,109,137,15
+toi,Latn,toi_Latn,Tonga (Zambia),F,Lu,LATIN CAPITAL LETTER F,1487,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,5,206,899,99,55,102,85,36
+toi,Latn,toi_Latn,Tonga (Zambia),ŋ,Ll,LATIN SMALL LETTER ENG,1259,7,"2017,2018,2019,2020,2021,2022,2023",0,0,1,271,944,11,8,20,4,0
+toi,Latn,toi_Latn,Tonga (Zambia),_,Pc,LOW LINE,1219,3,"2019,2021,2022",0,0,0,0,1214,0,1,4,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),^,Sk,CIRCUMFLEX ACCENT,841,3,"2017,2019,2020",0,0,4,0,831,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),%,Po,PERCENT SIGN,528,3,"2019,2023,2024",0,0,0,0,512,0,0,0,9,7
+toi,Latn,toi_Latn,Tonga (Zambia),V,Lu,LATIN CAPITAL LETTER V,524,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",3,0,2,4,406,21,12,24,43,9
+toi,Latn,toi_Latn,Tonga (Zambia),',Po,APOSTROPHE,333,8,"2013,2015,2017,2019,2020,2021,2022,2023",4,2,1,0,69,103,89,19,46,0
+toi,Latn,toi_Latn,Tonga (Zambia),q,Ll,LATIN SMALL LETTER Q,268,6,"2019,2020,2021,2022,2023,2024",0,0,0,0,64,157,1,36,3,7
+toi,Latn,toi_Latn,Tonga (Zambia),[,Ps,LEFT SQUARE BRACKET,242,7,"2015,2017,2018,2019,2020,2021,2024",0,1,1,3,211,18,5,0,0,3
+toi,Latn,toi_Latn,Tonga (Zambia),],Pe,RIGHT SQUARE BRACKET,240,7,"2015,2017,2018,2019,2020,2021,2024",0,1,1,3,211,17,4,0,0,3
+toi,Latn,toi_Latn,Tonga (Zambia),x,Ll,LATIN SMALL LETTER X,210,8,"2013,2017,2019,2020,2021,2022,2023,2024",1,0,5,0,124,38,7,24,7,4
+toi,Latn,toi_Latn,Tonga (Zambia),Ŋ,Lu,LATIN CAPITAL LETTER ENG,105,4,"2018,2019,2021,2022",0,0,0,1,82,0,4,18,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),#,Po,NUMBER SIGN,91,3,"2019,2020,2023",0,0,0,0,26,34,0,0,31,0
+toi,Latn,toi_Latn,Tonga (Zambia),|,Sm,VERTICAL LINE,89,5,"2019,2020,2021,2022,2024",0,0,0,0,26,40,8,1,0,14
+toi,Latn,toi_Latn,Tonga (Zambia),–,Pd,EN DASH,73,7,"2013,2019,2020,2021,2022,2023,2024",1,0,0,0,31,1,1,4,10,25
+toi,Latn,toi_Latn,Tonga (Zambia),é,Ll,LATIN SMALL LETTER E WITH ACUTE,71,2,"2019,2022",0,0,0,0,20,0,0,51,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),¶,Po,PILCROW SIGN,70,4,"2019,2020,2021,2022",0,0,0,0,16,3,47,4,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,52,3,"2019,2021,2022",0,0,0,0,22,0,18,12,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),の,Lo,HIRAGANA LETTER NO,51,1,2020,0,0,0,0,0,51,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,48,4,"2019,2020,2021,2022",0,0,0,0,12,6,18,12,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),。,Po,IDEOGRAPHIC FULL STOP,43,1,2020,0,0,0,0,0,43,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),に,Lo,HIRAGANA LETTER NI,35,1,2020,0,0,0,0,0,35,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),、,Po,IDEOGRAPHIC COMMA,34,1,2020,0,0,0,0,0,34,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),る,Lo,HIRAGANA LETTER RU,32,1,2020,0,0,0,0,0,32,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),©,So,COPYRIGHT SIGN,30,3,"2013,2019,2023",1,0,0,0,17,0,0,0,12,0
+toi,Latn,toi_Latn,Tonga (Zambia),Q,Lu,LATIN CAPITAL LETTER Q,30,4,"2019,2020,2022,2024",0,0,0,0,26,1,0,2,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),•,Po,BULLET,29,2,"2019,2020",0,0,0,0,2,27,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),治,Lo,CJK UNIFIED IDEOGRAPH-6CBB,27,1,2020,0,0,0,0,0,27,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),は,Lo,HIRAGANA LETTER HA,27,1,2020,0,0,0,0,0,27,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),宇,Lo,CJK UNIFIED IDEOGRAPH-5B87,25,1,2020,0,0,0,0,0,25,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),年,Lo,CJK UNIFIED IDEOGRAPH-5E74,25,1,2020,0,0,0,0,0,25,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),$,Sc,DOLLAR SIGN,25,4,"2019,2020,2023,2024",0,0,0,0,8,5,0,0,4,8
+toi,Latn,toi_Latn,Tonga (Zambia),を,Lo,HIRAGANA LETTER WO,25,1,2020,0,0,0,0,0,25,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),が,Lo,HIRAGANA LETTER GA,24,1,2020,0,0,0,0,0,24,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),>,Sm,GREATER-THAN SIGN,22,3,"2019,2020,2022",0,0,0,0,10,1,0,11,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),·,Po,MIDDLE DOT,21,1,2019,0,0,0,0,21,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ñ,Ll,LATIN SMALL LETTER N WITH TILDE,21,2,"2013,2020",13,0,0,0,0,8,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),と,Lo,HIRAGANA LETTER TO,20,1,2020,0,0,0,0,0,20,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),い,Lo,HIRAGANA LETTER I,20,1,2020,0,0,0,0,0,20,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),è,Ll,LATIN SMALL LETTER E WITH GRAVE,20,2,"2019,2022",0,0,0,0,3,0,0,17,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),た,Lo,HIRAGANA LETTER TA,20,1,2020,0,0,0,0,0,20,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),れ,Lo,HIRAGANA LETTER RE,19,1,2020,0,0,0,0,0,19,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),í,Ll,LATIN SMALL LETTER I WITH ACUTE,19,2,"2019,2022",0,0,0,0,18,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),市,Lo,CJK UNIFIED IDEOGRAPH-5E02,18,1,2020,0,0,0,0,0,18,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),া,Mc,BENGALI VOWEL SIGN AA,18,1,2022,0,0,0,0,0,0,0,18,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),な,Lo,HIRAGANA LETTER NA,16,1,2020,0,0,0,0,0,16,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),à,Ll,LATIN SMALL LETTER A WITH GRAVE,16,2,"2019,2022",0,0,0,0,1,0,0,15,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),し,Lo,HIRAGANA LETTER SI,16,1,2020,0,0,0,0,0,16,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),り,Lo,HIRAGANA LETTER RI,15,1,2020,0,0,0,0,0,15,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),て,Lo,HIRAGANA LETTER TE,15,1,2020,0,0,0,0,0,15,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),・,Po,KATAKANA MIDDLE DOT,15,1,2020,0,0,0,0,0,15,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),‹,Pi,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,14,1,2019,0,0,0,0,14,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),›,Pf,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,14,1,2019,0,0,0,0,14,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),য,Lo,BENGALI LETTER YA,14,1,2022,0,0,0,0,0,0,0,14,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),─,So,BOX DRAWINGS LIGHT HORIZONTAL,14,1,2022,0,0,0,0,0,0,0,14,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ー,Lm,KATAKANA-HIRAGANA PROLONGED SOUND MARK,14,1,2020,0,0,0,0,0,14,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),X,Lu,LATIN CAPITAL LETTER X,14,3,"2017,2019,2024",0,0,1,0,12,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,13,2,"2022,2024",0,0,0,0,0,0,0,11,0,2
+toi,Latn,toi_Latn,Tonga (Zambia),ʹ,Lm,MODIFIER LETTER PRIME,13,1,2019,0,0,0,0,13,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),○,So,WHITE CIRCLE,12,1,2019,0,0,0,0,12,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),月,Lo,CJK UNIFIED IDEOGRAPH-6708,12,1,2020,0,0,0,0,0,12,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),で,Lo,HIRAGANA LETTER DE,12,1,2020,0,0,0,0,0,12,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),্,Mn,BENGALI SIGN VIRAMA,12,1,2022,0,0,0,0,0,0,0,12,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),さ,Lo,HIRAGANA LETTER SA,11,1,2020,0,0,0,0,0,11,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),す,Lo,HIRAGANA LETTER SU,11,1,2020,0,0,0,0,0,11,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ন,Lo,BENGALI LETTER NA,11,1,2022,0,0,0,0,0,0,0,11,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),も,Lo,HIRAGANA LETTER MO,11,1,2020,0,0,0,0,0,11,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),日,Lo,CJK UNIFIED IDEOGRAPH-65E5,11,1,2020,0,0,0,0,0,11,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),®,So,REGISTERED SIGN,11,3,"2019,2021,2022",0,0,0,0,7,0,3,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,11,2,"2019,2022",0,0,0,0,1,0,0,10,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),á,Ll,LATIN SMALL LETTER A WITH ACUTE,10,2,"2019,2021",0,0,0,0,4,0,6,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),」,Pe,RIGHT CORNER BRACKET,10,1,2020,0,0,0,0,0,10,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),「,Ps,LEFT CORNER BRACKET,10,1,2020,0,0,0,0,0,10,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),あ,Lo,HIRAGANA LETTER A,10,1,2020,0,0,0,0,0,10,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),&,Po,AMPERSAND,10,4,"2017,2019,2020,2024",0,0,1,0,4,2,0,0,0,3
+toi,Latn,toi_Latn,Tonga (Zambia),社,Lo,CJK UNIFIED IDEOGRAPH-793E,9,1,2020,0,0,0,0,0,9,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ま,Lo,HIRAGANA LETTER MA,9,1,2020,0,0,0,0,0,9,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),所,Lo,CJK UNIFIED IDEOGRAPH-6240,9,1,2020,0,0,0,0,0,9,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),র,Lo,BENGALI LETTER RA,9,1,2022,0,0,0,0,0,0,0,9,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ো,Mc,BENGALI VOWEL SIGN O,8,1,2022,0,0,0,0,0,0,0,8,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ン,Lo,KATAKANA LETTER N,8,1,2020,0,0,0,0,0,8,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),神,Lo,CJK UNIFIED IDEOGRAPH-795E,8,1,2020,0,0,0,0,0,8,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),œ,Ll,LATIN SMALL LIGATURE OE,8,2,"2019,2022",0,0,0,0,1,0,0,7,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),在,Lo,CJK UNIFIED IDEOGRAPH-5728,8,1,2020,0,0,0,0,0,8,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,7,2,"2019,2021",0,0,0,0,3,0,4,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,7,2,"2019,2022",0,0,0,0,5,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),お,Lo,HIRAGANA LETTER O,7,1,2020,0,0,0,0,0,7,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),よ,Lo,HIRAGANA LETTER YO,7,1,2020,0,0,0,0,0,7,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),次,Lo,CJK UNIFIED IDEOGRAPH-6B21,7,1,2020,0,0,0,0,0,7,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),京,Lo,CJK UNIFIED IDEOGRAPH-4EAC,7,1,2020,0,0,0,0,0,7,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),都,Lo,CJK UNIFIED IDEOGRAPH-90FD,7,1,2020,0,0,0,0,0,7,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),行,Lo,CJK UNIFIED IDEOGRAPH-884C,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),場,Lo,CJK UNIFIED IDEOGRAPH-5834,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),局,Lo,CJK UNIFIED IDEOGRAPH-5C40,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),便,Lo,CJK UNIFIED IDEOGRAPH-4FBF,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),郵,Lo,CJK UNIFIED IDEOGRAPH-90F5,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),現,Lo,CJK UNIFIED IDEOGRAPH-73FE,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),●,So,BLACK CIRCLE,6,1,2019,0,0,0,0,6,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ó,Ll,LATIN SMALL LETTER O WITH ACUTE,6,2,"2019,2024",0,0,0,0,4,0,0,0,0,2
+toi,Latn,toi_Latn,Tonga (Zambia),宮,Lo,CJK UNIFIED IDEOGRAPH-5BAE,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),গ,Lo,BENGALI LETTER GA,6,1,2022,0,0,0,0,0,0,0,6,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),イ,Lo,KATAKANA LETTER I,6,1,2020,0,0,0,0,0,6,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ה,Lo,HEBREW LETTER HE,6,1,2019,0,0,0,0,6,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),議,Lo,CJK UNIFIED IDEOGRAPH-8B70,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),島,Lo,CJK UNIFIED IDEOGRAPH-5CF6,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),大,Lo,CJK UNIFIED IDEOGRAPH-5927,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ら,Lo,HIRAGANA LETTER RA,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ト,Lo,KATAKANA LETTER TO,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),か,Lo,HIRAGANA LETTER KA,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),府,Lo,CJK UNIFIED IDEOGRAPH-5E9C,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),屋,Lo,CJK UNIFIED IDEOGRAPH-5C4B,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),け,Lo,HIRAGANA LETTER KE,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),@,Po,COMMERCIAL AT,5,2,"2021,2022",0,0,0,0,0,0,2,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,5,1,2019,0,0,0,0,5,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),内,Lo,CJK UNIFIED IDEOGRAPH-5185,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),æ,Ll,LATIN SMALL LETTER AE,5,1,2019,0,0,0,0,5,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),殿,Lo,CJK UNIFIED IDEOGRAPH-6BBF,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ব,Lo,BENGALI LETTER BA,5,1,2022,0,0,0,0,0,0,0,5,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ে,Mc,BENGALI VOWEL SIGN E,5,1,2022,0,0,0,0,0,0,0,5,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ム,Lo,KATAKANA LETTER MU,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),়,Mn,BENGALI SIGN NUKTA,5,1,2022,0,0,0,0,0,0,0,5,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),অ,Lo,BENGALI LETTER A,5,1,2022,0,0,0,0,0,0,0,5,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ভ,Lo,BENGALI LETTER BHA,5,1,2022,0,0,0,0,0,0,0,5,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),根,Lo,CJK UNIFIED IDEOGRAPH-6839,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),用,Lo,CJK UNIFIED IDEOGRAPH-7528,5,1,2020,0,0,0,0,0,5,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),う,Lo,HIRAGANA LETTER U,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),こ,Lo,HIRAGANA LETTER KO,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),平,Lo,CJK UNIFIED IDEOGRAPH-5E73,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),交,Lo,CJK UNIFIED IDEOGRAPH-4EA4,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),郡,Lo,CJK UNIFIED IDEOGRAPH-90E1,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),サ,Lo,KATAKANA LETTER SA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),点,Lo,CJK UNIFIED IDEOGRAPH-70B9,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ু,Mn,BENGALI VOWEL SIGN U,4,1,2022,0,0,0,0,0,0,0,4,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),感,Lo,CJK UNIFIED IDEOGRAPH-611F,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),染,Lo,CJK UNIFIED IDEOGRAPH-67D3,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),明,Lo,CJK UNIFIED IDEOGRAPH-660E,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),天,Lo,CJK UNIFIED IDEOGRAPH-5929,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ど,Lo,HIRAGANA LETTER DO,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),上,Lo,CJK UNIFIED IDEOGRAPH-4E0A,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),י,Lo,HEBREW LETTER YOD,4,1,2019,0,0,0,0,4,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),入,Lo,CJK UNIFIED IDEOGRAPH-5165,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),定,Lo,CJK UNIFIED IDEOGRAPH-5B9A,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),中,Lo,CJK UNIFIED IDEOGRAPH-4E2D,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),人,Lo,CJK UNIFIED IDEOGRAPH-4EBA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),期,Lo,CJK UNIFIED IDEOGRAPH-671F,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),国,Lo,CJK UNIFIED IDEOGRAPH-56FD,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),水,Lo,CJK UNIFIED IDEOGRAPH-6C34,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ゲ,Lo,KATAKANA LETTER GE,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),タ,Lo,KATAKANA LETTER TA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ষ,Lo,BENGALI LETTER SSA,4,1,2022,0,0,0,0,0,0,0,4,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),地,Lo,CJK UNIFIED IDEOGRAPH-5730,4,1,2020,0,0,0,0,0,4,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ি,Mc,BENGALI VOWEL SIGN I,4,1,2022,0,0,0,0,0,0,0,4,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ו,Lo,HEBREW LETTER VAV,4,1,2019,0,0,0,0,4,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),番,Lo,CJK UNIFIED IDEOGRAPH-756A,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),久,Lo,CJK UNIFIED IDEOGRAPH-4E45,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),編,Lo,CJK UNIFIED IDEOGRAPH-7DE8,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ラ,Lo,KATAKANA LETTER RA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),成,Lo,CJK UNIFIED IDEOGRAPH-6210,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),カ,Lo,KATAKANA LETTER KA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),工,Lo,CJK UNIFIED IDEOGRAPH-5DE5,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),新,Lo,CJK UNIFIED IDEOGRAPH-65B0,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),覧,Lo,CJK UNIFIED IDEOGRAPH-89A7,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ス,Lo,KATAKANA LETTER SU,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),和,Lo,CJK UNIFIED IDEOGRAPH-548C,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),施,Lo,CJK UNIFIED IDEOGRAPH-65BD,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),°,So,DEGREE SIGN,3,2,"2019,2024",0,0,0,0,2,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),会,Lo,CJK UNIFIED IDEOGRAPH-4F1A,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),集,Lo,CJK UNIFIED IDEOGRAPH-96C6,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),閲,Lo,CJK UNIFIED IDEOGRAPH-95B2,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),=,Sm,EQUALS SIGN,3,2,"2019,2022",0,0,0,0,2,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ば,Lo,HIRAGANA LETTER BA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),任,Lo,CJK UNIFIED IDEOGRAPH-4EFB,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),式,Lo,CJK UNIFIED IDEOGRAPH-5F0F,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ウ,Lo,KATAKANA LETTER U,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),同,Lo,CJK UNIFIED IDEOGRAPH-540C,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),め,Lo,HIRAGANA LETTER ME,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ル,Lo,KATAKANA LETTER RU,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),本,Lo,CJK UNIFIED IDEOGRAPH-672C,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),合,Lo,CJK UNIFIED IDEOGRAPH-5408,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),設,Lo,CJK UNIFIED IDEOGRAPH-8A2D,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),っ,Lo,HIRAGANA LETTER SMALL TU,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ん,Lo,HIRAGANA LETTER N,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),開,Lo,CJK UNIFIED IDEOGRAPH-958B,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),呼,Lo,CJK UNIFIED IDEOGRAPH-547C,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),皇,Lo,CJK UNIFIED IDEOGRAPH-7687,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),右,Lo,CJK UNIFIED IDEOGRAPH-53F3,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),田,Lo,CJK UNIFIED IDEOGRAPH-7530,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),▪,So,BLACK SMALL SQUARE,3,1,2021,0,0,0,0,0,0,3,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ম,Lo,BENGALI LETTER MA,3,1,2022,0,0,0,0,0,0,0,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),防,Lo,CJK UNIFIED IDEOGRAPH-9632,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),立,Lo,CJK UNIFIED IDEOGRAPH-7ACB,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),公,Lo,CJK UNIFIED IDEOGRAPH-516C,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),理,Lo,CJK UNIFIED IDEOGRAPH-7406,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),物,Lo,CJK UNIFIED IDEOGRAPH-7269,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),হ,Lo,BENGALI LETTER HA,3,1,2022,0,0,0,0,0,0,0,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),প,Lo,BENGALI LETTER PA,3,1,2022,0,0,0,0,0,0,0,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),জ,Lo,BENGALI LETTER JA,3,1,2022,0,0,0,0,0,0,0,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),স,Lo,BENGALI LETTER SA,3,1,2022,0,0,0,0,0,0,0,3,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),✅,So,WHITE HEAVY CHECK MARK,3,1,2024,0,0,0,0,0,0,0,0,0,3
+toi,Latn,toi_Latn,Tonga (Zambia),ʽ,Lm,MODIFIER LETTER REVERSED COMMA,3,1,2019,0,0,0,0,3,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),部,Lo,CJK UNIFIED IDEOGRAPH-90E8,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),拡,Lo,CJK UNIFIED IDEOGRAPH-62E1,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),取,Lo,CJK UNIFIED IDEOGRAPH-53D6,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),わ,Lo,HIRAGANA LETTER WA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),創,Lo,CJK UNIFIED IDEOGRAPH-5275,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),史,Lo,CJK UNIFIED IDEOGRAPH-53F2,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),建,Lo,CJK UNIFIED IDEOGRAPH-5EFA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ঙ,Lo,BENGALI LETTER NGA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),再,Lo,CJK UNIFIED IDEOGRAPH-518D,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ず,Lo,HIRAGANA LETTER ZU,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ত,Lo,BENGALI LETTER TA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),プ,Lo,KATAKANA LETTER PU,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),管,Lo,CJK UNIFIED IDEOGRAPH-7BA1,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),や,Lo,HIRAGANA LETTER YA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),子,Lo,CJK UNIFIED IDEOGRAPH-5B50,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),組,Lo,CJK UNIFIED IDEOGRAPH-7D44,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ট,Lo,BENGALI LETTER TTA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),世,Lo,CJK UNIFIED IDEOGRAPH-4E16,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),小,Lo,CJK UNIFIED IDEOGRAPH-5C0F,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),含,Lo,CJK UNIFIED IDEOGRAPH-542B,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),造,Lo,CJK UNIFIED IDEOGRAPH-9020,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ড,Lo,BENGALI LETTER DDA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),দ,Lo,BENGALI LETTER DA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ド,Lo,KATAKANA LETTER DO,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ক,Lo,BENGALI LETTER KA,2,1,2022,0,0,0,0,0,0,0,2,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),左,Lo,CJK UNIFIED IDEOGRAPH-5DE6,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ッ,Lo,KATAKANA LETTER SMALL TU,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),使,Lo,CJK UNIFIED IDEOGRAPH-4F7F,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),送,Lo,CJK UNIFIED IDEOGRAPH-9001,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),放,Lo,CJK UNIFIED IDEOGRAPH-653E,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),自,Lo,CJK UNIFIED IDEOGRAPH-81EA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),起,Lo,CJK UNIFIED IDEOGRAPH-8D77,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),著,Lo,CJK UNIFIED IDEOGRAPH-8457,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),נ,Lo,HEBREW LETTER NUN,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),止,Lo,CJK UNIFIED IDEOGRAPH-6B62,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),差,Lo,CJK UNIFIED IDEOGRAPH-5DEE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),橋,Lo,CJK UNIFIED IDEOGRAPH-6A4B,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),架,Lo,CJK UNIFIED IDEOGRAPH-67B6,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),営,Lo,CJK UNIFIED IDEOGRAPH-55B6,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),当,Lo,CJK UNIFIED IDEOGRAPH-5F53,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),浄,Lo,CJK UNIFIED IDEOGRAPH-6D44,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),昭,Lo,CJK UNIFIED IDEOGRAPH-662D,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),的,Lo,CJK UNIFIED IDEOGRAPH-7684,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),化,Lo,CJK UNIFIED IDEOGRAPH-5316,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),じ,Lo,HIRAGANA LETTER ZI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),石,Lo,CJK UNIFIED IDEOGRAPH-77F3,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),き,Lo,HIRAGANA LETTER KI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),目,Lo,CJK UNIFIED IDEOGRAPH-76EE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ケ,Lo,KATAKANA LETTER KE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),万,Lo,CJK UNIFIED IDEOGRAPH-4E07,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),映,Lo,CJK UNIFIED IDEOGRAPH-6620,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),像,Lo,CJK UNIFIED IDEOGRAPH-50CF,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ジ,Lo,KATAKANA LETTER ZI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,2,2,"2020,2021",0,0,0,0,0,1,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),מ,Lo,HEBREW LETTER MEM,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),道,Lo,CJK UNIFIED IDEOGRAPH-9053,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),破,Lo,CJK UNIFIED IDEOGRAPH-7834,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),分,Lo,CJK UNIFIED IDEOGRAPH-5206,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),妻,Lo,CJK UNIFIED IDEOGRAPH-59BB,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),切,Lo,CJK UNIFIED IDEOGRAPH-5207,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),論,Lo,CJK UNIFIED IDEOGRAPH-8AD6,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),代,Lo,CJK UNIFIED IDEOGRAPH-4EE3,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),制,Lo,CJK UNIFIED IDEOGRAPH-5236,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),後,Lo,CJK UNIFIED IDEOGRAPH-5F8C,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),討,Lo,CJK UNIFIED IDEOGRAPH-8A0E,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),院,Lo,CJK UNIFIED IDEOGRAPH-9662,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),く,Lo,HIRAGANA LETTER KU,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),総,Lo,CJK UNIFIED IDEOGRAPH-7DCF,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ד,Lo,HEBREW LETTER DALET,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ז,Lo,HEBREW LETTER ZAYIN,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),対,Lo,CJK UNIFIED IDEOGRAPH-5BFE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),山,Lo,CJK UNIFIED IDEOGRAPH-5C71,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),信,Lo,CJK UNIFIED IDEOGRAPH-4FE1,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),案,Lo,CJK UNIFIED IDEOGRAPH-6848,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ח,Lo,HEBREW LETTER HET,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),線,Lo,CJK UNIFIED IDEOGRAPH-7DDA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),庄,Lo,CJK UNIFIED IDEOGRAPH-5E84,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),五,Lo,CJK UNIFIED IDEOGRAPH-4E94,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),続,Lo,CJK UNIFIED IDEOGRAPH-7D9A,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),折,Lo,CJK UNIFIED IDEOGRAPH-6298,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ʼ,Lm,MODIFIER LETTER APOSTROPHE,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),形,Lo,CJK UNIFIED IDEOGRAPH-5F62,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ב,Lo,HEBREW LETTER BET,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),風,Lo,CJK UNIFIED IDEOGRAPH-98A8,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ã,Ll,LATIN SMALL LETTER A WITH TILDE,2,2,"2019,2022",0,0,0,0,1,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),称,Lo,CJK UNIFIED IDEOGRAPH-79F0,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),離,Lo,CJK UNIFIED IDEOGRAPH-96E2,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),セ,Lo,KATAKANA LETTER SE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),祭,Lo,CJK UNIFIED IDEOGRAPH-796D,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),全,Lo,CJK UNIFIED IDEOGRAPH-5168,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),庇,Lo,CJK UNIFIED IDEOGRAPH-5E87,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),コ,Lo,KATAKANA LETTER KO,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ミ,Lo,KATAKANA LETTER MI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ג,Lo,HEBREW LETTER GIMEL,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ュ,Lo,KATAKANA LETTER SMALL YU,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ט,Lo,HEBREW LETTER TET,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),א,Lo,HEBREW LETTER ALEF,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),そ,Lo,HIRAGANA LETTER SO,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ת,Lo,HEBREW LETTER TAV,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ע,Lo,HEBREW LETTER AYIN,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),פ,Lo,HEBREW LETTER PE,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),צ,Lo,HEBREW LETTER TSADI,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),役,Lo,CJK UNIFIED IDEOGRAPH-5F79,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),政,Lo,CJK UNIFIED IDEOGRAPH-653F,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ק,Lo,HEBREW LETTER QOF,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ר,Lo,HEBREW LETTER RESH,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),西,Lo,CJK UNIFIED IDEOGRAPH-897F,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ס,Lo,HEBREW LETTER SAMEKH,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ש,Lo,HEBREW LETTER SHIN,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),町,Lo,CJK UNIFIED IDEOGRAPH-753A,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),利,Lo,CJK UNIFIED IDEOGRAPH-5229,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),名,Lo,CJK UNIFIED IDEOGRAPH-540D,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ל,Lo,HEBREW LETTER LAMED,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),כ,Lo,HEBREW LETTER KAF,2,1,2019,0,0,0,0,2,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),選,Lo,CJK UNIFIED IDEOGRAPH-9078,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),処,Lo,CJK UNIFIED IDEOGRAPH-51E6,2,1,2020,0,0,0,0,0,2,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),塔,Lo,CJK UNIFIED IDEOGRAPH-5854,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ছ,Lo,BENGALI LETTER CHA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),岩,Lo,CJK UNIFIED IDEOGRAPH-5CA9,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),巨,Lo,CJK UNIFIED IDEOGRAPH-5DE8,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),供,Lo,CJK UNIFIED IDEOGRAPH-4F9B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),仰,Lo,CJK UNIFIED IDEOGRAPH-4EF0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),🎁,So,WRAPPED PRESENT,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),祀,Lo,CJK UNIFIED IDEOGRAPH-7940,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),説,Lo,CJK UNIFIED IDEOGRAPH-8AAC,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),📲,So,MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),ী,Mc,BENGALI VOWEL SIGN II,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ャ,Lo,KATAKANA LETTER SMALL YA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ল,Lo,BENGALI LETTER LA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),シ,Lo,KATAKANA LETTER SI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),僧,Lo,CJK UNIFIED IDEOGRAPH-50E7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),瀬,Lo,CJK UNIFIED IDEOGRAPH-702C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ダ,Lo,KATAKANA LETTER DA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),御,Lo,CJK UNIFIED IDEOGRAPH-5FA1,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),広,Lo,CJK UNIFIED IDEOGRAPH-5E83,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),域,Lo,CJK UNIFIED IDEOGRAPH-57DF,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ポ,Lo,KATAKANA LETTER PO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),独,Lo,CJK UNIFIED IDEOGRAPH-72EC,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),端,Lo,CJK UNIFIED IDEOGRAPH-7AEF,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),接,Lo,CJK UNIFIED IDEOGRAPH-63A5,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),給,Lo,CJK UNIFIED IDEOGRAPH-7D66,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),降,Lo,CJK UNIFIED IDEOGRAPH-964D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),橘,Lo,CJK UNIFIED IDEOGRAPH-6A58,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),む,Lo,HIRAGANA LETTER MU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),️,Mn,VARIATION SELECTOR-16,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),軒,Lo,CJK UNIFIED IDEOGRAPH-8ED2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),✨,So,SPARKLES,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),換,Lo,CJK UNIFIED IDEOGRAPH-63DB,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),💳,So,CREDIT CARD,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),気,Lo,CJK UNIFIED IDEOGRAPH-6C17,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),消,Lo,CJK UNIFIED IDEOGRAPH-6D88,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),毒,Lo,CJK UNIFIED IDEOGRAPH-6BD2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),型,Lo,CJK UNIFIED IDEOGRAPH-578B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ロ,Lo,KATAKANA LETTER RO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ナ,Lo,KATAKANA LETTER NA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),構,Lo,CJK UNIFIED IDEOGRAPH-69CB,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),症,Lo,CJK UNIFIED IDEOGRAPH-75C7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),先,Lo,CJK UNIFIED IDEOGRAPH-5148,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),措,Lo,CJK UNIFIED IDEOGRAPH-63AA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),置,Lo,CJK UNIFIED IDEOGRAPH-7F6E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),浮,Lo,CJK UNIFIED IDEOGRAPH-6D6E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),実,Lo,CJK UNIFIED IDEOGRAPH-5B9F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),🔴,So,LARGE RED CIRCLE,1,1,2024,0,0,0,0,0,0,0,0,0,1
+toi,Latn,toi_Latn,Tonga (Zambia),境,Lo,CJK UNIFIED IDEOGRAPH-5883,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),外,Lo,CJK UNIFIED IDEOGRAPH-5916,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),受,Lo,CJK UNIFIED IDEOGRAPH-53D7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),片,Lo,CJK UNIFIED IDEOGRAPH-7247,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),超,Lo,CJK UNIFIED IDEOGRAPH-8D85,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),流,Lo,CJK UNIFIED IDEOGRAPH-6D41,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),第,Lo,CJK UNIFIED IDEOGRAPH-7B2C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ই,Lo,BENGALI LETTER I,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,1,1,2021,0,0,0,0,0,0,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Ç,Lu,LATIN CAPITAL LETTER C WITH CEDILLA,1,1,2021,0,0,0,0,0,0,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,1,1,2021,0,0,0,0,0,0,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),蔭,Lo,CJK UNIFIED IDEOGRAPH-852D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,1,1,2021,0,0,0,0,0,0,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),এ,Lo,BENGALI LETTER E,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,1,1,2021,0,0,0,0,0,0,1,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),病,Lo,CJK UNIFIED IDEOGRAPH-75C5,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),{,Ps,LEFT CURLY BRACKET,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ù,Ll,LATIN SMALL LETTER U WITH GRAVE,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),だ,Lo,HIRAGANA LETTER DA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),À,Lu,LATIN CAPITAL LETTER A WITH GRAVE,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),},Pe,RIGHT CURLY BRACKET,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),\,Po,REVERSE SOLIDUS,1,1,2018,0,0,0,1,0,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),廃,Lo,CJK UNIFIED IDEOGRAPH-5EC3,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),郷,Lo,CJK UNIFIED IDEOGRAPH-90F7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),仙,Lo,CJK UNIFIED IDEOGRAPH-4ED9,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),尾,Lo,CJK UNIFIED IDEOGRAPH-5C3E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),棄,Lo,CJK UNIFIED IDEOGRAPH-68C4,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),埋,Lo,CJK UNIFIED IDEOGRAPH-57CB,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),池,Lo,CJK UNIFIED IDEOGRAPH-6C60,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ও,Lo,BENGALI LETTER O,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),題,Lo,CJK UNIFIED IDEOGRAPH-984C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),口,Lo,CJK UNIFIED IDEOGRAPH-53E3,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),応,Lo,CJK UNIFIED IDEOGRAPH-5FDC,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),আ,Lo,BENGALI LETTER AA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),増,Lo,CJK UNIFIED IDEOGRAPH-5897,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),加,Lo,CJK UNIFIED IDEOGRAPH-52A0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),থ,Lo,BENGALI LETTER THA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),চ,Lo,BENGALI LETTER CA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),え,Lo,HIRAGANA LETTER E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),レ,Lo,KATAKANA LETTER RE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ェ,Lo,KATAKANA LETTER SMALL E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ブ,Lo,KATAKANA LETTER BU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),武,Lo,CJK UNIFIED IDEOGRAPH-6B66,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),事,Lo,CJK UNIFIED IDEOGRAPH-4E8B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),槙,Lo,CJK UNIFIED IDEOGRAPH-69D9,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),話,Lo,CJK UNIFIED IDEOGRAPH-8A71,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),投,Lo,CJK UNIFIED IDEOGRAPH-6295,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),票,Lo,CJK UNIFIED IDEOGRAPH-7968,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),우,Lo,HANGUL SYLLABLE U,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),지,Lo,HANGUL SYLLABLE JI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),시,Lo,HANGUL SYLLABLE SI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ホ,Lo,KATAKANA LETTER HO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),号,Lo,CJK UNIFIED IDEOGRAPH-53F7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),初,Lo,CJK UNIFIED IDEOGRAPH-521D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),作,Lo,CJK UNIFIED IDEOGRAPH-4F5C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),家,Lo,CJK UNIFIED IDEOGRAPH-5BB6,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ネ,Lo,KATAKANA LETTER NE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),他,Lo,CJK UNIFIED IDEOGRAPH-4ED6,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),箇,Lo,CJK UNIFIED IDEOGRAPH-7B87,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),‛,Pi,SINGLE HIGH-REVERSED-9 QUOTATION MARK,1,1,2019,0,0,0,0,1,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),最,Lo,CJK UNIFIED IDEOGRAPH-6700,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),状,Lo,CJK UNIFIED IDEOGRAPH-72B6,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),該,Lo,CJK UNIFIED IDEOGRAPH-8A72,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),不,Lo,CJK UNIFIED IDEOGRAPH-4E0D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),通,Lo,CJK UNIFIED IDEOGRAPH-901A,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),要,Lo,CJK UNIFIED IDEOGRAPH-8981,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),衝,Lo,CJK UNIFIED IDEOGRAPH-885D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),詰,Lo,CJK UNIFIED IDEOGRAPH-8A70,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),長,Lo,CJK UNIFIED IDEOGRAPH-9577,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),げ,Lo,HIRAGANA LETTER GE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),掲,Lo,CJK UNIFIED IDEOGRAPH-63B2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),結,Lo,CJK UNIFIED IDEOGRAPH-7D50,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ぶ,Lo,HIRAGANA LETTER BU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),エ,Lo,KATAKANA LETTER E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),路,Lo,CJK UNIFIED IDEOGRAPH-8DEF,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),多,Lo,CJK UNIFIED IDEOGRAPH-591A,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),方,Lo,CJK UNIFIED IDEOGRAPH-65B9,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),身,Lo,CJK UNIFIED IDEOGRAPH-8EAB,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),常,Lo,CJK UNIFIED IDEOGRAPH-5E38,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),書,Lo,CJK UNIFIED IDEOGRAPH-66F8,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),述,Lo,CJK UNIFIED IDEOGRAPH-8FF0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),べ,Lo,HIRAGANA LETTER BE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),併,Lo,CJK UNIFIED IDEOGRAPH-4F75,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),協,Lo,CJK UNIFIED IDEOGRAPH-5354,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),綴,Lo,CJK UNIFIED IDEOGRAPH-7DB4,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),喜,Lo,CJK UNIFIED IDEOGRAPH-559C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),関,Lo,CJK UNIFIED IDEOGRAPH-95A2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),へ,Lo,HIRAGANA LETTER HE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,1,1,2019,0,0,0,0,1,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),割,Lo,CJK UNIFIED IDEOGRAPH-5272,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),淀,Lo,CJK UNIFIED IDEOGRAPH-6DC0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),提,Lo,CJK UNIFIED IDEOGRAPH-63D0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),出,Lo,CJK UNIFIED IDEOGRAPH-51FA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),曲,Lo,CJK UNIFIED IDEOGRAPH-66F2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),等,Lo,CJK UNIFIED IDEOGRAPH-7B49,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),由,Lo,CJK UNIFIED IDEOGRAPH-7531,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),遊,Lo,CJK UNIFIED IDEOGRAPH-904A,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),北,Lo,CJK UNIFIED IDEOGRAPH-5317,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),類,Lo,CJK UNIFIED IDEOGRAPH-985E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),製,Lo,CJK UNIFIED IDEOGRAPH-88FD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),勢,Lo,CJK UNIFIED IDEOGRAPH-52E2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),機,Lo,CJK UNIFIED IDEOGRAPH-6A5F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),修,Lo,CJK UNIFIED IDEOGRAPH-4FEE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),伊,Lo,CJK UNIFIED IDEOGRAPH-4F0A,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ビ,Lo,KATAKANA LETTER BI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),拠,Lo,CJK UNIFIED IDEOGRAPH-62E0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),品,Lo,CJK UNIFIED IDEOGRAPH-54C1,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),保,Lo,CJK UNIFIED IDEOGRAPH-4FDD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),掟,Lo,CJK UNIFIED IDEOGRAPH-639F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),息,Lo,CJK UNIFIED IDEOGRAPH-606F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),一,Lo,CJK UNIFIED IDEOGRAPH-4E00,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),終,Lo,CJK UNIFIED IDEOGRAPH-7D42,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),勝,Lo,CJK UNIFIED IDEOGRAPH-52DD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),オ,Lo,KATAKANA LETTER O,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),補,Lo,CJK UNIFIED IDEOGRAPH-88DC,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),候,Lo,CJK UNIFIED IDEOGRAPH-5019,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),職,Lo,CJK UNIFIED IDEOGRAPH-8077,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),系,Lo,CJK UNIFIED IDEOGRAPH-7CFB,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),革,Lo,CJK UNIFIED IDEOGRAPH-9769,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),返,Lo,CJK UNIFIED IDEOGRAPH-8FD4,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),咲,Lo,CJK UNIFIED IDEOGRAPH-54B2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),派,Lo,CJK UNIFIED IDEOGRAPH-6D3E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),反,Lo,CJK UNIFIED IDEOGRAPH-53CD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ろ,Lo,HIRAGANA LETTER RO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),挙,Lo,CJK UNIFIED IDEOGRAPH-6319,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),び,Lo,HIRAGANA LETTER BI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),三,Lo,CJK UNIFIED IDEOGRAPH-4E09,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),検,Lo,CJK UNIFIED IDEOGRAPH-691C,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),台,Lo,CJK UNIFIED IDEOGRAPH-53F0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),計,Lo,CJK UNIFIED IDEOGRAPH-8A08,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),画,Lo,CJK UNIFIED IDEOGRAPH-753B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),閉,Lo,CJK UNIFIED IDEOGRAPH-9589,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),鎖,Lo,CJK UNIFIED IDEOGRAPH-9396,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),満,Lo,CJK UNIFIED IDEOGRAPH-6E80,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),了,Lo,CJK UNIFIED IDEOGRAPH-4E86,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),令,Lo,CJK UNIFIED IDEOGRAPH-4EE4,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,1,1,2019,0,0,0,0,1,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),材,Lo,CJK UNIFIED IDEOGRAPH-6750,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ノ,Lo,KATAKANA LETTER NO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),聞,Lo,CJK UNIFIED IDEOGRAPH-805E,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),付,Lo,CJK UNIFIED IDEOGRAPH-4ED8,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),文,Lo,CJK UNIFIED IDEOGRAPH-6587,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),居,Lo,CJK UNIFIED IDEOGRAPH-5C45,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),軍,Lo,CJK UNIFIED IDEOGRAPH-8ECD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),以,Lo,CJK UNIFIED IDEOGRAPH-4EE5,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),歴,Lo,CJK UNIFIED IDEOGRAPH-6B74,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ふ,Lo,HIRAGANA LETTER HU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),õ,Ll,LATIN SMALL LETTER O WITH TILDE,1,1,2019,0,0,0,0,1,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),源,Lo,CJK UNIFIED IDEOGRAPH-6E90,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),来,Lo,CJK UNIFIED IDEOGRAPH-6765,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),縋,Lo,CJK UNIFIED IDEOGRAPH-7E0B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),予,Lo,CJK UNIFIED IDEOGRAPH-4E88,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ガ,Lo,KATAKANA LETTER GA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),参,Lo,CJK UNIFIED IDEOGRAPH-53C2,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),考,Lo,CJK UNIFIED IDEOGRAPH-8003,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),注,Lo,CJK UNIFIED IDEOGRAPH-6CE8,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),意,Lo,CJK UNIFIED IDEOGRAPH-610F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),喚,Lo,CJK UNIFIED IDEOGRAPH-559A,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),者,Lo,CJK UNIFIED IDEOGRAPH-8005,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),団,Lo,CJK UNIFIED IDEOGRAPH-56E3,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),グ,Lo,KATAKANA LETTER GU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),班,Lo,CJK UNIFIED IDEOGRAPH-73ED,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),つ,Lo,HIRAGANA LETTER TU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),前,Lo,CJK UNIFIED IDEOGRAPH-524D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ヶ,Lo,KATAKANA LETTER SMALL KE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),Ž,Lu,LATIN CAPITAL LETTER Z WITH CARON,1,1,2019,0,0,0,0,1,0,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ィ,Lo,KATAKANA LETTER SMALL I,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),下,Lo,CJK UNIFIED IDEOGRAPH-4E0B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),若,Lo,CJK UNIFIED IDEOGRAPH-82E5,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),テ,Lo,KATAKANA LETTER TE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ほ,Lo,HIRAGANA LETTER HO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),ニ,Lo,KATAKANA LETTER NI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),両,Lo,CJK UNIFIED IDEOGRAPH-4E21,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),せ,Lo,HIRAGANA LETTER SE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),八,Lo,CJK UNIFIED IDEOGRAPH-516B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),幡,Lo,CJK UNIFIED IDEOGRAPH-5E61,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),手,Lo,CJK UNIFIED IDEOGRAPH-624B,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),拝,Lo,CJK UNIFIED IDEOGRAPH-62DD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),様,Lo,CJK UNIFIED IDEOGRAPH-69D8,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),宝,Lo,CJK UNIFIED IDEOGRAPH-5B9D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),指,Lo,CJK UNIFIED IDEOGRAPH-6307,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),規,Lo,CJK UNIFIED IDEOGRAPH-898F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),模,Lo,CJK UNIFIED IDEOGRAPH-6A21,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),東,Lo,CJK UNIFIED IDEOGRAPH-6771,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),舟,Lo,CJK UNIFIED IDEOGRAPH-821F,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),肘,Lo,CJK UNIFIED IDEOGRAPH-8098,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),木,Lo,CJK UNIFIED IDEOGRAPH-6728,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),蟇,Lo,CJK UNIFIED IDEOGRAPH-87C7,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),股,Lo,CJK UNIFIED IDEOGRAPH-80A1,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),違,Lo,CJK UNIFIED IDEOGRAPH-9055,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),竣,Lo,CJK UNIFIED IDEOGRAPH-7AE3,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),時,Lo,CJK UNIFIED IDEOGRAPH-6642,1,1,2020,0,0,0,0,0,1,0,0,0,0
+toi,Latn,toi_Latn,Tonga (Zambia),×,Sm,MULTIPLICATION SIGN,1,1,2024,0,0,0,0,0,0,0,0,0,1

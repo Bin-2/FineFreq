@@ -1,0 +1,18 @@
+{
+  "language_code": "oto_Latn",
+  "iso_639_3": "oto",
+  "script": "Latn",
+  "language_name": "UNKNOWN",
+  "total_characters": 100,
+  "total_frequency": 42596,
+  "years_covered": [
+    "2013",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.467220"
+}

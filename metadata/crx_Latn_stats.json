@@ -1,0 +1,20 @@
+{
+  "language_code": "crx_Latn",
+  "iso_639_3": "crx",
+  "script": "Latn",
+  "language_name": "Carrier",
+  "total_characters": 99,
+  "total_frequency": 1556684,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:51.417104"
+}

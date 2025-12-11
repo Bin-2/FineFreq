@@ -1,0 +1,72 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2021_frequency
+kxw,Latn,kxw_Latn,Konai, ,Zs,SPACE,26666,2,"2017,2021",108,26558
+kxw,Latn,kxw_Latn,Konai,e,Ll,LATIN SMALL LETTER E,17053,2,"2017,2021",77,16976
+kxw,Latn,kxw_Latn,Konai,o,Ll,LATIN SMALL LETTER O,15601,2,"2017,2021",51,15550
+kxw,Latn,kxw_Latn,Konai,a,Ll,LATIN SMALL LETTER A,13903,2,"2017,2021",49,13854
+kxw,Latn,kxw_Latn,Konai,i,Ll,LATIN SMALL LETTER I,12751,2,"2017,2021",57,12694
+kxw,Latn,kxw_Latn,Konai,̱,Mn,COMBINING MACRON BELOW,11890,2,"2017,2021",35,11855
+kxw,Latn,kxw_Latn,Konai,u,Ll,LATIN SMALL LETTER U,9407,2,"2017,2021",30,9377
+kxw,Latn,kxw_Latn,Konai,d,Ll,LATIN SMALL LETTER D,8613,2,"2017,2021",23,8590
+kxw,Latn,kxw_Latn,Konai,l,Ll,LATIN SMALL LETTER L,5917,2,"2017,2021",18,5899
+kxw,Latn,kxw_Latn,Konai,͡,Mn,COMBINING DOUBLE INVERTED BREVE,5568,2,"2017,2021",16,5552
+kxw,Latn,kxw_Latn,Konai,g,Ll,LATIN SMALL LETTER G,5507,2,"2017,2021",23,5484
+kxw,Latn,kxw_Latn,Konai,m,Ll,LATIN SMALL LETTER M,5168,2,"2017,2021",14,5154
+kxw,Latn,kxw_Latn,Konai,k,Ll,LATIN SMALL LETTER K,4499,2,"2017,2021",19,4480
+kxw,Latn,kxw_Latn,Konai,b,Ll,LATIN SMALL LETTER B,4182,2,"2017,2021",14,4168
+kxw,Latn,kxw_Latn,Konai,h,Ll,LATIN SMALL LETTER H,3884,2,"2017,2021",15,3869
+kxw,Latn,kxw_Latn,Konai,s,Ll,LATIN SMALL LETTER S,3475,2,"2017,2021",16,3459
+kxw,Latn,kxw_Latn,Konai,t,Ll,LATIN SMALL LETTER T,2542,2,"2017,2021",24,2518
+kxw,Latn,kxw_Latn,Konai,",",Po,COMMA,2470,2,"2017,2021",11,2459
+kxw,Latn,kxw_Latn,Konai,n,Ll,LATIN SMALL LETTER N,2204,2,"2017,2021",22,2182
+kxw,Latn,kxw_Latn,Konai,y,Ll,LATIN SMALL LETTER Y,1853,2,"2017,2021",6,1847
+kxw,Latn,kxw_Latn,Konai,.,Po,FULL STOP,1746,2,"2017,2021",8,1738
+kxw,Latn,kxw_Latn,Konai,f,Ll,LATIN SMALL LETTER F,1437,2,"2017,2021",8,1429
+kxw,Latn,kxw_Latn,Konai,G,Lu,LATIN CAPITAL LETTER G,639,2,"2017,2021",2,637
+kxw,Latn,kxw_Latn,Konai,1,Nd,DIGIT ONE,561,1,2021,0,561
+kxw,Latn,kxw_Latn,Konai,w,Ll,LATIN SMALL LETTER W,531,2,"2017,2021",6,525
+kxw,Latn,kxw_Latn,Konai,K,Lu,LATIN CAPITAL LETTER K,508,2,"2017,2021",1,507
+kxw,Latn,kxw_Latn,Konai,͟,Mn,COMBINING DOUBLE MACRON BELOW,459,2,"2017,2021",2,457
+kxw,Latn,kxw_Latn,Konai,D,Lu,LATIN CAPITAL LETTER D,348,1,2021,0,348
+kxw,Latn,kxw_Latn,Konai,O,Lu,LATIN CAPITAL LETTER O,284,1,2021,0,284
+kxw,Latn,kxw_Latn,Konai,Y,Lu,LATIN CAPITAL LETTER Y,281,1,2021,0,281
+kxw,Latn,kxw_Latn,Konai,2,Nd,DIGIT TWO,266,1,2021,0,266
+kxw,Latn,kxw_Latn,Konai,H,Lu,LATIN CAPITAL LETTER H,252,2,"2017,2021",1,251
+kxw,Latn,kxw_Latn,Konai,T,Lu,LATIN CAPITAL LETTER T,228,2,"2017,2021",1,227
+kxw,Latn,kxw_Latn,Konai,A,Lu,LATIN CAPITAL LETTER A,216,2,"2017,2021",1,215
+kxw,Latn,kxw_Latn,Konai,N,Lu,LATIN CAPITAL LETTER N,216,2,"2017,2021",4,212
+kxw,Latn,kxw_Latn,Konai,E,Lu,LATIN CAPITAL LETTER E,210,2,"2017,2021",2,208
+kxw,Latn,kxw_Latn,Konai,-,Pd,HYPHEN-MINUS,160,1,2021,0,160
+kxw,Latn,kxw_Latn,Konai,3,Nd,DIGIT THREE,151,1,2021,0,151
+kxw,Latn,kxw_Latn,Konai,4,Nd,DIGIT FOUR,145,1,2021,0,145
+kxw,Latn,kxw_Latn,Konai,M,Lu,LATIN CAPITAL LETTER M,137,1,2021,0,137
+kxw,Latn,kxw_Latn,Konai,:,Po,COLON,132,2,"2017,2021",2,130
+kxw,Latn,kxw_Latn,Konai,5,Nd,DIGIT FIVE,127,1,2021,0,127
+kxw,Latn,kxw_Latn,Konai,r,Ll,LATIN SMALL LETTER R,124,2,"2017,2021",8,116
+kxw,Latn,kxw_Latn,Konai,S,Lu,LATIN CAPITAL LETTER S,123,2,"2017,2021",1,122
+kxw,Latn,kxw_Latn,Konai,6,Nd,DIGIT SIX,115,1,2021,0,115
+kxw,Latn,kxw_Latn,Konai,P,Lu,LATIN CAPITAL LETTER P,113,1,2021,0,113
+kxw,Latn,kxw_Latn,Konai,8,Nd,DIGIT EIGHT,98,1,2021,0,98
+kxw,Latn,kxw_Latn,Konai,J,Lu,LATIN CAPITAL LETTER J,95,1,2021,0,95
+kxw,Latn,kxw_Latn,Konai,7,Nd,DIGIT SEVEN,94,1,2021,0,94
+kxw,Latn,kxw_Latn,Konai,9,Nd,DIGIT NINE,81,1,2021,0,81
+kxw,Latn,kxw_Latn,Konai,0,Nd,DIGIT ZERO,74,1,2021,0,74
+kxw,Latn,kxw_Latn,Konai,B,Lu,LATIN CAPITAL LETTER B,71,1,2021,0,71
+kxw,Latn,kxw_Latn,Konai,*,Po,ASTERISK,43,1,2021,0,43
+kxw,Latn,kxw_Latn,Konai,–,Pd,EN DASH,38,1,2021,0,38
+kxw,Latn,kxw_Latn,Konai,p,Ll,LATIN SMALL LETTER P,34,2,"2017,2021",6,28
+kxw,Latn,kxw_Latn,Konai,?,Po,QUESTION MARK,32,2,"2017,2021",1,31
+kxw,Latn,kxw_Latn,Konai,F,Lu,LATIN CAPITAL LETTER F,32,1,2021,0,32
+kxw,Latn,kxw_Latn,Konai,I,Lu,LATIN CAPITAL LETTER I,27,2,"2017,2021",2,25
+kxw,Latn,kxw_Latn,Konai,(,Ps,LEFT PARENTHESIS,20,1,2021,0,20
+kxw,Latn,kxw_Latn,Konai,),Pe,RIGHT PARENTHESIS,20,1,2021,0,20
+kxw,Latn,kxw_Latn,Konai,L,Lu,LATIN CAPITAL LETTER L,14,1,2021,0,14
+kxw,Latn,kxw_Latn,Konai,R,Lu,LATIN CAPITAL LETTER R,13,1,2021,0,13
+kxw,Latn,kxw_Latn,Konai,v,Ll,LATIN SMALL LETTER V,6,1,2021,0,6
+kxw,Latn,kxw_Latn,Konai,c,Ll,LATIN SMALL LETTER C,4,1,2017,4,0
+kxw,Latn,kxw_Latn,Konai,W,Lu,LATIN CAPITAL LETTER W,4,1,2021,0,4
+kxw,Latn,kxw_Latn,Konai,U,Lu,LATIN CAPITAL LETTER U,3,1,2021,0,3
+kxw,Latn,kxw_Latn,Konai,"""",Po,QUOTATION MARK,2,1,2017,2,0
+kxw,Latn,kxw_Latn,Konai,',Po,APOSTROPHE,2,1,2017,2,0
+kxw,Latn,kxw_Latn,Konai,!,Po,EXCLAMATION MARK,1,1,2017,1,0
+kxw,Latn,kxw_Latn,Konai,j,Ll,LATIN SMALL LETTER J,1,1,2021,0,1
+kxw,Latn,kxw_Latn,Konai,x,Ll,LATIN SMALL LETTER X,1,1,2017,1,0

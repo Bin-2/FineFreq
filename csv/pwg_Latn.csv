@@ -1,0 +1,87 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2023_frequency
+pwg,Latn,pwg_Latn,Gapapaiwa,a,Ll,LATIN SMALL LETTER A,330108,3,"2017,2018,2023",23051,306798,259
+pwg,Latn,pwg_Latn,Gapapaiwa, ,Zs,SPACE,296828,3,"2017,2018,2023",19238,277351,239
+pwg,Latn,pwg_Latn,Gapapaiwa,i,Ll,LATIN SMALL LETTER I,222203,3,"2017,2018,2023",15669,206352,182
+pwg,Latn,pwg_Latn,Gapapaiwa,n,Ll,LATIN SMALL LETTER N,125260,3,"2017,2018,2023",8423,116737,100
+pwg,Latn,pwg_Latn,Gapapaiwa,e,Ll,LATIN SMALL LETTER E,89815,3,"2017,2018,2023",5171,84592,52
+pwg,Latn,pwg_Latn,Gapapaiwa,o,Ll,LATIN SMALL LETTER O,82025,3,"2017,2018,2023",5092,76844,89
+pwg,Latn,pwg_Latn,Gapapaiwa,k,Ll,LATIN SMALL LETTER K,76920,3,"2017,2018,2023",4986,71884,50
+pwg,Latn,pwg_Latn,Gapapaiwa,r,Ll,LATIN SMALL LETTER R,61671,3,"2017,2018,2023",3774,57863,34
+pwg,Latn,pwg_Latn,Gapapaiwa,u,Ll,LATIN SMALL LETTER U,60626,3,"2017,2018,2023",4085,56494,47
+pwg,Latn,pwg_Latn,Gapapaiwa,m,Ll,LATIN SMALL LETTER M,58038,3,"2017,2018,2023",4120,53870,48
+pwg,Latn,pwg_Latn,Gapapaiwa,t,Ll,LATIN SMALL LETTER T,55600,3,"2017,2018,2023",3263,52295,42
+pwg,Latn,pwg_Latn,Gapapaiwa,v,Ll,LATIN SMALL LETTER V,54413,3,"2017,2018,2023",3739,50636,38
+pwg,Latn,pwg_Latn,Gapapaiwa,s,Ll,LATIN SMALL LETTER S,46544,3,"2017,2018,2023",2684,43813,47
+pwg,Latn,pwg_Latn,Gapapaiwa,b,Ll,LATIN SMALL LETTER B,41197,3,"2017,2018,2023",2665,38488,44
+pwg,Latn,pwg_Latn,Gapapaiwa,d,Ll,LATIN SMALL LETTER D,37725,3,"2017,2018,2023",2524,35166,35
+pwg,Latn,pwg_Latn,Gapapaiwa,w,Ll,LATIN SMALL LETTER W,37716,3,"2017,2018,2023",2503,35189,24
+pwg,Latn,pwg_Latn,Gapapaiwa,y,Ll,LATIN SMALL LETTER Y,36969,3,"2017,2018,2023",2430,34511,28
+pwg,Latn,pwg_Latn,Gapapaiwa,g,Ll,LATIN SMALL LETTER G,25847,3,"2017,2018,2023",1804,24007,36
+pwg,Latn,pwg_Latn,Gapapaiwa,.,Po,FULL STOP,21412,3,"2017,2018,2023",1431,19958,23
+pwg,Latn,pwg_Latn,Gapapaiwa,h,Ll,LATIN SMALL LETTER H,20071,3,"2017,2018,2023",827,19227,17
+pwg,Latn,pwg_Latn,Gapapaiwa,p,Ll,LATIN SMALL LETTER P,17767,3,"2017,2018,2023",1095,16660,12
+pwg,Latn,pwg_Latn,Gapapaiwa,",",Po,COMMA,12070,3,"2017,2018,2023",590,11469,11
+pwg,Latn,pwg_Latn,Gapapaiwa,M,Lu,LATIN CAPITAL LETTER M,10102,3,"2017,2018,2023",529,9564,9
+pwg,Latn,pwg_Latn,Gapapaiwa,l,Ll,LATIN SMALL LETTER L,7104,3,"2017,2018,2023",292,6800,12
+pwg,Latn,pwg_Latn,Gapapaiwa,1,Nd,DIGIT ONE,6027,2,"2017,2018",654,5373,0
+pwg,Latn,pwg_Latn,Gapapaiwa,G,Lu,LATIN CAPITAL LETTER G,5514,2,"2017,2018",518,4996,0
+pwg,Latn,pwg_Latn,Gapapaiwa,T,Lu,LATIN CAPITAL LETTER T,5299,3,"2017,2018,2023",242,5053,4
+pwg,Latn,pwg_Latn,Gapapaiwa,K,Lu,LATIN CAPITAL LETTER K,5117,3,"2017,2018,2023",631,4485,1
+pwg,Latn,pwg_Latn,Gapapaiwa,2,Nd,DIGIT TWO,4064,2,"2017,2018",325,3739,0
+pwg,Latn,pwg_Latn,Gapapaiwa,V,Lu,LATIN CAPITAL LETTER V,3924,3,"2017,2018,2023",199,3724,1
+pwg,Latn,pwg_Latn,Gapapaiwa,c,Ll,LATIN SMALL LETTER C,3828,3,"2017,2018,2023",5,3815,8
+pwg,Latn,pwg_Latn,Gapapaiwa,S,Lu,LATIN CAPITAL LETTER S,2989,3,"2017,2018,2023",140,2848,1
+pwg,Latn,pwg_Latn,Gapapaiwa,Y,Lu,LATIN CAPITAL LETTER Y,2955,2,"2017,2018",193,2762,0
+pwg,Latn,pwg_Latn,Gapapaiwa,I,Lu,LATIN CAPITAL LETTER I,2784,3,"2017,2018,2023",188,2595,1
+pwg,Latn,pwg_Latn,Gapapaiwa,P,Lu,LATIN CAPITAL LETTER P,2660,2,"2017,2018",182,2478,0
+pwg,Latn,pwg_Latn,Gapapaiwa,3,Nd,DIGIT THREE,2523,2,"2017,2018",161,2362,0
+pwg,Latn,pwg_Latn,Gapapaiwa,N,Lu,LATIN CAPITAL LETTER N,2503,3,"2017,2018,2023",98,2401,4
+pwg,Latn,pwg_Latn,Gapapaiwa,”,Pf,RIGHT DOUBLE QUOTATION MARK,2488,3,"2017,2018,2023",45,2440,3
+pwg,Latn,pwg_Latn,Gapapaiwa,“,Pi,LEFT DOUBLE QUOTATION MARK,2484,3,"2017,2018,2023",45,2436,3
+pwg,Latn,pwg_Latn,Gapapaiwa,J,Lu,LATIN CAPITAL LETTER J,2329,2,"2017,2018",109,2220,0
+pwg,Latn,pwg_Latn,Gapapaiwa,',Po,APOSTROPHE,2266,1,2018,0,2266,0
+pwg,Latn,pwg_Latn,Gapapaiwa,E,Lu,LATIN CAPITAL LETTER E,2142,2,"2017,2018",42,2100,0
+pwg,Latn,pwg_Latn,Gapapaiwa,W,Lu,LATIN CAPITAL LETTER W,2121,3,"2017,2018,2023",105,2015,1
+pwg,Latn,pwg_Latn,Gapapaiwa,f,Ll,LATIN SMALL LETTER F,2054,2,"2018,2023",0,2049,5
+pwg,Latn,pwg_Latn,Gapapaiwa,B,Lu,LATIN CAPITAL LETTER B,1998,3,"2017,2018,2023",120,1873,5
+pwg,Latn,pwg_Latn,Gapapaiwa,A,Lu,LATIN CAPITAL LETTER A,1986,3,"2017,2018,2023",124,1859,3
+pwg,Latn,pwg_Latn,Gapapaiwa,4,Nd,DIGIT FOUR,1860,2,"2017,2018",143,1717,0
+pwg,Latn,pwg_Latn,Gapapaiwa,5,Nd,DIGIT FIVE,1453,2,"2017,2018",120,1333,0
+pwg,Latn,pwg_Latn,Gapapaiwa,H,Lu,LATIN CAPITAL LETTER H,1379,2,"2017,2018",42,1337,0
+pwg,Latn,pwg_Latn,Gapapaiwa,x,Ll,LATIN SMALL LETTER X,1341,1,2018,0,1341,0
+pwg,Latn,pwg_Latn,Gapapaiwa,0,Nd,DIGIT ZERO,1297,2,"2017,2018",85,1212,0
+pwg,Latn,pwg_Latn,Gapapaiwa,8,Nd,DIGIT EIGHT,1290,2,"2017,2018",97,1193,0
+pwg,Latn,pwg_Latn,Gapapaiwa,6,Nd,DIGIT SIX,1219,2,"2017,2018",108,1111,0
+pwg,Latn,pwg_Latn,Gapapaiwa,-,Pd,HYPHEN-MINUS,1205,2,"2017,2018",108,1097,0
+pwg,Latn,pwg_Latn,Gapapaiwa,7,Nd,DIGIT SEVEN,1119,2,"2017,2018",92,1027,0
+pwg,Latn,pwg_Latn,Gapapaiwa,9,Nd,DIGIT NINE,1022,2,"2017,2018",91,931,0
+pwg,Latn,pwg_Latn,Gapapaiwa,?,Po,QUESTION MARK,927,2,"2017,2018",10,917,0
+pwg,Latn,pwg_Latn,Gapapaiwa,:,Po,COLON,838,3,"2017,2018,2023",334,503,1
+pwg,Latn,pwg_Latn,Gapapaiwa,U,Lu,LATIN CAPITAL LETTER U,800,2,"2017,2018",1,799,0
+pwg,Latn,pwg_Latn,Gapapaiwa,D,Lu,LATIN CAPITAL LETTER D,718,3,"2017,2018,2023",23,694,1
+pwg,Latn,pwg_Latn,Gapapaiwa,‘,Pi,LEFT SINGLE QUOTATION MARK,678,3,"2017,2018,2023",113,564,1
+pwg,Latn,pwg_Latn,Gapapaiwa,’,Pf,RIGHT SINGLE QUOTATION MARK,677,3,"2017,2018,2023",113,563,1
+pwg,Latn,pwg_Latn,Gapapaiwa,C,Lu,LATIN CAPITAL LETTER C,629,2,"2017,2018",3,626,0
+pwg,Latn,pwg_Latn,Gapapaiwa,R,Lu,LATIN CAPITAL LETTER R,586,2,"2017,2018",36,550,0
+pwg,Latn,pwg_Latn,Gapapaiwa,L,Lu,LATIN CAPITAL LETTER L,427,2,"2017,2018",17,410,0
+pwg,Latn,pwg_Latn,Gapapaiwa,!,Po,EXCLAMATION MARK,371,2,"2017,2018",9,362,0
+pwg,Latn,pwg_Latn,Gapapaiwa,(,Ps,LEFT PARENTHESIS,342,2,"2017,2018",30,312,0
+pwg,Latn,pwg_Latn,Gapapaiwa,),Pe,RIGHT PARENTHESIS,342,2,"2017,2018",30,312,0
+pwg,Latn,pwg_Latn,Gapapaiwa,q,Ll,LATIN SMALL LETTER Q,206,1,2018,0,206,0
+pwg,Latn,pwg_Latn,Gapapaiwa,F,Lu,LATIN CAPITAL LETTER F,198,1,2018,0,198,0
+pwg,Latn,pwg_Latn,Gapapaiwa,©,So,COPYRIGHT SIGN,198,1,2018,0,198,0
+pwg,Latn,pwg_Latn,Gapapaiwa,`,Sk,GRAVE ACCENT,198,1,2018,0,198,0
+pwg,Latn,pwg_Latn,Gapapaiwa,&,Po,AMPERSAND,187,1,2018,0,187,0
+pwg,Latn,pwg_Latn,Gapapaiwa,▼,So,BLACK DOWN-POINTING TRIANGLE,160,1,2018,0,160,0
+pwg,Latn,pwg_Latn,Gapapaiwa,*,Po,ASTERISK,132,3,"2017,2018,2023",130,1,1
+pwg,Latn,pwg_Latn,Gapapaiwa,+,Sm,PLUS SIGN,127,1,2018,0,127,0
+pwg,Latn,pwg_Latn,Gapapaiwa,Z,Lu,LATIN CAPITAL LETTER Z,83,2,"2017,2018",16,67,0
+pwg,Latn,pwg_Latn,Gapapaiwa,O,Lu,LATIN CAPITAL LETTER O,75,2,"2017,2018",19,56,0
+pwg,Latn,pwg_Latn,Gapapaiwa,j,Ll,LATIN SMALL LETTER J,50,1,2018,0,50,0
+pwg,Latn,pwg_Latn,Gapapaiwa,;,Po,SEMICOLON,45,2,"2017,2018",13,32,0
+pwg,Latn,pwg_Latn,Gapapaiwa,z,Ll,LATIN SMALL LETTER Z,7,2,"2018,2023",0,4,3
+pwg,Latn,pwg_Latn,Gapapaiwa,†,Po,DAGGER,5,3,"2017,2018,2023",3,1,1
+pwg,Latn,pwg_Latn,Gapapaiwa,[,Ps,LEFT SQUARE BRACKET,4,1,2018,0,4,0
+pwg,Latn,pwg_Latn,Gapapaiwa,],Pe,RIGHT SQUARE BRACKET,4,1,2018,0,4,0
+pwg,Latn,pwg_Latn,Gapapaiwa,‡,Po,DOUBLE DAGGER,2,2,"2017,2018",1,1,0
+pwg,Latn,pwg_Latn,Gapapaiwa,§,Po,SECTION SIGN,1,1,2018,0,1,0

@@ -1,0 +1,15 @@
+{
+  "language_code": "mda_Latn",
+  "iso_639_3": "mda",
+  "script": "Latn",
+  "language_name": "Mada (Nigeria)",
+  "total_characters": 91,
+  "total_frequency": 8760,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2018"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.046683"
+}

@@ -1,0 +1,15 @@
+{
+  "language_code": "bvz_Latn",
+  "iso_639_3": "bvz",
+  "script": "Latn",
+  "language_name": "Bauzi",
+  "total_characters": 79,
+  "total_frequency": 2900438,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:49.739736"
+}

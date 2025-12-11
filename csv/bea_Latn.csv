@@ -1,0 +1,68 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency
+bea,Latn,bea_Latn,Beaver, ,Zs,SPACE,9421,2,"2018,2019",618,8803
+bea,Latn,bea_Latn,Beaver,a,Ll,LATIN SMALL LETTER A,7992,2,"2018,2019",500,7492
+bea,Latn,bea_Latn,Beaver,h,Ll,LATIN SMALL LETTER H,7295,2,"2018,2019",478,6817
+bea,Latn,bea_Latn,Beaver,t,Ll,LATIN SMALL LETTER T,6520,2,"2018,2019",431,6089
+bea,Latn,bea_Latn,Beaver,i,Ll,LATIN SMALL LETTER I,6272,2,"2018,2019",381,5891
+bea,Latn,bea_Latn,Beaver,o,Ll,LATIN SMALL LETTER O,5627,2,"2018,2019",428,5199
+bea,Latn,bea_Latn,Beaver,e,Ll,LATIN SMALL LETTER E,5412,2,"2018,2019",423,4989
+bea,Latn,bea_Latn,Beaver,n,Ll,LATIN SMALL LETTER N,3076,2,"2018,2019",232,2844
+bea,Latn,bea_Latn,Beaver,y,Ll,LATIN SMALL LETTER Y,2760,2,"2018,2019",189,2571
+bea,Latn,bea_Latn,Beaver,u,Ll,LATIN SMALL LETTER U,2312,2,"2018,2019",163,2149
+bea,Latn,bea_Latn,Beaver,c,Ll,LATIN SMALL LETTER C,2292,2,"2018,2019",155,2137
+bea,Latn,bea_Latn,Beaver,s,Ll,LATIN SMALL LETTER S,2290,2,"2018,2019",169,2121
+bea,Latn,bea_Latn,Beaver,k,Ll,LATIN SMALL LETTER K,2274,2,"2018,2019",167,2107
+bea,Latn,bea_Latn,Beaver,l,Ll,LATIN SMALL LETTER L,2076,2,"2018,2019",192,1884
+bea,Latn,bea_Latn,Beaver,g,Ll,LATIN SMALL LETTER G,1309,2,"2018,2019",89,1220
+bea,Latn,bea_Latn,Beaver,",",Po,COMMA,1166,2,"2018,2019",81,1085
+bea,Latn,bea_Latn,Beaver,w,Ll,LATIN SMALL LETTER W,927,2,"2018,2019",67,860
+bea,Latn,bea_Latn,Beaver,.,Po,FULL STOP,508,2,"2018,2019",40,468
+bea,Latn,bea_Latn,Beaver,d,Ll,LATIN SMALL LETTER D,464,2,"2018,2019",28,436
+bea,Latn,bea_Latn,Beaver,m,Ll,LATIN SMALL LETTER M,460,2,"2018,2019",47,413
+bea,Latn,bea_Latn,Beaver,K,Lu,LATIN CAPITAL LETTER K,421,2,"2018,2019",23,398
+bea,Latn,bea_Latn,Beaver,z,Ll,LATIN SMALL LETTER Z,388,2,"2018,2019",22,366
+bea,Latn,bea_Latn,Beaver,1,Nd,DIGIT ONE,214,2,"2018,2019",16,198
+bea,Latn,bea_Latn,Beaver,2,Nd,DIGIT TWO,196,2,"2018,2019",15,181
+bea,Latn,bea_Latn,Beaver,3,Nd,DIGIT THREE,173,2,"2018,2019",15,158
+bea,Latn,bea_Latn,Beaver,:,Po,COLON,169,2,"2018,2019",8,161
+bea,Latn,bea_Latn,Beaver,A,Lu,LATIN CAPITAL LETTER A,167,2,"2018,2019",12,155
+bea,Latn,bea_Latn,Beaver,;,Po,SEMICOLON,150,2,"2018,2019",11,139
+bea,Latn,bea_Latn,Beaver,J,Lu,LATIN CAPITAL LETTER J,145,2,"2018,2019",21,124
+bea,Latn,bea_Latn,Beaver,T,Lu,LATIN CAPITAL LETTER T,135,2,"2018,2019",11,124
+bea,Latn,bea_Latn,Beaver,r,Ll,LATIN SMALL LETTER R,125,2,"2018,2019",10,115
+bea,Latn,bea_Latn,Beaver,4,Nd,DIGIT FOUR,121,2,"2018,2019",11,110
+bea,Latn,bea_Latn,Beaver,?,Po,QUESTION MARK,103,2,"2018,2019",4,99
+bea,Latn,bea_Latn,Beaver,-,Pd,HYPHEN-MINUS,101,2,"2018,2019",1,100
+bea,Latn,bea_Latn,Beaver,O,Lu,LATIN CAPITAL LETTER O,83,2,"2018,2019",11,72
+bea,Latn,bea_Latn,Beaver,N,Lu,LATIN CAPITAL LETTER N,81,2,"2018,2019",6,75
+bea,Latn,bea_Latn,Beaver,5,Nd,DIGIT FIVE,80,2,"2018,2019",5,75
+bea,Latn,bea_Latn,Beaver,6,Nd,DIGIT SIX,71,2,"2018,2019",4,67
+bea,Latn,bea_Latn,Beaver,7,Nd,DIGIT SEVEN,62,2,"2018,2019",4,58
+bea,Latn,bea_Latn,Beaver,M,Lu,LATIN CAPITAL LETTER M,56,2,"2018,2019",4,52
+bea,Latn,bea_Latn,Beaver,8,Nd,DIGIT EIGHT,56,2,"2018,2019",4,52
+bea,Latn,bea_Latn,Beaver,9,Nd,DIGIT NINE,54,2,"2018,2019",4,50
+bea,Latn,bea_Latn,Beaver,0,Nd,DIGIT ZERO,53,2,"2018,2019",4,49
+bea,Latn,bea_Latn,Beaver,S,Lu,LATIN CAPITAL LETTER S,50,2,"2018,2019",8,42
+bea,Latn,bea_Latn,Beaver,H,Lu,LATIN CAPITAL LETTER H,45,2,"2018,2019",4,41
+bea,Latn,bea_Latn,Beaver,C,Lu,LATIN CAPITAL LETTER C,42,2,"2018,2019",2,40
+bea,Latn,bea_Latn,Beaver,Y,Lu,LATIN CAPITAL LETTER Y,40,2,"2018,2019",2,38
+bea,Latn,bea_Latn,Beaver,P,Lu,LATIN CAPITAL LETTER P,39,1,2019,0,39
+bea,Latn,bea_Latn,Beaver,p,Ll,LATIN SMALL LETTER P,38,2,"2018,2019",1,37
+bea,Latn,bea_Latn,Beaver,j,Ll,LATIN SMALL LETTER J,33,2,"2018,2019",1,32
+bea,Latn,bea_Latn,Beaver,I,Lu,LATIN CAPITAL LETTER I,29,2,"2018,2019",2,27
+bea,Latn,bea_Latn,Beaver,E,Lu,LATIN CAPITAL LETTER E,27,2,"2018,2019",1,26
+bea,Latn,bea_Latn,Beaver,G,Lu,LATIN CAPITAL LETTER G,26,2,"2018,2019",5,21
+bea,Latn,bea_Latn,Beaver,b,Ll,LATIN SMALL LETTER B,20,2,"2018,2019",2,18
+bea,Latn,bea_Latn,Beaver,v,Ll,LATIN SMALL LETTER V,18,1,2019,0,18
+bea,Latn,bea_Latn,Beaver,D,Lu,LATIN CAPITAL LETTER D,15,1,2019,0,15
+bea,Latn,bea_Latn,Beaver,B,Lu,LATIN CAPITAL LETTER B,10,1,2019,0,10
+bea,Latn,bea_Latn,Beaver,U,Lu,LATIN CAPITAL LETTER U,7,1,2019,0,7
+bea,Latn,bea_Latn,Beaver,(,Ps,LEFT PARENTHESIS,5,1,2019,0,5
+bea,Latn,bea_Latn,Beaver,),Pe,RIGHT PARENTHESIS,5,1,2019,0,5
+bea,Latn,bea_Latn,Beaver,Z,Lu,LATIN CAPITAL LETTER Z,4,2,"2018,2019",2,2
+bea,Latn,bea_Latn,Beaver,W,Lu,LATIN CAPITAL LETTER W,4,1,2019,0,4
+bea,Latn,bea_Latn,Beaver,!,Po,EXCLAMATION MARK,3,1,2019,0,3
+bea,Latn,bea_Latn,Beaver,L,Lu,LATIN CAPITAL LETTER L,2,1,2019,0,2
+bea,Latn,bea_Latn,Beaver,R,Lu,LATIN CAPITAL LETTER R,2,1,2019,0,2
+bea,Latn,bea_Latn,Beaver,f,Ll,LATIN SMALL LETTER F,2,1,2019,0,2
+bea,Latn,bea_Latn,Beaver,x,Ll,LATIN SMALL LETTER X,1,1,2019,0,1

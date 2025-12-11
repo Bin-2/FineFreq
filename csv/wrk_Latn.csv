@@ -1,0 +1,63 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2022_frequency
+wrk,Latn,wrk_Latn,Garrwa,a,Ll,LATIN SMALL LETTER A,412692,2,"2019,2022",397635,15057
+wrk,Latn,wrk_Latn,Garrwa, ,Zs,SPACE,289821,2,"2019,2022",279209,10612
+wrk,Latn,wrk_Latn,Garrwa,n,Ll,LATIN SMALL LETTER N,269031,2,"2019,2022",259107,9924
+wrk,Latn,wrk_Latn,Garrwa,i,Ll,LATIN SMALL LETTER I,241671,2,"2019,2022",233308,8363
+wrk,Latn,wrk_Latn,Garrwa,u,Ll,LATIN SMALL LETTER U,171441,2,"2019,2022",165379,6062
+wrk,Latn,wrk_Latn,Garrwa,y,Ll,LATIN SMALL LETTER Y,147088,2,"2019,2022",142083,5005
+wrk,Latn,wrk_Latn,Garrwa,r,Ll,LATIN SMALL LETTER R,123849,2,"2019,2022",119013,4836
+wrk,Latn,wrk_Latn,Garrwa,k,Ll,LATIN SMALL LETTER K,115999,2,"2019,2022",111778,4221
+wrk,Latn,wrk_Latn,Garrwa,b,Ll,LATIN SMALL LETTER B,89412,2,"2019,2022",85996,3416
+wrk,Latn,wrk_Latn,Garrwa,g,Ll,LATIN SMALL LETTER G,89337,2,"2019,2022",85762,3575
+wrk,Latn,wrk_Latn,Garrwa,l,Ll,LATIN SMALL LETTER L,82420,2,"2019,2022",79612,2808
+wrk,Latn,wrk_Latn,Garrwa,j,Ll,LATIN SMALL LETTER J,76418,2,"2019,2022",73622,2796
+wrk,Latn,wrk_Latn,Garrwa,m,Ll,LATIN SMALL LETTER M,65999,2,"2019,2022",63313,2686
+wrk,Latn,wrk_Latn,Garrwa,d,Ll,LATIN SMALL LETTER D,46018,2,"2019,2022",44416,1602
+wrk,Latn,wrk_Latn,Garrwa,.,Po,FULL STOP,34653,2,"2019,2022",33492,1161
+wrk,Latn,wrk_Latn,Garrwa,w,Ll,LATIN SMALL LETTER W,28764,2,"2019,2022",27904,860
+wrk,Latn,wrk_Latn,Garrwa,",",Po,COMMA,26445,2,"2019,2022",25516,929
+wrk,Latn,wrk_Latn,Garrwa,s,Ll,LATIN SMALL LETTER S,17945,2,"2019,2022",17424,521
+wrk,Latn,wrk_Latn,Garrwa,J,Lu,LATIN CAPITAL LETTER J,13134,2,"2019,2022",12730,404
+wrk,Latn,wrk_Latn,Garrwa,K,Lu,LATIN CAPITAL LETTER K,12326,2,"2019,2022",11713,613
+wrk,Latn,wrk_Latn,Garrwa,N,Lu,LATIN CAPITAL LETTER N,12097,2,"2019,2022",11622,475
+wrk,Latn,wrk_Latn,Garrwa,B,Lu,LATIN CAPITAL LETTER B,8161,2,"2019,2022",7949,212
+wrk,Latn,wrk_Latn,Garrwa,M,Lu,LATIN CAPITAL LETTER M,7829,2,"2019,2022",7574,255
+wrk,Latn,wrk_Latn,Garrwa,Y,Lu,LATIN CAPITAL LETTER Y,5389,2,"2019,2022",5217,172
+wrk,Latn,wrk_Latn,Garrwa,1,Nd,DIGIT ONE,3671,2,"2019,2022",3570,101
+wrk,Latn,wrk_Latn,Garrwa,2,Nd,DIGIT TWO,2685,2,"2019,2022",2636,49
+wrk,Latn,wrk_Latn,Garrwa,W,Lu,LATIN CAPITAL LETTER W,1887,2,"2019,2022",1842,45
+wrk,Latn,wrk_Latn,Garrwa,3,Nd,DIGIT THREE,1755,2,"2019,2022",1735,20
+wrk,Latn,wrk_Latn,Garrwa,”,Pf,RIGHT DOUBLE QUOTATION MARK,1740,2,"2019,2022",1722,18
+wrk,Latn,wrk_Latn,Garrwa,“,Pi,LEFT DOUBLE QUOTATION MARK,1733,2,"2019,2022",1715,18
+wrk,Latn,wrk_Latn,Garrwa,4,Nd,DIGIT FOUR,1270,2,"2019,2022",1251,19
+wrk,Latn,wrk_Latn,Garrwa,t,Ll,LATIN SMALL LETTER T,1061,1,2019,1061,0
+wrk,Latn,wrk_Latn,Garrwa,5,Nd,DIGIT FIVE,1023,2,"2019,2022",1004,19
+wrk,Latn,wrk_Latn,Garrwa,:,Po,COLON,996,1,2019,996,0
+wrk,Latn,wrk_Latn,Garrwa,6,Nd,DIGIT SIX,902,2,"2019,2022",886,16
+wrk,Latn,wrk_Latn,Garrwa,S,Lu,LATIN CAPITAL LETTER S,901,2,"2019,2022",889,12
+wrk,Latn,wrk_Latn,Garrwa,0,Nd,DIGIT ZERO,889,2,"2019,2022",875,14
+wrk,Latn,wrk_Latn,Garrwa,e,Ll,LATIN SMALL LETTER E,811,1,2019,811,0
+wrk,Latn,wrk_Latn,Garrwa,7,Nd,DIGIT SEVEN,809,2,"2019,2022",794,15
+wrk,Latn,wrk_Latn,Garrwa,h,Ll,LATIN SMALL LETTER H,806,1,2019,806,0
+wrk,Latn,wrk_Latn,Garrwa,8,Nd,DIGIT EIGHT,725,2,"2019,2022",709,16
+wrk,Latn,wrk_Latn,Garrwa,9,Nd,DIGIT NINE,675,2,"2019,2022",660,15
+wrk,Latn,wrk_Latn,Garrwa,D,Lu,LATIN CAPITAL LETTER D,654,2,"2019,2022",631,23
+wrk,Latn,wrk_Latn,Garrwa,-,Pd,HYPHEN-MINUS,596,2,"2019,2022",581,15
+wrk,Latn,wrk_Latn,Garrwa,o,Ll,LATIN SMALL LETTER O,489,1,2019,489,0
+wrk,Latn,wrk_Latn,Garrwa,‘,Pi,LEFT SINGLE QUOTATION MARK,414,2,"2019,2022",413,1
+wrk,Latn,wrk_Latn,Garrwa,’,Pf,RIGHT SINGLE QUOTATION MARK,398,2,"2019,2022",397,1
+wrk,Latn,wrk_Latn,Garrwa,A,Lu,LATIN CAPITAL LETTER A,263,2,"2019,2022",196,67
+wrk,Latn,wrk_Latn,Garrwa,L,Lu,LATIN CAPITAL LETTER L,242,2,"2019,2022",238,4
+wrk,Latn,wrk_Latn,Garrwa,c,Ll,LATIN SMALL LETTER C,236,1,2019,236,0
+wrk,Latn,wrk_Latn,Garrwa,R,Lu,LATIN CAPITAL LETTER R,231,2,"2019,2022",179,52
+wrk,Latn,wrk_Latn,Garrwa,G,Lu,LATIN CAPITAL LETTER G,223,2,"2019,2022",203,20
+wrk,Latn,wrk_Latn,Garrwa,C,Lu,LATIN CAPITAL LETTER C,202,1,2019,202,0
+wrk,Latn,wrk_Latn,Garrwa,T,Lu,LATIN CAPITAL LETTER T,176,1,2019,176,0
+wrk,Latn,wrk_Latn,Garrwa,H,Lu,LATIN CAPITAL LETTER H,137,1,2019,137,0
+wrk,Latn,wrk_Latn,Garrwa,p,Ll,LATIN SMALL LETTER P,129,1,2019,129,0
+wrk,Latn,wrk_Latn,Garrwa,E,Lu,LATIN CAPITAL LETTER E,58,1,2019,58,0
+wrk,Latn,wrk_Latn,Garrwa,I,Lu,LATIN CAPITAL LETTER I,51,1,2022,0,51
+wrk,Latn,wrk_Latn,Garrwa,P,Lu,LATIN CAPITAL LETTER P,47,1,2019,47,0
+wrk,Latn,wrk_Latn,Garrwa,U,Lu,LATIN CAPITAL LETTER U,32,1,2022,0,32
+wrk,Latn,wrk_Latn,Garrwa,?,Po,QUESTION MARK,3,1,2019,3,0
+wrk,Latn,wrk_Latn,Garrwa,Z,Lu,LATIN CAPITAL LETTER Z,1,1,2019,1,0

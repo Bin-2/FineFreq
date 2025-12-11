@@ -1,0 +1,17 @@
+{
+  "language_code": "aai_Latn",
+  "iso_639_3": "aai",
+  "script": "Latn",
+  "language_name": "Arifama-Miniafia",
+  "total_characters": 88,
+  "total_frequency": 2590015,
+  "years_covered": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.191352"
+}

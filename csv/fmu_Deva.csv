@@ -1,0 +1,127 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+fmu,Deva,fmu_Deva,Far Western Muria, ,Zs,SPACE,4164,5,"2017,2020,2021,2022,2023",122,1368,217,1491,966
+fmu,Deva,fmu_Deva,Far Western Muria,ा,Mc,DEVANAGARI VOWEL SIGN AA,2208,5,"2017,2020,2021,2022,2023",44,832,123,526,683
+fmu,Deva,fmu_Deva,Far Western Muria,न,Lo,DEVANAGARI LETTER NA,1606,5,"2017,2020,2021,2022,2023",42,556,67,531,410
+fmu,Deva,fmu_Deva,Far Western Muria,ि,Mc,DEVANAGARI VOWEL SIGN I,1435,5,"2017,2020,2021,2022,2023",37,468,31,547,352
+fmu,Deva,fmu_Deva,Far Western Muria,र,Lo,DEVANAGARI LETTER RA,1431,5,"2017,2020,2021,2022,2023",33,612,37,481,268
+fmu,Deva,fmu_Deva,Far Western Muria,त,Lo,DEVANAGARI LETTER TA,1196,5,"2017,2020,2021,2022,2023",23,330,47,474,322
+fmu,Deva,fmu_Deva,Far Western Muria,े,Mn,DEVANAGARI VOWEL SIGN E,1168,5,"2017,2020,2021,2022,2023",32,307,66,412,351
+fmu,Deva,fmu_Deva,Far Western Muria,्,Mn,DEVANAGARI SIGN VIRAMA,1098,5,"2017,2020,2021,2022,2023",31,266,29,482,290
+fmu,Deva,fmu_Deva,Far Western Muria,क,Lo,DEVANAGARI LETTER KA,1085,5,"2017,2020,2021,2022,2023",26,361,30,422,246
+fmu,Deva,fmu_Deva,Far Western Muria,ो,Mc,DEVANAGARI VOWEL SIGN O,929,5,"2017,2020,2021,2022,2023",28,334,23,270,274
+fmu,Deva,fmu_Deva,Far Western Muria,ु,Mn,DEVANAGARI VOWEL SIGN U,884,5,"2017,2020,2021,2022,2023",22,331,23,259,249
+fmu,Deva,fmu_Deva,Far Western Muria,स,Lo,DEVANAGARI LETTER SA,842,5,"2017,2020,2021,2022,2023",28,255,23,313,223
+fmu,Deva,fmu_Deva,Far Western Muria,म,Lo,DEVANAGARI LETTER MA,828,5,"2017,2020,2021,2022,2023",20,288,28,302,190
+fmu,Deva,fmu_Deva,Far Western Muria,व,Lo,DEVANAGARI LETTER VA,794,5,"2017,2020,2021,2022,2023",36,217,16,324,201
+fmu,Deva,fmu_Deva,Far Western Muria,य,Lo,DEVANAGARI LETTER YA,728,5,"2017,2020,2021,2022,2023",12,277,31,173,235
+fmu,Deva,fmu_Deva,Far Western Muria,ल,Lo,DEVANAGARI LETTER LA,726,5,"2017,2020,2021,2022,2023",19,270,41,250,146
+fmu,Deva,fmu_Deva,Far Western Muria,द,Lo,DEVANAGARI LETTER DA,616,5,"2017,2020,2021,2022,2023",15,201,32,210,158
+fmu,Deva,fmu_Deva,Far Western Muria,ब,Lo,DEVANAGARI LETTER BA,527,5,"2017,2020,2021,2022,2023",20,138,31,230,108
+fmu,Deva,fmu_Deva,Far Western Muria,प,Lo,DEVANAGARI LETTER PA,488,5,"2017,2020,2021,2022,2023",10,207,23,120,128
+fmu,Deva,fmu_Deva,Far Western Muria,ग,Lo,DEVANAGARI LETTER GA,481,5,"2017,2020,2021,2022,2023",25,99,32,202,123
+fmu,Deva,fmu_Deva,Far Western Muria,ं,Mn,DEVANAGARI SIGN ANUSVARA,449,5,"2017,2020,2021,2022,2023",22,90,23,243,71
+fmu,Deva,fmu_Deva,Far Western Muria,ह,Lo,DEVANAGARI LETTER HA,317,5,"2017,2020,2021,2022,2023",3,130,16,89,79
+fmu,Deva,fmu_Deva,Far Western Muria,अ,Lo,DEVANAGARI LETTER A,316,5,"2017,2020,2021,2022,2023",6,123,14,132,41
+fmu,Deva,fmu_Deva,Far Western Muria,ट,Lo,DEVANAGARI LETTER TTA,293,5,"2017,2020,2021,2022,2023",10,49,14,90,130
+fmu,Deva,fmu_Deva,Far Western Muria,इ,Lo,DEVANAGARI LETTER I,283,5,"2017,2020,2021,2022,2023",10,92,9,107,65
+fmu,Deva,fmu_Deva,Far Western Muria,ज,Lo,DEVANAGARI LETTER JA,252,5,"2017,2020,2021,2022,2023",7,115,9,68,53
+fmu,Deva,fmu_Deva,Far Western Muria,.,Po,FULL STOP,202,3,"2021,2022,2023",0,0,7,109,86
+fmu,Deva,fmu_Deva,Far Western Muria,ी,Mc,DEVANAGARI VOWEL SIGN II,199,5,"2017,2020,2021,2022,2023",10,21,16,110,42
+fmu,Deva,fmu_Deva,Far Western Muria,",",Po,COMMA,188,4,"2017,2020,2022,2023",13,65,0,88,22
+fmu,Deva,fmu_Deva,Far Western Muria,ड,Lo,DEVANAGARI LETTER DDA,188,5,"2017,2020,2021,2022,2023",8,20,22,85,53
+fmu,Deva,fmu_Deva,Far Western Muria,आ,Lo,DEVANAGARI LETTER AA,148,5,"2017,2020,2021,2022,2023",1,80,11,39,17
+fmu,Deva,fmu_Deva,Far Western Muria,च,Lo,DEVANAGARI LETTER CA,123,5,"2017,2020,2021,2022,2023",12,26,2,58,25
+fmu,Deva,fmu_Deva,Far Western Muria,-,Pd,HYPHEN-MINUS,100,5,"2017,2020,2021,2022,2023",3,14,1,29,53
+fmu,Deva,fmu_Deva,Far Western Muria,।,Po,DEVANAGARI DANDA,94,3,"2017,2020,2023",4,55,0,0,35
+fmu,Deva,fmu_Deva,Far Western Muria,ङ,Lo,DEVANAGARI LETTER NGA,70,2,"2022,2023",0,0,0,68,2
+fmu,Deva,fmu_Deva,Far Western Muria,ळ,Lo,DEVANAGARI LETTER LLA,67,2,"2020,2023",0,31,0,0,36
+fmu,Deva,fmu_Deva,Far Western Muria,उ,Lo,DEVANAGARI LETTER U,63,5,"2017,2020,2021,2022,2023",1,12,4,24,22
+fmu,Deva,fmu_Deva,Far Western Muria,1,Nd,DIGIT ONE,58,4,"2020,2021,2022,2023",0,19,2,7,30
+fmu,Deva,fmu_Deva,Far Western Muria,ओ,Lo,DEVANAGARI LETTER O,57,3,"2020,2021,2023",0,43,6,0,8
+fmu,Deva,fmu_Deva,Far Western Muria,ू,Mn,DEVANAGARI VOWEL SIGN UU,48,4,"2017,2021,2022,2023",1,0,4,36,7
+fmu,Deva,fmu_Deva,Far Western Muria,2,Nd,DIGIT TWO,38,4,"2020,2021,2022,2023",0,18,2,4,14
+fmu,Deva,fmu_Deva,Far Western Muria,0,Nd,DIGIT ZERO,38,3,"2020,2022,2023",0,8,0,8,22
+fmu,Deva,fmu_Deva,Far Western Muria,o,Ll,LATIN SMALL LETTER O,37,2,"2021,2023",0,0,16,0,21
+fmu,Deva,fmu_Deva,Far Western Muria,e,Ll,LATIN SMALL LETTER E,31,3,"2020,2021,2023",0,1,17,0,13
+fmu,Deva,fmu_Deva,Far Western Muria,4,Nd,DIGIT FOUR,30,3,"2020,2022,2023",0,18,0,2,10
+fmu,Deva,fmu_Deva,Far Western Muria,3,Nd,DIGIT THREE,29,3,"2020,2022,2023",0,18,0,4,7
+fmu,Deva,fmu_Deva,Far Western Muria,?,Po,QUESTION MARK,27,5,"2017,2020,2021,2022,2023",8,5,1,12,1
+fmu,Deva,fmu_Deva,Far Western Muria,6,Nd,DIGIT SIX,26,3,"2020,2022,2023",0,18,0,3,5
+fmu,Deva,fmu_Deva,Far Western Muria,5,Nd,DIGIT FIVE,25,3,"2020,2022,2023",0,18,0,2,5
+fmu,Deva,fmu_Deva,Far Western Muria,(,Ps,LEFT PARENTHESIS,25,3,"2017,2020,2022",2,8,0,15,0
+fmu,Deva,fmu_Deva,Far Western Muria,),Pe,RIGHT PARENTHESIS,25,3,"2017,2020,2022",2,8,0,15,0
+fmu,Deva,fmu_Deva,Far Western Muria,“,Pi,LEFT DOUBLE QUOTATION MARK,24,2,"2020,2022",0,17,0,7,0
+fmu,Deva,fmu_Deva,Far Western Muria,भ,Lo,DEVANAGARI LETTER BHA,24,2,"2020,2023",0,1,0,0,23
+fmu,Deva,fmu_Deva,Far Western Muria,”,Pf,RIGHT DOUBLE QUOTATION MARK,23,2,"2020,2022",0,16,0,7,0
+fmu,Deva,fmu_Deva,Far Western Muria,:,Po,COLON,23,2,"2020,2022",0,13,0,10,0
+fmu,Deva,fmu_Deva,Far Western Muria,t,Ll,LATIN SMALL LETTER T,21,2,"2021,2023",0,0,6,0,15
+fmu,Deva,fmu_Deva,Far Western Muria,s,Ll,LATIN SMALL LETTER S,21,2,"2021,2023",0,0,8,0,13
+fmu,Deva,fmu_Deva,Far Western Muria,़,Mn,DEVANAGARI SIGN NUKTA,21,2,"2021,2023",0,0,7,0,14
+fmu,Deva,fmu_Deva,Far Western Muria,i,Ll,LATIN SMALL LETTER I,21,3,"2020,2021,2023",0,1,7,0,13
+fmu,Deva,fmu_Deva,Far Western Muria,n,Ll,LATIN SMALL LETTER N,21,2,"2021,2023",0,0,8,0,13
+fmu,Deva,fmu_Deva,Far Western Muria,7,Nd,DIGIT SEVEN,21,2,"2020,2023",0,18,0,0,3
+fmu,Deva,fmu_Deva,Far Western Muria,r,Ll,LATIN SMALL LETTER R,20,2,"2021,2023",0,0,10,0,10
+fmu,Deva,fmu_Deva,Far Western Muria,ष,Lo,DEVANAGARI LETTER SSA,20,2,"2020,2023",0,1,0,0,19
+fmu,Deva,fmu_Deva,Far Western Muria,a,Ll,LATIN SMALL LETTER A,18,3,"2020,2021,2023",0,1,3,0,14
+fmu,Deva,fmu_Deva,Far Western Muria,9,Nd,DIGIT NINE,16,3,"2020,2021,2023",0,8,2,0,6
+fmu,Deva,fmu_Deva,Far Western Muria,8,Nd,DIGIT EIGHT,15,3,"2020,2022,2023",0,9,0,1,5
+fmu,Deva,fmu_Deva,Far Western Muria,c,Ll,LATIN SMALL LETTER C,14,3,"2020,2021,2023",0,1,6,0,7
+fmu,Deva,fmu_Deva,Far Western Muria,!,Po,EXCLAMATION MARK,14,3,"2020,2021,2022",0,6,5,3,0
+fmu,Deva,fmu_Deva,Far Western Muria,;,Po,SEMICOLON,13,1,2020,0,13,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,u,Ll,LATIN SMALL LETTER U,13,2,"2021,2023",0,0,4,0,9
+fmu,Deva,fmu_Deva,Far Western Muria,|,Sm,VERTICAL LINE,12,1,2021,0,0,12,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,श,Lo,DEVANAGARI LETTER SHA,11,3,"2020,2021,2023",0,1,2,0,8
+fmu,Deva,fmu_Deva,Far Western Muria,ई,Lo,DEVANAGARI LETTER II,10,3,"2021,2022,2023",0,0,2,5,3
+fmu,Deva,fmu_Deva,Far Western Muria,l,Ll,LATIN SMALL LETTER L,10,2,"2020,2021",0,1,9,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,d,Ll,LATIN SMALL LETTER D,9,3,"2020,2021,2023",0,1,3,0,5
+fmu,Deva,fmu_Deva,Far Western Muria,१,Nd,DEVANAGARI DIGIT ONE,8,1,2020,0,8,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,ए,Lo,DEVANAGARI LETTER E,7,2,"2020,2023",0,1,0,0,6
+fmu,Deva,fmu_Deva,Far Western Muria,६,Nd,DEVANAGARI DIGIT SIX,7,2,"2017,2020",1,6,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,k,Ll,LATIN SMALL LETTER K,6,3,"2020,2021,2023",0,1,3,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,g,Ll,LATIN SMALL LETTER G,6,3,"2020,2021,2023",0,1,2,0,3
+fmu,Deva,fmu_Deva,Far Western Muria,ठ,Lo,DEVANAGARI LETTER TTHA,6,2,"2021,2023",0,0,4,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,०,Nd,DEVANAGARI DIGIT ZERO,6,3,"2017,2020,2023",1,1,0,0,4
+fmu,Deva,fmu_Deva,Far Western Muria,v,Ll,LATIN SMALL LETTER V,5,2,"2021,2023",0,0,2,0,3
+fmu,Deva,fmu_Deva,Far Western Muria,y,Ll,LATIN SMALL LETTER Y,5,2,"2021,2023",0,0,3,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,m,Ll,LATIN SMALL LETTER M,5,2,"2020,2023",0,1,0,0,4
+fmu,Deva,fmu_Deva,Far Western Muria,h,Ll,LATIN SMALL LETTER H,5,2,"2020,2023",0,1,0,0,4
+fmu,Deva,fmu_Deva,Far Western Muria,२,Nd,DEVANAGARI DIGIT TWO,5,3,"2017,2020,2023",1,2,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,५,Nd,DEVANAGARI DIGIT FIVE,5,1,2020,0,5,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,S,Lu,LATIN CAPITAL LETTER S,4,2,"2021,2023",0,0,2,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,ख,Lo,DEVANAGARI LETTER KHA,4,2,"2021,2023",0,0,3,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,ऑ,Lo,DEVANAGARI LETTER CANDRA O,4,1,2023,0,0,0,0,4
+fmu,Deva,fmu_Deva,Far Western Muria,थ,Lo,DEVANAGARI LETTER THA,4,3,"2020,2021,2023",0,1,2,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,A,Lu,LATIN CAPITAL LETTER A,4,2,"2021,2023",0,0,1,0,3
+fmu,Deva,fmu_Deva,Far Western Muria,–,Pd,EN DASH,4,2,"2020,2021",0,3,1,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,७,Nd,DEVANAGARI DIGIT SEVEN,4,2,"2020,2023",0,2,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,४,Nd,DEVANAGARI DIGIT FOUR,4,2,"2017,2020",1,3,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,b,Ll,LATIN SMALL LETTER B,4,2,"2020,2021",0,1,3,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,w,Ll,LATIN SMALL LETTER W,3,2,"2021,2023",0,0,2,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,G,Lu,LATIN CAPITAL LETTER G,3,2,"2021,2023",0,0,2,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,फ,Lo,DEVANAGARI LETTER PHA,3,1,2023,0,0,0,0,3
+fmu,Deva,fmu_Deva,Far Western Muria,f,Ll,LATIN SMALL LETTER F,3,2,"2020,2021",0,1,2,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,B,Lu,LATIN CAPITAL LETTER B,3,1,2021,0,0,3,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,घ,Lo,DEVANAGARI LETTER GHA,2,1,2021,0,0,2,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,q,Ll,LATIN SMALL LETTER Q,2,1,2023,0,0,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,ृ,Mn,DEVANAGARI VOWEL SIGN VOCALIC R,2,1,2023,0,0,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,ण,Lo,DEVANAGARI LETTER NNA,2,1,2023,0,0,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,*,Po,ASTERISK,2,1,2022,0,0,0,2,0
+fmu,Deva,fmu_Deva,Far Western Muria,ऊ,Lo,DEVANAGARI LETTER UU,2,1,2023,0,0,0,0,2
+fmu,Deva,fmu_Deva,Far Western Muria,ञ,Lo,DEVANAGARI LETTER NYA,2,1,2020,0,2,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,ध,Lo,DEVANAGARI LETTER DHA,2,2,"2020,2023",0,1,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,३,Nd,DEVANAGARI DIGIT THREE,2,1,2020,0,2,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,८,Nd,DEVANAGARI DIGIT EIGHT,2,1,2020,0,2,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,ॅ,Mn,DEVANAGARI VOWEL SIGN CANDRA E,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,p,Ll,LATIN SMALL LETTER P,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,C,Lu,LATIN CAPITAL LETTER C,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,K,Lu,LATIN CAPITAL LETTER K,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,T,Lu,LATIN CAPITAL LETTER T,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,ॉ,Mc,DEVANAGARI VOWEL SIGN CANDRA O,1,1,2023,0,0,0,0,1
+fmu,Deva,fmu_Deva,Far Western Muria,ऐ,Lo,DEVANAGARI LETTER AI,1,1,2021,0,0,1,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,९,Nd,DEVANAGARI DIGIT NINE,1,1,2020,0,1,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,ढ,Lo,DEVANAGARI LETTER DDHA,1,1,2021,0,0,1,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,j,Ll,LATIN SMALL LETTER J,1,1,2020,0,1,0,0,0
+fmu,Deva,fmu_Deva,Far Western Muria,],Pe,RIGHT SQUARE BRACKET,1,1,2022,0,0,0,1,0
+fmu,Deva,fmu_Deva,Far Western Muria,[,Ps,LEFT SQUARE BRACKET,1,1,2022,0,0,0,1,0
+fmu,Deva,fmu_Deva,Far Western Muria,†,Po,DAGGER,1,1,2022,0,0,0,1,0
+fmu,Deva,fmu_Deva,Far Western Muria,ँ,Mn,DEVANAGARI SIGN CANDRABINDU,1,1,2023,0,0,0,0,1

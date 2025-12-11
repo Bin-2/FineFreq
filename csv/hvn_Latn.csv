@@ -1,0 +1,66 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2022_frequency
+hvn,Latn,hvn_Latn,Sabu, ,Zs,SPACE,4782,3,"2017,2018,2022",4489,115,178
+hvn,Latn,hvn_Latn,Sabu,a,Ll,LATIN SMALL LETTER A,2829,3,"2017,2018,2022",2626,87,116
+hvn,Latn,hvn_Latn,Sabu,e,Ll,LATIN SMALL LETTER E,1970,3,"2017,2018,2022",1814,55,101
+hvn,Latn,hvn_Latn,Sabu,d,Ll,LATIN SMALL LETTER D,1502,3,"2017,2018,2022",1433,25,44
+hvn,Latn,hvn_Latn,Sabu,o,Ll,LATIN SMALL LETTER O,1331,3,"2017,2018,2022",1261,21,49
+hvn,Latn,hvn_Latn,Sabu,i,Ll,LATIN SMALL LETTER I,1193,3,"2017,2018,2022",1095,45,53
+hvn,Latn,hvn_Latn,Sabu,n,Ll,LATIN SMALL LETTER N,1129,3,"2017,2018,2022",1068,14,47
+hvn,Latn,hvn_Latn,Sabu,h,Ll,LATIN SMALL LETTER H,1104,3,"2017,2018,2022",1010,47,47
+hvn,Latn,hvn_Latn,Sabu,r,Ll,LATIN SMALL LETTER R,863,3,"2017,2018,2022",794,32,37
+hvn,Latn,hvn_Latn,Sabu,u,Ll,LATIN SMALL LETTER U,829,3,"2017,2018,2022",782,27,20
+hvn,Latn,hvn_Latn,Sabu,t,Ll,LATIN SMALL LETTER T,536,3,"2017,2018,2022",494,19,23
+hvn,Latn,hvn_Latn,Sabu,l,Ll,LATIN SMALL LETTER L,530,3,"2017,2018,2022",483,11,36
+hvn,Latn,hvn_Latn,Sabu,p,Ll,LATIN SMALL LETTER P,503,3,"2017,2018,2022",466,15,22
+hvn,Latn,hvn_Latn,Sabu,m,Ll,LATIN SMALL LETTER M,467,3,"2017,2018,2022",458,4,5
+hvn,Latn,hvn_Latn,Sabu,k,Ll,LATIN SMALL LETTER K,425,3,"2017,2018,2022",400,7,18
+hvn,Latn,hvn_Latn,Sabu,g,Ll,LATIN SMALL LETTER G,362,3,"2017,2018,2022",340,10,12
+hvn,Latn,hvn_Latn,Sabu,j,Ll,LATIN SMALL LETTER J,267,3,"2017,2018,2022",243,13,11
+hvn,Latn,hvn_Latn,Sabu,",",Po,COMMA,239,3,"2017,2018,2022",224,7,8
+hvn,Latn,hvn_Latn,Sabu,w,Ll,LATIN SMALL LETTER W,227,3,"2017,2018,2022",205,10,12
+hvn,Latn,hvn_Latn,Sabu,.,Po,FULL STOP,205,3,"2017,2018,2022",190,10,5
+hvn,Latn,hvn_Latn,Sabu,D,Lu,LATIN CAPITAL LETTER D,178,3,"2017,2018,2022",166,8,4
+hvn,Latn,hvn_Latn,Sabu,-,Pd,HYPHEN-MINUS,165,3,"2017,2018,2022",156,6,3
+hvn,Latn,hvn_Latn,Sabu,b,Ll,LATIN SMALL LETTER B,122,3,"2017,2018,2022",109,3,10
+hvn,Latn,hvn_Latn,Sabu,s,Ll,LATIN SMALL LETTER S,104,3,"2017,2018,2022",99,4,1
+hvn,Latn,hvn_Latn,Sabu,N,Lu,LATIN CAPITAL LETTER N,98,3,"2017,2018,2022",95,1,2
+hvn,Latn,hvn_Latn,Sabu,y,Ll,LATIN SMALL LETTER Y,76,2,"2017,2022",74,0,2
+hvn,Latn,hvn_Latn,Sabu,1,Nd,DIGIT ONE,75,1,2017,75,0,0
+hvn,Latn,hvn_Latn,Sabu,A,Lu,LATIN CAPITAL LETTER A,55,2,"2017,2018",54,1,0
+hvn,Latn,hvn_Latn,Sabu,K,Lu,LATIN CAPITAL LETTER K,47,1,2017,47,0,0
+hvn,Latn,hvn_Latn,Sabu,H,Lu,LATIN CAPITAL LETTER H,38,3,"2017,2018,2022",32,4,2
+hvn,Latn,hvn_Latn,Sabu,2,Nd,DIGIT TWO,35,1,2017,35,0,0
+hvn,Latn,hvn_Latn,Sabu,M,Lu,LATIN CAPITAL LETTER M,34,2,"2017,2022",33,0,1
+hvn,Latn,hvn_Latn,Sabu,J,Lu,LATIN CAPITAL LETTER J,33,3,"2017,2018,2022",24,6,3
+hvn,Latn,hvn_Latn,Sabu,T,Lu,LATIN CAPITAL LETTER T,29,1,2017,29,0,0
+hvn,Latn,hvn_Latn,Sabu,',Po,APOSTROPHE,26,1,2017,26,0,0
+hvn,Latn,hvn_Latn,Sabu,R,Lu,LATIN CAPITAL LETTER R,24,1,2017,24,0,0
+hvn,Latn,hvn_Latn,Sabu,9,Nd,DIGIT NINE,22,1,2017,22,0,0
+hvn,Latn,hvn_Latn,Sabu,8,Nd,DIGIT EIGHT,22,1,2017,22,0,0
+hvn,Latn,hvn_Latn,Sabu,:,Po,COLON,20,2,"2017,2022",19,0,1
+hvn,Latn,hvn_Latn,Sabu,Y,Lu,LATIN CAPITAL LETTER Y,20,2,"2017,2018",15,5,0
+hvn,Latn,hvn_Latn,Sabu,P,Lu,LATIN CAPITAL LETTER P,18,3,"2017,2018,2022",12,1,5
+hvn,Latn,hvn_Latn,Sabu,4,Nd,DIGIT FOUR,16,1,2017,16,0,0
+hvn,Latn,hvn_Latn,Sabu,B,Lu,LATIN CAPITAL LETTER B,13,3,"2017,2018,2022",6,2,5
+hvn,Latn,hvn_Latn,Sabu,0,Nd,DIGIT ZERO,13,1,2017,13,0,0
+hvn,Latn,hvn_Latn,Sabu,3,Nd,DIGIT THREE,13,1,2017,13,0,0
+hvn,Latn,hvn_Latn,Sabu,/,Po,SOLIDUS,12,2,"2017,2022",10,0,2
+hvn,Latn,hvn_Latn,Sabu,6,Nd,DIGIT SIX,11,1,2017,11,0,0
+hvn,Latn,hvn_Latn,Sabu,5,Nd,DIGIT FIVE,11,1,2017,11,0,0
+hvn,Latn,hvn_Latn,Sabu,7,Nd,DIGIT SEVEN,10,1,2017,10,0,0
+hvn,Latn,hvn_Latn,Sabu,W,Lu,LATIN CAPITAL LETTER W,10,1,2017,10,0,0
+hvn,Latn,hvn_Latn,Sabu,;,Po,SEMICOLON,9,1,2017,9,0,0
+hvn,Latn,hvn_Latn,Sabu,L,Lu,LATIN CAPITAL LETTER L,9,2,"2017,2022",7,0,2
+hvn,Latn,hvn_Latn,Sabu,E,Lu,LATIN CAPITAL LETTER E,9,1,2017,9,0,0
+hvn,Latn,hvn_Latn,Sabu,!,Po,EXCLAMATION MARK,9,1,2017,9,0,0
+hvn,Latn,hvn_Latn,Sabu,I,Lu,LATIN CAPITAL LETTER I,5,1,2017,5,0,0
+hvn,Latn,hvn_Latn,Sabu,O,Lu,LATIN CAPITAL LETTER O,4,1,2017,4,0,0
+hvn,Latn,hvn_Latn,Sabu,"""",Po,QUOTATION MARK,4,1,2017,4,0,0
+hvn,Latn,hvn_Latn,Sabu,?,Po,QUESTION MARK,3,1,2017,3,0,0
+hvn,Latn,hvn_Latn,Sabu,’,Pf,RIGHT SINGLE QUOTATION MARK,2,2,"2018,2022",0,1,1
+hvn,Latn,hvn_Latn,Sabu,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,1,2022,0,0,2
+hvn,Latn,hvn_Latn,Sabu,S,Lu,LATIN CAPITAL LETTER S,2,1,2022,0,0,2
+hvn,Latn,hvn_Latn,Sabu,V,Lu,LATIN CAPITAL LETTER V,1,1,2017,1,0,0
+hvn,Latn,hvn_Latn,Sabu,(,Ps,LEFT PARENTHESIS,1,1,2022,0,0,1
+hvn,Latn,hvn_Latn,Sabu,),Pe,RIGHT PARENTHESIS,1,1,2022,0,0,1
+hvn,Latn,hvn_Latn,Sabu,*,Po,ASTERISK,1,1,2022,0,0,1

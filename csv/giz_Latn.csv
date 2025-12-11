@@ -1,0 +1,96 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2019_frequency,year_2021_frequency
+giz,Latn,giz_Latn,South Giziga, ,Zs,SPACE,3272,3,"2014,2019,2021",934,1848,490
+giz,Latn,giz_Latn,South Giziga,a,Ll,LATIN SMALL LETTER A,2126,3,"2014,2019,2021",673,1112,341
+giz,Latn,giz_Latn,South Giziga,i,Ll,LATIN SMALL LETTER I,1554,3,"2014,2019,2021",419,923,212
+giz,Latn,giz_Latn,South Giziga,u,Ll,LATIN SMALL LETTER U,977,3,"2014,2019,2021",256,626,95
+giz,Latn,giz_Latn,South Giziga,m,Ll,LATIN SMALL LETTER M,839,3,"2014,2019,2021",239,510,90
+giz,Latn,giz_Latn,South Giziga,n,Ll,LATIN SMALL LETTER N,740,3,"2014,2019,2021",220,445,75
+giz,Latn,giz_Latn,South Giziga,e,Ll,LATIN SMALL LETTER E,675,3,"2014,2019,2021",198,406,71
+giz,Latn,giz_Latn,South Giziga,l,Ll,LATIN SMALL LETTER L,519,3,"2014,2019,2021",160,298,61
+giz,Latn,giz_Latn,South Giziga,r,Ll,LATIN SMALL LETTER R,512,3,"2014,2019,2021",156,303,53
+giz,Latn,giz_Latn,South Giziga,g,Ll,LATIN SMALL LETTER G,449,3,"2014,2019,2021",140,266,43
+giz,Latn,giz_Latn,South Giziga,s,Ll,LATIN SMALL LETTER S,444,3,"2014,2019,2021",101,279,64
+giz,Latn,giz_Latn,South Giziga,t,Ll,LATIN SMALL LETTER T,431,3,"2014,2019,2021",111,269,51
+giz,Latn,giz_Latn,South Giziga,y,Ll,LATIN SMALL LETTER Y,409,3,"2014,2019,2021",87,232,90
+giz,Latn,giz_Latn,South Giziga,w,Ll,LATIN SMALL LETTER W,345,3,"2014,2019,2021",82,251,12
+giz,Latn,giz_Latn,South Giziga,k,Ll,LATIN SMALL LETTER K,340,3,"2014,2019,2021",120,174,46
+giz,Latn,giz_Latn,South Giziga,ŋ,Ll,LATIN SMALL LETTER ENG,327,3,"2014,2019,2021",70,197,60
+giz,Latn,giz_Latn,South Giziga,o,Ll,LATIN SMALL LETTER O,326,3,"2014,2019,2021",89,172,65
+giz,Latn,giz_Latn,South Giziga,",",Po,COMMA,319,3,"2014,2019,2021",81,183,55
+giz,Latn,giz_Latn,South Giziga,h,Ll,LATIN SMALL LETTER H,295,3,"2014,2019,2021",95,172,28
+giz,Latn,giz_Latn,South Giziga,d,Ll,LATIN SMALL LETTER D,251,3,"2014,2019,2021",88,126,37
+giz,Latn,giz_Latn,South Giziga,b,Ll,LATIN SMALL LETTER B,208,3,"2014,2019,2021",60,117,31
+giz,Latn,giz_Latn,South Giziga,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,192,3,"2014,2019,2021",65,113,14
+giz,Latn,giz_Latn,South Giziga,.,Po,FULL STOP,187,3,"2014,2019,2021",58,96,33
+giz,Latn,giz_Latn,South Giziga,z,Ll,LATIN SMALL LETTER Z,169,3,"2014,2019,2021",49,85,35
+giz,Latn,giz_Latn,South Giziga,v,Ll,LATIN SMALL LETTER V,158,3,"2014,2019,2021",45,92,21
+giz,Latn,giz_Latn,South Giziga,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,128,3,"2014,2019,2021",42,74,12
+giz,Latn,giz_Latn,South Giziga,B,Lu,LATIN CAPITAL LETTER B,114,3,"2014,2019,2021",20,83,11
+giz,Latn,giz_Latn,South Giziga,ˀ,Lm,MODIFIER LETTER GLOTTAL STOP,97,3,"2014,2019,2021",27,43,27
+giz,Latn,giz_Latn,South Giziga,p,Ll,LATIN SMALL LETTER P,93,3,"2014,2019,2021",15,65,13
+giz,Latn,giz_Latn,South Giziga,A,Lu,LATIN CAPITAL LETTER A,82,3,"2014,2019,2021",17,38,27
+giz,Latn,giz_Latn,South Giziga,f,Ll,LATIN SMALL LETTER F,81,3,"2014,2019,2021",20,46,15
+giz,Latn,giz_Latn,South Giziga,1,Nd,DIGIT ONE,67,3,"2014,2019,2021",21,31,15
+giz,Latn,giz_Latn,South Giziga,c,Ll,LATIN SMALL LETTER C,60,3,"2014,2019,2021",16,42,2
+giz,Latn,giz_Latn,South Giziga,j,Ll,LATIN SMALL LETTER J,58,3,"2014,2019,2021",15,36,7
+giz,Latn,giz_Latn,South Giziga,Y,Lu,LATIN CAPITAL LETTER Y,55,3,"2014,2019,2021",27,8,20
+giz,Latn,giz_Latn,South Giziga,M,Lu,LATIN CAPITAL LETTER M,51,3,"2014,2019,2021",20,18,13
+giz,Latn,giz_Latn,South Giziga,2,Nd,DIGIT TWO,47,3,"2014,2019,2021",13,23,11
+giz,Latn,giz_Latn,South Giziga,:,Po,COLON,36,3,"2014,2019,2021",12,19,5
+giz,Latn,giz_Latn,South Giziga,T,Lu,LATIN CAPITAL LETTER T,34,3,"2014,2019,2021",5,26,3
+giz,Latn,giz_Latn,South Giziga,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,30,3,"2014,2019,2021",12,15,3
+giz,Latn,giz_Latn,South Giziga,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,30,3,"2014,2019,2021",12,15,3
+giz,Latn,giz_Latn,South Giziga,Z,Lu,LATIN CAPITAL LETTER Z,29,3,"2014,2019,2021",4,2,23
+giz,Latn,giz_Latn,South Giziga,E,Lu,LATIN CAPITAL LETTER E,28,3,"2014,2019,2021",3,14,11
+giz,Latn,giz_Latn,South Giziga,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,28,3,"2014,2019,2021",12,15,1
+giz,Latn,giz_Latn,South Giziga,N,Lu,LATIN CAPITAL LETTER N,28,3,"2014,2019,2021",6,20,2
+giz,Latn,giz_Latn,South Giziga,D,Lu,LATIN CAPITAL LETTER D,27,3,"2014,2019,2021",5,15,7
+giz,Latn,giz_Latn,South Giziga,L,Lu,LATIN CAPITAL LETTER L,25,3,"2014,2019,2021",3,20,2
+giz,Latn,giz_Latn,South Giziga,G,Lu,LATIN CAPITAL LETTER G,24,2,"2014,2019",7,17,0
+giz,Latn,giz_Latn,South Giziga,K,Lu,LATIN CAPITAL LETTER K,23,3,"2014,2019,2021",9,10,4
+giz,Latn,giz_Latn,South Giziga,H,Lu,LATIN CAPITAL LETTER H,20,2,"2014,2019",6,14,0
+giz,Latn,giz_Latn,South Giziga,S,Lu,LATIN CAPITAL LETTER S,19,3,"2014,2019,2021",3,7,9
+giz,Latn,giz_Latn,South Giziga,3,Nd,DIGIT THREE,19,3,"2014,2019,2021",4,9,6
+giz,Latn,giz_Latn,South Giziga,U,Lu,LATIN CAPITAL LETTER U,18,3,"2014,2019,2021",7,8,3
+giz,Latn,giz_Latn,South Giziga,ã,Ll,LATIN SMALL LETTER A WITH TILDE,18,3,"2014,2019,2021",2,12,4
+giz,Latn,giz_Latn,South Giziga,I,Lu,LATIN CAPITAL LETTER I,16,3,"2014,2019,2021",5,7,4
+giz,Latn,giz_Latn,South Giziga,4,Nd,DIGIT FOUR,15,3,"2014,2019,2021",6,6,3
+giz,Latn,giz_Latn,South Giziga,5,Nd,DIGIT FIVE,14,3,"2014,2019,2021",5,6,3
+giz,Latn,giz_Latn,South Giziga,),Pe,RIGHT PARENTHESIS,14,3,"2014,2019,2021",7,5,2
+giz,Latn,giz_Latn,South Giziga,(,Ps,LEFT PARENTHESIS,14,3,"2014,2019,2021",7,5,2
+giz,Latn,giz_Latn,South Giziga,O,Lu,LATIN CAPITAL LETTER O,13,3,"2014,2019,2021",5,6,2
+giz,Latn,giz_Latn,South Giziga,P,Lu,LATIN CAPITAL LETTER P,12,2,"2014,2019",5,7,0
+giz,Latn,giz_Latn,South Giziga,!,Po,EXCLAMATION MARK,12,2,"2014,2019",1,11,0
+giz,Latn,giz_Latn,South Giziga,8,Nd,DIGIT EIGHT,12,3,"2014,2019,2021",2,7,3
+giz,Latn,giz_Latn,South Giziga,ẽ,Ll,LATIN SMALL LETTER E WITH TILDE,11,2,"2014,2019",4,7,0
+giz,Latn,giz_Latn,South Giziga,C,Lu,LATIN CAPITAL LETTER C,11,2,"2014,2019",4,7,0
+giz,Latn,giz_Latn,South Giziga,9,Nd,DIGIT NINE,11,3,"2014,2019,2021",3,6,2
+giz,Latn,giz_Latn,South Giziga,7,Nd,DIGIT SEVEN,11,3,"2014,2019,2021",3,5,3
+giz,Latn,giz_Latn,South Giziga,6,Nd,DIGIT SIX,10,3,"2014,2019,2021",3,5,2
+giz,Latn,giz_Latn,South Giziga,0,Nd,DIGIT ZERO,10,3,"2014,2019,2021",2,6,2
+giz,Latn,giz_Latn,South Giziga,',Po,APOSTROPHE,10,3,"2014,2019,2021",5,4,1
+giz,Latn,giz_Latn,South Giziga,J,Lu,LATIN CAPITAL LETTER J,9,2,"2014,2019",5,4,0
+giz,Latn,giz_Latn,South Giziga,|,Sm,VERTICAL LINE,8,1,2019,0,8,0
+giz,Latn,giz_Latn,South Giziga,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,6,1,2019,0,6,0
+giz,Latn,giz_Latn,South Giziga,-,Pd,HYPHEN-MINUS,5,2,"2014,2021",3,0,2
+giz,Latn,giz_Latn,South Giziga,‹,Pi,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,5,1,2019,0,5,0
+giz,Latn,giz_Latn,South Giziga,›,Pf,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,5,1,2019,0,5,0
+giz,Latn,giz_Latn,South Giziga,V,Lu,LATIN CAPITAL LETTER V,5,2,"2014,2019",2,3,0
+giz,Latn,giz_Latn,South Giziga,R,Lu,LATIN CAPITAL LETTER R,4,1,2021,0,0,4
+giz,Latn,giz_Latn,South Giziga,?,Po,QUESTION MARK,4,1,2014,4,0,0
+giz,Latn,giz_Latn,South Giziga,F,Lu,LATIN CAPITAL LETTER F,4,2,"2019,2021",0,2,2
+giz,Latn,giz_Latn,South Giziga,q,Ll,LATIN SMALL LETTER Q,4,2,"2014,2019",2,2,0
+giz,Latn,giz_Latn,South Giziga,’,Pf,RIGHT SINGLE QUOTATION MARK,4,2,"2014,2019",2,2,0
+giz,Latn,giz_Latn,South Giziga,W,Lu,LATIN CAPITAL LETTER W,3,2,"2014,2019",1,2,0
+giz,Latn,giz_Latn,South Giziga,ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,3,2,"2019,2021",0,2,1
+giz,Latn,giz_Latn,South Giziga,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,3,1,2019,0,3,0
+giz,Latn,giz_Latn,South Giziga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,3,1,2019,0,3,0
+giz,Latn,giz_Latn,South Giziga,;,Po,SEMICOLON,2,1,2014,2,0,0
+giz,Latn,giz_Latn,South Giziga,̧,Mn,COMBINING CEDILLA,2,1,2019,0,2,0
+giz,Latn,giz_Latn,South Giziga,Ɔ,Lu,LATIN CAPITAL LETTER OPEN O,2,1,2019,0,2,0
+giz,Latn,giz_Latn,South Giziga,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,1,1,2019,0,1,0
+giz,Latn,giz_Latn,South Giziga,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,1,1,2019,0,1,0
+giz,Latn,giz_Latn,South Giziga,&,Po,AMPERSAND,1,1,2019,0,1,0
+giz,Latn,giz_Latn,South Giziga,ß,Ll,LATIN SMALL LETTER SHARP S,1,1,2019,0,1,0
+giz,Latn,giz_Latn,South Giziga,#,Po,NUMBER SIGN,1,1,2014,1,0,0
+giz,Latn,giz_Latn,South Giziga,û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,1,1,2019,0,1,0

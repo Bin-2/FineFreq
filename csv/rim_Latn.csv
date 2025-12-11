@@ -1,0 +1,84 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency,year_2020_frequency
+rim,Latn,rim_Latn,Nyaturu, ,Zs,SPACE,19583,3,"2014,2017,2020",2407,16517,659
+rim,Latn,rim_Latn,Nyaturu,a,Ll,LATIN SMALL LETTER A,16562,3,"2014,2017,2020",2574,13243,745
+rim,Latn,rim_Latn,Nyaturu,n,Ll,LATIN SMALL LETTER N,10228,3,"2014,2017,2020",1167,8770,291
+rim,Latn,rim_Latn,Nyaturu,u,Ll,LATIN SMALL LETTER U,9753,3,"2014,2017,2020",1148,8243,362
+rim,Latn,rim_Latn,Nyaturu,e,Ll,LATIN SMALL LETTER E,8955,3,"2014,2017,2020",896,7826,233
+rim,Latn,rim_Latn,Nyaturu,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,6651,3,"2014,2017,2020",782,5628,241
+rim,Latn,rim_Latn,Nyaturu,m,Ll,LATIN SMALL LETTER M,4915,3,"2014,2017,2020",628,4106,181
+rim,Latn,rim_Latn,Nyaturu,i,Ll,LATIN SMALL LETTER I,4784,3,"2014,2017,2020",714,3889,181
+rim,Latn,rim_Latn,Nyaturu,g,Ll,LATIN SMALL LETTER G,4468,3,"2014,2017,2020",559,3744,165
+rim,Latn,rim_Latn,Nyaturu,w,Ll,LATIN SMALL LETTER W,4346,3,"2014,2017,2020",602,3587,157
+rim,Latn,rim_Latn,Nyaturu,o,Ll,LATIN SMALL LETTER O,4329,3,"2014,2017,2020",609,3569,151
+rim,Latn,rim_Latn,Nyaturu,t,Ll,LATIN SMALL LETTER T,3113,3,"2014,2017,2020",445,2577,91
+rim,Latn,rim_Latn,Nyaturu,s,Ll,LATIN SMALL LETTER S,3012,3,"2014,2017,2020",392,2523,97
+rim,Latn,rim_Latn,Nyaturu,k,Ll,LATIN SMALL LETTER K,2978,3,"2014,2017,2020",408,2465,105
+rim,Latn,rim_Latn,Nyaturu,y,Ll,LATIN SMALL LETTER Y,2936,3,"2014,2017,2020",293,2531,112
+rim,Latn,rim_Latn,Nyaturu,h,Ll,LATIN SMALL LETTER H,2461,3,"2014,2017,2020",334,2045,82
+rim,Latn,rim_Latn,Nyaturu,v,Ll,LATIN SMALL LETTER V,2191,3,"2014,2017,2020",290,1824,77
+rim,Latn,rim_Latn,Nyaturu,r,Ll,LATIN SMALL LETTER R,2167,3,"2014,2017,2020",301,1766,100
+rim,Latn,rim_Latn,Nyaturu,",",Po,COMMA,1728,3,"2014,2017,2020",226,1436,66
+rim,Latn,rim_Latn,Nyaturu,.,Po,FULL STOP,1346,3,"2014,2017,2020",170,1138,38
+rim,Latn,rim_Latn,Nyaturu,d,Ll,LATIN SMALL LETTER D,1271,3,"2014,2017,2020",189,1014,68
+rim,Latn,rim_Latn,Nyaturu,f,Ll,LATIN SMALL LETTER F,1009,3,"2014,2017,2020",136,815,58
+rim,Latn,rim_Latn,Nyaturu,j,Ll,LATIN SMALL LETTER J,880,3,"2014,2017,2020",84,751,45
+rim,Latn,rim_Latn,Nyaturu,M,Lu,LATIN CAPITAL LETTER M,705,3,"2014,2017,2020",110,563,32
+rim,Latn,rim_Latn,Nyaturu,b,Ll,LATIN SMALL LETTER B,617,3,"2014,2017,2020",90,509,18
+rim,Latn,rim_Latn,Nyaturu,N,Lu,LATIN CAPITAL LETTER N,533,3,"2014,2017,2020",84,429,20
+rim,Latn,rim_Latn,Nyaturu,Y,Lu,LATIN CAPITAL LETTER Y,509,3,"2014,2017,2020",95,386,28
+rim,Latn,rim_Latn,Nyaturu,“,Pi,LEFT DOUBLE QUOTATION MARK,452,3,"2014,2017,2020",54,390,8
+rim,Latn,rim_Latn,Nyaturu,”,Pf,RIGHT DOUBLE QUOTATION MARK,446,3,"2014,2017,2020",54,384,8
+rim,Latn,rim_Latn,Nyaturu,1,Nd,DIGIT ONE,424,3,"2014,2017,2020",83,310,31
+rim,Latn,rim_Latn,Nyaturu,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,396,3,"2014,2017,2020",46,332,18
+rim,Latn,rim_Latn,Nyaturu,l,Ll,LATIN SMALL LETTER L,390,3,"2014,2017,2020",97,265,28
+rim,Latn,rim_Latn,Nyaturu,2,Nd,DIGIT TWO,373,3,"2014,2017,2020",61,292,20
+rim,Latn,rim_Latn,Nyaturu,3,Nd,DIGIT THREE,288,3,"2014,2017,2020",41,236,11
+rim,Latn,rim_Latn,Nyaturu,U,Lu,LATIN CAPITAL LETTER U,229,3,"2014,2017,2020",30,178,21
+rim,Latn,rim_Latn,Nyaturu,A,Lu,LATIN CAPITAL LETTER A,229,3,"2014,2017,2020",48,169,12
+rim,Latn,rim_Latn,Nyaturu,4,Nd,DIGIT FOUR,222,3,"2014,2017,2020",38,177,7
+rim,Latn,rim_Latn,Nyaturu,',Po,APOSTROPHE,221,3,"2014,2017,2020",28,175,18
+rim,Latn,rim_Latn,Nyaturu,?,Po,QUESTION MARK,190,3,"2014,2017,2020",23,166,1
+rim,Latn,rim_Latn,Nyaturu,T,Lu,LATIN CAPITAL LETTER T,180,3,"2014,2017,2020",7,171,2
+rim,Latn,rim_Latn,Nyaturu,V,Lu,LATIN CAPITAL LETTER V,166,3,"2014,2017,2020",23,141,2
+rim,Latn,rim_Latn,Nyaturu,5,Nd,DIGIT FIVE,157,3,"2014,2017,2020",22,129,6
+rim,Latn,rim_Latn,Nyaturu,G,Lu,LATIN CAPITAL LETTER G,145,3,"2014,2017,2020",12,123,10
+rim,Latn,rim_Latn,Nyaturu,c,Ll,LATIN SMALL LETTER C,141,2,"2014,2017",23,118,0
+rim,Latn,rim_Latn,Nyaturu,6,Nd,DIGIT SIX,120,3,"2014,2017,2020",19,97,4
+rim,Latn,rim_Latn,Nyaturu,Ë,Lu,LATIN CAPITAL LETTER E WITH DIAERESIS,118,3,"2014,2017,2020",15,101,2
+rim,Latn,rim_Latn,Nyaturu,8,Nd,DIGIT EIGHT,108,3,"2014,2017,2020",21,82,5
+rim,Latn,rim_Latn,Nyaturu,I,Lu,LATIN CAPITAL LETTER I,108,3,"2014,2017,2020",24,77,7
+rim,Latn,rim_Latn,Nyaturu,0,Nd,DIGIT ZERO,107,3,"2014,2017,2020",20,82,5
+rim,Latn,rim_Latn,Nyaturu,7,Nd,DIGIT SEVEN,105,3,"2014,2017,2020",14,87,4
+rim,Latn,rim_Latn,Nyaturu,9,Nd,DIGIT NINE,100,3,"2014,2017,2020",16,81,3
+rim,Latn,rim_Latn,Nyaturu,p,Ll,LATIN SMALL LETTER P,99,3,"2014,2017,2020",12,79,8
+rim,Latn,rim_Latn,Nyaturu,S,Lu,LATIN CAPITAL LETTER S,96,3,"2014,2017,2020",18,71,7
+rim,Latn,rim_Latn,Nyaturu,K,Lu,LATIN CAPITAL LETTER K,96,3,"2014,2017,2020",19,74,3
+rim,Latn,rim_Latn,Nyaturu,F,Lu,LATIN CAPITAL LETTER F,78,3,"2014,2017,2020",15,62,1
+rim,Latn,rim_Latn,Nyaturu,;,Po,SEMICOLON,55,2,"2014,2017",11,44,0
+rim,Latn,rim_Latn,Nyaturu,R,Lu,LATIN CAPITAL LETTER R,49,3,"2014,2017,2020",15,28,6
+rim,Latn,rim_Latn,Nyaturu,’,Pf,RIGHT SINGLE QUOTATION MARK,40,3,"2014,2017,2020",4,35,1
+rim,Latn,rim_Latn,Nyaturu,‘,Pi,LEFT SINGLE QUOTATION MARK,40,3,"2014,2017,2020",4,35,1
+rim,Latn,rim_Latn,Nyaturu,:,Po,COLON,37,3,"2014,2017,2020",18,3,16
+rim,Latn,rim_Latn,Nyaturu,),Pe,RIGHT PARENTHESIS,36,3,"2014,2017,2020",10,16,10
+rim,Latn,rim_Latn,Nyaturu,(,Ps,LEFT PARENTHESIS,36,3,"2014,2017,2020",10,16,10
+rim,Latn,rim_Latn,Nyaturu,W,Lu,LATIN CAPITAL LETTER W,34,3,"2014,2017,2020",9,21,4
+rim,Latn,rim_Latn,Nyaturu,!,Po,EXCLAMATION MARK,33,3,"2014,2017,2020",7,24,2
+rim,Latn,rim_Latn,Nyaturu,P,Lu,LATIN CAPITAL LETTER P,31,1,2017,0,31,0
+rim,Latn,rim_Latn,Nyaturu,B,Lu,LATIN CAPITAL LETTER B,29,3,"2014,2017,2020",9,14,6
+rim,Latn,rim_Latn,Nyaturu,H,Lu,LATIN CAPITAL LETTER H,25,3,"2014,2017,2020",5,10,10
+rim,Latn,rim_Latn,Nyaturu,L,Lu,LATIN CAPITAL LETTER L,24,2,"2014,2017",4,20,0
+rim,Latn,rim_Latn,Nyaturu,E,Lu,LATIN CAPITAL LETTER E,22,3,"2014,2017,2020",10,9,3
+rim,Latn,rim_Latn,Nyaturu,-,Pd,HYPHEN-MINUS,17,3,"2014,2017,2020",12,1,4
+rim,Latn,rim_Latn,Nyaturu,D,Lu,LATIN CAPITAL LETTER D,9,2,"2014,2017",6,3,0
+rim,Latn,rim_Latn,Nyaturu,O,Lu,LATIN CAPITAL LETTER O,6,3,"2014,2017,2020",3,2,1
+rim,Latn,rim_Latn,Nyaturu,z,Ll,LATIN SMALL LETTER Z,6,2,"2014,2017",2,4,0
+rim,Latn,rim_Latn,Nyaturu,–,Pd,EN DASH,5,1,2020,0,0,5
+rim,Latn,rim_Latn,Nyaturu,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,3,1,2014,3,0,0
+rim,Latn,rim_Latn,Nyaturu,|,Sm,VERTICAL LINE,2,1,2017,0,2,0
+rim,Latn,rim_Latn,Nyaturu,#,Po,NUMBER SIGN,2,1,2014,2,0,0
+rim,Latn,rim_Latn,Nyaturu,[,Ps,LEFT SQUARE BRACKET,1,1,2014,1,0,0
+rim,Latn,rim_Latn,Nyaturu,],Pe,RIGHT SQUARE BRACKET,1,1,2014,1,0,0
+rim,Latn,rim_Latn,Nyaturu,J,Lu,LATIN CAPITAL LETTER J,1,1,2017,0,1,0
+rim,Latn,rim_Latn,Nyaturu,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,1,1,2014,1,0,0
+rim,Latn,rim_Latn,Nyaturu,C,Lu,LATIN CAPITAL LETTER C,1,1,2017,0,1,0
+rim,Latn,rim_Latn,Nyaturu,©,So,COPYRIGHT SIGN,1,1,2017,0,1,0

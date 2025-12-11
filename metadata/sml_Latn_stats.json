@@ -1,0 +1,21 @@
+{
+  "language_code": "sml_Latn",
+  "iso_639_3": "sml",
+  "script": "Latn",
+  "language_name": "Central Sama",
+  "total_characters": 109,
+  "total_frequency": 1979660,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.615501"
+}

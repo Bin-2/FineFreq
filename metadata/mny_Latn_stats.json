@@ -1,0 +1,16 @@
+{
+  "language_code": "mny_Latn",
+  "iso_639_3": "mny",
+  "script": "Latn",
+  "language_name": "Manyawa",
+  "total_characters": 92,
+  "total_frequency": 45942,
+  "years_covered": [
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:04.057773"
+}

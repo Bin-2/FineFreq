@@ -1,0 +1,135 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2014_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2023_frequency
+trn,Latn,trn_Latn,Trinitario, ,Zs,SPACE,219648,6,"2013,2014,2019,2020,2021,2023",209045,9121,523,90,375,494
+trn,Latn,trn_Latn,Trinitario,o,Ll,LATIN SMALL LETTER O,180900,6,"2013,2014,2019,2020,2021,2023",172446,7532,295,49,269,309
+trn,Latn,trn_Latn,Trinitario,a,Ll,LATIN SMALL LETTER A,131509,6,"2013,2014,2019,2020,2021,2023",124931,5669,395,54,188,272
+trn,Latn,trn_Latn,Trinitario,e,Ll,LATIN SMALL LETTER E,123792,6,"2013,2014,2019,2020,2021,2023",117899,5336,203,48,61,245
+trn,Latn,trn_Latn,Trinitario,i,Ll,LATIN SMALL LETTER I,106245,6,"2013,2014,2019,2020,2021,2023",101283,4422,145,54,123,218
+trn,Latn,trn_Latn,Trinitario,t,Ll,LATIN SMALL LETTER T,95898,6,"2013,2014,2019,2020,2021,2023",91570,3883,112,34,86,213
+trn,Latn,trn_Latn,Trinitario,n,Ll,LATIN SMALL LETTER N,92678,6,"2013,2014,2019,2020,2021,2023",88204,4092,114,28,40,200
+trn,Latn,trn_Latn,Trinitario,c,Ll,LATIN SMALL LETTER C,80415,6,"2013,2014,2019,2020,2021,2023",76415,3505,190,20,164,121
+trn,Latn,trn_Latn,Trinitario,m,Ll,LATIN SMALL LETTER M,64231,6,"2013,2014,2019,2020,2021,2023",61009,2734,226,25,171,66
+trn,Latn,trn_Latn,Trinitario,r,Ll,LATIN SMALL LETTER R,57114,5,"2013,2014,2019,2021,2023",54559,2356,100,0,13,86
+trn,Latn,trn_Latn,Trinitario,u,Ll,LATIN SMALL LETTER U,55121,6,"2013,2014,2019,2020,2021,2023",52556,2283,90,22,38,132
+trn,Latn,trn_Latn,Trinitario,',Po,APOSTROPHE,50833,5,"2013,2014,2019,2020,2023",48569,2161,48,23,0,32
+trn,Latn,trn_Latn,Trinitario,p,Ll,LATIN SMALL LETTER P,48656,6,"2013,2014,2019,2020,2021,2023",46096,2333,70,5,39,113
+trn,Latn,trn_Latn,Trinitario,h,Ll,LATIN SMALL LETTER H,36138,6,"2013,2014,2019,2020,2021,2023",34309,1541,105,15,99,69
+trn,Latn,trn_Latn,Trinitario,j,Ll,LATIN SMALL LETTER J,33449,4,"2013,2014,2019,2023",31944,1426,32,0,0,47
+trn,Latn,trn_Latn,Trinitario,s,Ll,LATIN SMALL LETTER S,30833,6,"2013,2014,2019,2020,2021,2023",29360,1269,91,17,18,78
+trn,Latn,trn_Latn,Trinitario,v,Ll,LATIN SMALL LETTER V,29873,6,"2013,2014,2019,2020,2021,2023",28527,1237,41,9,8,51
+trn,Latn,trn_Latn,Trinitario,y,Ll,LATIN SMALL LETTER Y,21981,6,"2013,2014,2019,2020,2021,2023",21031,867,34,10,16,23
+trn,Latn,trn_Latn,Trinitario,.,Po,FULL STOP,17687,6,"2013,2014,2019,2020,2021,2023",16825,733,44,11,46,28
+trn,Latn,trn_Latn,Trinitario,g,Ll,LATIN SMALL LETTER G,12315,6,"2013,2014,2019,2020,2021,2023",11737,534,11,5,6,22
+trn,Latn,trn_Latn,Trinitario,T,Lu,LATIN CAPITAL LETTER T,6711,5,"2013,2014,2019,2021,2023",6391,283,12,0,7,18
+trn,Latn,trn_Latn,Trinitario,E,Lu,LATIN CAPITAL LETTER E,6689,5,"2013,2014,2019,2021,2023",6354,296,27,0,8,4
+trn,Latn,trn_Latn,Trinitario,q,Ll,LATIN SMALL LETTER Q,6596,5,"2013,2014,2019,2021,2023",6303,277,11,0,4,1
+trn,Latn,trn_Latn,Trinitario,V,Lu,LATIN CAPITAL LETTER V,6194,5,"2013,2014,2019,2020,2023",5989,198,4,1,0,2
+trn,Latn,trn_Latn,Trinitario,",",Po,COMMA,4962,6,"2013,2014,2019,2020,2021,2023",4660,253,5,9,13,22
+trn,Latn,trn_Latn,Trinitario,—,Pd,EM DASH,4724,3,"2013,2014,2019",4521,201,2,0,0,0
+trn,Latn,trn_Latn,Trinitario,J,Lu,LATIN CAPITAL LETTER J,4544,4,"2013,2014,2019,2023",4299,208,31,0,0,6
+trn,Latn,trn_Latn,Trinitario,1,Nd,DIGIT ONE,4467,4,"2013,2014,2019,2021",4208,203,14,0,42,0
+trn,Latn,trn_Latn,Trinitario,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,4390,4,"2013,2014,2019,2023",4191,177,6,0,0,16
+trn,Latn,trn_Latn,Trinitario,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,4277,4,"2013,2014,2019,2023",4082,166,3,0,0,26
+trn,Latn,trn_Latn,Trinitario,é,Ll,LATIN SMALL LETTER E WITH ACUTE,4141,4,"2013,2014,2019,2023",3920,179,18,0,0,24
+trn,Latn,trn_Latn,Trinitario,2,Nd,DIGIT TWO,3353,4,"2013,2014,2019,2021",3149,160,9,0,35,0
+trn,Latn,trn_Latn,Trinitario,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,3306,5,"2013,2014,2019,2021,2023",3152,127,11,0,4,12
+trn,Latn,trn_Latn,Trinitario,M,Lu,LATIN CAPITAL LETTER M,3212,5,"2013,2014,2019,2021,2023",3009,135,27,0,28,13
+trn,Latn,trn_Latn,Trinitario,í,Ll,LATIN SMALL LETTER I WITH ACUTE,3166,4,"2013,2014,2019,2023",3014,95,49,0,0,8
+trn,Latn,trn_Latn,Trinitario,:,Po,COLON,2968,5,"2013,2014,2019,2021,2023",2758,150,3,0,55,2
+trn,Latn,trn_Latn,Trinitario,N,Lu,LATIN CAPITAL LETTER N,2582,5,"2013,2014,2019,2021,2023",2500,74,2,0,1,5
+trn,Latn,trn_Latn,Trinitario,3,Nd,DIGIT THREE,2386,4,"2013,2014,2019,2021",2252,109,3,0,22,0
+trn,Latn,trn_Latn,Trinitario,á,Ll,LATIN SMALL LETTER A WITH ACUTE,2380,4,"2013,2014,2019,2023",2259,98,4,0,0,19
+trn,Latn,trn_Latn,Trinitario,l,Ll,LATIN SMALL LETTER L,2125,6,"2013,2014,2019,2020,2021,2023",1953,80,18,9,36,29
+trn,Latn,trn_Latn,Trinitario,4,Nd,DIGIT FOUR,1781,4,"2013,2014,2019,2021",1683,79,3,0,16,0
+trn,Latn,trn_Latn,Trinitario,P,Lu,LATIN CAPITAL LETTER P,1571,5,"2013,2014,2019,2021,2023",1492,66,1,0,4,8
+trn,Latn,trn_Latn,Trinitario,d,Ll,LATIN SMALL LETTER D,1455,5,"2013,2014,2019,2021,2023",1331,79,18,0,20,7
+trn,Latn,trn_Latn,Trinitario,5,Nd,DIGIT FIVE,1395,4,"2013,2014,2019,2021",1318,52,3,0,22,0
+trn,Latn,trn_Latn,Trinitario,C,Lu,LATIN CAPITAL LETTER C,1242,5,"2013,2014,2019,2021,2023",1177,38,2,0,18,7
+trn,Latn,trn_Latn,Trinitario,A,Lu,LATIN CAPITAL LETTER A,1193,5,"2013,2014,2019,2021,2023",1084,50,19,0,26,14
+trn,Latn,trn_Latn,Trinitario,6,Nd,DIGIT SIX,1155,4,"2013,2014,2019,2021",1088,46,2,0,19,0
+trn,Latn,trn_Latn,Trinitario,7,Nd,DIGIT SEVEN,1064,4,"2013,2014,2019,2021",999,46,2,0,17,0
+trn,Latn,trn_Latn,Trinitario,S,Lu,LATIN CAPITAL LETTER S,1051,5,"2013,2014,2019,2021,2023",993,29,13,0,3,13
+trn,Latn,trn_Latn,Trinitario,‐,Pd,HYPHEN,1029,3,"2013,2014,2019",992,36,1,0,0,0
+trn,Latn,trn_Latn,Trinitario,0,Nd,DIGIT ZERO,1014,4,"2013,2014,2019,2021",875,43,2,0,94,0
+trn,Latn,trn_Latn,Trinitario,8,Nd,DIGIT EIGHT,989,4,"2013,2014,2019,2021",931,41,2,0,15,0
+trn,Latn,trn_Latn,Trinitario,b,Ll,LATIN SMALL LETTER B,971,6,"2013,2014,2019,2020,2021,2023",913,22,25,2,8,1
+trn,Latn,trn_Latn,Trinitario,9,Nd,DIGIT NINE,947,4,"2013,2014,2019,2021",889,40,2,0,16,0
+trn,Latn,trn_Latn,Trinitario,?,Po,QUESTION MARK,778,2,"2013,2014",737,41,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,¿,Po,INVERTED QUESTION MARK,773,2,"2013,2014",732,41,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,“,Pi,LEFT DOUBLE QUOTATION MARK,716,2,"2013,2014",657,59,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,”,Pf,RIGHT DOUBLE QUOTATION MARK,714,2,"2013,2014",655,59,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,I,Lu,LATIN CAPITAL LETTER I,499,3,"2013,2014,2019",481,14,4,0,0,0
+trn,Latn,trn_Latn,Trinitario,f,Ll,LATIN SMALL LETTER F,336,5,"2013,2014,2019,2021,2023",315,14,1,0,4,2
+trn,Latn,trn_Latn,Trinitario,O,Lu,LATIN CAPITAL LETTER O,306,4,"2013,2014,2019,2023",282,19,3,0,0,2
+trn,Latn,trn_Latn,Trinitario,H,Lu,LATIN CAPITAL LETTER H,293,3,"2013,2014,2021",263,29,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,B,Lu,LATIN CAPITAL LETTER B,231,4,"2013,2014,2019,2021",216,7,6,0,2,0
+trn,Latn,trn_Latn,Trinitario,G,Lu,LATIN CAPITAL LETTER G,215,3,"2013,2014,2023",205,7,0,0,0,3
+trn,Latn,trn_Latn,Trinitario,D,Lu,LATIN CAPITAL LETTER D,213,4,"2013,2014,2019,2021",201,4,6,0,2,0
+trn,Latn,trn_Latn,Trinitario,F,Lu,LATIN CAPITAL LETTER F,198,4,"2013,2014,2019,2023",187,8,2,0,0,1
+trn,Latn,trn_Latn,Trinitario,L,Lu,LATIN CAPITAL LETTER L,155,4,"2013,2014,2021,2023",133,19,0,0,1,2
+trn,Latn,trn_Latn,Trinitario,R,Lu,LATIN CAPITAL LETTER R,148,3,"2013,2014,2019",134,10,4,0,0,0
+trn,Latn,trn_Latn,Trinitario,z,Ll,LATIN SMALL LETTER Z,136,6,"2013,2014,2019,2020,2021,2023",106,8,12,2,5,3
+trn,Latn,trn_Latn,Trinitario,-,Pd,HYPHEN-MINUS,110,3,"2013,2014,2021",103,5,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,w,Ll,LATIN SMALL LETTER W,108,3,"2013,2021,2023",70,0,0,0,1,37
+trn,Latn,trn_Latn,Trinitario,!,Po,EXCLAMATION MARK,95,2,"2013,2014",86,9,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,k,Ll,LATIN SMALL LETTER K,85,4,"2013,2020,2021,2023",3,0,0,9,18,55
+trn,Latn,trn_Latn,Trinitario,Y,Lu,LATIN CAPITAL LETTER Y,80,3,"2013,2014,2021",76,1,0,0,3,0
+trn,Latn,trn_Latn,Trinitario,Z,Lu,LATIN CAPITAL LETTER Z,66,3,"2013,2019,2023",61,0,3,0,0,2
+trn,Latn,trn_Latn,Trinitario,[,Ps,LEFT SQUARE BRACKET,57,2,"2013,2021",2,0,0,0,55,0
+trn,Latn,trn_Latn,Trinitario,],Pe,RIGHT SQUARE BRACKET,57,2,"2013,2021",2,0,0,0,55,0
+trn,Latn,trn_Latn,Trinitario,¡,Po,INVERTED EXCLAMATION MARK,52,2,"2013,2014",51,1,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,x,Ll,LATIN SMALL LETTER X,32,3,"2013,2020,2023",18,0,0,11,0,3
+trn,Latn,trn_Latn,Trinitario,|,Sm,VERTICAL LINE,32,1,2023,0,0,0,0,0,32
+trn,Latn,trn_Latn,Trinitario,K,Lu,LATIN CAPITAL LETTER K,21,2,"2021,2023",0,0,0,0,19,2
+trn,Latn,trn_Latn,Trinitario,อ,Lo,THAI CHARACTER O ANG,15,1,2021,0,0,0,0,15,0
+trn,Latn,trn_Latn,Trinitario,่,Mn,THAI CHARACTER MAI EK,15,1,2021,0,0,0,0,15,0
+trn,Latn,trn_Latn,Trinitario,U,Lu,LATIN CAPITAL LETTER U,14,2,"2013,2019",9,0,5,0,0,0
+trn,Latn,trn_Latn,Trinitario,น,Lo,THAI CHARACTER NO NU,12,1,2021,0,0,0,0,12,0
+trn,Latn,trn_Latn,Trinitario,า,Lo,THAI CHARACTER SARA AA,12,1,2021,0,0,0,0,12,0
+trn,Latn,trn_Latn,Trinitario,ร,Lo,THAI CHARACTER RO RUA,7,1,2021,0,0,0,0,7,0
+trn,Latn,trn_Latn,Trinitario,ง,Lo,THAI CHARACTER NGO NGU,6,1,2021,0,0,0,0,6,0
+trn,Latn,trn_Latn,Trinitario,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,5,2,"2013,2023",3,0,0,0,0,2
+trn,Latn,trn_Latn,Trinitario,ี,Mn,THAI CHARACTER SARA II,5,1,2021,0,0,0,0,5,0
+trn,Latn,trn_Latn,Trinitario,ด,Lo,THAI CHARACTER DO DEK,5,1,2021,0,0,0,0,5,0
+trn,Latn,trn_Latn,Trinitario,(,Ps,LEFT PARENTHESIS,5,3,"2013,2020,2023",3,0,0,1,0,1
+trn,Latn,trn_Latn,Trinitario,์,Mn,THAI CHARACTER THANTHAKHAT,5,1,2021,0,0,0,0,5,0
+trn,Latn,trn_Latn,Trinitario,),Pe,RIGHT PARENTHESIS,5,3,"2013,2020,2023",3,0,0,1,0,1
+trn,Latn,trn_Latn,Trinitario,ก,Lo,THAI CHARACTER KO KAI,5,1,2021,0,0,0,0,5,0
+trn,Latn,trn_Latn,Trinitario,ท,Lo,THAI CHARACTER THO THAHAN,5,1,2021,0,0,0,0,5,0
+trn,Latn,trn_Latn,Trinitario,ล,Lo,THAI CHARACTER LO LING,4,1,2021,0,0,0,0,4,0
+trn,Latn,trn_Latn,Trinitario,ต,Lo,THAI CHARACTER TO TAO,4,1,2021,0,0,0,0,4,0
+trn,Latn,trn_Latn,Trinitario,ไ,Lo,THAI CHARACTER SARA AI MAIMALAI,4,1,2021,0,0,0,0,4,0
+trn,Latn,trn_Latn,Trinitario,ย,Lo,THAI CHARACTER YO YAK,4,1,2021,0,0,0,0,4,0
+trn,Latn,trn_Latn,Trinitario,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,4,2,"2013,2023",2,0,0,0,0,2
+trn,Latn,trn_Latn,Trinitario,เ,Lo,THAI CHARACTER SARA E,4,1,2021,0,0,0,0,4,0
+trn,Latn,trn_Latn,Trinitario,ม,Lo,THAI CHARACTER MO MA,3,1,2021,0,0,0,0,3,0
+trn,Latn,trn_Latn,Trinitario,ู,Mn,THAI CHARACTER SARA UU,3,1,2021,0,0,0,0,3,0
+trn,Latn,trn_Latn,Trinitario,è,Ll,LATIN SMALL LETTER E WITH GRAVE,2,1,2023,0,0,0,0,0,2
+trn,Latn,trn_Latn,Trinitario,č,Ll,LATIN SMALL LETTER C WITH CARON,2,1,2023,0,0,0,0,0,2
+trn,Latn,trn_Latn,Trinitario,š,Ll,LATIN SMALL LETTER S WITH CARON,2,1,2023,0,0,0,0,0,2
+trn,Latn,trn_Latn,Trinitario,ั,Mn,THAI CHARACTER MAI HAN-AKAT,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,/,Po,SOLIDUS,2,1,2020,0,0,0,2,0,0
+trn,Latn,trn_Latn,Trinitario,ื,Mn,THAI CHARACTER SARA UEE,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,้,Mn,THAI CHARACTER MAI THO,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,ว,Lo,THAI CHARACTER WO WAEN,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,ค,Lo,THAI CHARACTER KHO KHWAI,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,ข,Lo,THAI CHARACTER KHO KHAI,2,1,2021,0,0,0,0,2,0
+trn,Latn,trn_Latn,Trinitario,ž,Ll,LATIN SMALL LETTER Z WITH CARON,1,1,2023,0,0,0,0,0,1
+trn,Latn,trn_Latn,Trinitario,ห,Lo,THAI CHARACTER HO HIP,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,Ř,Lu,LATIN CAPITAL LETTER R WITH CARON,1,1,2023,0,0,0,0,0,1
+trn,Latn,trn_Latn,Trinitario,ř,Ll,LATIN SMALL LETTER R WITH CARON,1,1,2023,0,0,0,0,0,1
+trn,Latn,trn_Latn,Trinitario,$,Sc,DOLLAR SIGN,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ช,Lo,THAI CHARACTER CHO CHANG,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ใ,Lo,THAI CHARACTER SARA AI MAIMUAN,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,W,Lu,LATIN CAPITAL LETTER W,1,1,2020,0,0,0,1,0,0
+trn,Latn,trn_Latn,Trinitario,โ,Lo,THAI CHARACTER SARA O,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ุ,Mn,THAI CHARACTER SARA U,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ส,Lo,THAI CHARACTER SO SUA,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,พ,Lo,THAI CHARACTER PHO PHAN,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ป,Lo,THAI CHARACTER PO PLA,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,แ,Lo,THAI CHARACTER SARA AE,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ะ,Lo,THAI CHARACTER SARA A,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,ํ,Mn,THAI CHARACTER NIKHAHIT,1,1,2021,0,0,0,0,1,0
+trn,Latn,trn_Latn,Trinitario,;,Po,SEMICOLON,1,1,2013,1,0,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2013,1,0,0,0,0,0
+trn,Latn,trn_Latn,Trinitario,日,Lo,CJK UNIFIED IDEOGRAPH-65E5,1,1,2020,0,0,0,1,0,0
+trn,Latn,trn_Latn,Trinitario,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,1,1,2023,0,0,0,0,0,1

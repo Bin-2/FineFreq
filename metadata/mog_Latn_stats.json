@@ -1,0 +1,19 @@
+{
+  "language_code": "mog_Latn",
+  "iso_639_3": "mog",
+  "script": "Latn",
+  "language_name": "Mongondow",
+  "total_characters": 91,
+  "total_frequency": 50881,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2018",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:04.097775"
+}

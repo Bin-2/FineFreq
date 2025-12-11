@@ -1,0 +1,18 @@
+{
+  "language_code": "mpp_Latn",
+  "iso_639_3": "mpp",
+  "script": "Latn",
+  "language_name": "Migabac",
+  "total_characters": 89,
+  "total_frequency": 2269603,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:04.227775"
+}

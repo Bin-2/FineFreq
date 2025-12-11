@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency
+nou,Latn,nou_Latn,Ewage-Notu, ,Zs,SPACE,218898,2,"2018,2019",213951,4947
+nou,Latn,nou_Latn,Ewage-Notu,a,Ll,LATIN SMALL LETTER A,150934,2,"2018,2019",147405,3529
+nou,Latn,nou_Latn,Ewage-Notu,e,Ll,LATIN SMALL LETTER E,101854,2,"2018,2019",99507,2347
+nou,Latn,nou_Latn,Ewage-Notu,o,Ll,LATIN SMALL LETTER O,98328,2,"2018,2019",95984,2344
+nou,Latn,nou_Latn,Ewage-Notu,i,Ll,LATIN SMALL LETTER I,93772,2,"2018,2019",91584,2188
+nou,Latn,nou_Latn,Ewage-Notu,d,Ll,LATIN SMALL LETTER D,65887,2,"2018,2019",64303,1584
+nou,Latn,nou_Latn,Ewage-Notu,r,Ll,LATIN SMALL LETTER R,57605,2,"2018,2019",56398,1207
+nou,Latn,nou_Latn,Ewage-Notu,s,Ll,LATIN SMALL LETTER S,43762,2,"2018,2019",42862,900
+nou,Latn,nou_Latn,Ewage-Notu,n,Ll,LATIN SMALL LETTER N,43588,2,"2018,2019",42668,920
+nou,Latn,nou_Latn,Ewage-Notu,m,Ll,LATIN SMALL LETTER M,37708,2,"2018,2019",36827,881
+nou,Latn,nou_Latn,Ewage-Notu,b,Ll,LATIN SMALL LETTER B,34840,2,"2018,2019",34010,830
+nou,Latn,nou_Latn,Ewage-Notu,g,Ll,LATIN SMALL LETTER G,32017,2,"2018,2019",31168,849
+nou,Latn,nou_Latn,Ewage-Notu,w,Ll,LATIN SMALL LETTER W,29478,2,"2018,2019",28763,715
+nou,Latn,nou_Latn,Ewage-Notu,t,Ll,LATIN SMALL LETTER T,29349,2,"2018,2019",28798,551
+nou,Latn,nou_Latn,Ewage-Notu,u,Ll,LATIN SMALL LETTER U,27879,2,"2018,2019",27122,757
+nou,Latn,nou_Latn,Ewage-Notu,.,Po,FULL STOP,11662,2,"2018,2019",11387,275
+nou,Latn,nou_Latn,Ewage-Notu,E,Lu,LATIN CAPITAL LETTER E,11553,2,"2018,2019",11270,283
+nou,Latn,nou_Latn,Ewage-Notu,j,Ll,LATIN SMALL LETTER J,7669,2,"2018,2019",7442,227
+nou,Latn,nou_Latn,Ewage-Notu,h,Ll,LATIN SMALL LETTER H,7163,2,"2018,2019",7134,29
+nou,Latn,nou_Latn,Ewage-Notu,p,Ll,LATIN SMALL LETTER P,6883,2,"2018,2019",6746,137
+nou,Latn,nou_Latn,Ewage-Notu,k,Ll,LATIN SMALL LETTER K,6655,2,"2018,2019",6475,180
+nou,Latn,nou_Latn,Ewage-Notu,I,Lu,LATIN CAPITAL LETTER I,5523,2,"2018,2019",5443,80
+nou,Latn,nou_Latn,Ewage-Notu,y,Ll,LATIN SMALL LETTER Y,4888,2,"2018,2019",4804,84
+nou,Latn,nou_Latn,Ewage-Notu,G,Lu,LATIN CAPITAL LETTER G,4887,2,"2018,2019",4772,115
+nou,Latn,nou_Latn,Ewage-Notu,A,Lu,LATIN CAPITAL LETTER A,4768,2,"2018,2019",4677,91
+nou,Latn,nou_Latn,Ewage-Notu,l,Ll,LATIN SMALL LETTER L,4611,2,"2018,2019",4583,28
+nou,Latn,nou_Latn,Ewage-Notu,v,Ll,LATIN SMALL LETTER V,4204,2,"2018,2019",4119,85
+nou,Latn,nou_Latn,Ewage-Notu,1,Nd,DIGIT ONE,3324,2,"2018,2019",3246,78
+nou,Latn,nou_Latn,Ewage-Notu,S,Lu,LATIN CAPITAL LETTER S,3259,2,"2018,2019",3234,25
+nou,Latn,nou_Latn,Ewage-Notu,c,Ll,LATIN SMALL LETTER C,2985,2,"2018,2019",2975,10
+nou,Latn,nou_Latn,Ewage-Notu,",",Po,COMMA,2652,2,"2018,2019",2631,21
+nou,Latn,nou_Latn,Ewage-Notu,T,Lu,LATIN CAPITAL LETTER T,2514,2,"2018,2019",2500,14
+nou,Latn,nou_Latn,Ewage-Notu,V,Lu,LATIN CAPITAL LETTER V,2180,2,"2018,2019",2177,3
+nou,Latn,nou_Latn,Ewage-Notu,K,Lu,LATIN CAPITAL LETTER K,2171,2,"2018,2019",2139,32
+nou,Latn,nou_Latn,Ewage-Notu,N,Lu,LATIN CAPITAL LETTER N,2129,2,"2018,2019",2098,31
+nou,Latn,nou_Latn,Ewage-Notu,2,Nd,DIGIT TWO,1941,2,"2018,2019",1913,28
+nou,Latn,nou_Latn,Ewage-Notu,J,Lu,LATIN CAPITAL LETTER J,1771,2,"2018,2019",1757,14
+nou,Latn,nou_Latn,Ewage-Notu,U,Lu,LATIN CAPITAL LETTER U,1764,2,"2018,2019",1753,11
+nou,Latn,nou_Latn,Ewage-Notu,O,Lu,LATIN CAPITAL LETTER O,1736,2,"2018,2019",1702,34
+nou,Latn,nou_Latn,Ewage-Notu,f,Ll,LATIN SMALL LETTER F,1671,1,2018,1671,0
+nou,Latn,nou_Latn,Ewage-Notu,B,Lu,LATIN CAPITAL LETTER B,1608,2,"2018,2019",1588,20
+nou,Latn,nou_Latn,Ewage-Notu,R,Lu,LATIN CAPITAL LETTER R,1587,2,"2018,2019",1570,17
+nou,Latn,nou_Latn,Ewage-Notu,M,Lu,LATIN CAPITAL LETTER M,1586,2,"2018,2019",1562,24
+nou,Latn,nou_Latn,Ewage-Notu,D,Lu,LATIN CAPITAL LETTER D,1516,2,"2018,2019",1488,28
+nou,Latn,nou_Latn,Ewage-Notu,',Po,APOSTROPHE,1486,1,2018,1486,0
+nou,Latn,nou_Latn,Ewage-Notu,P,Lu,LATIN CAPITAL LETTER P,1421,2,"2018,2019",1412,9
+nou,Latn,nou_Latn,Ewage-Notu,H,Lu,LATIN CAPITAL LETTER H,1105,2,"2018,2019",1102,3
+nou,Latn,nou_Latn,Ewage-Notu,3,Nd,DIGIT THREE,1103,2,"2018,2019",1088,15
+nou,Latn,nou_Latn,Ewage-Notu,“,Pi,LEFT DOUBLE QUOTATION MARK,1070,2,"2018,2019",1052,18
+nou,Latn,nou_Latn,Ewage-Notu,x,Ll,LATIN SMALL LETTER X,974,1,2018,974,0
+nou,Latn,nou_Latn,Ewage-Notu,”,Pf,RIGHT DOUBLE QUOTATION MARK,837,2,"2018,2019",820,17
+nou,Latn,nou_Latn,Ewage-Notu,4,Nd,DIGIT FOUR,835,2,"2018,2019",817,18
+nou,Latn,nou_Latn,Ewage-Notu,W,Lu,LATIN CAPITAL LETTER W,807,2,"2018,2019",797,10
+nou,Latn,nou_Latn,Ewage-Notu,0,Nd,DIGIT ZERO,792,2,"2018,2019",776,16
+nou,Latn,nou_Latn,Ewage-Notu,C,Lu,LATIN CAPITAL LETTER C,730,2,"2018,2019",729,1
+nou,Latn,nou_Latn,Ewage-Notu,8,Nd,DIGIT EIGHT,697,2,"2018,2019",686,11
+nou,Latn,nou_Latn,Ewage-Notu,5,Nd,DIGIT FIVE,656,2,"2018,2019",639,17
+nou,Latn,nou_Latn,Ewage-Notu,7,Nd,DIGIT SEVEN,605,2,"2018,2019",592,13
+nou,Latn,nou_Latn,Ewage-Notu,6,Nd,DIGIT SIX,566,2,"2018,2019",553,13
+nou,Latn,nou_Latn,Ewage-Notu,?,Po,QUESTION MARK,512,2,"2018,2019",504,8
+nou,Latn,nou_Latn,Ewage-Notu,9,Nd,DIGIT NINE,474,2,"2018,2019",463,11
+nou,Latn,nou_Latn,Ewage-Notu,L,Lu,LATIN CAPITAL LETTER L,418,2,"2018,2019",416,2
+nou,Latn,nou_Latn,Ewage-Notu,-,Pd,HYPHEN-MINUS,384,2,"2018,2019",382,2
+nou,Latn,nou_Latn,Ewage-Notu,F,Lu,LATIN CAPITAL LETTER F,224,1,2018,224,0
+nou,Latn,nou_Latn,Ewage-Notu,q,Ll,LATIN SMALL LETTER Q,196,1,2018,196,0
+nou,Latn,nou_Latn,Ewage-Notu,`,Sk,GRAVE ACCENT,188,1,2018,188,0
+nou,Latn,nou_Latn,Ewage-Notu,:,Po,COLON,188,1,2018,188,0
+nou,Latn,nou_Latn,Ewage-Notu,©,So,COPYRIGHT SIGN,188,1,2018,188,0
+nou,Latn,nou_Latn,Ewage-Notu,Y,Lu,LATIN CAPITAL LETTER Y,184,2,"2018,2019",183,1
+nou,Latn,nou_Latn,Ewage-Notu,‘,Pi,LEFT SINGLE QUOTATION MARK,133,1,2018,133,0
+nou,Latn,nou_Latn,Ewage-Notu,(,Ps,LEFT PARENTHESIS,115,1,2018,115,0
+nou,Latn,nou_Latn,Ewage-Notu,),Pe,RIGHT PARENTHESIS,115,1,2018,115,0
+nou,Latn,nou_Latn,Ewage-Notu,’,Pf,RIGHT SINGLE QUOTATION MARK,113,1,2018,113,0
+nou,Latn,nou_Latn,Ewage-Notu,&,Po,AMPERSAND,111,1,2018,111,0
+nou,Latn,nou_Latn,Ewage-Notu,z,Ll,LATIN SMALL LETTER Z,61,1,2018,61,0
+nou,Latn,nou_Latn,Ewage-Notu,Z,Lu,LATIN CAPITAL LETTER Z,53,2,"2018,2019",52,1
+nou,Latn,nou_Latn,Ewage-Notu,X,Lu,LATIN CAPITAL LETTER X,3,1,2018,3,0
+nou,Latn,nou_Latn,Ewage-Notu,!,Po,EXCLAMATION MARK,1,1,2018,1,0
+nou,Latn,nou_Latn,Ewage-Notu,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2018,1,0

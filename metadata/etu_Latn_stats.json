@@ -1,0 +1,15 @@
+{
+  "language_code": "etu_Latn",
+  "iso_639_3": "etu",
+  "script": "Latn",
+  "language_name": "Ejagham",
+  "total_characters": 110,
+  "total_frequency": 16252,
+  "years_covered": [
+    "2014",
+    "2018",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:53.176398"
+}

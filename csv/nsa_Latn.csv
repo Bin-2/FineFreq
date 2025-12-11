@@ -1,0 +1,74 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2024_frequency
+nsa,Latn,nsa_Latn,Sangtam Naga, ,Zs,SPACE,1390,2,"2019,2024",441,949
+nsa,Latn,nsa_Latn,Sangtam Naga,a,Ll,LATIN SMALL LETTER A,817,2,"2019,2024",239,578
+nsa,Latn,nsa_Latn,Sangtam Naga,h,Ll,LATIN SMALL LETTER H,814,2,"2019,2024",241,573
+nsa,Latn,nsa_Latn,Sangtam Naga,n,Ll,LATIN SMALL LETTER N,813,2,"2019,2024",281,532
+nsa,Latn,nsa_Latn,Sangtam Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,711,2,"2019,2024",239,472
+nsa,Latn,nsa_Latn,Sangtam Naga,g,Ll,LATIN SMALL LETTER G,543,2,"2019,2024",194,349
+nsa,Latn,nsa_Latn,Sangtam Naga,i,Ll,LATIN SMALL LETTER I,526,2,"2019,2024",152,374
+nsa,Latn,nsa_Latn,Sangtam Naga,o,Ll,LATIN SMALL LETTER O,509,2,"2019,2024",192,317
+nsa,Latn,nsa_Latn,Sangtam Naga,t,Ll,LATIN SMALL LETTER T,394,2,"2019,2024",105,289
+nsa,Latn,nsa_Latn,Sangtam Naga,s,Ll,LATIN SMALL LETTER S,351,2,"2019,2024",150,201
+nsa,Latn,nsa_Latn,Sangtam Naga,r,Ll,LATIN SMALL LETTER R,349,2,"2019,2024",83,266
+nsa,Latn,nsa_Latn,Sangtam Naga,u,Ll,LATIN SMALL LETTER U,317,2,"2019,2024",62,255
+nsa,Latn,nsa_Latn,Sangtam Naga,l,Ll,LATIN SMALL LETTER L,298,2,"2019,2024",64,234
+nsa,Latn,nsa_Latn,Sangtam Naga,c,Ll,LATIN SMALL LETTER C,291,2,"2019,2024",96,195
+nsa,Latn,nsa_Latn,Sangtam Naga,k,Ll,LATIN SMALL LETTER K,287,2,"2019,2024",110,177
+nsa,Latn,nsa_Latn,Sangtam Naga,e,Ll,LATIN SMALL LETTER E,276,2,"2019,2024",52,224
+nsa,Latn,nsa_Latn,Sangtam Naga,m,Ll,LATIN SMALL LETTER M,197,2,"2019,2024",58,139
+nsa,Latn,nsa_Latn,Sangtam Naga,y,Ll,LATIN SMALL LETTER Y,197,2,"2019,2024",34,163
+nsa,Latn,nsa_Latn,Sangtam Naga,b,Ll,LATIN SMALL LETTER B,125,2,"2019,2024",49,76
+nsa,Latn,nsa_Latn,Sangtam Naga,p,Ll,LATIN SMALL LETTER P,104,2,"2019,2024",31,73
+nsa,Latn,nsa_Latn,Sangtam Naga,d,Ll,LATIN SMALL LETTER D,103,2,"2019,2024",27,76
+nsa,Latn,nsa_Latn,Sangtam Naga,.,Po,FULL STOP,91,2,"2019,2024",36,55
+nsa,Latn,nsa_Latn,Sangtam Naga,",",Po,COMMA,86,2,"2019,2024",30,56
+nsa,Latn,nsa_Latn,Sangtam Naga,N,Lu,LATIN CAPITAL LETTER N,79,2,"2019,2024",3,76
+nsa,Latn,nsa_Latn,Sangtam Naga,R,Lu,LATIN CAPITAL LETTER R,71,1,2024,0,71
+nsa,Latn,nsa_Latn,Sangtam Naga,A,Lu,LATIN CAPITAL LETTER A,42,2,"2019,2024",23,19
+nsa,Latn,nsa_Latn,Sangtam Naga,j,Ll,LATIN SMALL LETTER J,40,2,"2019,2024",10,30
+nsa,Latn,nsa_Latn,Sangtam Naga,M,Lu,LATIN CAPITAL LETTER M,38,2,"2019,2024",6,32
+nsa,Latn,nsa_Latn,Sangtam Naga,H,Lu,LATIN CAPITAL LETTER H,37,2,"2019,2024",11,26
+nsa,Latn,nsa_Latn,Sangtam Naga,T,Lu,LATIN CAPITAL LETTER T,36,2,"2019,2024",21,15
+nsa,Latn,nsa_Latn,Sangtam Naga,z,Ll,LATIN SMALL LETTER Z,36,2,"2019,2024",14,22
+nsa,Latn,nsa_Latn,Sangtam Naga,F,Lu,LATIN CAPITAL LETTER F,25,1,2024,0,25
+nsa,Latn,nsa_Latn,Sangtam Naga,K,Lu,LATIN CAPITAL LETTER K,21,2,"2019,2024",14,7
+nsa,Latn,nsa_Latn,Sangtam Naga,),Pe,RIGHT PARENTHESIS,20,1,2024,0,20
+nsa,Latn,nsa_Latn,Sangtam Naga,(,Ps,LEFT PARENTHESIS,20,1,2024,0,20
+nsa,Latn,nsa_Latn,Sangtam Naga,P,Lu,LATIN CAPITAL LETTER P,20,2,"2019,2024",1,19
+nsa,Latn,nsa_Latn,Sangtam Naga,2,Nd,DIGIT TWO,20,2,"2019,2024",13,7
+nsa,Latn,nsa_Latn,Sangtam Naga,D,Lu,LATIN CAPITAL LETTER D,20,1,2024,0,20
+nsa,Latn,nsa_Latn,Sangtam Naga,1,Nd,DIGIT ONE,19,2,"2019,2024",15,4
+nsa,Latn,nsa_Latn,Sangtam Naga,v,Ll,LATIN SMALL LETTER V,18,2,"2019,2024",4,14
+nsa,Latn,nsa_Latn,Sangtam Naga,I,Lu,LATIN CAPITAL LETTER I,16,2,"2019,2024",6,10
+nsa,Latn,nsa_Latn,Sangtam Naga,f,Ll,LATIN SMALL LETTER F,16,1,2024,0,16
+nsa,Latn,nsa_Latn,Sangtam Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,15,2,"2019,2024",14,1
+nsa,Latn,nsa_Latn,Sangtam Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,15,2,"2019,2024",14,1
+nsa,Latn,nsa_Latn,Sangtam Naga,E,Lu,LATIN CAPITAL LETTER E,14,1,2024,0,14
+nsa,Latn,nsa_Latn,Sangtam Naga,S,Lu,LATIN CAPITAL LETTER S,13,2,"2019,2024",1,12
+nsa,Latn,nsa_Latn,Sangtam Naga,B,Lu,LATIN CAPITAL LETTER B,11,1,2024,0,11
+nsa,Latn,nsa_Latn,Sangtam Naga,L,Lu,LATIN CAPITAL LETTER L,10,2,"2019,2024",1,9
+nsa,Latn,nsa_Latn,Sangtam Naga,O,Lu,LATIN CAPITAL LETTER O,10,2,"2019,2024",1,9
+nsa,Latn,nsa_Latn,Sangtam Naga,Y,Lu,LATIN CAPITAL LETTER Y,9,2,"2019,2024",1,8
+nsa,Latn,nsa_Latn,Sangtam Naga,-,Pd,HYPHEN-MINUS,9,2,"2019,2024",2,7
+nsa,Latn,nsa_Latn,Sangtam Naga,C,Lu,LATIN CAPITAL LETTER C,8,1,2024,0,8
+nsa,Latn,nsa_Latn,Sangtam Naga,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,8,1,2024,0,8
+nsa,Latn,nsa_Latn,Sangtam Naga,U,Lu,LATIN CAPITAL LETTER U,8,1,2024,0,8
+nsa,Latn,nsa_Latn,Sangtam Naga,x,Ll,LATIN SMALL LETTER X,7,2,"2019,2024",1,6
+nsa,Latn,nsa_Latn,Sangtam Naga,0,Nd,DIGIT ZERO,6,2,"2019,2024",3,3
+nsa,Latn,nsa_Latn,Sangtam Naga,w,Ll,LATIN SMALL LETTER W,6,2,"2019,2024",3,3
+nsa,Latn,nsa_Latn,Sangtam Naga,;,Po,SEMICOLON,6,1,2019,6,0
+nsa,Latn,nsa_Latn,Sangtam Naga,3,Nd,DIGIT THREE,6,2,"2019,2024",5,1
+nsa,Latn,nsa_Latn,Sangtam Naga,G,Lu,LATIN CAPITAL LETTER G,5,1,2024,0,5
+nsa,Latn,nsa_Latn,Sangtam Naga,9,Nd,DIGIT NINE,5,2,"2019,2024",3,2
+nsa,Latn,nsa_Latn,Sangtam Naga,4,Nd,DIGIT FOUR,4,2,"2019,2024",3,1
+nsa,Latn,nsa_Latn,Sangtam Naga,5,Nd,DIGIT FIVE,4,2,"2019,2024",3,1
+nsa,Latn,nsa_Latn,Sangtam Naga,8,Nd,DIGIT EIGHT,4,2,"2019,2024",3,1
+nsa,Latn,nsa_Latn,Sangtam Naga,J,Lu,LATIN CAPITAL LETTER J,3,1,2024,0,3
+nsa,Latn,nsa_Latn,Sangtam Naga,6,Nd,DIGIT SIX,3,1,2019,3,0
+nsa,Latn,nsa_Latn,Sangtam Naga,7,Nd,DIGIT SEVEN,3,1,2019,3,0
+nsa,Latn,nsa_Latn,Sangtam Naga,V,Lu,LATIN CAPITAL LETTER V,2,1,2024,0,2
+nsa,Latn,nsa_Latn,Sangtam Naga,:,Po,COLON,2,2,"2019,2024",1,1
+nsa,Latn,nsa_Latn,Sangtam Naga,–,Pd,EN DASH,2,1,2024,0,2
+nsa,Latn,nsa_Latn,Sangtam Naga,`,Sk,GRAVE ACCENT,1,1,2024,0,1
+nsa,Latn,nsa_Latn,Sangtam Naga,Z,Lu,LATIN CAPITAL LETTER Z,1,1,2024,0,1
+nsa,Latn,nsa_Latn,Sangtam Naga,?,Po,QUESTION MARK,1,1,2024,0,1

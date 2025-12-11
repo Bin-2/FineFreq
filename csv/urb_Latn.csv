@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2020_frequency
+urb,Latn,urb_Latn,Urubú-Kaapor, ,Zs,SPACE,3175,3,"2018,2019,2020",387,1803,985
+urb,Latn,urb_Latn,Urubú-Kaapor,a,Ll,LATIN SMALL LETTER A,2012,3,"2018,2019,2020",270,1099,643
+urb,Latn,urb_Latn,Urubú-Kaapor,e,Ll,LATIN SMALL LETTER E,1546,3,"2018,2019,2020",196,936,414
+urb,Latn,urb_Latn,Urubú-Kaapor,u,Ll,LATIN SMALL LETTER U,839,3,"2018,2019,2020",104,490,245
+urb,Latn,urb_Latn,Urubú-Kaapor,r,Ll,LATIN SMALL LETTER R,717,3,"2018,2019,2020",64,389,264
+urb,Latn,urb_Latn,Urubú-Kaapor,h,Ll,LATIN SMALL LETTER H,647,3,"2018,2019,2020",82,359,206
+urb,Latn,urb_Latn,Urubú-Kaapor,m,Ll,LATIN SMALL LETTER M,584,3,"2018,2019,2020",87,313,184
+urb,Latn,urb_Latn,Urubú-Kaapor,p,Ll,LATIN SMALL LETTER P,554,3,"2018,2019,2020",113,284,157
+urb,Latn,urb_Latn,Urubú-Kaapor,k,Ll,LATIN SMALL LETTER K,550,3,"2018,2019,2020",66,291,193
+urb,Latn,urb_Latn,Urubú-Kaapor,t,Ll,LATIN SMALL LETTER T,525,3,"2018,2019,2020",87,265,173
+urb,Latn,urb_Latn,Urubú-Kaapor,',Po,APOSTROPHE,503,2,"2019,2020",0,339,164
+urb,Latn,urb_Latn,Urubú-Kaapor,i,Ll,LATIN SMALL LETTER I,434,3,"2018,2019,2020",28,261,145
+urb,Latn,urb_Latn,Urubú-Kaapor,.,Po,FULL STOP,417,3,"2018,2019,2020",50,250,117
+urb,Latn,urb_Latn,Urubú-Kaapor,j,Ll,LATIN SMALL LETTER J,380,3,"2018,2019,2020",56,193,131
+urb,Latn,urb_Latn,Urubú-Kaapor,n,Ll,LATIN SMALL LETTER N,380,3,"2018,2019,2020",53,228,99
+urb,Latn,urb_Latn,Urubú-Kaapor,y,Ll,LATIN SMALL LETTER Y,360,3,"2018,2019,2020",26,171,163
+urb,Latn,urb_Latn,Urubú-Kaapor,ã,Ll,LATIN SMALL LETTER A WITH TILDE,303,3,"2018,2019,2020",45,192,66
+urb,Latn,urb_Latn,Urubú-Kaapor,o,Ll,LATIN SMALL LETTER O,278,3,"2018,2019,2020",31,117,130
+urb,Latn,urb_Latn,Urubú-Kaapor,w,Ll,LATIN SMALL LETTER W,268,3,"2018,2019,2020",12,152,104
+urb,Latn,urb_Latn,Urubú-Kaapor,ẽ,Ll,LATIN SMALL LETTER E WITH TILDE,265,3,"2018,2019,2020",43,151,71
+urb,Latn,urb_Latn,Urubú-Kaapor,d,Ll,LATIN SMALL LETTER D,225,3,"2018,2019,2020",30,145,50
+urb,Latn,urb_Latn,Urubú-Kaapor,A,Lu,LATIN CAPITAL LETTER A,153,3,"2018,2019,2020",30,84,39
+urb,Latn,urb_Latn,Urubú-Kaapor,",",Po,COMMA,145,3,"2018,2019,2020",19,73,53
+urb,Latn,urb_Latn,Urubú-Kaapor,s,Ll,LATIN SMALL LETTER S,140,3,"2018,2019,2020",11,103,26
+urb,Latn,urb_Latn,Urubú-Kaapor,J,Lu,LATIN CAPITAL LETTER J,104,3,"2018,2019,2020",2,79,23
+urb,Latn,urb_Latn,Urubú-Kaapor,ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,100,3,"2018,2019,2020",13,48,39
+urb,Latn,urb_Latn,Urubú-Kaapor,õ,Ll,LATIN SMALL LETTER O WITH TILDE,96,3,"2018,2019,2020",18,50,28
+urb,Latn,urb_Latn,Urubú-Kaapor,T,Lu,LATIN CAPITAL LETTER T,88,3,"2018,2019,2020",16,58,14
+urb,Latn,urb_Latn,Urubú-Kaapor,—,Pd,EM DASH,79,3,"2018,2019,2020",2,59,18
+urb,Latn,urb_Latn,Urubú-Kaapor,’,Pf,RIGHT SINGLE QUOTATION MARK,65,3,"2018,2019,2020",63,1,1
+urb,Latn,urb_Latn,Urubú-Kaapor,x,Ll,LATIN SMALL LETTER X,64,3,"2018,2019,2020",18,28,18
+urb,Latn,urb_Latn,Urubú-Kaapor,P,Lu,LATIN CAPITAL LETTER P,64,3,"2018,2019,2020",8,37,19
+urb,Latn,urb_Latn,Urubú-Kaapor,K,Lu,LATIN CAPITAL LETTER K,62,3,"2018,2019,2020",5,39,18
+urb,Latn,urb_Latn,Urubú-Kaapor,:,Po,COLON,56,3,"2018,2019,2020",4,37,15
+urb,Latn,urb_Latn,Urubú-Kaapor,1,Nd,DIGIT ONE,55,3,"2018,2019,2020",12,30,13
+urb,Latn,urb_Latn,Urubú-Kaapor,g,Ll,LATIN SMALL LETTER G,53,3,"2018,2019,2020",1,34,18
+urb,Latn,urb_Latn,Urubú-Kaapor,M,Lu,LATIN CAPITAL LETTER M,52,3,"2018,2019,2020",1,30,21
+urb,Latn,urb_Latn,Urubú-Kaapor,E,Lu,LATIN CAPITAL LETTER E,44,3,"2018,2019,2020",2,11,31
+urb,Latn,urb_Latn,Urubú-Kaapor,“,Pi,LEFT DOUBLE QUOTATION MARK,34,3,"2018,2019,2020",2,17,15
+urb,Latn,urb_Latn,Urubú-Kaapor,”,Pf,RIGHT DOUBLE QUOTATION MARK,34,3,"2018,2019,2020",2,17,15
+urb,Latn,urb_Latn,Urubú-Kaapor,ũ,Ll,LATIN SMALL LETTER U WITH TILDE,34,3,"2018,2019,2020",4,16,14
+urb,Latn,urb_Latn,Urubú-Kaapor,I,Lu,LATIN CAPITAL LETTER I,33,3,"2018,2019,2020",3,22,8
+urb,Latn,urb_Latn,Urubú-Kaapor,S,Lu,LATIN CAPITAL LETTER S,32,3,"2018,2019,2020",8,23,1
+urb,Latn,urb_Latn,Urubú-Kaapor,2,Nd,DIGIT TWO,30,3,"2018,2019,2020",1,21,8
+urb,Latn,urb_Latn,Urubú-Kaapor,),Pe,RIGHT PARENTHESIS,29,3,"2018,2019,2020",3,20,6
+urb,Latn,urb_Latn,Urubú-Kaapor,(,Ps,LEFT PARENTHESIS,29,3,"2018,2019,2020",3,20,6
+urb,Latn,urb_Latn,Urubú-Kaapor,é,Ll,LATIN SMALL LETTER E WITH ACUTE,29,2,"2019,2020",0,11,18
+urb,Latn,urb_Latn,Urubú-Kaapor,N,Lu,LATIN CAPITAL LETTER N,28,3,"2018,2019,2020",1,21,6
+urb,Latn,urb_Latn,Urubú-Kaapor,3,Nd,DIGIT THREE,21,3,"2018,2019,2020",1,17,3
+urb,Latn,urb_Latn,Urubú-Kaapor,4,Nd,DIGIT FOUR,18,3,"2018,2019,2020",1,15,2
+urb,Latn,urb_Latn,Urubú-Kaapor,?,Po,QUESTION MARK,17,3,"2018,2019,2020",1,14,2
+urb,Latn,urb_Latn,Urubú-Kaapor,!,Po,EXCLAMATION MARK,12,3,"2018,2019,2020",2,7,3
+urb,Latn,urb_Latn,Urubú-Kaapor,0,Nd,DIGIT ZERO,12,3,"2018,2019,2020",2,8,2
+urb,Latn,urb_Latn,Urubú-Kaapor,5,Nd,DIGIT FIVE,11,3,"2018,2019,2020",1,8,2
+urb,Latn,urb_Latn,Urubú-Kaapor,W,Lu,LATIN CAPITAL LETTER W,11,2,"2019,2020",0,5,6
+urb,Latn,urb_Latn,Urubú-Kaapor,8,Nd,DIGIT EIGHT,11,3,"2018,2019,2020",2,7,2
+urb,Latn,urb_Latn,Urubú-Kaapor,U,Lu,LATIN CAPITAL LETTER U,10,3,"2018,2019,2020",1,5,4
+urb,Latn,urb_Latn,Urubú-Kaapor,H,Lu,LATIN CAPITAL LETTER H,10,2,"2019,2020",0,3,7
+urb,Latn,urb_Latn,Urubú-Kaapor,6,Nd,DIGIT SIX,9,3,"2018,2019,2020",2,5,2
+urb,Latn,urb_Latn,Urubú-Kaapor,á,Ll,LATIN SMALL LETTER A WITH ACUTE,9,3,"2018,2019,2020",1,7,1
+urb,Latn,urb_Latn,Urubú-Kaapor,b,Ll,LATIN SMALL LETTER B,8,3,"2018,2019,2020",3,4,1
+urb,Latn,urb_Latn,Urubú-Kaapor,-,Pd,HYPHEN-MINUS,8,3,"2018,2019,2020",2,5,1
+urb,Latn,urb_Latn,Urubú-Kaapor,7,Nd,DIGIT SEVEN,8,3,"2018,2019,2020",1,5,2
+urb,Latn,urb_Latn,Urubú-Kaapor,9,Nd,DIGIT NINE,8,2,"2019,2020",0,6,2
+urb,Latn,urb_Latn,Urubú-Kaapor,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,8,2,"2018,2019",1,7,0
+urb,Latn,urb_Latn,Urubú-Kaapor,Y,Lu,LATIN CAPITAL LETTER Y,7,2,"2018,2019",1,6,0
+urb,Latn,urb_Latn,Urubú-Kaapor,;,Po,SEMICOLON,6,1,2019,0,6,0
+urb,Latn,urb_Latn,Urubú-Kaapor,R,Lu,LATIN CAPITAL LETTER R,5,2,"2018,2019",2,3,0
+urb,Latn,urb_Latn,Urubú-Kaapor,O,Lu,LATIN CAPITAL LETTER O,4,2,"2018,2020",3,0,1
+urb,Latn,urb_Latn,Urubú-Kaapor,Ã,Lu,LATIN CAPITAL LETTER A WITH TILDE,3,1,2018,3,0,0
+urb,Latn,urb_Latn,Urubú-Kaapor,ỹ,Ll,LATIN SMALL LETTER Y WITH TILDE,2,2,"2018,2019",1,1,0
+urb,Latn,urb_Latn,Urubú-Kaapor,‘,Pi,LEFT SINGLE QUOTATION MARK,2,2,"2019,2020",0,1,1
+urb,Latn,urb_Latn,Urubú-Kaapor,B,Lu,LATIN CAPITAL LETTER B,1,1,2018,1,0,0
+urb,Latn,urb_Latn,Urubú-Kaapor,l,Ll,LATIN SMALL LETTER L,1,1,2018,1,0,0
+urb,Latn,urb_Latn,Urubú-Kaapor,[,Ps,LEFT SQUARE BRACKET,1,1,2019,0,1,0
+urb,Latn,urb_Latn,Urubú-Kaapor,],Pe,RIGHT SQUARE BRACKET,1,1,2019,0,1,0

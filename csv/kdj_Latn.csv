@@ -1,0 +1,63 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2019_frequency,year_2021_frequency,year_2022_frequency
+kdj,Latn,kdj_Latn,Karamojong, ,Zs,SPACE,2197,4,"2014,2019,2021,2022",415,440,755,587
+kdj,Latn,kdj_Latn,Karamojong,a,Ll,LATIN SMALL LETTER A,1946,4,"2014,2019,2021,2022",336,334,662,614
+kdj,Latn,kdj_Latn,Karamojong,i,Ll,LATIN SMALL LETTER I,1137,4,"2014,2019,2021,2022",193,193,455,296
+kdj,Latn,kdj_Latn,Karamojong,o,Ll,LATIN SMALL LETTER O,1005,4,"2014,2019,2021,2022",213,212,371,209
+kdj,Latn,kdj_Latn,Karamojong,k,Ll,LATIN SMALL LETTER K,869,4,"2014,2019,2021,2022",113,113,330,313
+kdj,Latn,kdj_Latn,Karamojong,e,Ll,LATIN SMALL LETTER E,840,4,"2014,2019,2021,2022",171,171,321,177
+kdj,Latn,kdj_Latn,Karamojong,u,Ll,LATIN SMALL LETTER U,748,4,"2014,2019,2021,2022",167,167,196,218
+kdj,Latn,kdj_Latn,Karamojong,n,Ll,LATIN SMALL LETTER N,635,4,"2014,2019,2021,2022",117,117,249,152
+kdj,Latn,kdj_Latn,Karamojong,r,Ll,LATIN SMALL LETTER R,568,4,"2014,2019,2021,2022",147,147,174,100
+kdj,Latn,kdj_Latn,Karamojong,t,Ll,LATIN SMALL LETTER T,566,4,"2014,2019,2021,2022",111,110,195,150
+kdj,Latn,kdj_Latn,Karamojong,ŋ,Ll,LATIN SMALL LETTER ENG,558,4,"2014,2019,2021,2022",73,73,203,209
+kdj,Latn,kdj_Latn,Karamojong,l,Ll,LATIN SMALL LETTER L,337,4,"2014,2019,2021,2022",56,56,132,93
+kdj,Latn,kdj_Latn,Karamojong,s,Ll,LATIN SMALL LETTER S,307,4,"2014,2019,2021,2022",72,72,119,44
+kdj,Latn,kdj_Latn,Karamojong,m,Ll,LATIN SMALL LETTER M,237,4,"2014,2019,2021,2022",51,51,83,52
+kdj,Latn,kdj_Latn,Karamojong,y,Ll,LATIN SMALL LETTER Y,232,4,"2014,2019,2021,2022",18,17,84,113
+kdj,Latn,kdj_Latn,Karamojong,",",Po,COMMA,229,4,"2014,2019,2021,2022",53,53,69,54
+kdj,Latn,kdj_Latn,Karamojong,d,Ll,LATIN SMALL LETTER D,184,4,"2014,2019,2021,2022",32,32,72,48
+kdj,Latn,kdj_Latn,Karamojong,p,Ll,LATIN SMALL LETTER P,182,4,"2014,2019,2021,2022",33,33,51,65
+kdj,Latn,kdj_Latn,Karamojong,b,Ll,LATIN SMALL LETTER B,157,4,"2014,2019,2021,2022",36,36,28,57
+kdj,Latn,kdj_Latn,Karamojong,A,Lu,LATIN CAPITAL LETTER A,135,4,"2014,2019,2021,2022",27,27,36,45
+kdj,Latn,kdj_Latn,Karamojong,w,Ll,LATIN SMALL LETTER W,127,4,"2014,2019,2021,2022",17,17,44,49
+kdj,Latn,kdj_Latn,Karamojong,.,Po,FULL STOP,117,4,"2014,2019,2021,2022",19,19,33,46
+kdj,Latn,kdj_Latn,Karamojong,Y,Lu,LATIN CAPITAL LETTER Y,90,4,"2014,2019,2021,2022",30,30,28,2
+kdj,Latn,kdj_Latn,Karamojong,j,Ll,LATIN SMALL LETTER J,78,4,"2014,2019,2021,2022",5,5,27,41
+kdj,Latn,kdj_Latn,Karamojong,c,Ll,LATIN SMALL LETTER C,76,4,"2014,2019,2021,2022",7,7,21,41
+kdj,Latn,kdj_Latn,Karamojong,T,Lu,LATIN CAPITAL LETTER T,69,4,"2014,2019,2021,2022",9,9,11,40
+kdj,Latn,kdj_Latn,Karamojong,E,Lu,LATIN CAPITAL LETTER E,66,4,"2014,2019,2021,2022",19,19,27,1
+kdj,Latn,kdj_Latn,Karamojong,1,Nd,DIGIT ONE,66,4,"2014,2019,2021,2022",14,14,19,19
+kdj,Latn,kdj_Latn,Karamojong,2,Nd,DIGIT TWO,44,4,"2014,2019,2021,2022",9,9,12,14
+kdj,Latn,kdj_Latn,Karamojong,Ŋ,Lu,LATIN CAPITAL LETTER ENG,30,4,"2014,2019,2021,2022",4,4,19,3
+kdj,Latn,kdj_Latn,Karamojong,”,Pf,RIGHT DOUBLE QUOTATION MARK,29,4,"2014,2019,2021,2022",3,3,8,15
+kdj,Latn,kdj_Latn,Karamojong,“,Pi,LEFT DOUBLE QUOTATION MARK,29,4,"2014,2019,2021,2022",3,3,8,15
+kdj,Latn,kdj_Latn,Karamojong,K,Lu,LATIN CAPITAL LETTER K,29,4,"2014,2019,2021,2022",5,5,12,7
+kdj,Latn,kdj_Latn,Karamojong,M,Lu,LATIN CAPITAL LETTER M,27,3,"2014,2019,2021",12,11,4,0
+kdj,Latn,kdj_Latn,Karamojong,;,Po,SEMICOLON,24,4,"2014,2019,2021,2022",3,3,7,11
+kdj,Latn,kdj_Latn,Karamojong,S,Lu,LATIN CAPITAL LETTER S,22,2,"2014,2019",11,11,0,0
+kdj,Latn,kdj_Latn,Karamojong,(,Ps,LEFT PARENTHESIS,21,4,"2014,2019,2021,2022",5,5,10,1
+kdj,Latn,kdj_Latn,Karamojong,),Pe,RIGHT PARENTHESIS,21,4,"2014,2019,2021,2022",5,5,10,1
+kdj,Latn,kdj_Latn,Karamojong,B,Lu,LATIN CAPITAL LETTER B,21,3,"2014,2019,2021",6,6,9,0
+kdj,Latn,kdj_Latn,Karamojong,I,Lu,LATIN CAPITAL LETTER I,17,3,"2014,2019,2021",3,3,11,0
+kdj,Latn,kdj_Latn,Karamojong,3,Nd,DIGIT THREE,17,4,"2014,2019,2021,2022",3,3,5,6
+kdj,Latn,kdj_Latn,Karamojong,N,Lu,LATIN CAPITAL LETTER N,17,3,"2014,2019,2021",4,4,9,0
+kdj,Latn,kdj_Latn,Karamojong,4,Nd,DIGIT FOUR,15,4,"2014,2019,2021,2022",3,3,4,5
+kdj,Latn,kdj_Latn,Karamojong,5,Nd,DIGIT FIVE,15,4,"2014,2019,2021,2022",3,3,5,4
+kdj,Latn,kdj_Latn,Karamojong,D,Lu,LATIN CAPITAL LETTER D,14,3,"2014,2019,2021",6,6,2,0
+kdj,Latn,kdj_Latn,Karamojong,R,Lu,LATIN CAPITAL LETTER R,14,3,"2014,2019,2021",6,6,2,0
+kdj,Latn,kdj_Latn,Karamojong,g,Ll,LATIN SMALL LETTER G,13,4,"2014,2019,2021,2022",2,2,8,1
+kdj,Latn,kdj_Latn,Karamojong,8,Nd,DIGIT EIGHT,12,4,"2014,2019,2021,2022",2,2,4,4
+kdj,Latn,kdj_Latn,Karamojong,0,Nd,DIGIT ZERO,12,4,"2014,2019,2021,2022",2,2,5,3
+kdj,Latn,kdj_Latn,Karamojong,7,Nd,DIGIT SEVEN,11,4,"2014,2019,2021,2022",2,2,4,3
+kdj,Latn,kdj_Latn,Karamojong,:,Po,COLON,10,4,"2014,2019,2021,2022",1,1,3,5
+kdj,Latn,kdj_Latn,Karamojong,9,Nd,DIGIT NINE,10,4,"2014,2019,2021,2022",2,2,2,4
+kdj,Latn,kdj_Latn,Karamojong,6,Nd,DIGIT SIX,9,4,"2014,2019,2021,2022",2,2,2,3
+kdj,Latn,kdj_Latn,Karamojong,U,Lu,LATIN CAPITAL LETTER U,8,3,"2014,2019,2021",3,3,2,0
+kdj,Latn,kdj_Latn,Karamojong,O,Lu,LATIN CAPITAL LETTER O,5,3,"2014,2019,2022",2,2,0,1
+kdj,Latn,kdj_Latn,Karamojong,-,Pd,HYPHEN-MINUS,5,2,"2021,2022",0,0,2,3
+kdj,Latn,kdj_Latn,Karamojong,P,Lu,LATIN CAPITAL LETTER P,4,2,"2014,2019",2,2,0,0
+kdj,Latn,kdj_Latn,Karamojong,G,Lu,LATIN CAPITAL LETTER G,4,1,2021,0,0,4,0
+kdj,Latn,kdj_Latn,Karamojong,?,Po,QUESTION MARK,1,1,2021,0,0,1,0
+kdj,Latn,kdj_Latn,Karamojong,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2021,0,0,1,0
+kdj,Latn,kdj_Latn,Karamojong,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2021,0,0,1,0
+kdj,Latn,kdj_Latn,Karamojong,L,Lu,LATIN CAPITAL LETTER L,1,1,2021,0,0,1,0

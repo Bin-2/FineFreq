@@ -1,0 +1,69 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency
+gid,Latn,gid_Latn,Gidar, ,Zs,SPACE,837,1,2019,837
+gid,Latn,gid_Latn,Gidar,a,Ll,LATIN SMALL LETTER A,728,1,2019,728
+gid,Latn,gid_Latn,Gidar,ə,Ll,LATIN SMALL LETTER SCHWA,392,1,2019,392
+gid,Latn,gid_Latn,Gidar,n,Ll,LATIN SMALL LETTER N,344,1,2019,344
+gid,Latn,gid_Latn,Gidar,i,Ll,LATIN SMALL LETTER I,228,1,2019,228
+gid,Latn,gid_Latn,Gidar,e,Ll,LATIN SMALL LETTER E,178,1,2019,178
+gid,Latn,gid_Latn,Gidar,k,Ll,LATIN SMALL LETTER K,170,1,2019,170
+gid,Latn,gid_Latn,Gidar,l,Ll,LATIN SMALL LETTER L,161,1,2019,161
+gid,Latn,gid_Latn,Gidar,s,Ll,LATIN SMALL LETTER S,154,1,2019,154
+gid,Latn,gid_Latn,Gidar,m,Ll,LATIN SMALL LETTER M,146,1,2019,146
+gid,Latn,gid_Latn,Gidar,d,Ll,LATIN SMALL LETTER D,144,1,2019,144
+gid,Latn,gid_Latn,Gidar,t,Ll,LATIN SMALL LETTER T,117,1,2019,117
+gid,Latn,gid_Latn,Gidar,ŋ,Ll,LATIN SMALL LETTER ENG,102,1,2019,102
+gid,Latn,gid_Latn,Gidar,w,Ll,LATIN SMALL LETTER W,91,1,2019,91
+gid,Latn,gid_Latn,Gidar,g,Ll,LATIN SMALL LETTER G,91,1,2019,91
+gid,Latn,gid_Latn,Gidar,y,Ll,LATIN SMALL LETTER Y,80,1,2019,80
+gid,Latn,gid_Latn,Gidar,u,Ll,LATIN SMALL LETTER U,79,1,2019,79
+gid,Latn,gid_Latn,Gidar,p,Ll,LATIN SMALL LETTER P,77,1,2019,77
+gid,Latn,gid_Latn,Gidar,",",Po,COMMA,71,1,2019,71
+gid,Latn,gid_Latn,Gidar,z,Ll,LATIN SMALL LETTER Z,64,1,2019,64
+gid,Latn,gid_Latn,Gidar,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,62,1,2019,62
+gid,Latn,gid_Latn,Gidar,.,Po,FULL STOP,62,1,2019,62
+gid,Latn,gid_Latn,Gidar,r,Ll,LATIN SMALL LETTER R,61,1,2019,61
+gid,Latn,gid_Latn,Gidar,b,Ll,LATIN SMALL LETTER B,56,1,2019,56
+gid,Latn,gid_Latn,Gidar,v,Ll,LATIN SMALL LETTER V,53,1,2019,53
+gid,Latn,gid_Latn,Gidar,o,Ll,LATIN SMALL LETTER O,50,1,2019,50
+gid,Latn,gid_Latn,Gidar,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,48,1,2019,48
+gid,Latn,gid_Latn,Gidar,M,Lu,LATIN CAPITAL LETTER M,37,1,2019,37
+gid,Latn,gid_Latn,Gidar,Z,Lu,LATIN CAPITAL LETTER Z,36,1,2019,36
+gid,Latn,gid_Latn,Gidar,h,Ll,LATIN SMALL LETTER H,33,1,2019,33
+gid,Latn,gid_Latn,Gidar,:,Po,COLON,31,1,2019,31
+gid,Latn,gid_Latn,Gidar,A,Lu,LATIN CAPITAL LETTER A,28,1,2019,28
+gid,Latn,gid_Latn,Gidar,1,Nd,DIGIT ONE,23,1,2019,23
+gid,Latn,gid_Latn,Gidar,f,Ll,LATIN SMALL LETTER F,22,1,2019,22
+gid,Latn,gid_Latn,Gidar,3,Nd,DIGIT THREE,17,1,2019,17
+gid,Latn,gid_Latn,Gidar,2,Nd,DIGIT TWO,16,1,2019,16
+gid,Latn,gid_Latn,Gidar,N,Lu,LATIN CAPITAL LETTER N,16,1,2019,16
+gid,Latn,gid_Latn,Gidar,4,Nd,DIGIT FOUR,15,1,2019,15
+gid,Latn,gid_Latn,Gidar,W,Lu,LATIN CAPITAL LETTER W,13,1,2019,13
+gid,Latn,gid_Latn,Gidar,?,Po,QUESTION MARK,12,1,2019,12
+gid,Latn,gid_Latn,Gidar,Y,Lu,LATIN CAPITAL LETTER Y,11,1,2019,11
+gid,Latn,gid_Latn,Gidar,S,Lu,LATIN CAPITAL LETTER S,7,1,2019,7
+gid,Latn,gid_Latn,Gidar,5,Nd,DIGIT FIVE,7,1,2019,7
+gid,Latn,gid_Latn,Gidar,F,Lu,LATIN CAPITAL LETTER F,7,1,2019,7
+gid,Latn,gid_Latn,Gidar,Ə,Lu,LATIN CAPITAL LETTER SCHWA,7,1,2019,7
+gid,Latn,gid_Latn,Gidar,8,Nd,DIGIT EIGHT,7,1,2019,7
+gid,Latn,gid_Latn,Gidar,*,Po,ASTERISK,6,1,2019,6
+gid,Latn,gid_Latn,Gidar,K,Lu,LATIN CAPITAL LETTER K,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,6,Nd,DIGIT SIX,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,9,Nd,DIGIT NINE,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,0,Nd,DIGIT ZERO,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,7,Nd,DIGIT SEVEN,5,1,2019,5
+gid,Latn,gid_Latn,Gidar,G,Lu,LATIN CAPITAL LETTER G,4,1,2019,4
+gid,Latn,gid_Latn,Gidar,I,Lu,LATIN CAPITAL LETTER I,4,1,2019,4
+gid,Latn,gid_Latn,Gidar,E,Lu,LATIN CAPITAL LETTER E,4,1,2019,4
+gid,Latn,gid_Latn,Gidar,D,Lu,LATIN CAPITAL LETTER D,4,1,2019,4
+gid,Latn,gid_Latn,Gidar,V,Lu,LATIN CAPITAL LETTER V,3,1,2019,3
+gid,Latn,gid_Latn,Gidar,-,Pd,HYPHEN-MINUS,3,1,2019,3
+gid,Latn,gid_Latn,Gidar,P,Lu,LATIN CAPITAL LETTER P,3,1,2019,3
+gid,Latn,gid_Latn,Gidar,L,Lu,LATIN CAPITAL LETTER L,2,1,2019,2
+gid,Latn,gid_Latn,Gidar,/,Po,SOLIDUS,2,1,2019,2
+gid,Latn,gid_Latn,Gidar,B,Lu,LATIN CAPITAL LETTER B,2,1,2019,2
+gid,Latn,gid_Latn,Gidar,),Pe,RIGHT PARENTHESIS,1,1,2019,1
+gid,Latn,gid_Latn,Gidar,T,Lu,LATIN CAPITAL LETTER T,1,1,2019,1
+gid,Latn,gid_Latn,Gidar,(,Ps,LEFT PARENTHESIS,1,1,2019,1
+gid,Latn,gid_Latn,Gidar,ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,1,1,2019,1
+gid,Latn,gid_Latn,Gidar,!,Po,EXCLAMATION MARK,1,1,2019,1

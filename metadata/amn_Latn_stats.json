@@ -1,0 +1,17 @@
+{
+  "language_code": "amn_Latn",
+  "iso_639_3": "amn",
+  "script": "Latn",
+  "language_name": "Amanab",
+  "total_characters": 80,
+  "total_frequency": 1337334,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:47.087227"
+}

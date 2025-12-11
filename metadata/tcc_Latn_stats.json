@@ -1,0 +1,17 @@
+{
+  "language_code": "tcc_Latn",
+  "iso_639_3": "tcc",
+  "script": "Latn",
+  "language_name": "Datooga",
+  "total_characters": 75,
+  "total_frequency": 133967,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:12.012565"
+}

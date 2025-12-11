@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2021_frequency,year_2024_frequency
+nbc,Latn,nbc_Latn,Chang Naga, ,Zs,SPACE,6437,4,"2017,2019,2021,2024",3271,986,402,1778
+nbc,Latn,nbc_Latn,Chang Naga,a,Ll,LATIN SMALL LETTER A,4832,4,"2017,2019,2021,2024",2534,730,244,1324
+nbc,Latn,nbc_Latn,Chang Naga,i,Ll,LATIN SMALL LETTER I,3331,4,"2017,2019,2021,2024",1738,446,184,963
+nbc,Latn,nbc_Latn,Chang Naga,o,Ll,LATIN SMALL LETTER O,2984,4,"2017,2019,2021,2024",1462,452,233,837
+nbc,Latn,nbc_Latn,Chang Naga,e,Ll,LATIN SMALL LETTER E,2873,4,"2017,2019,2021,2024",1561,456,165,691
+nbc,Latn,nbc_Latn,Chang Naga,h,Ll,LATIN SMALL LETTER H,2767,4,"2017,2019,2021,2024",1348,515,161,743
+nbc,Latn,nbc_Latn,Chang Naga,n,Ll,LATIN SMALL LETTER N,2398,4,"2017,2019,2021,2024",1210,360,103,725
+nbc,Latn,nbc_Latn,Chang Naga,k,Ll,LATIN SMALL LETTER K,2300,4,"2017,2019,2021,2024",1149,440,136,575
+nbc,Latn,nbc_Latn,Chang Naga,u,Ll,LATIN SMALL LETTER U,2168,4,"2017,2019,2021,2024",1333,263,110,462
+nbc,Latn,nbc_Latn,Chang Naga,b,Ll,LATIN SMALL LETTER B,1683,4,"2017,2019,2021,2024",684,274,171,554
+nbc,Latn,nbc_Latn,Chang Naga,g,Ll,LATIN SMALL LETTER G,1412,4,"2017,2019,2021,2024",708,227,36,441
+nbc,Latn,nbc_Latn,Chang Naga,l,Ll,LATIN SMALL LETTER L,1340,4,"2017,2019,2021,2024",624,134,62,520
+nbc,Latn,nbc_Latn,Chang Naga,s,Ll,LATIN SMALL LETTER S,1265,4,"2017,2019,2021,2024",573,184,85,423
+nbc,Latn,nbc_Latn,Chang Naga,t,Ll,LATIN SMALL LETTER T,1121,4,"2017,2019,2021,2024",639,117,45,320
+nbc,Latn,nbc_Latn,Chang Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,1110,4,"2017,2019,2021,2024",185,285,100,540
+nbc,Latn,nbc_Latn,Chang Naga,m,Ll,LATIN SMALL LETTER M,803,4,"2017,2019,2021,2024",368,134,46,255
+nbc,Latn,nbc_Latn,Chang Naga,y,Ll,LATIN SMALL LETTER Y,582,4,"2017,2019,2021,2024",258,115,20,189
+nbc,Latn,nbc_Latn,Chang Naga,",",Po,COMMA,544,4,"2017,2019,2021,2024",285,57,52,150
+nbc,Latn,nbc_Latn,Chang Naga,p,Ll,LATIN SMALL LETTER P,449,4,"2017,2019,2021,2024",198,67,12,172
+nbc,Latn,nbc_Latn,Chang Naga,d,Ll,LATIN SMALL LETTER D,414,4,"2017,2019,2021,2024",169,90,30,125
+nbc,Latn,nbc_Latn,Chang Naga,.,Po,FULL STOP,361,4,"2017,2019,2021,2024",204,58,15,84
+nbc,Latn,nbc_Latn,Chang Naga,j,Ll,LATIN SMALL LETTER J,353,4,"2017,2019,2021,2024",191,60,9,93
+nbc,Latn,nbc_Latn,Chang Naga,c,Ll,LATIN SMALL LETTER C,174,4,"2017,2019,2021,2024",83,34,3,54
+nbc,Latn,nbc_Latn,Chang Naga,J,Lu,LATIN CAPITAL LETTER J,161,3,"2017,2021,2024",104,0,28,29
+nbc,Latn,nbc_Latn,Chang Naga,M,Lu,LATIN CAPITAL LETTER M,157,4,"2017,2019,2021,2024",63,48,11,35
+nbc,Latn,nbc_Latn,Chang Naga,',Po,APOSTROPHE,155,1,2017,155,0,0,0
+nbc,Latn,nbc_Latn,Chang Naga,r,Ll,LATIN SMALL LETTER R,148,4,"2017,2019,2021,2024",37,3,26,82
+nbc,Latn,nbc_Latn,Chang Naga,N,Lu,LATIN CAPITAL LETTER N,145,4,"2017,2019,2021,2024",65,5,3,72
+nbc,Latn,nbc_Latn,Chang Naga,H,Lu,LATIN CAPITAL LETTER H,134,4,"2017,2019,2021,2024",64,40,8,22
+nbc,Latn,nbc_Latn,Chang Naga,K,Lu,LATIN CAPITAL LETTER K,109,4,"2017,2019,2021,2024",72,13,5,19
+nbc,Latn,nbc_Latn,Chang Naga,1,Nd,DIGIT ONE,103,4,"2017,2019,2021,2024",24,28,15,36
+nbc,Latn,nbc_Latn,Chang Naga,S,Lu,LATIN CAPITAL LETTER S,86,4,"2017,2019,2021,2024",43,3,13,27
+nbc,Latn,nbc_Latn,Chang Naga,2,Nd,DIGIT TWO,81,4,"2017,2019,2021,2024",20,23,11,27
+nbc,Latn,nbc_Latn,Chang Naga,A,Lu,LATIN CAPITAL LETTER A,80,4,"2017,2019,2021,2024",27,3,19,31
+nbc,Latn,nbc_Latn,Chang Naga,R,Lu,LATIN CAPITAL LETTER R,71,3,"2017,2021,2024",1,0,6,64
+nbc,Latn,nbc_Latn,Chang Naga,;,Po,SEMICOLON,71,4,"2017,2019,2021,2024",47,18,1,5
+nbc,Latn,nbc_Latn,Chang Naga,L,Lu,LATIN CAPITAL LETTER L,66,4,"2017,2019,2021,2024",43,2,4,17
+nbc,Latn,nbc_Latn,Chang Naga,B,Lu,LATIN CAPITAL LETTER B,58,4,"2017,2019,2021,2024",16,15,11,16
+nbc,Latn,nbc_Latn,Chang Naga,3,Nd,DIGIT THREE,43,4,"2017,2019,2021,2024",17,8,6,12
+nbc,Latn,nbc_Latn,Chang Naga,P,Lu,LATIN CAPITAL LETTER P,40,4,"2017,2019,2021,2024",14,1,2,23
+nbc,Latn,nbc_Latn,Chang Naga,w,Ll,LATIN SMALL LETTER W,37,4,"2017,2019,2021,2024",14,1,6,16
+nbc,Latn,nbc_Latn,Chang Naga,?,Po,QUESTION MARK,35,1,2017,35,0,0,0
+nbc,Latn,nbc_Latn,Chang Naga,z,Ll,LATIN SMALL LETTER Z,35,3,"2017,2021,2024",2,0,16,17
+nbc,Latn,nbc_Latn,Chang Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,34,4,"2017,2019,2021,2024",10,19,1,4
+nbc,Latn,nbc_Latn,Chang Naga,D,Lu,LATIN CAPITAL LETTER D,32,3,"2019,2021,2024",0,2,7,23
+nbc,Latn,nbc_Latn,Chang Naga,(,Ps,LEFT PARENTHESIS,29,3,"2017,2021,2024",10,0,2,17
+nbc,Latn,nbc_Latn,Chang Naga,),Pe,RIGHT PARENTHESIS,29,3,"2017,2021,2024",10,0,2,17
+nbc,Latn,nbc_Latn,Chang Naga,-,Pd,HYPHEN-MINUS,28,3,"2017,2021,2024",10,0,5,13
+nbc,Latn,nbc_Latn,Chang Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,25,4,"2017,2019,2021,2024",1,19,1,4
+nbc,Latn,nbc_Latn,Chang Naga,F,Lu,LATIN CAPITAL LETTER F,24,1,2024,0,0,0,24
+nbc,Latn,nbc_Latn,Chang Naga,4,Nd,DIGIT FOUR,24,4,"2017,2019,2021,2024",8,6,3,7
+nbc,Latn,nbc_Latn,Chang Naga,f,Ll,LATIN SMALL LETTER F,23,3,"2019,2021,2024",0,1,7,15
+nbc,Latn,nbc_Latn,Chang Naga,E,Lu,LATIN CAPITAL LETTER E,23,4,"2017,2019,2021,2024",4,5,6,8
+nbc,Latn,nbc_Latn,Chang Naga,0,Nd,DIGIT ZERO,19,4,"2017,2019,2021,2024",3,5,2,9
+nbc,Latn,nbc_Latn,Chang Naga,T,Lu,LATIN CAPITAL LETTER T,19,4,"2017,2019,2021,2024",7,2,1,9
+nbc,Latn,nbc_Latn,Chang Naga,C,Lu,LATIN CAPITAL LETTER C,19,4,"2017,2019,2021,2024",8,2,1,8
+nbc,Latn,nbc_Latn,Chang Naga,I,Lu,LATIN CAPITAL LETTER I,18,3,"2017,2021,2024",5,0,3,10
+nbc,Latn,nbc_Latn,Chang Naga,5,Nd,DIGIT FIVE,18,4,"2017,2019,2021,2024",4,6,3,5
+nbc,Latn,nbc_Latn,Chang Naga,6,Nd,DIGIT SIX,17,4,"2017,2019,2021,2024",6,5,2,4
+nbc,Latn,nbc_Latn,Chang Naga,7,Nd,DIGIT SEVEN,17,4,"2017,2019,2021,2024",3,5,3,6
+nbc,Latn,nbc_Latn,Chang Naga,8,Nd,DIGIT EIGHT,16,4,"2017,2019,2021,2024",3,5,3,5
+nbc,Latn,nbc_Latn,Chang Naga,9,Nd,DIGIT NINE,15,4,"2017,2019,2021,2024",3,5,2,5
+nbc,Latn,nbc_Latn,Chang Naga,Y,Lu,LATIN CAPITAL LETTER Y,13,3,"2017,2019,2024",11,1,0,1
+nbc,Latn,nbc_Latn,Chang Naga,v,Ll,LATIN SMALL LETTER V,13,3,"2017,2019,2024",1,1,0,11
+nbc,Latn,nbc_Latn,Chang Naga,U,Lu,LATIN CAPITAL LETTER U,12,3,"2017,2021,2024",1,0,3,8
+nbc,Latn,nbc_Latn,Chang Naga,G,Lu,LATIN CAPITAL LETTER G,12,3,"2017,2019,2024",10,1,0,1
+nbc,Latn,nbc_Latn,Chang Naga,Z,Lu,LATIN CAPITAL LETTER Z,10,2,"2021,2024",0,0,5,5
+nbc,Latn,nbc_Latn,Chang Naga,O,Lu,LATIN CAPITAL LETTER O,10,3,"2017,2021,2024",1,0,2,7
+nbc,Latn,nbc_Latn,Chang Naga,’,Pf,RIGHT SINGLE QUOTATION MARK,8,3,"2017,2021,2024",4,0,2,2
+nbc,Latn,nbc_Latn,Chang Naga,‘,Pi,LEFT SINGLE QUOTATION MARK,8,3,"2017,2021,2024",4,0,2,2
+nbc,Latn,nbc_Latn,Chang Naga,#,Po,NUMBER SIGN,8,1,2024,0,0,0,8
+nbc,Latn,nbc_Latn,Chang Naga,/,Po,SOLIDUS,7,2,"2017,2024",5,0,0,2
+nbc,Latn,nbc_Latn,Chang Naga,:,Po,COLON,5,3,"2017,2021,2024",2,0,1,2
+nbc,Latn,nbc_Latn,Chang Naga,W,Lu,LATIN CAPITAL LETTER W,3,2,"2017,2024",2,0,0,1
+nbc,Latn,nbc_Latn,Chang Naga,!,Po,EXCLAMATION MARK,3,1,2017,3,0,0,0
+nbc,Latn,nbc_Latn,Chang Naga,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,2,1,2024,0,0,0,2
+nbc,Latn,nbc_Latn,Chang Naga,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,1,1,2019,0,1,0,0
+nbc,Latn,nbc_Latn,Chang Naga,x,Ll,LATIN SMALL LETTER X,1,1,2024,0,0,0,1
+nbc,Latn,nbc_Latn,Chang Naga,©,So,COPYRIGHT SIGN,1,1,2024,0,0,0,1

@@ -1,0 +1,15 @@
+{
+  "language_code": "zsr_Latn",
+  "iso_639_3": "zsr",
+  "script": "Latn",
+  "language_name": "Southern Rincon Zapotec",
+  "total_characters": 90,
+  "total_frequency": 120645,
+  "years_covered": [
+    "2014",
+    "2020",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:17.052923"
+}

@@ -1,0 +1,16 @@
+{
+  "language_code": "wos_Latn",
+  "iso_639_3": "wos",
+  "script": "Latn",
+  "language_name": "Hanga Hundi",
+  "total_characters": 82,
+  "total_frequency": 1832503,
+  "years_covered": [
+    "2018",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:15.547621"
+}

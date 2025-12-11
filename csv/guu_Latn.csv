@@ -1,0 +1,87 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency,year_2024_frequency
+guu,Latn,guu_Latn,Yanomamö, ,Zs,SPACE,7569,3,"2014,2017,2024",2893,4387,289
+guu,Latn,guu_Latn,Yanomamö,a,Ll,LATIN SMALL LETTER A,5258,3,"2014,2017,2024",2157,2883,218
+guu,Latn,guu_Latn,Yanomamö,i,Ll,LATIN SMALL LETTER I,2955,3,"2014,2017,2024",1111,1751,93
+guu,Latn,guu_Latn,Yanomamö,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,2395,3,"2014,2017,2024",852,1452,91
+guu,Latn,guu_Latn,Yanomamö,o,Ll,LATIN SMALL LETTER O,1806,3,"2014,2017,2024",804,906,96
+guu,Latn,guu_Latn,Yanomamö,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,1773,3,"2014,2017,2024",662,1027,84
+guu,Latn,guu_Latn,Yanomamö,l,Ll,LATIN SMALL LETTER L,1738,3,"2014,2017,2024",734,930,74
+guu,Latn,guu_Latn,Yanomamö,m,Ll,LATIN SMALL LETTER M,1696,3,"2014,2017,2024",662,960,74
+guu,Latn,guu_Latn,Yanomamö,b,Ll,LATIN SMALL LETTER B,1620,3,"2014,2017,2024",634,911,75
+guu,Latn,guu_Latn,Yanomamö,e,Ll,LATIN SMALL LETTER E,1475,3,"2014,2017,2024",539,891,45
+guu,Latn,guu_Latn,Yanomamö,u,Ll,LATIN SMALL LETTER U,1467,3,"2014,2017,2024",590,824,53
+guu,Latn,guu_Latn,Yanomamö,c,Ll,LATIN SMALL LETTER C,1321,3,"2014,2017,2024",504,766,51
+guu,Latn,guu_Latn,Yanomamö,j,Ll,LATIN SMALL LETTER J,1127,3,"2014,2017,2024",500,586,41
+guu,Latn,guu_Latn,Yanomamö,w,Ll,LATIN SMALL LETTER W,1082,3,"2014,2017,2024",412,635,35
+guu,Latn,guu_Latn,Yanomamö,n,Ll,LATIN SMALL LETTER N,1037,3,"2014,2017,2024",345,638,54
+guu,Latn,guu_Latn,Yanomamö,d,Ll,LATIN SMALL LETTER D,1003,3,"2014,2017,2024",434,537,32
+guu,Latn,guu_Latn,Yanomamö,t,Ll,LATIN SMALL LETTER T,765,3,"2014,2017,2024",244,489,32
+guu,Latn,guu_Latn,Yanomamö,̦,Mn,COMBINING COMMA BELOW,669,3,"2014,2017,2024",255,391,23
+guu,Latn,guu_Latn,Yanomamö,",",Po,COMMA,605,3,"2014,2017,2024",274,304,27
+guu,Latn,guu_Latn,Yanomamö,.,Po,FULL STOP,585,3,"2014,2017,2024",235,318,32
+guu,Latn,guu_Latn,Yanomamö,s,Ll,LATIN SMALL LETTER S,560,3,"2014,2017,2024",223,309,28
+guu,Latn,guu_Latn,Yanomamö,y,Ll,LATIN SMALL LETTER Y,557,3,"2014,2017,2024",236,288,33
+guu,Latn,guu_Latn,Yanomamö,f,Ll,LATIN SMALL LETTER F,528,3,"2014,2017,2024",218,271,39
+guu,Latn,guu_Latn,Yanomamö,B,Lu,LATIN CAPITAL LETTER B,273,3,"2014,2017,2024",80,184,9
+guu,Latn,guu_Latn,Yanomamö,h,Ll,LATIN SMALL LETTER H,232,3,"2014,2017,2024",91,124,17
+guu,Latn,guu_Latn,Yanomamö,Y,Lu,LATIN CAPITAL LETTER Y,221,3,"2014,2017,2024",78,141,2
+guu,Latn,guu_Latn,Yanomamö,r,Ll,LATIN SMALL LETTER R,181,3,"2014,2017,2024",30,147,4
+guu,Latn,guu_Latn,Yanomamö,J,Lu,LATIN CAPITAL LETTER J,120,3,"2014,2017,2024",59,55,6
+guu,Latn,guu_Latn,Yanomamö,Ö,Lu,LATIN CAPITAL LETTER O WITH DIAERESIS,119,3,"2014,2017,2024",49,67,3
+guu,Latn,guu_Latn,Yanomamö,1,Nd,DIGIT ONE,116,2,"2014,2017",51,65,0
+guu,Latn,guu_Latn,Yanomamö,q,Ll,LATIN SMALL LETTER Q,109,3,"2014,2017,2024",34,70,5
+guu,Latn,guu_Latn,Yanomamö,C,Lu,LATIN CAPITAL LETTER C,61,3,"2014,2017,2024",27,33,1
+guu,Latn,guu_Latn,Yanomamö,?,Po,QUESTION MARK,59,3,"2014,2017,2024",30,27,2
+guu,Latn,guu_Latn,Yanomamö,¿,Po,INVERTED QUESTION MARK,59,3,"2014,2017,2024",30,27,2
+guu,Latn,guu_Latn,Yanomamö,A,Lu,LATIN CAPITAL LETTER A,54,3,"2014,2017,2024",34,16,4
+guu,Latn,guu_Latn,Yanomamö,I,Lu,LATIN CAPITAL LETTER I,54,3,"2014,2017,2024",10,42,2
+guu,Latn,guu_Latn,Yanomamö,2,Nd,DIGIT TWO,52,2,"2014,2017",18,34,0
+guu,Latn,guu_Latn,Yanomamö,p,Ll,LATIN SMALL LETTER P,38,2,"2017,2024",0,35,3
+guu,Latn,guu_Latn,Yanomamö,T,Lu,LATIN CAPITAL LETTER T,37,3,"2014,2017,2024",11,22,4
+guu,Latn,guu_Latn,Yanomamö,”,Pf,RIGHT DOUBLE QUOTATION MARK,31,2,"2014,2017",7,24,0
+guu,Latn,guu_Latn,Yanomamö,“,Pi,LEFT DOUBLE QUOTATION MARK,31,2,"2014,2017",7,24,0
+guu,Latn,guu_Latn,Yanomamö,E,Lu,LATIN CAPITAL LETTER E,30,3,"2014,2017,2024",23,6,1
+guu,Latn,guu_Latn,Yanomamö,W,Lu,LATIN CAPITAL LETTER W,29,2,"2014,2017",11,18,0
+guu,Latn,guu_Latn,Yanomamö,S,Lu,LATIN CAPITAL LETTER S,28,3,"2014,2017,2024",16,10,2
+guu,Latn,guu_Latn,Yanomamö,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,28,2,"2014,2017",14,14,0
+guu,Latn,guu_Latn,Yanomamö,M,Lu,LATIN CAPITAL LETTER M,27,3,"2014,2017,2024",14,10,3
+guu,Latn,guu_Latn,Yanomamö,4,Nd,DIGIT FOUR,25,2,"2014,2017",13,12,0
+guu,Latn,guu_Latn,Yanomamö,3,Nd,DIGIT THREE,24,2,"2014,2017",10,14,0
+guu,Latn,guu_Latn,Yanomamö,F,Lu,LATIN CAPITAL LETTER F,23,2,"2014,2017",3,20,0
+guu,Latn,guu_Latn,Yanomamö,5,Nd,DIGIT FIVE,20,2,"2014,2017",9,11,0
+guu,Latn,guu_Latn,Yanomamö,7,Nd,DIGIT SEVEN,19,2,"2014,2017",8,11,0
+guu,Latn,guu_Latn,Yanomamö,0,Nd,DIGIT ZERO,18,2,"2014,2017",8,10,0
+guu,Latn,guu_Latn,Yanomamö,8,Nd,DIGIT EIGHT,18,2,"2014,2017",8,10,0
+guu,Latn,guu_Latn,Yanomamö,6,Nd,DIGIT SIX,18,2,"2014,2017",8,10,0
+guu,Latn,guu_Latn,Yanomamö,9,Nd,DIGIT NINE,17,2,"2014,2017",7,10,0
+guu,Latn,guu_Latn,Yanomamö,g,Ll,LATIN SMALL LETTER G,14,2,"2017,2024",0,12,2
+guu,Latn,guu_Latn,Yanomamö,v,Ll,LATIN SMALL LETTER V,12,2,"2014,2017",6,6,0
+guu,Latn,guu_Latn,Yanomamö,D,Lu,LATIN CAPITAL LETTER D,12,2,"2014,2017",9,3,0
+guu,Latn,guu_Latn,Yanomamö,—,Pd,EM DASH,11,3,"2014,2017,2024",2,3,6
+guu,Latn,guu_Latn,Yanomamö,í,Ll,LATIN SMALL LETTER I WITH ACUTE,10,2,"2014,2017",3,7,0
+guu,Latn,guu_Latn,Yanomamö,é,Ll,LATIN SMALL LETTER E WITH ACUTE,9,1,2014,9,0,0
+guu,Latn,guu_Latn,Yanomamö,N,Lu,LATIN CAPITAL LETTER N,9,3,"2014,2017,2024",3,5,1
+guu,Latn,guu_Latn,Yanomamö,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,8,1,2017,0,8,0
+guu,Latn,guu_Latn,Yanomamö,z,Ll,LATIN SMALL LETTER Z,8,2,"2017,2024",0,5,3
+guu,Latn,guu_Latn,Yanomamö,U,Lu,LATIN CAPITAL LETTER U,8,2,"2014,2017",5,3,0
+guu,Latn,guu_Latn,Yanomamö,L,Lu,LATIN CAPITAL LETTER L,7,2,"2014,2017",6,1,0
+guu,Latn,guu_Latn,Yanomamö,k,Ll,LATIN SMALL LETTER K,6,1,2024,0,0,6
+guu,Latn,guu_Latn,Yanomamö,/,Po,SOLIDUS,6,1,2017,0,6,0
+guu,Latn,guu_Latn,Yanomamö,O,Lu,LATIN CAPITAL LETTER O,6,2,"2014,2017",2,4,0
+guu,Latn,guu_Latn,Yanomamö,H,Lu,LATIN CAPITAL LETTER H,4,2,"2014,2017",1,3,0
+guu,Latn,guu_Latn,Yanomamö,:,Po,COLON,4,2,"2017,2024",0,3,1
+guu,Latn,guu_Latn,Yanomamö,!,Po,EXCLAMATION MARK,3,2,"2014,2017",2,1,0
+guu,Latn,guu_Latn,Yanomamö,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,3,1,2017,0,3,0
+guu,Latn,guu_Latn,Yanomamö,G,Lu,LATIN CAPITAL LETTER G,3,1,2017,0,3,0
+guu,Latn,guu_Latn,Yanomamö,x,Ll,LATIN SMALL LETTER X,3,1,2017,0,3,0
+guu,Latn,guu_Latn,Yanomamö,¡,Po,INVERTED EXCLAMATION MARK,3,2,"2014,2017",2,1,0
+guu,Latn,guu_Latn,Yanomamö,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,3,1,2017,0,3,0
+guu,Latn,guu_Latn,Yanomamö,Q,Lu,LATIN CAPITAL LETTER Q,2,1,2017,0,2,0
+guu,Latn,guu_Latn,Yanomamö,),Pe,RIGHT PARENTHESIS,2,1,2017,0,2,0
+guu,Latn,guu_Latn,Yanomamö,(,Ps,LEFT PARENTHESIS,2,1,2017,0,2,0
+guu,Latn,guu_Latn,Yanomamö,P,Lu,LATIN CAPITAL LETTER P,2,2,"2014,2017",1,1,0
+guu,Latn,guu_Latn,Yanomamö,-,Pd,HYPHEN-MINUS,1,1,2017,0,1,0
+guu,Latn,guu_Latn,Yanomamö,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,1,1,2017,0,1,0
+guu,Latn,guu_Latn,Yanomamö,Ä,Lu,LATIN CAPITAL LETTER A WITH DIAERESIS,1,1,2017,0,1,0
+guu,Latn,guu_Latn,Yanomamö,R,Lu,LATIN CAPITAL LETTER R,1,1,2017,0,1,0
+guu,Latn,guu_Latn,Yanomamö,–,Pd,EN DASH,1,1,2017,0,1,0

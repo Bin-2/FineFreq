@@ -1,0 +1,17 @@
+{
+  "language_code": "kbh_Latn",
+  "iso_639_3": "kbh",
+  "script": "Latn",
+  "language_name": "Camsá",
+  "total_characters": 100,
+  "total_frequency": 766792,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2019",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:58.873820"
+}

@@ -1,0 +1,24 @@
+{
+  "language_code": "bew_Latn",
+  "iso_639_3": "bew",
+  "script": "Latn",
+  "language_name": "Betawi",
+  "total_characters": 6828,
+  "total_frequency": 1726347350,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:48.552460"
+}

@@ -1,0 +1,16 @@
+{
+  "language_code": "eri_Latn",
+  "iso_639_3": "eri",
+  "script": "Latn",
+  "language_name": "Ogea",
+  "total_characters": 90,
+  "total_frequency": 411323,
+  "years_covered": [
+    "2018",
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:53.066485"
+}

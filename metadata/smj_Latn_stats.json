@@ -1,0 +1,24 @@
+{
+  "language_code": "smj_Latn",
+  "iso_639_3": "smj",
+  "script": "Latn",
+  "language_name": "Lule Sami",
+  "total_characters": 218,
+  "total_frequency": 4334465,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:10.585526"
+}

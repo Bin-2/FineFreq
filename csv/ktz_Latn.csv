@@ -1,0 +1,104 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2020_frequency
+ktz,Latn,ktz_Latn,Juǀʼhoan, ,Zs,SPACE,2052,3,"2017,2019,2020",197,1189,666
+ktz,Latn,ktz_Latn,Juǀʼhoan,a,Ll,LATIN SMALL LETTER A,1448,3,"2017,2019,2020",180,732,536
+ktz,Latn,ktz_Latn,Juǀʼhoan,e,Ll,LATIN SMALL LETTER E,550,3,"2017,2019,2020",76,301,173
+ktz,Latn,ktz_Latn,Juǀʼhoan,o,Ll,LATIN SMALL LETTER O,548,3,"2017,2019,2020",93,271,184
+ktz,Latn,ktz_Latn,Juǀʼhoan,k,Ll,LATIN SMALL LETTER K,518,3,"2017,2019,2020",66,274,178
+ktz,Latn,ktz_Latn,Juǀʼhoan,n,Ll,LATIN SMALL LETTER N,493,3,"2017,2019,2020",55,232,206
+ktz,Latn,ktz_Latn,Juǀʼhoan,i,Ll,LATIN SMALL LETTER I,462,3,"2017,2019,2020",75,295,92
+ktz,Latn,ktz_Latn,Juǀʼhoan,h,Ll,LATIN SMALL LETTER H,425,3,"2017,2019,2020",23,289,113
+ktz,Latn,ktz_Latn,Juǀʼhoan,u,Ll,LATIN SMALL LETTER U,384,3,"2017,2019,2020",33,247,104
+ktz,Latn,ktz_Latn,Juǀʼhoan,t,Ll,LATIN SMALL LETTER T,346,3,"2017,2019,2020",39,213,94
+ktz,Latn,ktz_Latn,Juǀʼhoan,s,Ll,LATIN SMALL LETTER S,291,3,"2017,2019,2020",47,161,83
+ktz,Latn,ktz_Latn,Juǀʼhoan,|,Sm,VERTICAL LINE,280,2,"2019,2020",0,254,26
+ktz,Latn,ktz_Latn,Juǀʼhoan,’,Pf,RIGHT SINGLE QUOTATION MARK,254,3,"2017,2019,2020",1,134,119
+ktz,Latn,ktz_Latn,Juǀʼhoan,!,Po,EXCLAMATION MARK,253,3,"2017,2019,2020",28,119,106
+ktz,Latn,ktz_Latn,Juǀʼhoan,g,Ll,LATIN SMALL LETTER G,197,3,"2017,2019,2020",18,104,75
+ktz,Latn,ktz_Latn,Juǀʼhoan,m,Ll,LATIN SMALL LETTER M,174,3,"2017,2019,2020",28,83,63
+ktz,Latn,ktz_Latn,Juǀʼhoan,.,Po,FULL STOP,115,3,"2017,2019,2020",24,71,20
+ktz,Latn,ktz_Latn,Juǀʼhoan,r,Ll,LATIN SMALL LETTER R,109,3,"2017,2019,2020",17,68,24
+ktz,Latn,ktz_Latn,Juǀʼhoan,x,Ll,LATIN SMALL LETTER X,102,3,"2017,2019,2020",26,42,34
+ktz,Latn,ktz_Latn,Juǀʼhoan,",",Po,COMMA,94,3,"2017,2019,2020",5,67,22
+ktz,Latn,ktz_Latn,Juǀʼhoan,c,Ll,LATIN SMALL LETTER C,92,3,"2017,2019,2020",10,55,27
+ktz,Latn,ktz_Latn,Juǀʼhoan,d,Ll,LATIN SMALL LETTER D,91,3,"2017,2019,2020",4,72,15
+ktz,Latn,ktz_Latn,Juǀʼhoan,ǀ,Lo,LATIN LETTER DENTAL CLICK,84,2,"2017,2020",31,0,53
+ktz,Latn,ktz_Latn,Juǀʼhoan,ǁ,Lo,LATIN LETTER LATERAL CLICK,77,2,"2017,2020",25,0,52
+ktz,Latn,ktz_Latn,Juǀʼhoan,T,Lu,LATIN CAPITAL LETTER T,73,3,"2017,2019,2020",2,52,19
+ktz,Latn,ktz_Latn,Juǀʼhoan,-,Pd,HYPHEN-MINUS,48,3,"2017,2019,2020",37,3,8
+ktz,Latn,ktz_Latn,Juǀʼhoan,‡,Po,DOUBLE DAGGER,48,1,2019,0,48,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,q,Ll,LATIN SMALL LETTER Q,42,3,"2017,2019,2020",1,22,19
+ktz,Latn,ktz_Latn,Juǀʼhoan,l,Ll,LATIN SMALL LETTER L,39,3,"2017,2019,2020",4,30,5
+ktz,Latn,ktz_Latn,Juǀʼhoan,ǂ,Lo,LATIN LETTER ALVEOLAR CLICK,38,2,"2017,2020",8,0,30
+ktz,Latn,ktz_Latn,Juǀʼhoan,y,Ll,LATIN SMALL LETTER Y,34,3,"2017,2019,2020",1,16,17
+ktz,Latn,ktz_Latn,Juǀʼhoan,',Po,APOSTROPHE,31,2,"2017,2020",27,0,4
+ktz,Latn,ktz_Latn,Juǀʼhoan,v,Ll,LATIN SMALL LETTER V,29,2,"2019,2020",0,6,23
+ktz,Latn,ktz_Latn,Juǀʼhoan,j,Ll,LATIN SMALL LETTER J,29,3,"2017,2019,2020",3,22,4
+ktz,Latn,ktz_Latn,Juǀʼhoan,b,Ll,LATIN SMALL LETTER B,27,3,"2017,2019,2020",6,13,8
+ktz,Latn,ktz_Latn,Juǀʼhoan,z,Ll,LATIN SMALL LETTER Z,27,3,"2017,2019,2020",4,17,6
+ktz,Latn,ktz_Latn,Juǀʼhoan,w,Ll,LATIN SMALL LETTER W,20,3,"2017,2019,2020",1,11,8
+ktz,Latn,ktz_Latn,Juǀʼhoan,I,Lu,LATIN CAPITAL LETTER I,19,3,"2017,2019,2020",1,16,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,\,Po,REVERSE SOLIDUS,18,1,2020,0,0,18
+ktz,Latn,ktz_Latn,Juǀʼhoan,1,Nd,DIGIT ONE,17,1,2020,0,0,17
+ktz,Latn,ktz_Latn,Juǀʼhoan,:,Po,COLON,16,2,"2019,2020",0,6,10
+ktz,Latn,ktz_Latn,Juǀʼhoan,S,Lu,LATIN CAPITAL LETTER S,15,3,"2017,2019,2020",6,7,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,K,Lu,LATIN CAPITAL LETTER K,14,3,"2017,2019,2020",8,5,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,“,Pi,LEFT DOUBLE QUOTATION MARK,13,2,"2019,2020",0,11,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,N,Lu,LATIN CAPITAL LETTER N,12,2,"2017,2019",4,8,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,R,Lu,LATIN CAPITAL LETTER R,11,2,"2019,2020",0,8,3
+ktz,Latn,ktz_Latn,Juǀʼhoan,”,Pf,RIGHT DOUBLE QUOTATION MARK,11,2,"2019,2020",0,10,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,E,Lu,LATIN CAPITAL LETTER E,9,3,"2017,2019,2020",2,6,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,à,Ll,LATIN SMALL LETTER A WITH GRAVE,9,1,2020,0,0,9
+ktz,Latn,ktz_Latn,Juǀʼhoan,D,Lu,LATIN CAPITAL LETTER D,8,2,"2019,2020",0,6,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,M,Lu,LATIN CAPITAL LETTER M,8,2,"2019,2020",0,6,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,G,Lu,LATIN CAPITAL LETTER G,7,2,"2017,2019",1,6,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,X,Lu,LATIN CAPITAL LETTER X,7,2,"2017,2020",1,0,6
+ktz,Latn,ktz_Latn,Juǀʼhoan,O,Lu,LATIN CAPITAL LETTER O,6,2,"2017,2019",2,4,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,2,Nd,DIGIT TWO,6,2,"2017,2020",1,0,5
+ktz,Latn,ktz_Latn,Juǀʼhoan,W,Lu,LATIN CAPITAL LETTER W,6,1,2019,0,6,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,p,Ll,LATIN SMALL LETTER P,6,3,"2017,2019,2020",2,2,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,V,Lu,LATIN CAPITAL LETTER V,6,1,2017,6,0,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,?,Po,QUESTION MARK,5,1,2019,0,5,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,H,Lu,LATIN CAPITAL LETTER H,5,1,2019,0,5,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,7,Nd,DIGIT SEVEN,5,1,2020,0,0,5
+ktz,Latn,ktz_Latn,Juǀʼhoan,L,Lu,LATIN CAPITAL LETTER L,4,1,2019,0,4,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,4,Nd,DIGIT FOUR,4,2,"2017,2020",1,0,3
+ktz,Latn,ktz_Latn,Juǀʼhoan,5,Nd,DIGIT FIVE,4,2,"2017,2020",1,0,3
+ktz,Latn,ktz_Latn,Juǀʼhoan,F,Lu,LATIN CAPITAL LETTER F,4,1,2019,0,4,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,),Pe,RIGHT PARENTHESIS,3,2,"2019,2020",0,2,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,;,Po,SEMICOLON,3,2,"2019,2020",0,2,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,Y,Lu,LATIN CAPITAL LETTER Y,3,2,"2019,2020",0,2,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,(,Ps,LEFT PARENTHESIS,3,2,"2019,2020",0,2,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,A,Lu,LATIN CAPITAL LETTER A,3,2,"2017,2019",1,2,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,9,Nd,DIGIT NINE,3,2,"2017,2020",1,0,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,3,Nd,DIGIT THREE,3,2,"2017,2020",1,0,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,6,Nd,DIGIT SIX,3,2,"2017,2020",1,0,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,J,Lu,LATIN CAPITAL LETTER J,3,2,"2019,2020",0,2,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,스,Lo,HANGUL SYLLABLE SEU,2,1,2020,0,0,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,0,Nd,DIGIT ZERO,2,1,2020,0,0,2
+ktz,Latn,ktz_Latn,Juǀʼhoan,8,Nd,DIGIT EIGHT,2,2,"2017,2020",1,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,‘,Pi,LEFT SINGLE QUOTATION MARK,2,1,2019,0,2,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,f,Ll,LATIN SMALL LETTER F,2,1,2019,0,2,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,B,Lu,LATIN CAPITAL LETTER B,2,1,2019,0,2,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,일,Lo,HANGUL SYLLABLE IL,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,U,Lu,LATIN CAPITAL LETTER U,1,1,2017,1,0,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,P,Lu,LATIN CAPITAL LETTER P,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,위,Lo,HANGUL SYLLABLE WI,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,지,Lo,HANGUL SYLLABLE JI,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,용,Lo,HANGUL SYLLABLE YONG,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,인,Lo,HANGUL SYLLABLE IN,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,경,Lo,HANGUL SYLLABLE GYEONG,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,성,Lo,HANGUL SYLLABLE SEONG,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,르,Lo,HANGUL SYLLABLE REU,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,장,Lo,HANGUL SYLLABLE JANG,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,타,Lo,HANGUL SYLLABLE TA,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,/,Po,SOLIDUS,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,어,Lo,HANGUL SYLLABLE EO,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,언,Lo,HANGUL SYLLABLE EON,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,@,Po,COMMERCIAL AT,1,1,2017,1,0,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,호,Lo,HANGUL SYLLABLE HO,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,번,Lo,HANGUL SYLLABLE BEON,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,트,Lo,HANGUL SYLLABLE TEU,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,립,Lo,HANGUL SYLLABLE RIB,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,크,Lo,HANGUL SYLLABLE KEU,1,1,2020,0,0,1
+ktz,Latn,ktz_Latn,Juǀʼhoan,ː,Lm,MODIFIER LETTER TRIANGULAR COLON,1,1,2017,1,0,0
+ktz,Latn,ktz_Latn,Juǀʼhoan,á,Ll,LATIN SMALL LETTER A WITH ACUTE,1,1,2020,0,0,1

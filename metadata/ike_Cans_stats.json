@@ -1,0 +1,24 @@
+{
+  "language_code": "ike_Cans",
+  "iso_639_3": "ike",
+  "script": "Cans",
+  "language_name": "Eastern Canadian Inuktitut",
+  "total_characters": 417,
+  "total_frequency": 15986748,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:56.369639"
+}

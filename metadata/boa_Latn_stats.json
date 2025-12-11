@@ -1,0 +1,20 @@
+{
+  "language_code": "boa_Latn",
+  "iso_639_3": "boa",
+  "script": "Latn",
+  "language_name": "Bora",
+  "total_characters": 94,
+  "total_frequency": 433480,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:49.171751"
+}

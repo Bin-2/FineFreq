@@ -1,0 +1,24 @@
+{
+  "language_code": "kaz_Cyrl",
+  "iso_639_3": "kaz",
+  "script": "Cyrl",
+  "language_name": "Kazakh",
+  "total_characters": 10938,
+  "total_frequency": 12126769418,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:58.825299"
+}

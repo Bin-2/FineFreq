@@ -1,0 +1,94 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2014_frequency,year_2017_frequency,year_2018_frequency,year_2020_frequency,year_2021_frequency
+cpu,Latn,cpu_Latn,Pichis Ashéninka,a,Ll,LATIN SMALL LETTER A,43834,6,"2013,2014,2017,2018,2020,2021",4671,3132,2626,673,32236,496
+cpu,Latn,cpu_Latn,Pichis Ashéninka,i,Ll,LATIN SMALL LETTER I,34808,6,"2013,2014,2017,2018,2020,2021",3694,2454,1952,659,25665,384
+cpu,Latn,cpu_Latn,Pichis Ashéninka, ,Zs,SPACE,22122,6,"2013,2014,2017,2018,2020,2021",2322,1629,1215,454,16303,199
+cpu,Latn,cpu_Latn,Pichis Ashéninka,t,Ll,LATIN SMALL LETTER T,20740,6,"2013,2014,2017,2018,2020,2021",2383,1389,1289,305,15134,240
+cpu,Latn,cpu_Latn,Pichis Ashéninka,r,Ll,LATIN SMALL LETTER R,17346,6,"2013,2014,2017,2018,2020,2021",1840,1168,986,315,12839,198
+cpu,Latn,cpu_Latn,Pichis Ashéninka,e,Ll,LATIN SMALL LETTER E,16396,6,"2013,2014,2017,2018,2020,2021",1902,1107,1019,204,11971,193
+cpu,Latn,cpu_Latn,Pichis Ashéninka,n,Ll,LATIN SMALL LETTER N,14549,6,"2013,2014,2017,2018,2020,2021",1404,1091,781,215,10882,176
+cpu,Latn,cpu_Latn,Pichis Ashéninka,o,Ll,LATIN SMALL LETTER O,12229,6,"2013,2014,2017,2018,2020,2021",1263,798,681,205,9154,128
+cpu,Latn,cpu_Latn,Pichis Ashéninka,k,Ll,LATIN SMALL LETTER K,11375,4,"2014,2018,2020,2021",0,1059,0,226,9954,136
+cpu,Latn,cpu_Latn,Pichis Ashéninka,s,Ll,LATIN SMALL LETTER S,6086,6,"2013,2014,2017,2018,2020,2021",584,499,313,78,4547,65
+cpu,Latn,cpu_Latn,Pichis Ashéninka,m,Ll,LATIN SMALL LETTER M,5609,6,"2013,2014,2017,2018,2020,2021",543,335,293,138,4236,64
+cpu,Latn,cpu_Latn,Pichis Ashéninka,p,Ll,LATIN SMALL LETTER P,5379,6,"2013,2014,2017,2018,2020,2021",615,377,309,76,3934,68
+cpu,Latn,cpu_Latn,Pichis Ashéninka,y,Ll,LATIN SMALL LETTER Y,5267,6,"2013,2014,2017,2018,2020,2021",836,295,460,31,3585,60
+cpu,Latn,cpu_Latn,Pichis Ashéninka,h,Ll,LATIN SMALL LETTER H,3530,6,"2013,2014,2017,2018,2020,2021",395,180,229,29,2654,43
+cpu,Latn,cpu_Latn,Pichis Ashéninka,v,Ll,LATIN SMALL LETTER V,3522,6,"2013,2014,2017,2018,2020,2021",364,182,186,32,2719,39
+cpu,Latn,cpu_Latn,Pichis Ashéninka,z,Ll,LATIN SMALL LETTER Z,3518,6,"2013,2014,2017,2018,2020,2021",496,226,273,75,2422,26
+cpu,Latn,cpu_Latn,Pichis Ashéninka,.,Po,FULL STOP,2764,6,"2013,2014,2017,2018,2020,2021",186,244,84,66,2158,26
+cpu,Latn,cpu_Latn,Pichis Ashéninka,",",Po,COMMA,2616,6,"2013,2014,2017,2018,2020,2021",199,187,116,64,2024,26
+cpu,Latn,cpu_Latn,Pichis Ashéninka,c,Ll,LATIN SMALL LETTER C,2277,6,"2013,2014,2017,2018,2020,2021",1054,46,587,25,560,5
+cpu,Latn,cpu_Latn,Pichis Ashéninka,j,Ll,LATIN SMALL LETTER J,2109,6,"2013,2014,2017,2018,2020,2021",223,205,125,23,1517,16
+cpu,Latn,cpu_Latn,Pichis Ashéninka,I,Lu,LATIN CAPITAL LETTER I,1600,6,"2013,2014,2017,2018,2020,2021",136,130,20,62,1242,10
+cpu,Latn,cpu_Latn,Pichis Ashéninka,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,1230,6,"2013,2014,2017,2018,2020,2021",124,120,64,6,892,24
+cpu,Latn,cpu_Latn,Pichis Ashéninka,A,Lu,LATIN CAPITAL LETTER A,1144,6,"2013,2014,2017,2018,2020,2021",188,65,27,25,827,12
+cpu,Latn,cpu_Latn,Pichis Ashéninka,P,Lu,LATIN CAPITAL LETTER P,830,6,"2013,2014,2017,2018,2020,2021",48,38,8,4,724,8
+cpu,Latn,cpu_Latn,Pichis Ashéninka,u,Ll,LATIN SMALL LETTER U,788,6,"2013,2014,2017,2018,2020,2021",256,38,146,18,327,3
+cpu,Latn,cpu_Latn,Pichis Ashéninka,T,Lu,LATIN CAPITAL LETTER T,763,6,"2013,2014,2017,2018,2020,2021",119,42,27,7,561,7
+cpu,Latn,cpu_Latn,Pichis Ashéninka,J,Lu,LATIN CAPITAL LETTER J,672,6,"2013,2014,2017,2018,2020,2021",13,106,8,33,509,3
+cpu,Latn,cpu_Latn,Pichis Ashéninka,1,Nd,DIGIT ONE,580,5,"2013,2014,2018,2020,2021",13,93,0,17,447,10
+cpu,Latn,cpu_Latn,Pichis Ashéninka,-,Pd,HYPHEN-MINUS,491,5,"2013,2014,2017,2018,2020",34,53,1,10,393,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,q,Ll,LATIN SMALL LETTER Q,420,4,"2013,2017,2018,2020",262,0,143,6,9,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,E,Lu,LATIN CAPITAL LETTER E,365,5,"2013,2014,2017,2018,2020",116,16,8,13,212,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,2,Nd,DIGIT TWO,357,5,"2013,2014,2018,2020,2021",13,60,0,9,273,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,O,Lu,LATIN CAPITAL LETTER O,355,6,"2013,2014,2017,2018,2020,2021",17,26,6,4,299,3
+cpu,Latn,cpu_Latn,Pichis Ashéninka,l,Ll,LATIN SMALL LETTER L,341,5,"2013,2014,2017,2018,2020",15,47,11,21,247,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,”,Pf,RIGHT DOUBLE QUOTATION MARK,301,4,"2014,2018,2020,2021",0,68,0,2,229,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,“,Pi,LEFT DOUBLE QUOTATION MARK,301,4,"2014,2018,2020,2021",0,68,0,2,229,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,:,Po,COLON,300,6,"2013,2014,2017,2018,2020,2021",20,71,13,3,192,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,N,Lu,LATIN CAPITAL LETTER N,280,5,"2013,2014,2017,2018,2020",42,19,3,2,214,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,d,Ll,LATIN SMALL LETTER D,262,4,"2013,2014,2018,2020",2,23,0,18,219,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,í,Ll,LATIN SMALL LETTER I WITH ACUTE,230,3,"2014,2018,2020",0,15,0,18,197,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,C,Lu,LATIN CAPITAL LETTER C,218,5,"2013,2014,2017,2018,2020",43,13,6,2,154,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,M,Lu,LATIN CAPITAL LETTER M,209,5,"2013,2014,2017,2018,2020",11,21,5,10,162,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,b,Ll,LATIN SMALL LETTER B,207,3,"2014,2018,2020",0,5,0,27,175,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,S,Lu,LATIN CAPITAL LETTER S,174,6,"2013,2014,2017,2018,2020,2021",5,7,1,12,148,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,R,Lu,LATIN CAPITAL LETTER R,173,4,"2013,2014,2018,2020",36,2,0,4,131,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,3,Nd,DIGIT THREE,172,5,"2013,2014,2018,2020,2021",4,43,0,3,120,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,4,Nd,DIGIT FOUR,167,5,"2013,2014,2018,2020,2021",3,43,0,6,113,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,K,Lu,LATIN CAPITAL LETTER K,161,4,"2014,2018,2020,2021",0,12,0,1,145,3
+cpu,Latn,cpu_Latn,Pichis Ashéninka,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,152,3,"2014,2018,2020",0,57,0,1,94,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,é,Ll,LATIN SMALL LETTER E WITH ACUTE,142,4,"2013,2014,2018,2020",1,22,0,8,111,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,5,Nd,DIGIT FIVE,134,5,"2013,2014,2018,2020,2021",3,25,0,3,101,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,g,Ll,LATIN SMALL LETTER G,132,4,"2013,2014,2017,2020",21,19,6,0,86,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,7,Nd,DIGIT SEVEN,130,5,"2013,2014,2018,2020,2021",3,14,0,2,109,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,0,Nd,DIGIT ZERO,127,5,"2013,2014,2018,2020,2021",3,24,0,2,97,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,6,Nd,DIGIT SIX,126,5,"2013,2014,2018,2020,2021",3,24,0,2,95,2
+cpu,Latn,cpu_Latn,Pichis Ashéninka,8,Nd,DIGIT EIGHT,103,5,"2013,2014,2018,2020,2021",3,19,0,2,78,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,9,Nd,DIGIT NINE,98,5,"2013,2014,2018,2020,2021",3,16,0,2,76,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,H,Lu,LATIN CAPITAL LETTER H,86,2,"2013,2020",31,0,0,0,55,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,),Pe,RIGHT PARENTHESIS,76,2,"2014,2020",0,10,0,0,66,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,(,Ps,LEFT PARENTHESIS,76,2,"2014,2020",0,10,0,0,66,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,;,Po,SEMICOLON,71,4,"2013,2014,2017,2020",24,8,9,0,30,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,69,4,"2013,2014,2020,2021",30,3,0,0,35,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,"""",Po,QUOTATION MARK,69,2,"2013,2017",44,0,25,0,0,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,60,3,"2014,2018,2020",0,7,0,8,45,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,á,Ll,LATIN SMALL LETTER A WITH ACUTE,55,6,"2013,2014,2017,2018,2020,2021",4,8,3,4,35,1
+cpu,Latn,cpu_Latn,Pichis Ashéninka,¿,Po,INVERTED QUESTION MARK,55,3,"2014,2018,2020",0,21,0,1,33,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,?,Po,QUESTION MARK,55,3,"2014,2018,2020",0,21,0,1,33,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,D,Lu,LATIN CAPITAL LETTER D,49,2,"2018,2020",0,0,0,6,43,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,B,Lu,LATIN CAPITAL LETTER B,46,3,"2014,2018,2020",0,3,0,6,37,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,f,Ll,LATIN SMALL LETTER F,45,5,"2013,2014,2017,2018,2020",8,5,8,2,22,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,L,Lu,LATIN CAPITAL LETTER L,43,2,"2014,2020",0,5,0,0,38,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Y,Lu,LATIN CAPITAL LETTER Y,42,2,"2013,2020",33,0,0,0,9,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,G,Lu,LATIN CAPITAL LETTER G,39,2,"2014,2020",0,4,0,0,35,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Z,Lu,LATIN CAPITAL LETTER Z,39,3,"2013,2018,2020",1,0,0,3,35,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,V,Lu,LATIN CAPITAL LETTER V,27,1,2020,0,0,0,0,27,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,F,Lu,LATIN CAPITAL LETTER F,25,3,"2014,2018,2020",0,7,0,2,16,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,!,Po,EXCLAMATION MARK,22,2,"2014,2020",0,4,0,0,18,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,¡,Po,INVERTED EXCLAMATION MARK,22,2,"2014,2020",0,4,0,0,18,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,U,Lu,LATIN CAPITAL LETTER U,19,3,"2013,2018,2020",5,0,0,3,11,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,’,Pf,RIGHT SINGLE QUOTATION MARK,16,2,"2014,2020",0,10,0,0,6,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,‘,Pi,LEFT SINGLE QUOTATION MARK,16,2,"2014,2020",0,10,0,0,6,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,*,Po,ASTERISK,16,1,2020,0,0,0,0,16,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,–,Pd,EN DASH,14,1,2020,0,0,0,0,14,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,#,Po,NUMBER SIGN,9,1,2014,0,9,0,0,0,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Q,Lu,LATIN CAPITAL LETTER Q,8,2,"2013,2017",6,0,2,0,0,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,8,1,2020,0,0,0,0,8,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,6,2,"2018,2020",0,0,0,2,4,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,5,1,2020,0,0,0,0,5,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,†,Po,DAGGER,4,1,2020,0,0,0,0,4,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,4,1,2020,0,0,0,0,4,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,x,Ll,LATIN SMALL LETTER X,4,1,2020,0,0,0,0,4,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,3,1,2020,0,0,0,0,3,0
+cpu,Latn,cpu_Latn,Pichis Ashéninka,w,Ll,LATIN SMALL LETTER W,1,1,2014,0,1,0,0,0,0

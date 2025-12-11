@@ -1,0 +1,69 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2022_frequency
+lol,Latn,lol_Latn,Mongo,a,Ll,LATIN SMALL LETTER A,565,3,"2018,2019,2022",47,431,87
+lol,Latn,lol_Latn,Mongo, ,Zs,SPACE,518,3,"2018,2019,2022",71,365,82
+lol,Latn,lol_Latn,Mongo,o,Ll,LATIN SMALL LETTER O,342,3,"2018,2019,2022",36,262,44
+lol,Latn,lol_Latn,Mongo,e,Ll,LATIN SMALL LETTER E,238,3,"2018,2019,2022",49,141,48
+lol,Latn,lol_Latn,Mongo,i,Ll,LATIN SMALL LETTER I,213,3,"2018,2019,2022",24,159,30
+lol,Latn,lol_Latn,Mongo,k,Ll,LATIN SMALL LETTER K,206,3,"2018,2019,2022",20,159,27
+lol,Latn,lol_Latn,Mongo,l,Ll,LATIN SMALL LETTER L,174,3,"2018,2019,2022",33,108,33
+lol,Latn,lol_Latn,Mongo,n,Ll,LATIN SMALL LETTER N,151,3,"2018,2019,2022",23,91,37
+lol,Latn,lol_Latn,Mongo,b,Ll,LATIN SMALL LETTER B,110,3,"2018,2019,2022",15,65,30
+lol,Latn,lol_Latn,Mongo,t,Ll,LATIN SMALL LETTER T,110,3,"2018,2019,2022",22,77,11
+lol,Latn,lol_Latn,Mongo,m,Ll,LATIN SMALL LETTER M,85,3,"2018,2019,2022",15,57,13
+lol,Latn,lol_Latn,Mongo,s,Ll,LATIN SMALL LETTER S,80,3,"2018,2019,2022",18,46,16
+lol,Latn,lol_Latn,Mongo,’,Pf,RIGHT SINGLE QUOTATION MARK,70,3,"2018,2019,2022",23,42,5
+lol,Latn,lol_Latn,Mongo,d,Ll,LATIN SMALL LETTER D,61,3,"2018,2019,2022",5,49,7
+lol,Latn,lol_Latn,Mongo,y,Ll,LATIN SMALL LETTER Y,56,3,"2018,2019,2022",10,39,7
+lol,Latn,lol_Latn,Mongo,w,Ll,LATIN SMALL LETTER W,50,3,"2018,2019,2022",5,38,7
+lol,Latn,lol_Latn,Mongo,",",Po,COMMA,43,3,"2018,2019,2022",7,32,4
+lol,Latn,lol_Latn,Mongo,;,Po,SEMICOLON,40,1,2019,0,40,0
+lol,Latn,lol_Latn,Mongo,Y,Lu,LATIN CAPITAL LETTER Y,38,3,"2018,2019,2022",3,33,2
+lol,Latn,lol_Latn,Mongo,u,Ll,LATIN SMALL LETTER U,34,3,"2018,2019,2022",7,16,11
+lol,Latn,lol_Latn,Mongo,j,Ll,LATIN SMALL LETTER J,31,3,"2018,2019,2022",6,14,11
+lol,Latn,lol_Latn,Mongo,g,Ll,LATIN SMALL LETTER G,29,3,"2018,2019,2022",10,11,8
+lol,Latn,lol_Latn,Mongo,.,Po,FULL STOP,23,3,"2018,2019,2022",7,11,5
+lol,Latn,lol_Latn,Mongo,A,Lu,LATIN CAPITAL LETTER A,22,2,"2018,2019",1,21,0
+lol,Latn,lol_Latn,Mongo,f,Ll,LATIN SMALL LETTER F,20,3,"2018,2019,2022",1,16,3
+lol,Latn,lol_Latn,Mongo,B,Lu,LATIN CAPITAL LETTER B,19,3,"2018,2019,2022",5,11,3
+lol,Latn,lol_Latn,Mongo,1,Nd,DIGIT ONE,17,2,"2019,2022",0,14,3
+lol,Latn,lol_Latn,Mongo,z,Ll,LATIN SMALL LETTER Z,13,1,2019,0,13,0
+lol,Latn,lol_Latn,Mongo,M,Lu,LATIN CAPITAL LETTER M,13,2,"2019,2022",0,11,2
+lol,Latn,lol_Latn,Mongo,N,Lu,LATIN CAPITAL LETTER N,12,3,"2018,2019,2022",2,6,4
+lol,Latn,lol_Latn,Mongo,ɔ,Ll,LATIN SMALL LETTER OPEN O,12,1,2018,12,0,0
+lol,Latn,lol_Latn,Mongo,E,Lu,LATIN CAPITAL LETTER E,12,1,2019,0,12,0
+lol,Latn,lol_Latn,Mongo,S,Lu,LATIN CAPITAL LETTER S,10,1,2019,0,10,0
+lol,Latn,lol_Latn,Mongo,á,Ll,LATIN SMALL LETTER A WITH ACUTE,10,1,2018,10,0,0
+lol,Latn,lol_Latn,Mongo,2,Nd,DIGIT TWO,9,1,2019,0,9,0
+lol,Latn,lol_Latn,Mongo,c,Ll,LATIN SMALL LETTER C,9,2,"2019,2022",0,4,5
+lol,Latn,lol_Latn,Mongo,L,Lu,LATIN CAPITAL LETTER L,8,2,"2018,2019",1,7,0
+lol,Latn,lol_Latn,Mongo,D,Lu,LATIN CAPITAL LETTER D,7,1,2019,0,7,0
+lol,Latn,lol_Latn,Mongo,K,Lu,LATIN CAPITAL LETTER K,6,2,"2018,2019",1,5,0
+lol,Latn,lol_Latn,Mongo,r,Ll,LATIN SMALL LETTER R,5,3,"2018,2019,2022",3,1,1
+lol,Latn,lol_Latn,Mongo,U,Lu,LATIN CAPITAL LETTER U,5,1,2019,0,5,0
+lol,Latn,lol_Latn,Mongo,p,Ll,LATIN SMALL LETTER P,5,3,"2018,2019,2022",1,2,2
+lol,Latn,lol_Latn,Mongo,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,5,1,2018,5,0,0
+lol,Latn,lol_Latn,Mongo,4,Nd,DIGIT FOUR,4,2,"2019,2022",0,3,1
+lol,Latn,lol_Latn,Mongo,:,Po,COLON,4,2,"2019,2022",0,3,1
+lol,Latn,lol_Latn,Mongo,T,Lu,LATIN CAPITAL LETTER T,4,2,"2018,2019",3,1,0
+lol,Latn,lol_Latn,Mongo,ɛ,Ll,LATIN SMALL LETTER OPEN E,4,1,2018,4,0,0
+lol,Latn,lol_Latn,Mongo,I,Lu,LATIN CAPITAL LETTER I,4,2,"2018,2019",1,3,0
+lol,Latn,lol_Latn,Mongo,O,Lu,LATIN CAPITAL LETTER O,3,1,2019,0,3,0
+lol,Latn,lol_Latn,Mongo,5,Nd,DIGIT FIVE,3,1,2019,0,3,0
+lol,Latn,lol_Latn,Mongo,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3,1,2018,3,0,0
+lol,Latn,lol_Latn,Mongo,9,Nd,DIGIT NINE,3,2,"2019,2022",0,2,1
+lol,Latn,lol_Latn,Mongo,8,Nd,DIGIT EIGHT,3,2,"2019,2022",0,2,1
+lol,Latn,lol_Latn,Mongo,h,Ll,LATIN SMALL LETTER H,3,2,"2018,2022",2,0,1
+lol,Latn,lol_Latn,Mongo,í,Ll,LATIN SMALL LETTER I WITH ACUTE,3,1,2018,3,0,0
+lol,Latn,lol_Latn,Mongo,Z,Lu,LATIN CAPITAL LETTER Z,3,1,2019,0,3,0
+lol,Latn,lol_Latn,Mongo,3,Nd,DIGIT THREE,3,1,2019,0,3,0
+lol,Latn,lol_Latn,Mongo,W,Lu,LATIN CAPITAL LETTER W,2,1,2018,2,0,0
+lol,Latn,lol_Latn,Mongo,v,Ll,LATIN SMALL LETTER V,2,1,2018,2,0,0
+lol,Latn,lol_Latn,Mongo,6,Nd,DIGIT SIX,2,1,2019,0,2,0
+lol,Latn,lol_Latn,Mongo,7,Nd,DIGIT SEVEN,2,1,2019,0,2,0
+lol,Latn,lol_Latn,Mongo,P,Lu,LATIN CAPITAL LETTER P,2,1,2019,0,2,0
+lol,Latn,lol_Latn,Mongo,0,Nd,DIGIT ZERO,2,1,2019,0,2,0
+lol,Latn,lol_Latn,Mongo,J,Lu,LATIN CAPITAL LETTER J,1,1,2018,1,0,0
+lol,Latn,lol_Latn,Mongo,F,Lu,LATIN CAPITAL LETTER F,1,1,2019,0,1,0
+lol,Latn,lol_Latn,Mongo,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,1,1,2018,1,0,0
+lol,Latn,lol_Latn,Mongo,',Po,APOSTROPHE,1,1,2022,0,0,1
+lol,Latn,lol_Latn,Mongo,C,Lu,LATIN CAPITAL LETTER C,1,1,2022,0,0,1

@@ -1,0 +1,17 @@
+{
+  "language_code": "tlf_Latn",
+  "iso_639_3": "tlf",
+  "script": "Latn",
+  "language_name": "Telefol",
+  "total_characters": 80,
+  "total_frequency": 3215954,
+  "years_covered": [
+    "2015",
+    "2017",
+    "2018",
+    "2019",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:12.522564"
+}

@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2022_frequency
+xsb,Latn,xsb_Latn,Sambal,a,Ll,LATIN SMALL LETTER A,2919,3,"2017,2019,2022",147,2704,68
+xsb,Latn,xsb_Latn,Sambal, ,Zs,SPACE,2771,3,"2017,2019,2022",130,2588,53
+xsb,Latn,xsb_Latn,Sambal,n,Ll,LATIN SMALL LETTER N,1568,3,"2017,2019,2022",77,1462,29
+xsb,Latn,xsb_Latn,Sambal,i,Ll,LATIN SMALL LETTER I,1277,3,"2017,2019,2022",48,1204,25
+xsb,Latn,xsb_Latn,Sambal,o,Ll,LATIN SMALL LETTER O,937,3,"2017,2019,2022",56,869,12
+xsb,Latn,xsb_Latn,Sambal,t,Ll,LATIN SMALL LETTER T,668,3,"2017,2019,2022",19,633,16
+xsb,Latn,xsb_Latn,Sambal,y,Ll,LATIN SMALL LETTER Y,627,3,"2017,2019,2022",20,599,8
+xsb,Latn,xsb_Latn,Sambal,l,Ll,LATIN SMALL LETTER L,425,3,"2017,2019,2022",19,394,12
+xsb,Latn,xsb_Latn,Sambal,k,Ll,LATIN SMALL LETTER K,409,3,"2017,2019,2022",35,368,6
+xsb,Latn,xsb_Latn,Sambal,m,Ll,LATIN SMALL LETTER M,389,3,"2017,2019,2022",47,336,6
+xsb,Latn,xsb_Latn,Sambal,s,Ll,LATIN SMALL LETTER S,367,3,"2017,2019,2022",11,353,3
+xsb,Latn,xsb_Latn,Sambal,h,Ll,LATIN SMALL LETTER H,325,3,"2017,2019,2022",17,298,10
+xsb,Latn,xsb_Latn,Sambal,g,Ll,LATIN SMALL LETTER G,296,3,"2017,2019,2022",18,270,8
+xsb,Latn,xsb_Latn,Sambal,r,Ll,LATIN SMALL LETTER R,285,3,"2017,2019,2022",10,273,2
+xsb,Latn,xsb_Latn,Sambal,b,Ll,LATIN SMALL LETTER B,263,3,"2017,2019,2022",10,241,12
+xsb,Latn,xsb_Latn,Sambal,p,Ll,LATIN SMALL LETTER P,250,3,"2017,2019,2022",12,229,9
+xsb,Latn,xsb_Latn,Sambal,-,Pd,HYPHEN-MINUS,204,3,"2017,2019,2022",11,189,4
+xsb,Latn,xsb_Latn,Sambal,",",Po,COMMA,194,3,"2017,2019,2022",5,186,3
+xsb,Latn,xsb_Latn,Sambal,w,Ll,LATIN SMALL LETTER W,192,2,"2017,2019",12,180,0
+xsb,Latn,xsb_Latn,Sambal,e,Ll,LATIN SMALL LETTER E,161,3,"2017,2019,2022",3,151,7
+xsb,Latn,xsb_Latn,Sambal,A,Lu,LATIN CAPITAL LETTER A,138,3,"2017,2019,2022",3,129,6
+xsb,Latn,xsb_Latn,Sambal,.,Po,FULL STOP,137,3,"2017,2019,2022",7,127,3
+xsb,Latn,xsb_Latn,Sambal,d,Ll,LATIN SMALL LETTER D,135,3,"2017,2019,2022",8,125,2
+xsb,Latn,xsb_Latn,Sambal,J,Lu,LATIN CAPITAL LETTER J,106,3,"2017,2019,2022",1,104,1
+xsb,Latn,xsb_Latn,Sambal,u,Ll,LATIN SMALL LETTER U,88,2,"2019,2022",0,87,1
+xsb,Latn,xsb_Latn,Sambal,1,Nd,DIGIT ONE,64,3,"2017,2019,2022",6,56,2
+xsb,Latn,xsb_Latn,Sambal,H,Lu,LATIN CAPITAL LETTER H,55,2,"2019,2022",0,53,2
+xsb,Latn,xsb_Latn,Sambal,D,Lu,LATIN CAPITAL LETTER D,50,3,"2017,2019,2022",1,46,3
+xsb,Latn,xsb_Latn,Sambal,M,Lu,LATIN CAPITAL LETTER M,50,3,"2017,2019,2022",2,47,1
+xsb,Latn,xsb_Latn,Sambal,B,Lu,LATIN CAPITAL LETTER B,43,3,"2017,2019,2022",2,37,4
+xsb,Latn,xsb_Latn,Sambal,“,Pi,LEFT DOUBLE QUOTATION MARK,42,1,2019,0,42,0
+xsb,Latn,xsb_Latn,Sambal,”,Pf,RIGHT DOUBLE QUOTATION MARK,42,1,2019,0,42,0
+xsb,Latn,xsb_Latn,Sambal,K,Lu,LATIN CAPITAL LETTER K,40,3,"2017,2019,2022",1,36,3
+xsb,Latn,xsb_Latn,Sambal,2,Nd,DIGIT TWO,39,2,"2017,2019",1,38,0
+xsb,Latn,xsb_Latn,Sambal,I,Lu,LATIN CAPITAL LETTER I,31,1,2019,0,31,0
+xsb,Latn,xsb_Latn,Sambal,Y,Lu,LATIN CAPITAL LETTER Y,29,1,2019,0,29,0
+xsb,Latn,xsb_Latn,Sambal,N,Lu,LATIN CAPITAL LETTER N,29,1,2019,0,29,0
+xsb,Latn,xsb_Latn,Sambal,c,Ll,LATIN SMALL LETTER C,28,1,2019,0,28,0
+xsb,Latn,xsb_Latn,Sambal,P,Lu,LATIN CAPITAL LETTER P,27,3,"2017,2019,2022",1,22,4
+xsb,Latn,xsb_Latn,Sambal,z,Ll,LATIN SMALL LETTER Z,26,1,2019,0,26,0
+xsb,Latn,xsb_Latn,Sambal,3,Nd,DIGIT THREE,26,2,"2017,2019",2,24,0
+xsb,Latn,xsb_Latn,Sambal,E,Lu,LATIN CAPITAL LETTER E,24,1,2019,0,24,0
+xsb,Latn,xsb_Latn,Sambal,4,Nd,DIGIT FOUR,23,1,2019,0,23,0
+xsb,Latn,xsb_Latn,Sambal,:,Po,COLON,20,3,"2017,2019,2022",2,16,2
+xsb,Latn,xsb_Latn,Sambal,S,Lu,LATIN CAPITAL LETTER S,20,1,2019,0,20,0
+xsb,Latn,xsb_Latn,Sambal,C,Lu,LATIN CAPITAL LETTER C,17,2,"2019,2022",0,16,1
+xsb,Latn,xsb_Latn,Sambal,v,Ll,LATIN SMALL LETTER V,15,2,"2019,2022",0,13,2
+xsb,Latn,xsb_Latn,Sambal,5,Nd,DIGIT FIVE,14,1,2019,0,14,0
+xsb,Latn,xsb_Latn,Sambal,q,Ll,LATIN SMALL LETTER Q,12,1,2019,0,12,0
+xsb,Latn,xsb_Latn,Sambal,O,Lu,LATIN CAPITAL LETTER O,12,1,2019,0,12,0
+xsb,Latn,xsb_Latn,Sambal,W,Lu,LATIN CAPITAL LETTER W,12,1,2019,0,12,0
+xsb,Latn,xsb_Latn,Sambal,9,Nd,DIGIT NINE,11,2,"2017,2019",1,10,0
+xsb,Latn,xsb_Latn,Sambal,?,Po,QUESTION MARK,11,1,2019,0,11,0
+xsb,Latn,xsb_Latn,Sambal,8,Nd,DIGIT EIGHT,11,1,2019,0,11,0
+xsb,Latn,xsb_Latn,Sambal,T,Lu,LATIN CAPITAL LETTER T,11,2,"2017,2019",2,9,0
+xsb,Latn,xsb_Latn,Sambal,F,Lu,LATIN CAPITAL LETTER F,10,1,2019,0,10,0
+xsb,Latn,xsb_Latn,Sambal,6,Nd,DIGIT SIX,10,2,"2017,2019",1,9,0
+xsb,Latn,xsb_Latn,Sambal,0,Nd,DIGIT ZERO,10,2,"2017,2019",1,9,0
+xsb,Latn,xsb_Latn,Sambal,R,Lu,LATIN CAPITAL LETTER R,10,1,2019,0,10,0
+xsb,Latn,xsb_Latn,Sambal,7,Nd,DIGIT SEVEN,10,2,"2019,2022",0,9,1
+xsb,Latn,xsb_Latn,Sambal,(,Ps,LEFT PARENTHESIS,7,1,2019,0,7,0
+xsb,Latn,xsb_Latn,Sambal,),Pe,RIGHT PARENTHESIS,7,1,2019,0,7,0
+xsb,Latn,xsb_Latn,Sambal,Z,Lu,LATIN CAPITAL LETTER Z,6,1,2019,0,6,0
+xsb,Latn,xsb_Latn,Sambal,f,Ll,LATIN SMALL LETTER F,6,1,2019,0,6,0
+xsb,Latn,xsb_Latn,Sambal,[,Ps,LEFT SQUARE BRACKET,6,1,2019,0,6,0
+xsb,Latn,xsb_Latn,Sambal,],Pe,RIGHT SQUARE BRACKET,6,1,2019,0,6,0
+xsb,Latn,xsb_Latn,Sambal,#,Po,NUMBER SIGN,5,1,2019,0,5,0
+xsb,Latn,xsb_Latn,Sambal,’,Pf,RIGHT SINGLE QUOTATION MARK,5,2,"2017,2019",1,4,0
+xsb,Latn,xsb_Latn,Sambal,‘,Pi,LEFT SINGLE QUOTATION MARK,5,2,"2017,2019",1,4,0
+xsb,Latn,xsb_Latn,Sambal,L,Lu,LATIN CAPITAL LETTER L,5,2,"2017,2019",1,4,0
+xsb,Latn,xsb_Latn,Sambal,;,Po,SEMICOLON,3,2,"2017,2019",1,2,0
+xsb,Latn,xsb_Latn,Sambal,!,Po,EXCLAMATION MARK,3,1,2019,0,3,0
+xsb,Latn,xsb_Latn,Sambal,G,Lu,LATIN CAPITAL LETTER G,3,1,2019,0,3,0
+xsb,Latn,xsb_Latn,Sambal,U,Lu,LATIN CAPITAL LETTER U,2,1,2019,0,2,0
+xsb,Latn,xsb_Latn,Sambal,V,Lu,LATIN CAPITAL LETTER V,2,1,2022,0,0,2
+xsb,Latn,xsb_Latn,Sambal,',Po,APOSTROPHE,1,1,2017,1,0,0

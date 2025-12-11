@@ -1,0 +1,23 @@
+{
+  "language_code": "szy_Latn",
+  "iso_639_3": "szy",
+  "script": "Latn",
+  "language_name": "Sakizaya",
+  "total_characters": 5417,
+  "total_frequency": 7168949,
+  "years_covered": [
+    "2013",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:11.632327"
+}

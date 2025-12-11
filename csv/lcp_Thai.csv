@@ -1,0 +1,201 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+lcp,Thai,lcp_Thai,Western Lawa, ,Zs,SPACE,63346,6,"2018,2019,2020,2021,2022,2023",48,1532,650,60376,614,126
+lcp,Thai,lcp_Thai,Western Lawa,อ,Lo,THAI CHARACTER O ANG,20796,6,"2018,2019,2020,2021,2022,2023",33,277,235,19991,236,24
+lcp,Thai,lcp_Thai,Western Lawa,เ,Lo,THAI CHARACTER SARA E,17394,6,"2018,2019,2020,2021,2022,2023",10,259,251,16613,255,6
+lcp,Thai,lcp_Thai,Western Lawa,ฮ,Lo,THAI CHARACTER HO NOKHUK,11725,5,"2019,2020,2021,2022,2023",0,112,128,11348,128,9
+lcp,Thai,lcp_Thai,Western Lawa,ม,Lo,THAI CHARACTER MO MA,11421,5,"2019,2020,2021,2022,2023",0,171,152,10924,152,22
+lcp,Thai,lcp_Thai,Western Lawa,ะ,Lo,THAI CHARACTER SARA A,9086,6,"2018,2019,2020,2021,2022,2023",9,141,101,8718,103,14
+lcp,Thai,lcp_Thai,Western Lawa,ป,Lo,THAI CHARACTER PO PLA,8590,5,"2019,2020,2021,2022,2023",0,141,116,8205,116,12
+lcp,Thai,lcp_Thai,Western Lawa,โ,Lo,THAI CHARACTER SARA O,8532,6,"2018,2019,2020,2021,2022,2023",2,89,77,8276,77,11
+lcp,Thai,lcp_Thai,Western Lawa,น,Lo,THAI CHARACTER NO NU,8515,5,"2019,2020,2021,2022,2023",0,288,87,8035,87,18
+lcp,Thai,lcp_Thai,Western Lawa,ซ,Lo,THAI CHARACTER SO SO,8314,5,"2019,2020,2021,2022,2023",0,83,116,7990,118,7
+lcp,Thai,lcp_Thai,Western Lawa,ต,Lo,THAI CHARACTER TO TAO,8223,5,"2019,2020,2021,2022,2023",0,117,77,7941,79,9
+lcp,Thai,lcp_Thai,Western Lawa,า,Lo,THAI CHARACTER SARA AA,8154,6,"2018,2019,2020,2021,2022,2023",4,200,107,7725,107,11
+lcp,Thai,lcp_Thai,Western Lawa,ื,Mn,THAI CHARACTER SARA UEE,7250,6,"2018,2019,2020,2021,2022,2023",3,114,100,6930,101,2
+lcp,Thai,lcp_Thai,Western Lawa,ย,Lo,THAI CHARACTER YO YAK,7035,6,"2018,2019,2020,2021,2022,2023",2,148,94,6689,96,6
+lcp,Thai,lcp_Thai,Western Lawa,ั,Mn,THAI CHARACTER MAI HAN-AKAT,6708,6,"2018,2019,2020,2021,2022,2023",2,107,113,6362,114,10
+lcp,Thai,lcp_Thai,Western Lawa,ก,Lo,THAI CHARACTER KO KAI,6675,5,"2019,2020,2021,2022,2023",0,154,58,6399,61,3
+lcp,Thai,lcp_Thai,Western Lawa,ว,Lo,THAI CHARACTER WO WAEN,6635,6,"2018,2019,2020,2021,2022,2023",2,157,42,6383,44,7
+lcp,Thai,lcp_Thai,Western Lawa,ง,Lo,THAI CHARACTER NGO NGU,6024,5,"2019,2020,2021,2022,2023",0,161,28,5798,30,7
+lcp,Thai,lcp_Thai,Western Lawa,ล,Lo,THAI CHARACTER LO LING,5721,5,"2019,2020,2021,2022,2023",0,113,40,5515,46,7
+lcp,Thai,lcp_Thai,Western Lawa,ร,Lo,THAI CHARACTER RO RUA,4994,5,"2019,2020,2021,2022,2023",0,136,61,4729,61,7
+lcp,Thai,lcp_Thai,Western Lawa,ุ,Mn,THAI CHARACTER SARA U,4750,5,"2018,2019,2020,2021,2022",1,99,40,4570,40,0
+lcp,Thai,lcp_Thai,Western Lawa,่,Mn,THAI CHARACTER MAI EK,4348,4,"2019,2020,2021,2022",0,149,52,4095,52,0
+lcp,Thai,lcp_Thai,Western Lawa,จ,Lo,THAI CHARACTER CHO CHAN,3813,4,"2019,2020,2021,2022",0,86,46,3633,48,0
+lcp,Thai,lcp_Thai,Western Lawa,.,Po,FULL STOP,3781,6,"2018,2019,2020,2021,2022,2023",1,94,69,3537,71,9
+lcp,Thai,lcp_Thai,Western Lawa,ี,Mn,THAI CHARACTER SARA II,3771,6,"2018,2019,2020,2021,2022,2023",3,87,50,3568,50,13
+lcp,Thai,lcp_Thai,Western Lawa,ไ,Lo,THAI CHARACTER SARA AI MAIMALAI,3703,5,"2018,2019,2020,2021,2022",1,76,33,3558,35,0
+lcp,Thai,lcp_Thai,Western Lawa,ึ,Mn,THAI CHARACTER SARA UE,3580,6,"2018,2019,2020,2021,2022,2023",1,52,22,3474,22,9
+lcp,Thai,lcp_Thai,Western Lawa,แ,Lo,THAI CHARACTER SARA AE,3179,6,"2018,2019,2020,2021,2022,2023",2,60,16,3054,16,31
+lcp,Thai,lcp_Thai,Western Lawa,ิ,Mn,THAI CHARACTER SARA I,2959,5,"2018,2019,2020,2021,2022",1,73,38,2808,39,0
+lcp,Thai,lcp_Thai,Western Lawa,",",Po,COMMA,2490,5,"2019,2020,2021,2022,2023",0,22,19,2422,19,8
+lcp,Thai,lcp_Thai,Western Lawa,ญ,Lo,THAI CHARACTER YO YING,1714,4,"2019,2020,2021,2022",0,18,13,1670,13,0
+lcp,Thai,lcp_Thai,Western Lawa,พ,Lo,THAI CHARACTER PHO PHAN,1630,5,"2019,2020,2021,2022,2023",0,45,16,1550,18,1
+lcp,Thai,lcp_Thai,Western Lawa,ค,Lo,THAI CHARACTER KHO KHWAI,1546,5,"2019,2020,2021,2022,2023",0,117,22,1382,22,3
+lcp,Thai,lcp_Thai,Western Lawa,ด,Lo,THAI CHARACTER DO DEK,1259,5,"2019,2020,2021,2022,2023",0,56,16,1161,16,10
+lcp,Thai,lcp_Thai,Western Lawa,บ,Lo,THAI CHARACTER BO BAIMAI,1202,5,"2019,2020,2021,2022,2023",0,52,23,1093,23,11
+lcp,Thai,lcp_Thai,Western Lawa,1,Nd,DIGIT ONE,813,4,"2019,2020,2021,2022",0,106,14,678,15,0
+lcp,Thai,lcp_Thai,Western Lawa,ฆ,Lo,THAI CHARACTER KHO RAKHANG,743,5,"2019,2020,2021,2022,2023",0,7,5,725,5,1
+lcp,Thai,lcp_Thai,Western Lawa,2,Nd,DIGIT TWO,556,5,"2018,2019,2020,2021,2022",1,40,9,495,11,0
+lcp,Thai,lcp_Thai,Western Lawa,ฟ,Lo,THAI CHARACTER FO FAN,501,4,"2019,2020,2021,2022",0,9,7,478,7,0
+lcp,Thai,lcp_Thai,Western Lawa,ท,Lo,THAI CHARACTER THO THAHAN,500,5,"2019,2020,2021,2022,2023",0,38,7,447,7,1
+lcp,Thai,lcp_Thai,Western Lawa,ู,Mn,THAI CHARACTER SARA UU,484,6,"2018,2019,2020,2021,2022,2023",1,62,16,382,18,5
+lcp,Thai,lcp_Thai,Western Lawa,“,Pi,LEFT DOUBLE QUOTATION MARK,455,4,"2019,2020,2021,2022",0,8,2,443,2,0
+lcp,Thai,lcp_Thai,Western Lawa,”,Pf,RIGHT DOUBLE QUOTATION MARK,414,4,"2019,2020,2021,2022",0,7,2,403,2,0
+lcp,Thai,lcp_Thai,Western Lawa,ช,Lo,THAI CHARACTER CHO CHANG,400,4,"2019,2020,2021,2022",0,15,6,373,6,0
+lcp,Thai,lcp_Thai,Western Lawa,3,Nd,DIGIT THREE,395,4,"2019,2020,2021,2022",0,53,3,333,6,0
+lcp,Thai,lcp_Thai,Western Lawa,ã,Ll,LATIN SMALL LETTER A WITH TILDE,387,1,2019,0,387,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,4,Nd,DIGIT FOUR,327,4,"2019,2020,2021,2022",0,74,3,247,3,0
+lcp,Thai,lcp_Thai,Western Lawa,5,Nd,DIGIT FIVE,211,4,"2019,2020,2021,2022",0,17,3,188,3,0
+lcp,Thai,lcp_Thai,Western Lawa,0,Nd,DIGIT ZERO,183,4,"2019,2020,2021,2022",0,24,2,155,2,0
+lcp,Thai,lcp_Thai,Western Lawa,6,Nd,DIGIT SIX,174,4,"2019,2020,2021,2022",0,11,2,159,2,0
+lcp,Thai,lcp_Thai,Western Lawa,8,Nd,DIGIT EIGHT,160,5,"2018,2019,2020,2021,2022",1,9,2,145,3,0
+lcp,Thai,lcp_Thai,Western Lawa,7,Nd,DIGIT SEVEN,155,4,"2019,2020,2021,2022",0,6,2,144,3,0
+lcp,Thai,lcp_Thai,Western Lawa,9,Nd,DIGIT NINE,149,4,"2019,2020,2021,2022",0,9,2,136,2,0
+lcp,Thai,lcp_Thai,Western Lawa,?,Po,QUESTION MARK,141,1,2021,0,0,0,141,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ห,Lo,THAI CHARACTER HO HIP,91,2,"2019,2023",0,83,0,0,0,8
+lcp,Thai,lcp_Thai,Western Lawa,å,Ll,LATIN SMALL LETTER A WITH RING ABOVE,82,1,2019,0,82,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,้,Mn,THAI CHARACTER MAI THO,76,1,2019,0,76,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,⁄,Sm,FRACTION SLASH,74,1,2019,0,74,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ส,Lo,THAI CHARACTER SO SUA,65,1,2019,0,65,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,‘,Pi,LEFT SINGLE QUOTATION MARK,63,1,2021,0,0,0,63,0,0
+lcp,Thai,lcp_Thai,Western Lawa,’,Pf,RIGHT SINGLE QUOTATION MARK,62,1,2021,0,0,0,62,0,0
+lcp,Thai,lcp_Thai,Western Lawa,æ,Ll,LATIN SMALL LETTER AE,57,1,2019,0,57,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,o,Ll,LATIN SMALL LETTER O,56,3,"2018,2019,2023",13,32,0,0,0,11
+lcp,Thai,lcp_Thai,Western Lawa,ฌ,Lo,THAI CHARACTER CHO CHOE,56,1,2021,0,0,0,56,0,0
+lcp,Thai,lcp_Thai,Western Lawa,-,Pd,HYPHEN-MINUS,47,4,"2019,2021,2022,2023",0,3,0,41,2,1
+lcp,Thai,lcp_Thai,Western Lawa,a,Ll,LATIN SMALL LETTER A,46,3,"2018,2019,2023",5,35,0,0,0,6
+lcp,Thai,lcp_Thai,Western Lawa,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,46,1,2019,0,46,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ณ,Lo,THAI CHARACTER NO NEN,44,2,"2019,2023",0,39,0,0,0,5
+lcp,Thai,lcp_Thai,Western Lawa,e,Ll,LATIN SMALL LETTER E,32,3,"2018,2019,2023",10,10,0,0,0,12
+lcp,Thai,lcp_Thai,Western Lawa,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,32,1,2019,0,32,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ๆ,Lm,THAI CHARACTER MAIYAMOK,31,2,"2019,2021",0,5,0,26,0,0
+lcp,Thai,lcp_Thai,Western Lawa,),Pe,RIGHT PARENTHESIS,29,4,"2019,2021,2022,2023",0,11,0,15,2,1
+lcp,Thai,lcp_Thai,Western Lawa,(,Ps,LEFT PARENTHESIS,28,4,"2019,2021,2022,2023",0,10,0,15,2,1
+lcp,Thai,lcp_Thai,Western Lawa,é,Ll,LATIN SMALL LETTER E WITH ACUTE,25,1,2019,0,25,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,:,Po,COLON,24,4,"2018,2019,2021,2022",1,13,0,8,2,0
+lcp,Thai,lcp_Thai,Western Lawa,i,Ll,LATIN SMALL LETTER I,23,3,"2018,2019,2023",5,8,0,0,0,10
+lcp,Thai,lcp_Thai,Western Lawa,n,Ll,LATIN SMALL LETTER N,22,3,"2018,2019,2023",4,11,0,0,0,7
+lcp,Thai,lcp_Thai,Western Lawa,®,So,REGISTERED SIGN,20,1,2019,0,20,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠼,Lo,CJK UNIFIED IDEOGRAPH-383C,20,1,2019,0,20,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,็,Mn,THAI CHARACTER MAITAIKHU,20,2,"2019,2023",0,16,0,0,0,4
+lcp,Thai,lcp_Thai,Western Lawa,s,Ll,LATIN SMALL LETTER S,19,3,"2018,2019,2023",8,7,0,0,0,4
+lcp,Thai,lcp_Thai,Western Lawa,ข,Lo,THAI CHARACTER KHO KHAI,19,1,2019,0,19,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,t,Ll,LATIN SMALL LETTER T,18,3,"2018,2019,2023",4,8,0,0,0,6
+lcp,Thai,lcp_Thai,Western Lawa,è,Ll,LATIN SMALL LETTER E WITH GRAVE,17,1,2019,0,17,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,©,So,COPYRIGHT SIGN,16,1,2019,0,16,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,°,So,DEGREE SIGN,16,1,2019,0,16,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ใ,Lo,THAI CHARACTER SARA AI MAIMUAN,16,2,"2018,2019",1,15,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,15,1,2019,0,15,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,d,Ll,LATIN SMALL LETTER D,15,3,"2018,2019,2023",4,6,0,0,0,5
+lcp,Thai,lcp_Thai,Western Lawa,̄,Mn,COMBINING MACRON,15,1,2019,0,15,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠪,Lo,CJK UNIFIED IDEOGRAPH-382A,15,1,2019,0,15,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠳,Lo,CJK UNIFIED IDEOGRAPH-3833,15,1,2019,0,15,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,c,Ll,LATIN SMALL LETTER C,14,2,"2019,2023",0,11,0,0,0,3
+lcp,Thai,lcp_Thai,Western Lawa,㠵,Lo,CJK UNIFIED IDEOGRAPH-3835,14,1,2019,0,14,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¥,Sc,YEN SIGN,14,1,2019,0,14,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¤,Sc,CURRENCY SIGN,13,1,2019,0,13,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,·,Po,MIDDLE DOT,13,1,2019,0,13,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ํ,Mn,THAI CHARACTER NIKHAHIT,13,2,"2018,2019",1,12,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,£,Sc,POUND SIGN,12,1,2019,0,12,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,r,Ll,LATIN SMALL LETTER R,12,3,"2018,2019,2023",4,2,0,0,0,6
+lcp,Thai,lcp_Thai,Western Lawa,§,Po,SECTION SIGN,12,1,2019,0,12,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,̧,Mn,COMBINING CEDILLA,12,1,2019,0,12,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,w,Ll,LATIN SMALL LETTER W,12,3,"2018,2019,2023",7,1,0,0,0,4
+lcp,Thai,lcp_Thai,Western Lawa,l,Ll,LATIN SMALL LETTER L,12,3,"2018,2019,2023",7,2,0,0,0,3
+lcp,Thai,lcp_Thai,Western Lawa,h,Ll,LATIN SMALL LETTER H,11,3,"2018,2019,2023",5,2,0,0,0,4
+lcp,Thai,lcp_Thai,Western Lawa,์,Mn,THAI CHARACTER THANTHAKHAT,10,1,2019,0,10,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¢,Sc,CENT SIGN,10,1,2019,0,10,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ถ,Lo,THAI CHARACTER THO THUNG,9,1,2019,0,9,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,9,1,2019,0,9,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠹,Lo,CJK UNIFIED IDEOGRAPH-3839,9,1,2019,0,9,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠤,Lo,CJK UNIFIED IDEOGRAPH-3824,8,1,2019,0,8,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¡,Po,INVERTED EXCLAMATION MARK,8,1,2019,0,8,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,g,Ll,LATIN SMALL LETTER G,8,2,"2018,2019",4,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,́,Mn,COMBINING ACUTE ACCENT,7,1,2019,0,7,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠸,Lo,CJK UNIFIED IDEOGRAPH-3838,7,1,2019,0,7,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠯,Lo,CJK UNIFIED IDEOGRAPH-382F,7,1,2019,0,7,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,̈,Mn,COMBINING DIAERESIS,7,1,2019,0,7,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,T,Lu,LATIN CAPITAL LETTER T,7,3,"2018,2019,2023",3,2,0,0,0,2
+lcp,Thai,lcp_Thai,Western Lawa,p,Ll,LATIN SMALL LETTER P,7,3,"2018,2019,2023",1,3,0,0,0,3
+lcp,Thai,lcp_Thai,Western Lawa,C,Lu,LATIN CAPITAL LETTER C,7,1,2019,0,7,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠮,Lo,CJK UNIFIED IDEOGRAPH-382E,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ผ,Lo,THAI CHARACTER PHO PHUNG,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,m,Ll,LATIN SMALL LETTER M,6,2,"2019,2023",0,3,0,0,0,3
+lcp,Thai,lcp_Thai,Western Lawa,ï,Ll,LATIN SMALL LETTER I WITH DIAERESIS,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,μ,Ll,GREEK SMALL LETTER MU,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,k,Ll,LATIN SMALL LETTER K,6,2,"2019,2023",0,3,0,0,0,3
+lcp,Thai,lcp_Thai,Western Lawa,+,Sm,PLUS SIGN,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,!,Po,EXCLAMATION MARK,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¶,Po,PILCROW SIGN,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,',Po,APOSTROPHE,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠧,Lo,CJK UNIFIED IDEOGRAPH-3827,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,N,Lu,LATIN CAPITAL LETTER N,6,1,2019,0,6,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,u,Ll,LATIN SMALL LETTER U,6,3,"2018,2019,2023",1,4,0,0,0,1
+lcp,Thai,lcp_Thai,Western Lawa,¦,So,BROKEN BAR,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,f,Ll,LATIN SMALL LETTER F,5,2,"2019,2023",0,3,0,0,0,2
+lcp,Thai,lcp_Thai,Western Lawa,v,Ll,LATIN SMALL LETTER V,5,2,"2018,2023",4,0,0,0,0,1
+lcp,Thai,lcp_Thai,Western Lawa,㠨,Lo,CJK UNIFIED IDEOGRAPH-3828,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,M,Lu,LATIN CAPITAL LETTER M,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,±,Sm,PLUS-MINUS SIGN,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,S,Lu,LATIN CAPITAL LETTER S,5,2,"2018,2019",1,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠦,Lo,CJK UNIFIED IDEOGRAPH-3826,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,/,Po,SOLIDUS,5,1,2019,0,5,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ธ,Lo,THAI CHARACTER THO THONG,4,1,2019,0,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠷,Lo,CJK UNIFIED IDEOGRAPH-3837,4,1,2019,0,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠻,Lo,CJK UNIFIED IDEOGRAPH-383B,4,1,2019,0,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠫,Lo,CJK UNIFIED IDEOGRAPH-382B,4,1,2019,0,4,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠢,Lo,CJK UNIFIED IDEOGRAPH-3822,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,L,Lu,LATIN CAPITAL LETTER L,3,2,"2018,2019",1,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,V,Lu,LATIN CAPITAL LETTER V,3,1,2018,3,0,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,#,Po,NUMBER SIGN,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¬,Sm,NOT SIGN,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,E,Lu,LATIN CAPITAL LETTER E,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠥,Lo,CJK UNIFIED IDEOGRAPH-3825,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠬,Lo,CJK UNIFIED IDEOGRAPH-382C,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,_,Pc,LOW LINE,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,&,Po,AMPERSAND,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,¿,Po,INVERTED QUESTION MARK,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠣,Lo,CJK UNIFIED IDEOGRAPH-3823,3,1,2019,0,3,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠿,Lo,CJK UNIFIED IDEOGRAPH-383F,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠰,Lo,CJK UNIFIED IDEOGRAPH-3830,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,P,Lu,LATIN CAPITAL LETTER P,2,2,"2018,2019",1,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,b,Ll,LATIN SMALL LETTER B,2,2,"2019,2023",0,1,0,0,0,1
+lcp,Thai,lcp_Thai,Western Lawa,×,Sm,MULTIPLICATION SIGN,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,A,Lu,LATIN CAPITAL LETTER A,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,},Pe,RIGHT CURLY BRACKET,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,U,Lu,LATIN CAPITAL LETTER U,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,๊,Mn,THAI CHARACTER MAI TRI,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,W,Lu,LATIN CAPITAL LETTER W,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠶,Lo,CJK UNIFIED IDEOGRAPH-3836,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,編,Lo,CJK UNIFIED IDEOGRAPH-7DE8,2,1,2019,0,2,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ษ,Lo,THAI CHARACTER SO RUSI,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,鹿,Lo,CJK UNIFIED IDEOGRAPH-9E7F,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,H,Lu,LATIN CAPITAL LETTER H,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,大,Lo,CJK UNIFIED IDEOGRAPH-5927,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠩,Lo,CJK UNIFIED IDEOGRAPH-3829,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,転,Lo,CJK UNIFIED IDEOGRAPH-8EE2,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ฤ,Lo,THAI CHARACTER RU,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,交,Lo,CJK UNIFIED IDEOGRAPH-4EA4,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,水,Lo,CJK UNIFIED IDEOGRAPH-6C34,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,D,Lu,LATIN CAPITAL LETTER D,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,I,Lu,LATIN CAPITAL LETTER I,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ศ,Lo,THAI CHARACTER SO SALA,1,1,2021,0,0,0,1,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠾,Lo,CJK UNIFIED IDEOGRAPH-383E,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,[,Ps,LEFT SQUARE BRACKET,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,],Pe,RIGHT SQUARE BRACKET,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,|,Sm,VERTICAL LINE,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ภ,Lo,THAI CHARACTER PHO SAMPHAO,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ฒ,Lo,THAI CHARACTER THO PHUTHAO,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,;,Po,SEMICOLON,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠡,Lo,CJK UNIFIED IDEOGRAPH-3821,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,J,Lu,LATIN CAPITAL LETTER J,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,㠽,Lo,CJK UNIFIED IDEOGRAPH-383D,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ฝ,Lo,THAI CHARACTER FO FA,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,人,Lo,CJK UNIFIED IDEOGRAPH-4EBA,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,๋,Mn,THAI CHARACTER MAI CHATTAWA,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,ฉ,Lo,THAI CHARACTER CHO CHING,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,>,Sm,GREATER-THAN SIGN,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,G,Lu,LATIN CAPITAL LETTER G,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,<,Sm,LESS-THAN SIGN,1,1,2019,0,1,0,0,0,0
+lcp,Thai,lcp_Thai,Western Lawa,y,Ll,LATIN SMALL LETTER Y,1,1,2023,0,0,0,0,0,1

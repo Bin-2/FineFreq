@@ -1,0 +1,78 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency
+bkv,Latn,bkv_Latn,Bekwarra, ,Zs,SPACE,4402,2,"2014,2017",1269,3133
+bkv,Latn,bkv_Latn,Bekwarra,i,Ll,LATIN SMALL LETTER I,2124,2,"2014,2017",421,1703
+bkv,Latn,bkv_Latn,Bekwarra,e,Ll,LATIN SMALL LETTER E,2054,2,"2014,2017",652,1402
+bkv,Latn,bkv_Latn,Bekwarra,n,Ll,LATIN SMALL LETTER N,2028,2,"2014,2017",493,1535
+bkv,Latn,bkv_Latn,Bekwarra,a,Ll,LATIN SMALL LETTER A,2010,2,"2014,2017",586,1424
+bkv,Latn,bkv_Latn,Bekwarra,g,Ll,LATIN SMALL LETTER G,823,2,"2014,2017",229,594
+bkv,Latn,bkv_Latn,Bekwarra,h,Ll,LATIN SMALL LETTER H,818,2,"2014,2017",202,616
+bkv,Latn,bkv_Latn,Bekwarra,',Po,APOSTROPHE,800,2,"2014,2017",203,597
+bkv,Latn,bkv_Latn,Bekwarra,u,Ll,LATIN SMALL LETTER U,696,2,"2014,2017",213,483
+bkv,Latn,bkv_Latn,Bekwarra,y,Ll,LATIN SMALL LETTER Y,682,2,"2014,2017",151,531
+bkv,Latn,bkv_Latn,Bekwarra,b,Ll,LATIN SMALL LETTER B,653,2,"2014,2017",202,451
+bkv,Latn,bkv_Latn,Bekwarra,k,Ll,LATIN SMALL LETTER K,622,2,"2014,2017",227,395
+bkv,Latn,bkv_Latn,Bekwarra,m,Ll,LATIN SMALL LETTER M,493,2,"2014,2017",151,342
+bkv,Latn,bkv_Latn,Bekwarra,r,Ll,LATIN SMALL LETTER R,474,2,"2014,2017",117,357
+bkv,Latn,bkv_Latn,Bekwarra,t,Ll,LATIN SMALL LETTER T,405,2,"2014,2017",76,329
+bkv,Latn,bkv_Latn,Bekwarra,c,Ll,LATIN SMALL LETTER C,367,2,"2014,2017",65,302
+bkv,Latn,bkv_Latn,Bekwarra,o,Ll,LATIN SMALL LETTER O,337,2,"2014,2017",154,183
+bkv,Latn,bkv_Latn,Bekwarra,.,Po,FULL STOP,300,2,"2014,2017",109,191
+bkv,Latn,bkv_Latn,Bekwarra,",",Po,COMMA,273,2,"2014,2017",69,204
+bkv,Latn,bkv_Latn,Bekwarra,d,Ll,LATIN SMALL LETTER D,254,2,"2014,2017",105,149
+bkv,Latn,bkv_Latn,Bekwarra,I,Lu,LATIN CAPITAL LETTER I,238,2,"2014,2017",143,95
+bkv,Latn,bkv_Latn,Bekwarra,s,Ll,LATIN SMALL LETTER S,227,2,"2014,2017",90,137
+bkv,Latn,bkv_Latn,Bekwarra,A,Lu,LATIN CAPITAL LETTER A,211,2,"2014,2017",62,149
+bkv,Latn,bkv_Latn,Bekwarra,w,Ll,LATIN SMALL LETTER W,175,2,"2014,2017",55,120
+bkv,Latn,bkv_Latn,Bekwarra,f,Ll,LATIN SMALL LETTER F,168,2,"2014,2017",90,78
+bkv,Latn,bkv_Latn,Bekwarra,p,Ll,LATIN SMALL LETTER P,131,2,"2014,2017",55,76
+bkv,Latn,bkv_Latn,Bekwarra,j,Ll,LATIN SMALL LETTER J,120,2,"2014,2017",89,31
+bkv,Latn,bkv_Latn,Bekwarra,U,Lu,LATIN CAPITAL LETTER U,94,2,"2014,2017",14,80
+bkv,Latn,bkv_Latn,Bekwarra,1,Nd,DIGIT ONE,89,2,"2014,2017",27,62
+bkv,Latn,bkv_Latn,Bekwarra,è,Ll,LATIN SMALL LETTER E WITH GRAVE,83,2,"2014,2017",28,55
+bkv,Latn,bkv_Latn,Bekwarra,-,Pd,HYPHEN-MINUS,68,2,"2014,2017",11,57
+bkv,Latn,bkv_Latn,Bekwarra,2,Nd,DIGIT TWO,48,2,"2014,2017",17,31
+bkv,Latn,bkv_Latn,Bekwarra,l,Ll,LATIN SMALL LETTER L,46,2,"2014,2017",43,3
+bkv,Latn,bkv_Latn,Bekwarra,E,Lu,LATIN CAPITAL LETTER E,45,2,"2014,2017",18,27
+bkv,Latn,bkv_Latn,Bekwarra,K,Lu,LATIN CAPITAL LETTER K,44,2,"2014,2017",16,28
+bkv,Latn,bkv_Latn,Bekwarra,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,43,2,"2014,2017",8,35
+bkv,Latn,bkv_Latn,Bekwarra,"""",Po,QUOTATION MARK,26,2,"2014,2017",22,4
+bkv,Latn,bkv_Latn,Bekwarra,N,Lu,LATIN CAPITAL LETTER N,23,2,"2014,2017",7,16
+bkv,Latn,bkv_Latn,Bekwarra,O,Lu,LATIN CAPITAL LETTER O,18,2,"2014,2017",6,12
+bkv,Latn,bkv_Latn,Bekwarra,3,Nd,DIGIT THREE,18,2,"2014,2017",6,12
+bkv,Latn,bkv_Latn,Bekwarra,4,Nd,DIGIT FOUR,17,2,"2014,2017",5,12
+bkv,Latn,bkv_Latn,Bekwarra,5,Nd,DIGIT FIVE,16,2,"2014,2017",5,11
+bkv,Latn,bkv_Latn,Bekwarra,6,Nd,DIGIT SIX,14,2,"2014,2017",4,10
+bkv,Latn,bkv_Latn,Bekwarra,7,Nd,DIGIT SEVEN,14,2,"2014,2017",4,10
+bkv,Latn,bkv_Latn,Bekwarra,8,Nd,DIGIT EIGHT,14,2,"2014,2017",4,10
+bkv,Latn,bkv_Latn,Bekwarra,9,Nd,DIGIT NINE,14,2,"2014,2017",4,10
+bkv,Latn,bkv_Latn,Bekwarra,;,Po,SEMICOLON,14,2,"2014,2017",3,11
+bkv,Latn,bkv_Latn,Bekwarra,0,Nd,DIGIT ZERO,13,2,"2014,2017",4,9
+bkv,Latn,bkv_Latn,Bekwarra,í,Ll,LATIN SMALL LETTER I WITH ACUTE,12,2,"2014,2017",2,10
+bkv,Latn,bkv_Latn,Bekwarra,é,Ll,LATIN SMALL LETTER E WITH ACUTE,12,1,2017,0,12
+bkv,Latn,bkv_Latn,Bekwarra,ā,Ll,LATIN SMALL LETTER A WITH MACRON,11,1,2017,0,11
+bkv,Latn,bkv_Latn,Bekwarra,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,10,2,"2014,2017",4,6
+bkv,Latn,bkv_Latn,Bekwarra,Ū,Lu,LATIN CAPITAL LETTER U WITH MACRON,9,1,2017,0,9
+bkv,Latn,bkv_Latn,Bekwarra,M,Lu,LATIN CAPITAL LETTER M,9,2,"2014,2017",4,5
+bkv,Latn,bkv_Latn,Bekwarra,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,8,1,2017,0,8
+bkv,Latn,bkv_Latn,Bekwarra,á,Ll,LATIN SMALL LETTER A WITH ACUTE,7,2,"2014,2017",2,5
+bkv,Latn,bkv_Latn,Bekwarra,/,Po,SOLIDUS,6,1,2017,0,6
+bkv,Latn,bkv_Latn,Bekwarra,J,Lu,LATIN CAPITAL LETTER J,6,1,2017,0,6
+bkv,Latn,bkv_Latn,Bekwarra,:,Po,COLON,6,1,2017,0,6
+bkv,Latn,bkv_Latn,Bekwarra,?,Po,QUESTION MARK,6,2,"2014,2017",2,4
+bkv,Latn,bkv_Latn,Bekwarra,ě,Ll,LATIN SMALL LETTER E WITH CARON,5,2,"2014,2017",3,2
+bkv,Latn,bkv_Latn,Bekwarra,à,Ll,LATIN SMALL LETTER A WITH GRAVE,4,2,"2014,2017",3,1
+bkv,Latn,bkv_Latn,Bekwarra,ū,Ll,LATIN SMALL LETTER U WITH MACRON,4,1,2017,0,4
+bkv,Latn,bkv_Latn,Bekwarra,ē,Ll,LATIN SMALL LETTER E WITH MACRON,3,2,"2014,2017",2,1
+bkv,Latn,bkv_Latn,Bekwarra,ī,Ll,LATIN SMALL LETTER I WITH MACRON,3,1,2017,0,3
+bkv,Latn,bkv_Latn,Bekwarra,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,2,2,"2014,2017",1,1
+bkv,Latn,bkv_Latn,Bekwarra,T,Lu,LATIN CAPITAL LETTER T,2,1,2014,2,0
+bkv,Latn,bkv_Latn,Bekwarra,̀,Mn,COMBINING GRAVE ACCENT,2,2,"2014,2017",1,1
+bkv,Latn,bkv_Latn,Bekwarra,Y,Lu,LATIN CAPITAL LETTER Y,2,2,"2014,2017",1,1
+bkv,Latn,bkv_Latn,Bekwarra,Ì,Lu,LATIN CAPITAL LETTER I WITH GRAVE,1,1,2017,0,1
+bkv,Latn,bkv_Latn,Bekwarra,ǹ,Ll,LATIN SMALL LETTER N WITH GRAVE,1,1,2017,0,1
+bkv,Latn,bkv_Latn,Bekwarra,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,1,1,2014,1,0
+bkv,Latn,bkv_Latn,Bekwarra,D,Lu,LATIN CAPITAL LETTER D,1,1,2017,0,1
+bkv,Latn,bkv_Latn,Bekwarra,V,Lu,LATIN CAPITAL LETTER V,1,1,2017,0,1
+bkv,Latn,bkv_Latn,Bekwarra,B,Lu,LATIN CAPITAL LETTER B,1,1,2017,0,1
+bkv,Latn,bkv_Latn,Bekwarra,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,1,1,2014,1,0
+bkv,Latn,bkv_Latn,Bekwarra,W,Lu,LATIN CAPITAL LETTER W,1,1,2017,0,1

@@ -1,0 +1,65 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency
+pse,Latn,pse_Latn,Central Malay,a,Ll,LATIN SMALL LETTER A,28446,3,"2017,2018,2019",18717,491,9238
+pse,Latn,pse_Latn,Central Malay, ,Zs,SPACE,23833,3,"2017,2018,2019",17706,376,5751
+pse,Latn,pse_Latn,Central Malay,u,Ll,LATIN SMALL LETTER U,17589,3,"2017,2018,2019",12034,249,5306
+pse,Latn,pse_Latn,Central Malay,n,Ll,LATIN SMALL LETTER N,12810,3,"2017,2018,2019",8321,181,4308
+pse,Latn,pse_Latn,Central Malay,i,Ll,LATIN SMALL LETTER I,11567,3,"2017,2018,2019",7843,170,3554
+pse,Latn,pse_Latn,Central Malay,k,Ll,LATIN SMALL LETTER K,9310,3,"2017,2018,2019",6225,140,2945
+pse,Latn,pse_Latn,Central Malay,g,Ll,LATIN SMALL LETTER G,7734,3,"2017,2018,2019",5032,112,2590
+pse,Latn,pse_Latn,Central Malay,e,Ll,LATIN SMALL LETTER E,6490,3,"2017,2018,2019",4066,70,2354
+pse,Latn,pse_Latn,Central Malay,t,Ll,LATIN SMALL LETTER T,5532,3,"2017,2018,2019",3233,63,2236
+pse,Latn,pse_Latn,Central Malay,d,Ll,LATIN SMALL LETTER D,5177,3,"2017,2018,2019",3484,122,1571
+pse,Latn,pse_Latn,Central Malay,m,Ll,LATIN SMALL LETTER M,4236,3,"2017,2018,2019",2843,67,1326
+pse,Latn,pse_Latn,Central Malay,s,Ll,LATIN SMALL LETTER S,3695,3,"2017,2018,2019",2442,74,1179
+pse,Latn,pse_Latn,Central Malay,l,Ll,LATIN SMALL LETTER L,3671,3,"2017,2018,2019",2279,63,1329
+pse,Latn,pse_Latn,Central Malay,b,Ll,LATIN SMALL LETTER B,3027,3,"2017,2018,2019",1703,41,1283
+pse,Latn,pse_Latn,Central Malay,p,Ll,LATIN SMALL LETTER P,2742,3,"2017,2018,2019",1570,28,1144
+pse,Latn,pse_Latn,Central Malay,r,Ll,LATIN SMALL LETTER R,2311,3,"2017,2018,2019",1359,53,899
+pse,Latn,pse_Latn,Central Malay,h,Ll,LATIN SMALL LETTER H,2185,3,"2017,2018,2019",1518,35,632
+pse,Latn,pse_Latn,Central Malay,y,Ll,LATIN SMALL LETTER Y,2081,3,"2017,2018,2019",1183,19,879
+pse,Latn,pse_Latn,Central Malay,j,Ll,LATIN SMALL LETTER J,1813,3,"2017,2018,2019",1275,19,519
+pse,Latn,pse_Latn,Central Malay,",",Po,COMMA,1798,3,"2017,2018,2019",1684,53,61
+pse,Latn,pse_Latn,Central Malay,.,Po,FULL STOP,1229,3,"2017,2018,2019",1172,24,33
+pse,Latn,pse_Latn,Central Malay,A,Lu,LATIN CAPITAL LETTER A,1215,3,"2017,2018,2019",1055,31,129
+pse,Latn,pse_Latn,Central Malay,c,Ll,LATIN SMALL LETTER C,1050,3,"2017,2018,2019",676,10,364
+pse,Latn,pse_Latn,Central Malay,"""",Po,QUOTATION MARK,846,3,"2017,2018,2019",834,6,6
+pse,Latn,pse_Latn,Central Malay,',Po,APOSTROPHE,770,3,"2017,2018,2019",281,2,487
+pse,Latn,pse_Latn,Central Malay,Y,Lu,LATIN CAPITAL LETTER Y,640,3,"2017,2018,2019",586,27,27
+pse,Latn,pse_Latn,Central Malay,K,Lu,LATIN CAPITAL LETTER K,625,3,"2017,2018,2019",543,5,77
+pse,Latn,pse_Latn,Central Malay,D,Lu,LATIN CAPITAL LETTER D,489,3,"2017,2018,2019",466,11,12
+pse,Latn,pse_Latn,Central Malay,-,Pd,HYPHEN-MINUS,417,3,"2017,2018,2019",184,4,229
+pse,Latn,pse_Latn,Central Malay,N,Lu,LATIN CAPITAL LETTER N,374,3,"2017,2018,2019",215,2,157
+pse,Latn,pse_Latn,Central Malay,1,Nd,DIGIT ONE,349,3,"2017,2018,2019",322,13,14
+pse,Latn,pse_Latn,Central Malay,M,Lu,LATIN CAPITAL LETTER M,348,3,"2017,2018,2019",315,15,18
+pse,Latn,pse_Latn,Central Malay,2,Nd,DIGIT TWO,313,3,"2017,2018,2019",295,9,9
+pse,Latn,pse_Latn,Central Malay,3,Nd,DIGIT THREE,244,3,"2017,2018,2019",238,3,3
+pse,Latn,pse_Latn,Central Malay,B,Lu,LATIN CAPITAL LETTER B,213,3,"2017,2018,2019",193,7,13
+pse,Latn,pse_Latn,Central Malay,4,Nd,DIGIT FOUR,185,3,"2017,2018,2019",179,3,3
+pse,Latn,pse_Latn,Central Malay,P,Lu,LATIN CAPITAL LETTER P,176,3,"2017,2018,2019",172,2,2
+pse,Latn,pse_Latn,Central Malay,w,Ll,LATIN SMALL LETTER W,159,2,"2017,2019",54,0,105
+pse,Latn,pse_Latn,Central Malay,?,Po,QUESTION MARK,152,1,2017,152,0,0
+pse,Latn,pse_Latn,Central Malay,S,Lu,LATIN CAPITAL LETTER S,141,3,"2017,2018,2019",116,12,13
+pse,Latn,pse_Latn,Central Malay,5,Nd,DIGIT FIVE,137,3,"2017,2018,2019",131,3,3
+pse,Latn,pse_Latn,Central Malay,J,Lu,LATIN CAPITAL LETTER J,136,1,2017,136,0,0
+pse,Latn,pse_Latn,Central Malay,T,Lu,LATIN CAPITAL LETTER T,130,3,"2017,2018,2019",121,4,5
+pse,Latn,pse_Latn,Central Malay,L,Lu,LATIN CAPITAL LETTER L,123,3,"2017,2018,2019",119,2,2
+pse,Latn,pse_Latn,Central Malay,I,Lu,LATIN CAPITAL LETTER I,119,3,"2017,2018,2019",88,15,16
+pse,Latn,pse_Latn,Central Malay,6,Nd,DIGIT SIX,103,3,"2017,2018,2019",99,2,2
+pse,Latn,pse_Latn,Central Malay,7,Nd,DIGIT SEVEN,93,3,"2017,2018,2019",89,2,2
+pse,Latn,pse_Latn,Central Malay,U,Lu,LATIN CAPITAL LETTER U,89,3,"2017,2018,2019",78,5,6
+pse,Latn,pse_Latn,Central Malay,8,Nd,DIGIT EIGHT,88,3,"2017,2018,2019",84,2,2
+pse,Latn,pse_Latn,Central Malay,9,Nd,DIGIT NINE,87,3,"2017,2018,2019",83,2,2
+pse,Latn,pse_Latn,Central Malay,0,Nd,DIGIT ZERO,86,3,"2017,2018,2019",82,2,2
+pse,Latn,pse_Latn,Central Malay,G,Lu,LATIN CAPITAL LETTER G,86,3,"2017,2018,2019",84,1,1
+pse,Latn,pse_Latn,Central Malay,H,Lu,LATIN CAPITAL LETTER H,85,3,"2017,2018,2019",64,4,17
+pse,Latn,pse_Latn,Central Malay,:,Po,COLON,82,3,"2017,2018,2019",79,1,2
+pse,Latn,pse_Latn,Central Malay,!,Po,EXCLAMATION MARK,80,1,2017,80,0,0
+pse,Latn,pse_Latn,Central Malay,R,Lu,LATIN CAPITAL LETTER R,68,3,"2017,2018,2019",52,8,8
+pse,Latn,pse_Latn,Central Malay,E,Lu,LATIN CAPITAL LETTER E,21,3,"2017,2018,2019",19,1,1
+pse,Latn,pse_Latn,Central Malay,C,Lu,LATIN CAPITAL LETTER C,7,2,"2017,2018",6,1,0
+pse,Latn,pse_Latn,Central Malay,o,Ll,LATIN SMALL LETTER O,3,2,"2018,2019",0,1,2
+pse,Latn,pse_Latn,Central Malay,“,Pi,LEFT DOUBLE QUOTATION MARK,2,1,2019,0,0,2
+pse,Latn,pse_Latn,Central Malay,;,Po,SEMICOLON,1,1,2017,1,0,0
+pse,Latn,pse_Latn,Central Malay,(,Ps,LEFT PARENTHESIS,1,1,2019,0,0,1
+pse,Latn,pse_Latn,Central Malay,),Pe,RIGHT PARENTHESIS,1,1,2019,0,0,1
+pse,Latn,pse_Latn,Central Malay,”,Pf,RIGHT DOUBLE QUOTATION MARK,1,1,2019,0,0,1

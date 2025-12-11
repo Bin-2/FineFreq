@@ -1,0 +1,16 @@
+{
+  "language_code": "sri_Latn",
+  "iso_639_3": "sri",
+  "script": "Latn",
+  "language_name": "Siriano",
+  "total_characters": 97,
+  "total_frequency": 43001,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:11.055439"
+}

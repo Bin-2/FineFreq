@@ -1,0 +1,14 @@
+{
+  "language_code": "avn_Latn",
+  "iso_639_3": "avn",
+  "script": "Latn",
+  "language_name": "Avatime",
+  "total_characters": 88,
+  "total_frequency": 13219,
+  "years_covered": [
+    "2017",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:47.902460"
+}

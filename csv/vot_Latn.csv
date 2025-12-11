@@ -1,0 +1,130 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2021_frequency
+vot,Latn,vot_Latn,Votic, ,Zs,SPACE,867,3,"2018,2019,2021",163,331,373
+vot,Latn,vot_Latn,Votic,a,Ll,LATIN SMALL LETTER A,617,3,"2018,2019,2021",76,302,239
+vot,Latn,vot_Latn,Votic,t,Ll,LATIN SMALL LETTER T,564,3,"2018,2019,2021",97,315,152
+vot,Latn,vot_Latn,Votic,e,Ll,LATIN SMALL LETTER E,542,3,"2018,2019,2021",119,251,172
+vot,Latn,vot_Latn,Votic,i,Ll,LATIN SMALL LETTER I,516,3,"2018,2019,2021",83,226,207
+vot,Latn,vot_Latn,Votic,|,Sm,VERTICAL LINE,394,2,"2019,2021",0,393,1
+vot,Latn,vot_Latn,Votic,n,Ll,LATIN SMALL LETTER N,362,3,"2018,2019,2021",61,201,100
+vot,Latn,vot_Latn,Votic,s,Ll,LATIN SMALL LETTER S,353,3,"2018,2019,2021",70,201,82
+vot,Latn,vot_Latn,Votic,l,Ll,LATIN SMALL LETTER L,318,3,"2018,2019,2021",65,116,137
+vot,Latn,vot_Latn,Votic,m,Ll,LATIN SMALL LETTER M,306,3,"2018,2019,2021",34,206,66
+vot,Latn,vot_Latn,Votic,õ,Ll,LATIN SMALL LETTER O WITH TILDE,296,3,"2018,2019,2021",30,174,92
+vot,Latn,vot_Latn,Votic,k,Ll,LATIN SMALL LETTER K,244,3,"2018,2019,2021",28,131,85
+vot,Latn,vot_Latn,Votic,o,Ll,LATIN SMALL LETTER O,235,3,"2018,2019,2021",55,95,85
+vot,Latn,vot_Latn,Votic,u,Ll,LATIN SMALL LETTER U,228,3,"2018,2019,2021",43,126,59
+vot,Latn,vot_Latn,Votic,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,209,3,"2018,2019,2021",19,103,87
+vot,Latn,vot_Latn,Votic,h,Ll,LATIN SMALL LETTER H,198,3,"2018,2019,2021",47,127,24
+vot,Latn,vot_Latn,Votic,r,Ll,LATIN SMALL LETTER R,187,3,"2018,2019,2021",49,68,70
+vot,Latn,vot_Latn,Votic,z,Ll,LATIN SMALL LETTER Z,162,3,"2018,2019,2021",13,107,42
+vot,Latn,vot_Latn,Votic,š,Ll,LATIN SMALL LETTER S WITH CARON,122,3,"2018,2019,2021",8,84,30
+vot,Latn,vot_Latn,Votic,v,Ll,LATIN SMALL LETTER V,119,3,"2018,2019,2021",20,44,55
+vot,Latn,vot_Latn,Votic,",",Po,COMMA,117,3,"2018,2019,2021",42,58,17
+vot,Latn,vot_Latn,Votic,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,101,3,"2018,2019,2021",7,72,22
+vot,Latn,vot_Latn,Votic,d,Ll,LATIN SMALL LETTER D,96,3,"2018,2019,2021",24,34,38
+vot,Latn,vot_Latn,Votic,p,Ll,LATIN SMALL LETTER P,96,3,"2018,2019,2021",17,30,49
+vot,Latn,vot_Latn,Votic,.,Po,FULL STOP,81,3,"2018,2019,2021",10,31,40
+vot,Latn,vot_Latn,Votic,0,Nd,DIGIT ZERO,78,2,"2019,2021",0,67,11
+vot,Latn,vot_Latn,Votic,y,Ll,LATIN SMALL LETTER Y,71,3,"2018,2019,2021",7,22,42
+vot,Latn,vot_Latn,Votic,c,Ll,LATIN SMALL LETTER C,59,3,"2018,2019,2021",13,37,9
+vot,Latn,vot_Latn,Votic,g,Ll,LATIN SMALL LETTER G,49,3,"2018,2019,2021",12,25,12
+vot,Latn,vot_Latn,Votic,1,Nd,DIGIT ONE,46,2,"2019,2021",0,43,3
+vot,Latn,vot_Latn,Votic,j,Ll,LATIN SMALL LETTER J,43,3,"2018,2019,2021",4,6,33
+vot,Latn,vot_Latn,Votic,b,Ll,LATIN SMALL LETTER B,41,3,"2018,2019,2021",9,12,20
+vot,Latn,vot_Latn,Votic,f,Ll,LATIN SMALL LETTER F,33,3,"2018,2019,2021",8,23,2
+vot,Latn,vot_Latn,Votic,-,Pd,HYPHEN-MINUS,26,3,"2018,2019,2021",6,8,12
+vot,Latn,vot_Latn,Votic,2,Nd,DIGIT TWO,26,2,"2019,2021",0,22,4
+vot,Latn,vot_Latn,Votic,I,Lu,LATIN CAPITAL LETTER I,25,3,"2018,2019,2021",12,11,2
+vot,Latn,vot_Latn,Votic,w,Ll,LATIN SMALL LETTER W,25,3,"2018,2019,2021",19,2,4
+vot,Latn,vot_Latn,Votic,ś,Ll,LATIN SMALL LETTER S WITH ACUTE,23,1,2019,0,23,0
+vot,Latn,vot_Latn,Votic,K,Lu,LATIN CAPITAL LETTER K,22,3,"2018,2019,2021",2,8,12
+vot,Latn,vot_Latn,Votic,/,Po,SOLIDUS,18,3,"2018,2019,2021",3,6,9
+vot,Latn,vot_Latn,Votic,L,Lu,LATIN CAPITAL LETTER L,17,2,"2019,2021",0,2,15
+vot,Latn,vot_Latn,Votic,),Pe,RIGHT PARENTHESIS,17,2,"2019,2021",0,16,1
+vot,Latn,vot_Latn,Votic,3,Nd,DIGIT THREE,15,2,"2019,2021",0,10,5
+vot,Latn,vot_Latn,Votic,V,Lu,LATIN CAPITAL LETTER V,14,2,"2019,2021",0,4,10
+vot,Latn,vot_Latn,Votic,ď,Ll,LATIN SMALL LETTER D WITH CARON,14,2,"2019,2021",0,8,6
+vot,Latn,vot_Latn,Votic,A,Lu,LATIN CAPITAL LETTER A,12,2,"2018,2019",2,10,0
+vot,Latn,vot_Latn,Votic,4,Nd,DIGIT FOUR,12,2,"2019,2021",0,8,4
+vot,Latn,vot_Latn,Votic,M,Lu,LATIN CAPITAL LETTER M,12,3,"2018,2019,2021",4,2,6
+vot,Latn,vot_Latn,Votic,S,Lu,LATIN CAPITAL LETTER S,12,2,"2019,2021",0,3,9
+vot,Latn,vot_Latn,Votic,',Po,APOSTROPHE,11,3,"2018,2019,2021",2,1,8
+vot,Latn,vot_Latn,Votic,5,Nd,DIGIT FIVE,11,2,"2019,2021",0,10,1
+vot,Latn,vot_Latn,Votic,:,Po,COLON,10,3,"2018,2019,2021",1,5,4
+vot,Latn,vot_Latn,Votic,6,Nd,DIGIT SIX,10,2,"2018,2019",1,9,0
+vot,Latn,vot_Latn,Votic,8,Nd,DIGIT EIGHT,8,1,2019,0,8,0
+vot,Latn,vot_Latn,Votic,9,Nd,DIGIT NINE,7,1,2019,0,7,0
+vot,Latn,vot_Latn,Votic,7,Nd,DIGIT SEVEN,7,1,2019,0,7,0
+vot,Latn,vot_Latn,Votic,́,Mn,COMBINING ACUTE ACCENT,6,1,2021,0,0,6
+vot,Latn,vot_Latn,Votic,R,Lu,LATIN CAPITAL LETTER R,6,3,"2018,2019,2021",1,2,3
+vot,Latn,vot_Latn,Votic,N,Lu,LATIN CAPITAL LETTER N,6,3,"2018,2019,2021",1,4,1
+vot,Latn,vot_Latn,Votic,T,Lu,LATIN CAPITAL LETTER T,5,3,"2018,2019,2021",2,2,1
+vot,Latn,vot_Latn,Votic,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,5,2,"2019,2021",0,1,4
+vot,Latn,vot_Latn,Votic,P,Lu,LATIN CAPITAL LETTER P,5,2,"2019,2021",0,2,3
+vot,Latn,vot_Latn,Votic,র,Lo,BENGALI LETTER RA,4,1,2019,0,4,0
+vot,Latn,vot_Latn,Votic,?,Po,QUESTION MARK,4,2,"2018,2021",1,0,3
+vot,Latn,vot_Latn,Votic,ন,Lo,BENGALI LETTER NA,4,1,2019,0,4,0
+vot,Latn,vot_Latn,Votic,া,Mc,BENGALI VOWEL SIGN AA,4,1,2019,0,4,0
+vot,Latn,vot_Latn,Votic,=,Sm,EQUALS SIGN,4,2,"2018,2019",1,3,0
+vot,Latn,vot_Latn,Votic,ž,Ll,LATIN SMALL LETTER Z WITH CARON,4,1,2021,0,0,4
+vot,Latn,vot_Latn,Votic,W,Lu,LATIN CAPITAL LETTER W,4,2,"2019,2021",0,1,3
+vot,Latn,vot_Latn,Votic,J,Lu,LATIN CAPITAL LETTER J,4,2,"2019,2021",0,1,3
+vot,Latn,vot_Latn,Votic,E,Lu,LATIN CAPITAL LETTER E,3,1,2021,0,0,3
+vot,Latn,vot_Latn,Votic,G,Lu,LATIN CAPITAL LETTER G,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,(,Ps,LEFT PARENTHESIS,3,2,"2019,2021",0,2,1
+vot,Latn,vot_Latn,Votic,B,Lu,LATIN CAPITAL LETTER B,3,2,"2018,2019",2,1,0
+vot,Latn,vot_Latn,Votic,и,Ll,CYRILLIC SMALL LETTER I,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,к,Ll,CYRILLIC SMALL LETTER KA,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,ক,Lo,BENGALI LETTER KA,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,য,Lo,BENGALI LETTER YA,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,্,Mn,BENGALI SIGN VIRAMA,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,ু,Mn,BENGALI VOWEL SIGN U,3,1,2019,0,3,0
+vot,Latn,vot_Latn,Votic,x,Ll,LATIN SMALL LETTER X,3,2,"2018,2021",1,0,2
+vot,Latn,vot_Latn,Votic,U,Lu,LATIN CAPITAL LETTER U,2,2,"2019,2021",0,1,1
+vot,Latn,vot_Latn,Votic,;,Po,SEMICOLON,2,1,2021,0,0,2
+vot,Latn,vot_Latn,Votic,с,Ll,CYRILLIC SMALL LETTER ES,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,ি,Mc,BENGALI VOWEL SIGN I,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,е,Ll,CYRILLIC SMALL LETTER IE,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,о,Ll,CYRILLIC SMALL LETTER O,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,й,Ll,CYRILLIC SMALL LETTER SHORT I,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,я,Ll,CYRILLIC SMALL LETTER YA,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,অ,Lo,BENGALI LETTER A,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,C,Lu,LATIN CAPITAL LETTER C,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,В,Lu,CYRILLIC CAPITAL LETTER VE,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,ে,Mc,BENGALI VOWEL SIGN E,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,হ,Lo,BENGALI LETTER HA,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,!,Po,EXCLAMATION MARK,2,2,"2019,2021",0,1,1
+vot,Latn,vot_Latn,Votic,দ,Lo,BENGALI LETTER DA,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,"""",Po,QUOTATION MARK,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,O,Lu,LATIN CAPITAL LETTER O,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,ব,Lo,BENGALI LETTER BA,2,1,2019,0,2,0
+vot,Latn,vot_Latn,Votic,ও,Lo,BENGALI LETTER O,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ত,Lo,BENGALI LETTER TA,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,H,Lu,LATIN CAPITAL LETTER H,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,q,Ll,LATIN SMALL LETTER Q,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,গ,Lo,BENGALI LETTER GA,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,å,Ll,LATIN SMALL LETTER A WITH RING ABOVE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,Y,Lu,LATIN CAPITAL LETTER Y,1,1,2021,0,0,1
+vot,Latn,vot_Latn,Votic,[,Ps,LEFT SQUARE BRACKET,1,1,2021,0,0,1
+vot,Latn,vot_Latn,Votic,],Pe,RIGHT SQUARE BRACKET,1,1,2021,0,0,1
+vot,Latn,vot_Latn,Votic,ড,Lo,BENGALI LETTER DDA,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,Ч,Lu,CYRILLIC CAPITAL LETTER CHE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,т,Ll,CYRILLIC SMALL LETTER TE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ь,Ll,CYRILLIC SMALL LETTER SOFT SIGN,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,з,Ll,CYRILLIC SMALL LETTER ZE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,р,Ll,CYRILLIC SMALL LETTER ER,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,н,Ll,CYRILLIC SMALL LETTER EN,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ধ,Lo,BENGALI LETTER DHA,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,в,Ll,CYRILLIC SMALL LETTER VE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,F,Lu,LATIN CAPITAL LETTER F,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,д,Ll,CYRILLIC SMALL LETTER DE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ы,Ll,CYRILLIC SMALL LETTER YERU,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,л,Ll,CYRILLIC SMALL LETTER EL,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,স,Lo,BENGALI LETTER SA,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,С,Lu,CYRILLIC CAPITAL LETTER ES,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,а,Ll,CYRILLIC SMALL LETTER A,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,м,Ll,CYRILLIC SMALL LETTER EM,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,у,Ll,CYRILLIC SMALL LETTER U,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ч,Ll,CYRILLIC SMALL LETTER CHE,1,1,2019,0,1,0
+vot,Latn,vot_Latn,Votic,ভ,Lo,BENGALI LETTER BHA,1,1,2019,0,1,0

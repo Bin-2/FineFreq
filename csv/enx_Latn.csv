@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency
+enx,Latn,enx_Latn,Enxet,a,Ll,LATIN SMALL LETTER A,1987,2,"2018,2019",600,1387
+enx,Latn,enx_Latn,Enxet, ,Zs,SPACE,1711,2,"2018,2019",516,1195
+enx,Latn,enx_Latn,Enxet,e,Ll,LATIN SMALL LETTER E,1230,2,"2018,2019",363,867
+enx,Latn,enx_Latn,Enxet,k,Ll,LATIN SMALL LETTER K,856,2,"2018,2019",209,647
+enx,Latn,enx_Latn,Enxet,t,Ll,LATIN SMALL LETTER T,646,2,"2018,2019",200,446
+enx,Latn,enx_Latn,Enxet,m,Ll,LATIN SMALL LETTER M,556,2,"2018,2019",170,386
+enx,Latn,enx_Latn,Enxet,n,Ll,LATIN SMALL LETTER N,496,2,"2018,2019",111,385
+enx,Latn,enx_Latn,Enxet,x,Ll,LATIN SMALL LETTER X,449,2,"2018,2019",109,340
+enx,Latn,enx_Latn,Enxet,s,Ll,LATIN SMALL LETTER S,434,2,"2018,2019",137,297
+enx,Latn,enx_Latn,Enxet,o,Ll,LATIN SMALL LETTER O,392,2,"2018,2019",106,286
+enx,Latn,enx_Latn,Enxet,h,Ll,LATIN SMALL LETTER H,361,2,"2018,2019",91,270
+enx,Latn,enx_Latn,Enxet,p,Ll,LATIN SMALL LETTER P,359,2,"2018,2019",121,238
+enx,Latn,enx_Latn,Enxet,y,Ll,LATIN SMALL LETTER Y,311,2,"2018,2019",64,247
+enx,Latn,enx_Latn,Enxet,',Po,APOSTROPHE,311,2,"2018,2019",111,200
+enx,Latn,enx_Latn,Enxet,é,Ll,LATIN SMALL LETTER E WITH ACUTE,201,2,"2018,2019",50,151
+enx,Latn,enx_Latn,Enxet,c,Ll,LATIN SMALL LETTER C,190,2,"2018,2019",73,117
+enx,Latn,enx_Latn,Enxet,á,Ll,LATIN SMALL LETTER A WITH ACUTE,188,2,"2018,2019",47,141
+enx,Latn,enx_Latn,Enxet,l,Ll,LATIN SMALL LETTER L,182,2,"2018,2019",50,132
+enx,Latn,enx_Latn,Enxet,w,Ll,LATIN SMALL LETTER W,153,2,"2018,2019",39,114
+enx,Latn,enx_Latn,Enxet,",",Po,COMMA,141,2,"2018,2019",45,96
+enx,Latn,enx_Latn,Enxet,.,Po,FULL STOP,137,2,"2018,2019",36,101
+enx,Latn,enx_Latn,Enxet,g,Ll,LATIN SMALL LETTER G,110,2,"2018,2019",28,82
+enx,Latn,enx_Latn,Enxet,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,101,2,"2018,2019",23,78
+enx,Latn,enx_Latn,Enxet,i,Ll,LATIN SMALL LETTER I,100,2,"2018,2019",37,63
+enx,Latn,enx_Latn,Enxet,r,Ll,LATIN SMALL LETTER R,88,2,"2018,2019",41,47
+enx,Latn,enx_Latn,Enxet,A,Lu,LATIN CAPITAL LETTER A,67,2,"2018,2019",23,44
+enx,Latn,enx_Latn,Enxet,q,Ll,LATIN SMALL LETTER Q,65,2,"2018,2019",16,49
+enx,Latn,enx_Latn,Enxet,J,Lu,LATIN CAPITAL LETTER J,64,2,"2018,2019",31,33
+enx,Latn,enx_Latn,Enxet,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,58,2,"2018,2019",21,37
+enx,Latn,enx_Latn,Enxet,1,Nd,DIGIT ONE,55,2,"2018,2019",13,42
+enx,Latn,enx_Latn,Enxet,í,Ll,LATIN SMALL LETTER I WITH ACUTE,49,2,"2018,2019",23,26
+enx,Latn,enx_Latn,Enxet,b,Ll,LATIN SMALL LETTER B,48,2,"2018,2019",24,24
+enx,Latn,enx_Latn,Enxet,2,Nd,DIGIT TWO,44,2,"2018,2019",9,35
+enx,Latn,enx_Latn,Enxet,u,Ll,LATIN SMALL LETTER U,42,2,"2018,2019",19,23
+enx,Latn,enx_Latn,Enxet,d,Ll,LATIN SMALL LETTER D,39,2,"2018,2019",19,20
+enx,Latn,enx_Latn,Enxet,D,Lu,LATIN CAPITAL LETTER D,36,2,"2018,2019",8,28
+enx,Latn,enx_Latn,Enxet,E,Lu,LATIN CAPITAL LETTER E,34,2,"2018,2019",14,20
+enx,Latn,enx_Latn,Enxet,M,Lu,LATIN CAPITAL LETTER M,30,2,"2018,2019",15,15
+enx,Latn,enx_Latn,Enxet,K,Lu,LATIN CAPITAL LETTER K,24,2,"2018,2019",5,19
+enx,Latn,enx_Latn,Enxet,z,Ll,LATIN SMALL LETTER Z,24,2,"2018,2019",12,12
+enx,Latn,enx_Latn,Enxet,“,Pi,LEFT DOUBLE QUOTATION MARK,22,2,"2018,2019",3,19
+enx,Latn,enx_Latn,Enxet,”,Pf,RIGHT DOUBLE QUOTATION MARK,22,2,"2018,2019",3,19
+enx,Latn,enx_Latn,Enxet,:,Po,COLON,22,2,"2018,2019",5,17
+enx,Latn,enx_Latn,Enxet,S,Lu,LATIN CAPITAL LETTER S,22,2,"2018,2019",11,11
+enx,Latn,enx_Latn,Enxet,3,Nd,DIGIT THREE,16,2,"2018,2019",3,13
+enx,Latn,enx_Latn,Enxet,;,Po,SEMICOLON,13,2,"2018,2019",1,12
+enx,Latn,enx_Latn,Enxet,4,Nd,DIGIT FOUR,13,2,"2018,2019",3,10
+enx,Latn,enx_Latn,Enxet,C,Lu,LATIN CAPITAL LETTER C,13,2,"2018,2019",2,11
+enx,Latn,enx_Latn,Enxet,T,Lu,LATIN CAPITAL LETTER T,12,2,"2018,2019",2,10
+enx,Latn,enx_Latn,Enxet,v,Ll,LATIN SMALL LETTER V,12,2,"2018,2019",6,6
+enx,Latn,enx_Latn,Enxet,5,Nd,DIGIT FIVE,11,2,"2018,2019",3,8
+enx,Latn,enx_Latn,Enxet,7,Nd,DIGIT SEVEN,11,2,"2018,2019",2,9
+enx,Latn,enx_Latn,Enxet,R,Lu,LATIN CAPITAL LETTER R,10,2,"2018,2019",4,6
+enx,Latn,enx_Latn,Enxet,I,Lu,LATIN CAPITAL LETTER I,10,2,"2018,2019",3,7
+enx,Latn,enx_Latn,Enxet,8,Nd,DIGIT EIGHT,9,2,"2018,2019",2,7
+enx,Latn,enx_Latn,Enxet,0,Nd,DIGIT ZERO,9,2,"2018,2019",2,7
+enx,Latn,enx_Latn,Enxet,B,Lu,LATIN CAPITAL LETTER B,8,2,"2018,2019",4,4
+enx,Latn,enx_Latn,Enxet,6,Nd,DIGIT SIX,8,2,"2018,2019",2,6
+enx,Latn,enx_Latn,Enxet,W,Lu,LATIN CAPITAL LETTER W,8,2,"2018,2019",3,5
+enx,Latn,enx_Latn,Enxet,U,Lu,LATIN CAPITAL LETTER U,7,2,"2018,2019",3,4
+enx,Latn,enx_Latn,Enxet,L,Lu,LATIN CAPITAL LETTER L,7,2,"2018,2019",1,6
+enx,Latn,enx_Latn,Enxet,9,Nd,DIGIT NINE,7,2,"2018,2019",2,5
+enx,Latn,enx_Latn,Enxet,Z,Lu,LATIN CAPITAL LETTER Z,6,2,"2018,2019",3,3
+enx,Latn,enx_Latn,Enxet,),Pe,RIGHT PARENTHESIS,6,2,"2018,2019",1,5
+enx,Latn,enx_Latn,Enxet,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,6,2,"2018,2019",3,3
+enx,Latn,enx_Latn,Enxet,-,Pd,HYPHEN-MINUS,6,1,2019,0,6
+enx,Latn,enx_Latn,Enxet,#,Po,NUMBER SIGN,6,1,2019,0,6
+enx,Latn,enx_Latn,Enxet,(,Ps,LEFT PARENTHESIS,6,2,"2018,2019",1,5
+enx,Latn,enx_Latn,Enxet,X,Lu,LATIN CAPITAL LETTER X,5,2,"2018,2019",1,4
+enx,Latn,enx_Latn,Enxet,N,Lu,LATIN CAPITAL LETTER N,5,2,"2018,2019",2,3
+enx,Latn,enx_Latn,Enxet,F,Lu,LATIN CAPITAL LETTER F,4,2,"2018,2019",2,2
+enx,Latn,enx_Latn,Enxet,f,Ll,LATIN SMALL LETTER F,4,2,"2018,2019",2,2
+enx,Latn,enx_Latn,Enxet,O,Lu,LATIN CAPITAL LETTER O,4,2,"2018,2019",2,2
+enx,Latn,enx_Latn,Enxet,!,Po,EXCLAMATION MARK,2,1,2019,0,2
+enx,Latn,enx_Latn,Enxet,Y,Lu,LATIN CAPITAL LETTER Y,2,1,2019,0,2
+enx,Latn,enx_Latn,Enxet,/,Po,SOLIDUS,2,1,2019,0,2
+enx,Latn,enx_Latn,Enxet,P,Lu,LATIN CAPITAL LETTER P,1,1,2018,1,0
+enx,Latn,enx_Latn,Enxet,¡,Po,INVERTED EXCLAMATION MARK,1,1,2019,0,1
+enx,Latn,enx_Latn,Enxet,@,Po,COMMERCIAL AT,1,1,2019,0,1

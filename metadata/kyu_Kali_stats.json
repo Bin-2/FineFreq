@@ -1,0 +1,16 @@
+{
+  "language_code": "kyu_Kali",
+  "iso_639_3": "kyu",
+  "script": "Kali",
+  "language_name": "Western Kayah",
+  "total_characters": 108,
+  "total_frequency": 36833,
+  "years_covered": [
+    "2019",
+    "2020",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:01.103549"
+}

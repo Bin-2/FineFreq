@@ -1,0 +1,19 @@
+{
+  "language_code": "xbi_Latn",
+  "iso_639_3": "xbi",
+  "script": "Latn",
+  "language_name": "Kombio",
+  "total_characters": 81,
+  "total_frequency": 993231,
+  "years_covered": [
+    "2013",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:15.697620"
+}

@@ -1,0 +1,20 @@
+{
+  "language_code": "wmw_Latn",
+  "iso_639_3": "wmw",
+  "script": "Latn",
+  "language_name": "Mwani",
+  "total_characters": 109,
+  "total_frequency": 401550,
+  "years_covered": [
+    "2013",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:15.467619"
+}

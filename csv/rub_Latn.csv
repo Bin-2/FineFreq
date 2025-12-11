@@ -1,0 +1,85 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2022_frequency,year_2023_frequency
+rub,Latn,rub_Latn,Gungu,a,Ll,LATIN SMALL LETTER A,9561,2,"2022,2023",9021,540
+rub,Latn,rub_Latn,Gungu, ,Zs,SPACE,8830,2,"2022,2023",8272,558
+rub,Latn,rub_Latn,Gungu,i,Ll,LATIN SMALL LETTER I,5988,2,"2022,2023",5614,374
+rub,Latn,rub_Latn,Gungu,u,Ll,LATIN SMALL LETTER U,4360,2,"2022,2023",4083,277
+rub,Latn,rub_Latn,Gungu,̱,Mn,COMBINING MACRON BELOW,3890,2,"2022,2023",3864,26
+rub,Latn,rub_Latn,Gungu,b,Ll,LATIN SMALL LETTER B,3795,2,"2022,2023",3631,164
+rub,Latn,rub_Latn,Gungu,e,Ll,LATIN SMALL LETTER E,3574,2,"2022,2023",3367,207
+rub,Latn,rub_Latn,Gungu,n,Ll,LATIN SMALL LETTER N,3487,2,"2022,2023",3272,215
+rub,Latn,rub_Latn,Gungu,k,Ll,LATIN SMALL LETTER K,3133,2,"2022,2023",2922,211
+rub,Latn,rub_Latn,Gungu,o,Ll,LATIN SMALL LETTER O,2469,2,"2022,2023",2325,144
+rub,Latn,rub_Latn,Gungu,r,Ll,LATIN SMALL LETTER R,2065,2,"2022,2023",1974,91
+rub,Latn,rub_Latn,Gungu,y,Ll,LATIN SMALL LETTER Y,2029,2,"2022,2023",1915,114
+rub,Latn,rub_Latn,Gungu,w,Ll,LATIN SMALL LETTER W,1968,2,"2022,2023",1881,87
+rub,Latn,rub_Latn,Gungu,g,Ll,LATIN SMALL LETTER G,1914,2,"2022,2023",1768,146
+rub,Latn,rub_Latn,Gungu,m,Ll,LATIN SMALL LETTER M,1910,2,"2022,2023",1781,129
+rub,Latn,rub_Latn,Gungu,t,Ll,LATIN SMALL LETTER T,1497,2,"2022,2023",1437,60
+rub,Latn,rub_Latn,Gungu,h,Ll,LATIN SMALL LETTER H,1296,2,"2022,2023",1244,52
+rub,Latn,rub_Latn,Gungu,s,Ll,LATIN SMALL LETTER S,1152,2,"2022,2023",1099,53
+rub,Latn,rub_Latn,Gungu,l,Ll,LATIN SMALL LETTER L,1031,2,"2022,2023",935,96
+rub,Latn,rub_Latn,Gungu,",",Po,COMMA,885,2,"2022,2023",818,67
+rub,Latn,rub_Latn,Gungu,z,Ll,LATIN SMALL LETTER Z,721,2,"2022,2023",653,68
+rub,Latn,rub_Latn,Gungu,d,Ll,LATIN SMALL LETTER D,693,2,"2022,2023",641,52
+rub,Latn,rub_Latn,Gungu,̯,Mn,COMBINING INVERTED BREVE BELOW,621,2,"2022,2023",616,5
+rub,Latn,rub_Latn,Gungu,.,Po,FULL STOP,528,2,"2022,2023",477,51
+rub,Latn,rub_Latn,Gungu,K,Lu,LATIN CAPITAL LETTER K,347,2,"2022,2023",338,9
+rub,Latn,rub_Latn,Gungu,1,Nd,DIGIT ONE,326,2,"2022,2023",313,13
+rub,Latn,rub_Latn,Gungu,B,Lu,LATIN CAPITAL LETTER B,293,2,"2022,2023",284,9
+rub,Latn,rub_Latn,Gungu,R,Lu,LATIN CAPITAL LETTER R,292,2,"2022,2023",290,2
+rub,Latn,rub_Latn,Gungu,Y,Lu,LATIN CAPITAL LETTER Y,257,2,"2022,2023",252,5
+rub,Latn,rub_Latn,Gungu,M,Lu,LATIN CAPITAL LETTER M,243,2,"2022,2023",229,14
+rub,Latn,rub_Latn,Gungu,2,Nd,DIGIT TWO,150,2,"2022,2023",144,6
+rub,Latn,rub_Latn,Gungu,:,Po,COLON,126,1,2022,126,0
+rub,Latn,rub_Latn,Gungu,N,Lu,LATIN CAPITAL LETTER N,105,2,"2022,2023",85,20
+rub,Latn,rub_Latn,Gungu,c,Ll,LATIN SMALL LETTER C,104,2,"2022,2023",103,1
+rub,Latn,rub_Latn,Gungu,j,Ll,LATIN SMALL LETTER J,83,2,"2022,2023",64,19
+rub,Latn,rub_Latn,Gungu,3,Nd,DIGIT THREE,78,2,"2022,2023",76,2
+rub,Latn,rub_Latn,Gungu,(,Ps,LEFT PARENTHESIS,71,1,2022,71,0
+rub,Latn,rub_Latn,Gungu,),Pe,RIGHT PARENTHESIS,71,1,2022,71,0
+rub,Latn,rub_Latn,Gungu,P,Lu,LATIN CAPITAL LETTER P,69,2,"2022,2023",66,3
+rub,Latn,rub_Latn,Gungu,f,Ll,LATIN SMALL LETTER F,66,2,"2022,2023",59,7
+rub,Latn,rub_Latn,Gungu,4,Nd,DIGIT FOUR,65,2,"2022,2023",62,3
+rub,Latn,rub_Latn,Gungu,5,Nd,DIGIT FIVE,62,2,"2022,2023",60,2
+rub,Latn,rub_Latn,Gungu,6,Nd,DIGIT SIX,50,2,"2022,2023",48,2
+rub,Latn,rub_Latn,Gungu,G,Lu,LATIN CAPITAL LETTER G,49,2,"2022,2023",48,1
+rub,Latn,rub_Latn,Gungu,-,Pd,HYPHEN-MINUS,48,2,"2022,2023",47,1
+rub,Latn,rub_Latn,Gungu,;,Po,SEMICOLON,43,2,"2022,2023",41,2
+rub,Latn,rub_Latn,Gungu,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,43,1,2023,0,43
+rub,Latn,rub_Latn,Gungu,0,Nd,DIGIT ZERO,41,2,"2022,2023",39,2
+rub,Latn,rub_Latn,Gungu,T,Lu,LATIN CAPITAL LETTER T,41,2,"2022,2023",36,5
+rub,Latn,rub_Latn,Gungu,”,Pf,RIGHT DOUBLE QUOTATION MARK,40,1,2022,40,0
+rub,Latn,rub_Latn,Gungu,“,Pi,LEFT DOUBLE QUOTATION MARK,40,1,2022,40,0
+rub,Latn,rub_Latn,Gungu,8,Nd,DIGIT EIGHT,38,2,"2022,2023",36,2
+rub,Latn,rub_Latn,Gungu,7,Nd,DIGIT SEVEN,38,2,"2022,2023",36,2
+rub,Latn,rub_Latn,Gungu,9,Nd,DIGIT NINE,32,2,"2022,2023",30,2
+rub,Latn,rub_Latn,Gungu,p,Ll,LATIN SMALL LETTER P,32,2,"2022,2023",30,2
+rub,Latn,rub_Latn,Gungu,H,Lu,LATIN CAPITAL LETTER H,31,2,"2022,2023",24,7
+rub,Latn,rub_Latn,Gungu,A,Lu,LATIN CAPITAL LETTER A,24,2,"2022,2023",22,2
+rub,Latn,rub_Latn,Gungu,v,Ll,LATIN SMALL LETTER V,21,2,"2022,2023",18,3
+rub,Latn,rub_Latn,Gungu,S,Lu,LATIN CAPITAL LETTER S,20,2,"2022,2023",18,2
+rub,Latn,rub_Latn,Gungu,!,Po,EXCLAMATION MARK,16,2,"2022,2023",8,8
+rub,Latn,rub_Latn,Gungu,E,Lu,LATIN CAPITAL LETTER E,14,1,2022,14,0
+rub,Latn,rub_Latn,Gungu,—,Pd,EM DASH,14,1,2022,14,0
+rub,Latn,rub_Latn,Gungu,L,Lu,LATIN CAPITAL LETTER L,13,2,"2022,2023",5,8
+rub,Latn,rub_Latn,Gungu,I,Lu,LATIN CAPITAL LETTER I,12,2,"2022,2023",5,7
+rub,Latn,rub_Latn,Gungu,?,Po,QUESTION MARK,12,1,2022,12,0
+rub,Latn,rub_Latn,Gungu,O,Lu,LATIN CAPITAL LETTER O,11,2,"2022,2023",9,2
+rub,Latn,rub_Latn,Gungu,ʼ,Lm,MODIFIER LETTER APOSTROPHE,11,1,2022,11,0
+rub,Latn,rub_Latn,Gungu,*,Po,ASTERISK,10,1,2022,10,0
+rub,Latn,rub_Latn,Gungu,W,Lu,LATIN CAPITAL LETTER W,8,1,2022,8,0
+rub,Latn,rub_Latn,Gungu,D,Lu,LATIN CAPITAL LETTER D,8,2,"2022,2023",6,2
+rub,Latn,rub_Latn,Gungu,F,Lu,LATIN CAPITAL LETTER F,7,1,2022,7,0
+rub,Latn,rub_Latn,Gungu,U,Lu,LATIN CAPITAL LETTER U,7,1,2023,0,7
+rub,Latn,rub_Latn,Gungu,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,5,1,2023,0,5
+rub,Latn,rub_Latn,Gungu,+,Sm,PLUS SIGN,5,1,2022,5,0
+rub,Latn,rub_Latn,Gungu,í,Ll,LATIN SMALL LETTER I WITH ACUTE,4,1,2023,0,4
+rub,Latn,rub_Latn,Gungu,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,4,1,2023,0,4
+rub,Latn,rub_Latn,Gungu,’,Pf,RIGHT SINGLE QUOTATION MARK,4,1,2022,4,0
+rub,Latn,rub_Latn,Gungu,‘,Pi,LEFT SINGLE QUOTATION MARK,4,1,2022,4,0
+rub,Latn,rub_Latn,Gungu,Z,Lu,LATIN CAPITAL LETTER Z,2,1,2022,2,0
+rub,Latn,rub_Latn,Gungu,ŋ,Ll,LATIN SMALL LETTER ENG,2,1,2022,2,0
+rub,Latn,rub_Latn,Gungu,‡,Po,DOUBLE DAGGER,2,1,2022,2,0
+rub,Latn,rub_Latn,Gungu,†,Po,DAGGER,2,1,2022,2,0
+rub,Latn,rub_Latn,Gungu,á,Ll,LATIN SMALL LETTER A WITH ACUTE,2,1,2023,0,2
+rub,Latn,rub_Latn,Gungu,§,Po,SECTION SIGN,1,1,2022,1,0

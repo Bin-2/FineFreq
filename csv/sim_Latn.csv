@@ -1,0 +1,84 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2022_frequency
+sim,Latn,sim_Latn,Mende (Papua New Guinea), ,Zs,SPACE,329004,4,"2017,2018,2019,2022",4041,237893,86187,883
+sim,Latn,sim_Latn,Mende (Papua New Guinea),a,Ll,LATIN SMALL LETTER A,233801,4,"2017,2018,2019,2022",2926,165743,64454,678
+sim,Latn,sim_Latn,Mende (Papua New Guinea),i,Ll,LATIN SMALL LETTER I,181820,4,"2017,2018,2019,2022",2492,128811,50063,454
+sim,Latn,sim_Latn,Mende (Papua New Guinea),n,Ll,LATIN SMALL LETTER N,107435,4,"2017,2018,2019,2022",1651,79134,26351,299
+sim,Latn,sim_Latn,Mende (Papua New Guinea),r,Ll,LATIN SMALL LETTER R,104648,4,"2017,2018,2019,2022",1173,73792,29475,208
+sim,Latn,sim_Latn,Mende (Papua New Guinea),o,Ll,LATIN SMALL LETTER O,99536,4,"2017,2018,2019,2022",1187,71450,26680,219
+sim,Latn,sim_Latn,Mende (Papua New Guinea),m,Ll,LATIN SMALL LETTER M,84862,4,"2017,2018,2019,2022",1046,59271,24354,191
+sim,Latn,sim_Latn,Mende (Papua New Guinea),k,Ll,LATIN SMALL LETTER K,81772,4,"2017,2018,2019,2022",1070,57623,22841,238
+sim,Latn,sim_Latn,Mende (Papua New Guinea),s,Ll,LATIN SMALL LETTER S,81636,4,"2017,2018,2019,2022",1012,60207,20212,205
+sim,Latn,sim_Latn,Mende (Papua New Guinea),e,Ll,LATIN SMALL LETTER E,81211,4,"2017,2018,2019,2022",903,61749,18409,150
+sim,Latn,sim_Latn,Mende (Papua New Guinea),h,Ll,LATIN SMALL LETTER H,75951,4,"2017,2018,2019,2022",913,55803,19040,195
+sim,Latn,sim_Latn,Mende (Papua New Guinea),l,Ll,LATIN SMALL LETTER L,59985,4,"2017,2018,2019,2022",441,42287,17160,97
+sim,Latn,sim_Latn,Mende (Papua New Guinea),u,Ll,LATIN SMALL LETTER U,51178,4,"2017,2018,2019,2022",717,35827,14513,121
+sim,Latn,sim_Latn,Mende (Papua New Guinea),b,Ll,LATIN SMALL LETTER B,34372,4,"2017,2018,2019,2022",458,24926,8903,85
+sim,Latn,sim_Latn,Mende (Papua New Guinea),d,Ll,LATIN SMALL LETTER D,33310,4,"2017,2018,2019,2022",480,25173,7571,86
+sim,Latn,sim_Latn,Mende (Papua New Guinea),w,Ll,LATIN SMALL LETTER W,32538,4,"2017,2018,2019,2022",504,23777,8174,83
+sim,Latn,sim_Latn,Mende (Papua New Guinea),.,Po,FULL STOP,22918,4,"2017,2018,2019,2022",306,16557,6003,52
+sim,Latn,sim_Latn,Mende (Papua New Guinea),t,Ll,LATIN SMALL LETTER T,22675,4,"2017,2018,2019,2022",147,17332,5166,30
+sim,Latn,sim_Latn,Mende (Papua New Guinea),j,Ll,LATIN SMALL LETTER J,19211,4,"2017,2018,2019,2022",326,14466,4348,71
+sim,Latn,sim_Latn,Mende (Papua New Guinea),v,Ll,LATIN SMALL LETTER V,17111,4,"2017,2018,2019,2022",258,12762,4020,71
+sim,Latn,sim_Latn,Mende (Papua New Guinea),y,Ll,LATIN SMALL LETTER Y,14666,4,"2017,2018,2019,2022",155,10405,4063,43
+sim,Latn,sim_Latn,Mende (Papua New Guinea),g,Ll,LATIN SMALL LETTER G,14061,4,"2017,2018,2019,2022",172,10087,3775,27
+sim,Latn,sim_Latn,Mende (Papua New Guinea),",",Po,COMMA,11953,4,"2017,2018,2019,2022",196,8591,3149,17
+sim,Latn,sim_Latn,Mende (Papua New Guinea),p,Ll,LATIN SMALL LETTER P,9966,4,"2017,2018,2019,2022",132,7497,2309,28
+sim,Latn,sim_Latn,Mende (Papua New Guinea),U,Lu,LATIN CAPITAL LETTER U,7152,4,"2017,2018,2019,2022",70,4983,2089,10
+sim,Latn,sim_Latn,Mende (Papua New Guinea),f,Ll,LATIN SMALL LETTER F,6888,4,"2017,2018,2019,2022",50,5205,1630,3
+sim,Latn,sim_Latn,Mende (Papua New Guinea),J,Lu,LATIN CAPITAL LETTER J,6458,4,"2017,2018,2019,2022",77,4199,2176,6
+sim,Latn,sim_Latn,Mende (Papua New Guinea),A,Lu,LATIN CAPITAL LETTER A,6425,4,"2017,2018,2019,2022",111,4592,1703,19
+sim,Latn,sim_Latn,Mende (Papua New Guinea),W,Lu,LATIN CAPITAL LETTER W,5454,4,"2017,2018,2019,2022",90,4132,1216,16
+sim,Latn,sim_Latn,Mende (Papua New Guinea),1,Nd,DIGIT ONE,5271,4,"2017,2018,2019,2022",62,3896,1279,34
+sim,Latn,sim_Latn,Mende (Papua New Guinea),M,Lu,LATIN CAPITAL LETTER M,5215,4,"2017,2018,2019,2022",69,3646,1489,11
+sim,Latn,sim_Latn,Mende (Papua New Guinea),H,Lu,LATIN CAPITAL LETTER H,4344,4,"2017,2018,2019,2022",52,3323,963,6
+sim,Latn,sim_Latn,Mende (Papua New Guinea),K,Lu,LATIN CAPITAL LETTER K,3575,4,"2017,2018,2019,2022",56,2701,797,21
+sim,Latn,sim_Latn,Mende (Papua New Guinea),�,So,REPLACEMENT CHARACTER,3510,3,"2018,2019,2022",0,3424,82,4
+sim,Latn,sim_Latn,Mende (Papua New Guinea),2,Nd,DIGIT TWO,3409,4,"2017,2018,2019,2022",31,2323,1026,29
+sim,Latn,sim_Latn,Mende (Papua New Guinea),S,Lu,LATIN CAPITAL LETTER S,3022,3,"2017,2018,2019",1,2575,446,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),c,Ll,LATIN SMALL LETTER C,2984,1,2018,0,2984,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),O,Lu,LATIN CAPITAL LETTER O,2535,4,"2017,2018,2019,2022",51,1769,708,7
+sim,Latn,sim_Latn,Mende (Papua New Guinea),T,Lu,LATIN CAPITAL LETTER T,2364,4,"2017,2018,2019,2022",1,2197,160,6
+sim,Latn,sim_Latn,Mende (Papua New Guinea),E,Lu,LATIN CAPITAL LETTER E,2271,4,"2017,2018,2019,2022",5,2089,176,1
+sim,Latn,sim_Latn,Mende (Papua New Guinea),3,Nd,DIGIT THREE,2169,4,"2017,2018,2019,2022",12,1348,798,11
+sim,Latn,sim_Latn,Mende (Papua New Guinea),V,Lu,LATIN CAPITAL LETTER V,2126,2,"2018,2019",0,2124,2,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),N,Lu,LATIN CAPITAL LETTER N,1671,4,"2017,2018,2019,2022",16,1431,221,3
+sim,Latn,sim_Latn,Mende (Papua New Guinea),4,Nd,DIGIT FOUR,1645,4,"2017,2018,2019,2022",12,1009,615,9
+sim,Latn,sim_Latn,Mende (Papua New Guinea),',Po,APOSTROPHE,1586,1,2018,0,1586,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),P,Lu,LATIN CAPITAL LETTER P,1564,4,"2017,2018,2019,2022",1,1173,387,3
+sim,Latn,sim_Latn,Mende (Papua New Guinea),?,Po,QUESTION MARK,1495,4,"2017,2018,2019,2022",31,966,492,6
+sim,Latn,sim_Latn,Mende (Papua New Guinea),0,Nd,DIGIT ZERO,1432,4,"2017,2018,2019,2022",9,1004,414,5
+sim,Latn,sim_Latn,Mende (Papua New Guinea),L,Lu,LATIN CAPITAL LETTER L,1372,4,"2017,2018,2019,2022",16,1015,329,12
+sim,Latn,sim_Latn,Mende (Papua New Guinea),5,Nd,DIGIT FIVE,1284,4,"2017,2018,2019,2022",11,795,469,9
+sim,Latn,sim_Latn,Mende (Papua New Guinea),I,Lu,LATIN CAPITAL LETTER I,1250,3,"2017,2018,2019",1,1158,91,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),“,Pi,LEFT DOUBLE QUOTATION MARK,1229,1,2019,0,0,1229,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),”,Pf,RIGHT DOUBLE QUOTATION MARK,1227,1,2019,0,0,1227,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),8,Nd,DIGIT EIGHT,1111,4,"2017,2018,2019,2022",10,796,304,1
+sim,Latn,sim_Latn,Mende (Papua New Guinea),6,Nd,DIGIT SIX,1107,4,"2017,2018,2019,2022",10,703,387,7
+sim,Latn,sim_Latn,Mende (Papua New Guinea),-,Pd,HYPHEN-MINUS,1039,4,"2017,2018,2019,2022",2,790,245,2
+sim,Latn,sim_Latn,Mende (Papua New Guinea),7,Nd,DIGIT SEVEN,1029,4,"2017,2018,2019,2022",9,687,329,4
+sim,Latn,sim_Latn,Mende (Papua New Guinea),x,Ll,LATIN SMALL LETTER X,991,1,2018,0,991,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),9,Nd,DIGIT NINE,921,4,"2017,2018,2019,2022",10,607,301,3
+sim,Latn,sim_Latn,Mende (Papua New Guinea),G,Lu,LATIN CAPITAL LETTER G,916,3,"2017,2018,2019",2,830,84,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),:,Po,COLON,759,4,"2017,2018,2019,2022",1,550,176,32
+sim,Latn,sim_Latn,Mende (Papua New Guinea),B,Lu,LATIN CAPITAL LETTER B,711,2,"2018,2019",0,573,138,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),*,Po,ASTERISK,685,2,"2018,2019",0,1,684,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),C,Lu,LATIN CAPITAL LETTER C,593,1,2018,0,593,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),F,Lu,LATIN CAPITAL LETTER F,588,2,"2018,2019",0,445,143,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),D,Lu,LATIN CAPITAL LETTER D,469,3,"2017,2018,2019",1,413,55,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),R,Lu,LATIN CAPITAL LETTER R,364,2,"2018,2019",0,306,58,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),Y,Lu,LATIN CAPITAL LETTER Y,288,2,"2018,2019",0,228,60,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),(,Ps,LEFT PARENTHESIS,245,2,"2018,2019",0,241,4,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),),Pe,RIGHT PARENTHESIS,245,2,"2018,2019",0,241,4,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),!,Po,EXCLAMATION MARK,236,2,"2018,2019",0,107,129,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),q,Ll,LATIN SMALL LETTER Q,218,1,2018,0,218,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),`,Sk,GRAVE ACCENT,188,1,2018,0,188,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),©,So,COPYRIGHT SIGN,188,1,2018,0,188,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),▼,So,BLACK DOWN-POINTING TRIANGLE,155,1,2018,0,155,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),&,Po,AMPERSAND,121,1,2018,0,121,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),;,Po,SEMICOLON,100,3,"2018,2019,2022",0,88,8,4
+sim,Latn,sim_Latn,Mende (Papua New Guinea),+,Sm,PLUS SIGN,54,1,2019,0,0,54,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),"""",Po,QUOTATION MARK,42,1,2017,42,0,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),/,Po,SOLIDUS,6,1,2017,6,0,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),z,Ll,LATIN SMALL LETTER Z,5,1,2018,0,5,0,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),[,Ps,LEFT SQUARE BRACKET,2,2,"2018,2019",0,1,1,0
+sim,Latn,sim_Latn,Mende (Papua New Guinea),],Pe,RIGHT SQUARE BRACKET,2,2,"2018,2019",0,1,1,0

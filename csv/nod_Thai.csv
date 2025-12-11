@@ -1,0 +1,408 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2015_frequency,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+nod,Thai,nod_Thai,Northern Thai,า,Lo,THAI CHARACTER SARA AA,51278,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",4,149,15,45598,326,217,4542,410,17
+nod,Thai,nod_Thai,Northern Thai,้,Mn,THAI CHARACTER MAI THO,48136,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,48,10,42816,191,165,4581,314,9
+nod,Thai,nod_Thai,Northern Thai,น,Lo,THAI CHARACTER NO NU,39654,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",5,75,20,35124,296,199,3628,291,16
+nod,Thai,nod_Thai,Northern Thai,อ,Lo,THAI CHARACTER O ANG,36189,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",5,81,17,31973,368,211,3235,283,16
+nod,Thai,nod_Thai,Northern Thai,เ,Lo,THAI CHARACTER SARA E,34224,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",6,58,25,30176,257,183,3281,229,9
+nod,Thai,nod_Thai,Northern Thai,่,Mn,THAI CHARACTER MAI EK,27167,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",4,32,9,24284,127,83,2322,297,9
+nod,Thai,nod_Thai,Northern Thai,ต,Lo,THAI CHARACTER TO TAO,26250,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,55,6,23420,80,61,2580,45,1
+nod,Thai,nod_Thai,Northern Thai,ก,Lo,THAI CHARACTER KO KAI,25598,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",4,892,12,22136,138,91,2210,106,9
+nod,Thai,nod_Thai,Northern Thai, ,Zs,SPACE,24542,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",35,2991,87,16106,713,325,2373,1809,103
+nod,Thai,nod_Thai,Northern Thai,ย,Lo,THAI CHARACTER YO YAK,22249,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",6,65,15,19677,160,107,2017,189,13
+nod,Thai,nod_Thai,Northern Thai,ง,Lo,THAI CHARACTER NGO NGU,21881,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,63,11,19419,194,87,2022,74,8
+nod,Thai,nod_Thai,Northern Thai,ม,Lo,THAI CHARACTER MO MA,20921,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,62,21,18314,184,111,1929,288,9
+nod,Thai,nod_Thai,Northern Thai,ั,Mn,THAI CHARACTER MAI HAN-AKAT,19947,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",7,55,34,17655,153,110,1752,175,6
+nod,Thai,nod_Thai,Northern Thai,ี,Mn,THAI CHARACTER SARA II,18712,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",5,31,6,16337,95,63,2001,171,3
+nod,Thai,nod_Thai,Northern Thai,จ,Lo,THAI CHARACTER CHO CHAN,18115,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,10,0,16084,77,55,1817,68,3
+nod,Thai,nod_Thai,Northern Thai,ห,Lo,THAI CHARACTER HO HIP,18109,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",8,49,11,16245,82,59,1529,120,6
+nod,Thai,nod_Thai,Northern Thai,ว,Lo,THAI CHARACTER WO WAEN,17663,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",5,29,11,15844,117,55,1474,123,5
+nod,Thai,nod_Thai,Northern Thai,ร,Lo,THAI CHARACTER RO RUA,15854,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,102,14,13584,151,107,1707,187,1
+nod,Thai,nod_Thai,Northern Thai,ะ,Lo,THAI CHARACTER SARA A,14675,7,"2016,2017,2018,2019,2020,2021,2022",0,28,2,13105,82,42,1333,83,0
+nod,Thai,nod_Thai,Northern Thai,ู,Mn,THAI CHARACTER SARA UU,14122,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,15,8,12640,48,50,1305,54,1
+nod,Thai,nod_Thai,Northern Thai,บ,Lo,THAI CHARACTER BO BAIMAI,13593,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,25,15,11994,100,79,1263,108,6
+nod,Thai,nod_Thai,Northern Thai,๋,Mn,THAI CHARACTER MAI CHATTAWA,13405,6,"2018,2019,2020,2021,2022,2023",0,0,0,12009,135,77,1159,22,3
+nod,Thai,nod_Thai,Northern Thai,ค,Lo,THAI CHARACTER KHO KHWAI,12412,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,61,15,10836,87,42,1301,66,3
+nod,Thai,nod_Thai,Northern Thai,ป,Lo,THAI CHARACTER PO PLA,11973,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,27,4,10531,131,117,1090,71,1
+nod,Thai,nod_Thai,Northern Thai,ข,Lo,THAI CHARACTER KHO KHAI,11508,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,13,1,10192,58,35,1173,32,2
+nod,Thai,nod_Thai,Northern Thai,ิ,Mn,THAI CHARACTER SARA I,11166,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",4,29,13,9613,76,74,1279,76,2
+nod,Thai,nod_Thai,Northern Thai,ด,Lo,THAI CHARACTER DO DEK,11164,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,14,2,9686,98,67,1199,85,11
+nod,Thai,nod_Thai,Northern Thai,ื,Mn,THAI CHARACTER SARA UEE,11126,7,"2016,2017,2018,2019,2020,2021,2022",0,26,2,9834,31,31,1112,90,0
+nod,Thai,nod_Thai,Northern Thai,พ,Lo,THAI CHARACTER PHO PHAN,9852,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,14,6,8612,37,19,1067,96,1
+nod,Thai,nod_Thai,Northern Thai,ล,Lo,THAI CHARACTER LO LING,9442,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",6,33,23,8253,107,71,822,116,11
+nod,Thai,nod_Thai,Northern Thai,ส,Lo,THAI CHARACTER SO SUA,8867,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,17,18,7607,71,50,1007,93,2
+nod,Thai,nod_Thai,Northern Thai,แ,Lo,THAI CHARACTER SARA AE,7256,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,10,2,6498,103,30,521,87,3
+nod,Thai,nod_Thai,Northern Thai,ฮ,Lo,THAI CHARACTER HO NOKHUK,6369,6,"2016,2018,2019,2020,2021,2022",0,2,0,5838,17,18,488,6,0
+nod,Thai,nod_Thai,Northern Thai,ใ,Lo,THAI CHARACTER SARA AI MAIMUAN,6169,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,23,1,5368,15,10,675,73,2
+nod,Thai,nod_Thai,Northern Thai,ไ,Lo,THAI CHARACTER SARA AI MAIMALAI,6022,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,31,0,5255,48,18,563,104,2
+nod,Thai,nod_Thai,Northern Thai,์,Mn,THAI CHARACTER THANTHAKHAT,5411,7,"2016,2017,2018,2019,2020,2021,2022",0,15,5,4672,66,52,566,35,0
+nod,Thai,nod_Thai,Northern Thai,็,Mn,THAI CHARACTER MAITAIKHU,4272,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,7,0,3937,28,7,238,48,6
+nod,Thai,nod_Thai,Northern Thai,ผ,Lo,THAI CHARACTER PHO PHUNG,3783,5,"2018,2019,2020,2021,2022",0,0,0,3258,12,9,423,81,0
+nod,Thai,nod_Thai,Northern Thai,โ,Lo,THAI CHARACTER SARA O,3308,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,6,1,2759,58,50,416,16,2
+nod,Thai,nod_Thai,Northern Thai,1,Nd,DIGIT ONE,2954,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,31,16,2464,65,17,322,23,14
+nod,Thai,nod_Thai,Northern Thai,ํ,Mn,THAI CHARACTER NIKHAHIT,2755,7,"2016,2017,2018,2019,2020,2021,2022",0,18,1,2333,24,9,335,35,0
+nod,Thai,nod_Thai,Northern Thai,๊,Mn,THAI CHARACTER MAI TRI,2753,7,"2016,2018,2019,2020,2021,2022,2023",0,1,0,2418,18,7,285,22,2
+nod,Thai,nod_Thai,Northern Thai,ถ,Lo,THAI CHARACTER THO THUNG,2648,7,"2016,2017,2018,2019,2020,2021,2022",0,10,1,2350,11,12,237,27,0
+nod,Thai,nod_Thai,Northern Thai,ซ,Lo,THAI CHARACTER SO SO,2572,7,"2016,2017,2018,2019,2020,2021,2022",0,7,4,2218,47,34,251,11,0
+nod,Thai,nod_Thai,Northern Thai,ุ,Mn,THAI CHARACTER SARA U,2552,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,13,1,2168,22,18,284,40,5
+nod,Thai,nod_Thai,Northern Thai,ึ,Mn,THAI CHARACTER SARA UE,2437,6,"2016,2018,2019,2020,2021,2022",0,5,0,2122,21,13,253,23,0
+nod,Thai,nod_Thai,Northern Thai,ญ,Lo,THAI CHARACTER YO YING,2147,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,7,0,1934,8,6,183,6,2
+nod,Thai,nod_Thai,Northern Thai,ท,Lo,THAI CHARACTER THO THAHAN,2071,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,17,3,1593,38,27,316,71,4
+nod,Thai,nod_Thai,Northern Thai,2,Nd,DIGIT TWO,2038,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,20,15,1753,48,14,158,16,13
+nod,Thai,nod_Thai,Northern Thai,~,Sm,TILDE,1786,3,"2018,2021,2022",0,0,0,112,0,0,1488,186,0
+nod,Thai,nod_Thai,Northern Thai,F,Lu,LATIN CAPITAL LETTER F,1472,7,"2016,2018,2019,2020,2021,2022,2023",0,1420,0,1,43,2,1,3,2
+nod,Thai,nod_Thai,Northern Thai,ธ,Lo,THAI CHARACTER THO THONG,1404,6,"2016,2018,2019,2020,2021,2022",0,1,0,1210,14,13,160,6,0
+nod,Thai,nod_Thai,Northern Thai,3,Nd,DIGIT THREE,1232,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,17,2,1076,31,3,85,15,3
+nod,Thai,nod_Thai,Northern Thai,“,Pi,LEFT DOUBLE QUOTATION MARK,1196,4,"2016,2018,2021,2022",0,8,0,1136,0,0,37,15,0
+nod,Thai,nod_Thai,Northern Thai,”,Pf,RIGHT DOUBLE QUOTATION MARK,1063,4,"2016,2018,2021,2022",0,12,0,999,0,0,37,15,0
+nod,Thai,nod_Thai,Northern Thai,ษ,Lo,THAI CHARACTER SO RUSI,991,6,"2016,2018,2019,2020,2021,2022",0,1,0,852,33,7,87,11,0
+nod,Thai,nod_Thai,Northern Thai,4,Nd,DIGIT FOUR,893,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,10,0,759,32,4,76,7,4
+nod,Thai,nod_Thai,Northern Thai,ณ,Lo,THAI CHARACTER NO NEN,869,6,"2016,2018,2019,2020,2021,2022",0,15,0,707,3,3,127,14,0
+nod,Thai,nod_Thai,Northern Thai,ฟ,Lo,THAI CHARACTER FO FAN,803,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,4,1,686,26,12,66,3,4
+nod,Thai,nod_Thai,Northern Thai,5,Nd,DIGIT FIVE,775,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,5,15,615,43,5,75,6,10
+nod,Thai,nod_Thai,Northern Thai,ๆ,Lm,THAI CHARACTER MAIYAMOK,752,6,"2016,2018,2019,2020,2021,2022",0,4,0,662,1,1,72,12,0
+nod,Thai,nod_Thai,Northern Thai,e,Ll,LATIN SMALL LETTER E,724,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",6,106,31,13,214,21,134,169,30
+nod,Thai,nod_Thai,Northern Thai,0,Nd,DIGIT ZERO,711,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,20,15,459,49,8,105,18,34
+nod,Thai,nod_Thai,Northern Thai,6,Nd,DIGIT SIX,644,7,"2016,2018,2019,2020,2021,2022,2023",0,9,0,549,15,5,57,5,4
+nod,Thai,nod_Thai,Northern Thai,o,Ll,LATIN SMALL LETTER O,642,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",8,82,11,14,249,12,124,126,16
+nod,Thai,nod_Thai,Northern Thai,ศ,Lo,THAI CHARACTER SO SALA,624,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,7,1,506,12,12,74,11,1
+nod,Thai,nod_Thai,Northern Thai,/,Po,SOLIDUS,619,6,"2016,2018,2019,2020,2021,2022",0,64,0,18,2,505,1,29,0
+nod,Thai,nod_Thai,Northern Thai,7,Nd,DIGIT SEVEN,618,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,4,16,513,15,2,54,6,8
+nod,Thai,nod_Thai,Northern Thai,8,Nd,DIGIT EIGHT,565,8,"2015,2016,2018,2019,2020,2021,2022,2023",1,11,0,459,21,3,55,12,3
+nod,Thai,nod_Thai,Northern Thai,9,Nd,DIGIT NINE,538,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,7,1,454,20,4,44,4,3
+nod,Thai,nod_Thai,Northern Thai,i,Ll,LATIN SMALL LETTER I,485,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",8,98,26,5,133,17,99,79,20
+nod,Thai,nod_Thai,Northern Thai,.,Po,FULL STOP,476,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,265,1,15,39,3,58,84,11
+nod,Thai,nod_Thai,Northern Thai,a,Ll,LATIN SMALL LETTER A,471,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,73,19,3,185,6,81,83,18
+nod,Thai,nod_Thai,Northern Thai,n,Ll,LATIN SMALL LETTER N,467,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",6,79,16,5,190,17,111,35,8
+nod,Thai,nod_Thai,Northern Thai,:,Po,COLON,452,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,40,8,236,84,8,58,6,12
+nod,Thai,nod_Thai,Northern Thai,ภ,Lo,THAI CHARACTER PHO SAMPHAO,417,6,"2016,2018,2019,2020,2021,2022",0,16,0,319,24,3,39,16,0
+nod,Thai,nod_Thai,Northern Thai,r,Ll,LATIN SMALL LETTER R,385,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,53,17,12,102,4,90,97,7
+nod,Thai,nod_Thai,Northern Thai,ช,Lo,THAI CHARACTER CHO CHANG,381,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,31,1,237,25,17,53,15,1
+nod,Thai,nod_Thai,Northern Thai,t,Ll,LATIN SMALL LETTER T,376,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,92,4,14,106,5,93,34,25
+nod,Thai,nod_Thai,Northern Thai,l,Ll,LATIN SMALL LETTER L,328,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,51,5,4,128,5,87,37,10
+nod,Thai,nod_Thai,Northern Thai,ฝ,Lo,THAI CHARACTER FO FA,290,5,"2018,2019,2020,2021,2022",0,0,0,254,6,1,27,2,0
+nod,Thai,nod_Thai,Northern Thai,),Pe,RIGHT PARENTHESIS,263,7,"2016,2017,2018,2019,2020,2021,2022",0,129,1,85,18,1,6,23,0
+nod,Thai,nod_Thai,Northern Thai,(,Ps,LEFT PARENTHESIS,258,7,"2016,2017,2018,2019,2020,2021,2022",0,124,1,85,18,1,6,23,0
+nod,Thai,nod_Thai,Northern Thai,c,Ll,LATIN SMALL LETTER C,257,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,34,1,4,41,2,128,40,6
+nod,Thai,nod_Thai,Northern Thai,s,Ll,LATIN SMALL LETTER S,257,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",4,66,3,5,118,4,15,36,6
+nod,Thai,nod_Thai,Northern Thai,d,Ll,LATIN SMALL LETTER D,222,8,"2015,2016,2018,2019,2020,2021,2022,2023",4,37,0,3,61,1,16,92,8
+nod,Thai,nod_Thai,Northern Thai,p,Ll,LATIN SMALL LETTER P,205,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",5,127,1,8,35,1,17,9,2
+nod,Thai,nod_Thai,Northern Thai,ฐ,Lo,THAI CHARACTER THO THAN,195,2,"2018,2021",0,0,0,171,0,0,24,0,0
+nod,Thai,nod_Thai,Northern Thai,ฉ,Lo,THAI CHARACTER CHO CHING,195,4,"2016,2018,2021,2022",0,4,0,118,0,0,72,1,0
+nod,Thai,nod_Thai,Northern Thai,g,Ll,LATIN SMALL LETTER G,190,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,21,25,1,97,9,23,11,3
+nod,Thai,nod_Thai,Northern Thai,h,Ll,LATIN SMALL LETTER H,186,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",3,52,14,4,51,12,22,16,12
+nod,Thai,nod_Thai,Northern Thai,m,Ll,LATIN SMALL LETTER M,185,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,37,2,4,15,3,47,70,5
+nod,Thai,nod_Thai,Northern Thai,w,Ll,LATIN SMALL LETTER W,180,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,27,12,12,89,1,1,31,6
+nod,Thai,nod_Thai,Northern Thai,‘,Pi,LEFT SINGLE QUOTATION MARK,177,3,"2016,2018,2021",0,7,0,169,0,0,1,0,0
+nod,Thai,nod_Thai,Northern Thai,’,Pf,RIGHT SINGLE QUOTATION MARK,176,3,"2016,2018,2021",0,7,0,168,0,0,1,0,0
+nod,Thai,nod_Thai,Northern Thai,"""",Po,QUOTATION MARK,155,4,"2016,2019,2021,2022",0,142,0,0,10,0,1,2,0
+nod,Thai,nod_Thai,Northern Thai,ฆ,Lo,THAI CHARACTER KHO RAKHANG,149,5,"2016,2018,2019,2021,2022",0,1,0,143,1,0,3,1,0
+nod,Thai,nod_Thai,Northern Thai,-,Pd,HYPHEN-MINUS,148,8,"2015,2016,2017,2018,2019,2020,2021,2022",2,62,2,23,25,3,17,14,0
+nod,Thai,nod_Thai,Northern Thai,u,Ll,LATIN SMALL LETTER U,137,9,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,35,12,1,25,1,18,36,8
+nod,Thai,nod_Thai,Northern Thai,*,Po,ASTERISK,135,4,"2016,2018,2021,2022",0,1,0,6,0,0,112,16,0
+nod,Thai,nod_Thai,Northern Thai,b,Ll,LATIN SMALL LETTER B,131,6,"2016,2018,2019,2021,2022,2023",0,19,0,1,73,0,15,15,8
+nod,Thai,nod_Thai,Northern Thai,y,Ll,LATIN SMALL LETTER Y,123,7,"2015,2016,2019,2020,2021,2022,2023",5,20,0,0,73,1,3,18,3
+nod,Thai,nod_Thai,Northern Thai,",",Po,COMMA,117,7,"2016,2017,2019,2020,2021,2022,2023",0,39,14,0,14,2,33,14,1
+nod,Thai,nod_Thai,Northern Thai,C,Lu,LATIN CAPITAL LETTER C,116,6,"2016,2018,2019,2020,2021,2022",0,8,0,3,20,5,33,47,0
+nod,Thai,nod_Thai,Northern Thai,>,Sm,GREATER-THAN SIGN,114,2,"2016,2020",0,105,0,0,0,9,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฤ,Lo,THAI CHARACTER RU,112,5,"2018,2019,2020,2021,2022",0,0,0,92,2,2,15,1,0
+nod,Thai,nod_Thai,Northern Thai,<,Sm,LESS-THAN SIGN,112,2,"2016,2020",0,103,0,0,0,9,0,0,0
+nod,Thai,nod_Thai,Northern Thai,R,Lu,LATIN CAPITAL LETTER R,110,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,2,3,19,20,4,15,46,1
+nod,Thai,nod_Thai,Northern Thai,A,Lu,LATIN CAPITAL LETTER A,91,7,"2016,2018,2019,2020,2021,2022,2023",0,8,0,2,56,5,9,10,1
+nod,Thai,nod_Thai,Northern Thai,G,Lu,LATIN CAPITAL LETTER G,86,7,"2016,2017,2018,2019,2020,2021,2022",0,1,1,2,10,2,7,63,0
+nod,Thai,nod_Thai,Northern Thai,k,Ll,LATIN SMALL LETTER K,85,5,"2016,2019,2021,2022,2023",0,11,0,0,44,0,3,26,1
+nod,Thai,nod_Thai,Northern Thai,P,Lu,LATIN CAPITAL LETTER P,83,6,"2016,2018,2019,2020,2021,2022",0,6,0,13,26,2,25,11,0
+nod,Thai,nod_Thai,Northern Thai,ា,Mc,KHMER VOWEL SIGN AA,74,1,2019,0,0,0,0,74,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,v,Ll,LATIN SMALL LETTER V,74,7,"2015,2016,2018,2019,2021,2022,2023",3,5,0,2,18,0,17,23,6
+nod,Thai,nod_Thai,Northern Thai,M,Lu,LATIN CAPITAL LETTER M,68,6,"2016,2018,2019,2020,2021,2022",0,6,0,4,26,2,22,8,0
+nod,Thai,nod_Thai,Northern Thai,S,Lu,LATIN CAPITAL LETTER S,67,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,2,8,7,22,11,9,6,2
+nod,Thai,nod_Thai,Northern Thai,ฏ,Lo,THAI CHARACTER TO PATAK,59,4,"2018,2019,2020,2021",0,0,0,55,1,1,2,0,0
+nod,Thai,nod_Thai,Northern Thai,်,Mn,MYANMAR SIGN ASAT,58,1,2022,0,0,0,0,0,0,0,58,0
+nod,Thai,nod_Thai,Northern Thai,T,Lu,LATIN CAPITAL LETTER T,58,7,"2016,2017,2018,2019,2020,2021,2022",0,4,8,3,15,9,15,4,0
+nod,Thai,nod_Thai,Northern Thai,E,Lu,LATIN CAPITAL LETTER E,57,6,"2016,2018,2019,2020,2021,2022",0,2,0,10,9,6,13,17,0
+nod,Thai,nod_Thai,Northern Thai,ฎ,Lo,THAI CHARACTER DO CHADA,55,3,"2018,2020,2021",0,0,0,45,0,1,9,0,0
+nod,Thai,nod_Thai,Northern Thai,%,Po,PERCENT SIGN,54,5,"2016,2018,2021,2022,2023",0,1,0,24,0,0,16,2,11
+nod,Thai,nod_Thai,Northern Thai,း,Mc,MYANMAR SIGN VISARGA,52,1,2022,0,0,0,0,0,0,0,52,0
+nod,Thai,nod_Thai,Northern Thai,O,Lu,LATIN CAPITAL LETTER O,50,4,"2018,2019,2020,2021",0,0,0,17,26,3,4,0,0
+nod,Thai,nod_Thai,Northern Thai,x,Ll,LATIN SMALL LETTER X,48,8,"2015,2016,2018,2019,2020,2021,2022,2023",10,17,0,4,7,1,2,6,1
+nod,Thai,nod_Thai,Northern Thai,L,Lu,LATIN CAPITAL LETTER L,47,6,"2016,2018,2019,2020,2021,2023",0,9,0,4,22,4,7,0,1
+nod,Thai,nod_Thai,Northern Thai,ន,Lo,KHMER LETTER NO,46,1,2019,0,0,0,0,46,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,រ,Lo,KHMER LETTER RO,45,1,2019,0,0,0,0,45,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,D,Lu,LATIN CAPITAL LETTER D,44,8,"2016,2017,2018,2019,2020,2021,2022,2023",0,4,2,1,13,3,10,9,2
+nod,Thai,nod_Thai,Northern Thai,N,Lu,LATIN CAPITAL LETTER N,44,7,"2016,2017,2018,2019,2020,2021,2022",0,1,1,1,25,3,11,2,0
+nod,Thai,nod_Thai,Northern Thai,f,Ll,LATIN SMALL LETTER F,43,4,"2016,2019,2021,2022",0,10,0,0,16,0,12,5,0
+nod,Thai,nod_Thai,Northern Thai,្,Mn,KHMER SIGN COENG,42,1,2019,0,0,0,0,42,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ိ,Mn,MYANMAR VOWEL SIGN I,41,1,2022,0,0,0,0,0,0,0,41,0
+nod,Thai,nod_Thai,Northern Thai,H,Lu,LATIN CAPITAL LETTER H,41,6,"2016,2017,2018,2019,2020,2021",0,3,11,2,15,2,8,0,0
+nod,Thai,nod_Thai,Northern Thai,ပ,Lo,MYANMAR LETTER PA,40,1,2022,0,0,0,0,0,0,0,40,0
+nod,Thai,nod_Thai,Northern Thai,๑,Nd,THAI DIGIT ONE,40,3,"2016,2018,2021",0,13,0,23,0,0,4,0,0
+nod,Thai,nod_Thai,Northern Thai,ស,Lo,KHMER LETTER SA,40,1,2019,0,0,0,0,40,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,B,Lu,LATIN CAPITAL LETTER B,40,6,"2016,2018,2019,2020,2021,2022",0,1,0,2,13,3,12,9,0
+nod,Thai,nod_Thai,Northern Thai,အ,Lo,MYANMAR LETTER A,39,1,2022,0,0,0,0,0,0,0,39,0
+nod,Thai,nod_Thai,Northern Thai,V,Lu,LATIN CAPITAL LETTER V,38,5,"2018,2019,2020,2021,2022",0,0,0,10,3,3,2,20,0
+nod,Thai,nod_Thai,Northern Thai,#,Po,NUMBER SIGN,37,3,"2019,2020,2022",0,0,0,0,26,1,0,10,0
+nod,Thai,nod_Thai,Northern Thai,',Po,APOSTROPHE,36,1,2019,0,0,0,0,36,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฒ,Lo,THAI CHARACTER THO PHUTHAO,34,3,"2016,2018,2021",0,1,0,32,0,0,1,0,0
+nod,Thai,nod_Thai,Northern Thai,ာ,Mc,MYANMAR VOWEL SIGN AA,31,1,2022,0,0,0,0,0,0,0,31,0
+nod,Thai,nod_Thai,Northern Thai,๒,Nd,THAI DIGIT TWO,31,2,"2016,2018",0,12,0,19,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,I,Lu,LATIN CAPITAL LETTER I,31,6,"2016,2018,2019,2020,2021,2022",0,6,0,1,4,3,10,7,0
+nod,Thai,nod_Thai,Northern Thai,ု,Mn,MYANMAR VOWEL SIGN U,30,1,2022,0,0,0,0,0,0,0,30,0
+nod,Thai,nod_Thai,Northern Thai,|,Sm,VERTICAL LINE,30,2,"2016,2019",0,1,0,0,29,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,င,Lo,MYANMAR LETTER NGA,30,1,2022,0,0,0,0,0,0,0,30,0
+nod,Thai,nod_Thai,Northern Thai,ြ,Mc,MYANMAR CONSONANT SIGN MEDIAL RA,29,1,2022,0,0,0,0,0,0,0,29,0
+nod,Thai,nod_Thai,Northern Thai,া,Mc,BENGALI VOWEL SIGN AA,27,1,2020,0,0,0,0,0,27,0,0,0
+nod,Thai,nod_Thai,Northern Thai,·,Po,MIDDLE DOT,27,1,2018,0,0,0,27,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Q,Lu,LATIN CAPITAL LETTER Q,25,4,"2016,2020,2021,2022",0,2,0,0,0,2,1,20,0
+nod,Thai,nod_Thai,Northern Thai,U,Lu,LATIN CAPITAL LETTER U,25,6,"2016,2018,2019,2020,2021,2022",0,5,0,1,6,4,5,4,0
+nod,Thai,nod_Thai,Northern Thai,္,Mn,MYANMAR SIGN VIRAMA,24,1,2022,0,0,0,0,0,0,0,24,0
+nod,Thai,nod_Thai,Northern Thai,န,Lo,MYANMAR LETTER NA,24,1,2022,0,0,0,0,0,0,0,24,0
+nod,Thai,nod_Thai,Northern Thai,မ,Lo,MYANMAR LETTER MA,23,1,2022,0,0,0,0,0,0,0,23,0
+nod,Thai,nod_Thai,Northern Thai,ခ,Lo,MYANMAR LETTER KHA,23,1,2022,0,0,0,0,0,0,0,23,0
+nod,Thai,nod_Thai,Northern Thai,လ,Lo,MYANMAR LETTER LA,22,1,2022,0,0,0,0,0,0,0,22,0
+nod,Thai,nod_Thai,Northern Thai,ေ,Mc,MYANMAR VOWEL SIGN E,22,1,2022,0,0,0,0,0,0,0,22,0
+nod,Thai,nod_Thai,Northern Thai,ថ,Lo,KHMER LETTER THA,22,1,2019,0,0,0,0,22,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ៃ,Mc,KHMER VOWEL SIGN AI,21,1,2019,0,0,0,0,21,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,W,Lu,LATIN CAPITAL LETTER W,21,6,"2016,2017,2018,2019,2020,2021",0,3,2,1,2,4,9,0,0
+nod,Thai,nod_Thai,Northern Thai,ฑ,Lo,THAI CHARACTER THO NANGMONTHO,21,3,"2016,2018,2021",0,13,0,4,0,0,4,0,0
+nod,Thai,nod_Thai,Northern Thai,K,Lu,LATIN CAPITAL LETTER K,21,5,"2019,2020,2021,2022,2023",0,0,0,0,8,3,3,6,1
+nod,Thai,nod_Thai,Northern Thai,๓,Nd,THAI DIGIT THREE,20,2,"2016,2018",0,3,0,17,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,က,Lo,MYANMAR LETTER KA,20,1,2022,0,0,0,0,0,0,0,20,0
+nod,Thai,nod_Thai,Northern Thai,ភ,Lo,KHMER LETTER PHO,19,1,2019,0,0,0,0,19,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,?,Po,QUESTION MARK,18,2,"2016,2019",0,17,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ៀ,Mc,KHMER VOWEL SIGN IE,18,1,2019,0,0,0,0,18,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ម,Lo,KHMER LETTER MO,18,1,2019,0,0,0,0,18,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๕,Nd,THAI DIGIT FIVE,17,2,"2016,2018",0,5,0,12,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,—,Pd,EM DASH,17,1,2016,0,17,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,্,Mn,BENGALI SIGN VIRAMA,17,1,2020,0,0,0,0,0,17,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ি,Mc,BENGALI VOWEL SIGN I,16,1,2020,0,0,0,0,0,16,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๔,Nd,THAI DIGIT FOUR,16,2,"2016,2018",0,4,0,12,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,–,Pd,EN DASH,16,2,"2016,2022",0,7,0,0,0,0,0,9,0
+nod,Thai,nod_Thai,Northern Thai,=,Sm,EQUALS SIGN,15,1,2016,0,15,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ប,Lo,KHMER LETTER BA,15,1,2019,0,0,0,0,15,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ក,Lo,KHMER LETTER KA,15,1,2019,0,0,0,0,15,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,J,Lu,LATIN CAPITAL LETTER J,15,6,"2016,2018,2019,2020,2021,2022",0,3,0,1,5,2,1,3,0
+nod,Thai,nod_Thai,Northern Thai,់,Mn,KHMER SIGN BANTOC,14,1,2019,0,0,0,0,14,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฅ,Lo,THAI CHARACTER KHO KHON,14,2,"2018,2021",0,0,0,13,0,0,1,0,0
+nod,Thai,nod_Thai,Northern Thai,๖,Nd,THAI DIGIT SIX,14,2,"2016,2018",0,2,0,12,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ည,Lo,MYANMAR LETTER NNYA,13,1,2022,0,0,0,0,0,0,0,13,0
+nod,Thai,nod_Thai,Northern Thai,ង,Lo,KHMER LETTER NGO,12,1,2019,0,0,0,0,12,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ត,Lo,KHMER LETTER TA,12,1,2019,0,0,0,0,12,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,သ,Lo,MYANMAR LETTER SA,12,1,2022,0,0,0,0,0,0,0,12,0
+nod,Thai,nod_Thai,Northern Thai,ယ,Lo,MYANMAR LETTER YA,12,1,2022,0,0,0,0,0,0,0,12,0
+nod,Thai,nod_Thai,Northern Thai,[,Ps,LEFT SQUARE BRACKET,12,3,"2016,2019,2022",0,7,0,0,3,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,],Pe,RIGHT SQUARE BRACKET,12,3,"2016,2019,2022",0,7,0,0,3,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,ে,Mc,BENGALI VOWEL SIGN E,11,1,2020,0,0,0,0,0,11,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๘,Nd,THAI DIGIT EIGHT,11,2,"2016,2018",0,2,0,9,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,+,Sm,PLUS SIGN,11,3,"2016,2018,2022",0,9,0,1,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,С,Lu,CYRILLIC CAPITAL LETTER ES,11,2,"2017,2020",0,0,5,0,0,6,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ဒ,Lo,MYANMAR LETTER DA,10,1,2022,0,0,0,0,0,0,0,10,0
+nod,Thai,nod_Thai,Northern Thai,វ,Lo,KHMER LETTER VO,10,1,2019,0,0,0,0,10,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ွ,Mn,MYANMAR CONSONANT SIGN MEDIAL WA,10,1,2022,0,0,0,0,0,0,0,10,0
+nod,Thai,nod_Thai,Northern Thai,တ,Lo,MYANMAR LETTER TA,10,1,2022,0,0,0,0,0,0,0,10,0
+nod,Thai,nod_Thai,Northern Thai,ল,Lo,BENGALI LETTER LA,10,1,2020,0,0,0,0,0,10,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Y,Lu,LATIN CAPITAL LETTER Y,10,4,"2016,2019,2020,2022",0,1,0,0,6,2,0,1,0
+nod,Thai,nod_Thai,Northern Thai,য,Lo,BENGALI LETTER YA,9,1,2020,0,0,0,0,0,9,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๗,Nd,THAI DIGIT SEVEN,9,2,"2016,2018",0,2,0,7,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ါ,Mc,MYANMAR VOWEL SIGN TALL AA,9,1,2022,0,0,0,0,0,0,0,9,0
+nod,Thai,nod_Thai,Northern Thai,র,Lo,BENGALI LETTER RA,9,1,2020,0,0,0,0,0,9,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ံ,Mn,MYANMAR SIGN ANUSVARA,9,1,2022,0,0,0,0,0,0,0,9,0
+nod,Thai,nod_Thai,Northern Thai,j,Ll,LATIN SMALL LETTER J,9,3,"2016,2019,2022",0,1,0,0,7,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,;,Po,SEMICOLON,9,2,"2016,2021",0,4,0,0,0,0,5,0,0
+nod,Thai,nod_Thai,Northern Thai,̲,Mn,COMBINING LOW LINE,9,1,2016,0,9,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ဲ,Mn,MYANMAR VOWEL SIGN AI,9,1,2022,0,0,0,0,0,0,0,9,0
+nod,Thai,nod_Thai,Northern Thai,့,Mn,MYANMAR SIGN DOT BELOW,9,1,2022,0,0,0,0,0,0,0,9,0
+nod,Thai,nod_Thai,Northern Thai,ច,Lo,KHMER LETTER CA,8,1,2019,0,0,0,0,8,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,!,Po,EXCLAMATION MARK,8,4,"2016,2018,2019,2023",0,4,0,1,2,0,0,0,1
+nod,Thai,nod_Thai,Northern Thai,๙,Nd,THAI DIGIT NINE,8,2,"2016,2018",0,2,0,6,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,স,Lo,BENGALI LETTER SA,8,1,2020,0,0,0,0,0,8,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ជ,Lo,KHMER LETTER CO,8,1,2019,0,0,0,0,8,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,၁,Nd,MYANMAR DIGIT ONE,8,1,2022,0,0,0,0,0,0,0,8,0
+nod,Thai,nod_Thai,Northern Thai,ဂ,Lo,MYANMAR LETTER GA,8,1,2022,0,0,0,0,0,0,0,8,0
+nod,Thai,nod_Thai,Northern Thai,យ,Lo,KHMER LETTER YO,7,1,2019,0,0,0,0,7,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ရ,Lo,MYANMAR LETTER RA,7,1,2022,0,0,0,0,0,0,0,7,0
+nod,Thai,nod_Thai,Northern Thai,ှ,Mn,MYANMAR CONSONANT SIGN MEDIAL HA,7,1,2022,0,0,0,0,0,0,0,7,0
+nod,Thai,nod_Thai,Northern Thai,ক,Lo,BENGALI LETTER KA,7,1,2020,0,0,0,0,0,7,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🔷,So,LARGE BLUE DIAMOND,7,1,2022,0,0,0,0,0,0,0,7,0
+nod,Thai,nod_Thai,Northern Thai,ျ,Mc,MYANMAR CONSONANT SIGN MEDIAL YA,7,1,2022,0,0,0,0,0,0,0,7,0
+nod,Thai,nod_Thai,Northern Thai,ែ,Mc,KHMER VOWEL SIGN AE,7,1,2019,0,0,0,0,7,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ၵ,Lo,MYANMAR LETTER SHAN KA,6,1,2022,0,0,0,0,0,0,0,6,0
+nod,Thai,nod_Thai,Northern Thai,ন,Lo,BENGALI LETTER NA,6,1,2020,0,0,0,0,0,6,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ো,Mc,BENGALI VOWEL SIGN O,6,1,2020,0,0,0,0,0,6,0,0,0
+nod,Thai,nod_Thai,Northern Thai,দ,Lo,BENGALI LETTER DA,6,1,2020,0,0,0,0,0,6,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ၿ,Lo,MYANMAR LETTER SHAN BA,6,1,2022,0,0,0,0,0,0,0,6,0
+nod,Thai,nod_Thai,Northern Thai,়,Mn,BENGALI SIGN NUKTA,6,1,2020,0,0,0,0,0,6,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ा,Mc,DEVANAGARI VOWEL SIGN AA,6,1,2015,6,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,၂,Nd,MYANMAR DIGIT TWO,6,1,2022,0,0,0,0,0,0,0,6,0
+nod,Thai,nod_Thai,Northern Thai,X,Lu,LATIN CAPITAL LETTER X,6,4,"2016,2018,2020,2021",0,1,0,2,0,2,1,0,0
+nod,Thai,nod_Thai,Northern Thai,ី,Mn,KHMER VOWEL SIGN II,5,1,2019,0,0,0,0,5,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ভ,Lo,BENGALI LETTER BHA,5,1,2020,0,0,0,0,0,5,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฺ,Mn,THAI CHARACTER PHINTHU,5,1,2019,0,0,0,0,5,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,জ,Lo,BENGALI LETTER JA,5,1,2020,0,0,0,0,0,5,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ম,Lo,BENGALI LETTER MA,5,1,2020,0,0,0,0,0,5,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ុ,Mn,KHMER VOWEL SIGN U,5,1,2019,0,0,0,0,5,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ၤ,Mc,MYANMAR TONE MARK SGAW KAREN KE PHO,5,1,2022,0,0,0,0,0,0,0,5,0
+nod,Thai,nod_Thai,Northern Thai,े,Mn,DEVANAGARI VOWEL SIGN E,5,1,2015,5,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,႕,Nd,MYANMAR SHAN DIGIT FIVE,5,1,2022,0,0,0,0,0,0,0,5,0
+nod,Thai,nod_Thai,Northern Thai,গ,Lo,BENGALI LETTER GA,5,1,2020,0,0,0,0,0,5,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ং,Mc,BENGALI SIGN ANUSVARA,5,1,2020,0,0,0,0,0,5,0,0,0
+nod,Thai,nod_Thai,Northern Thai,&,Po,AMPERSAND,5,2,"2016,2019",0,4,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,z,Ll,LATIN SMALL LETTER Z,5,3,"2016,2021,2022",0,3,0,0,0,0,1,1,0
+nod,Thai,nod_Thai,Northern Thai,ព,Lo,KHMER LETTER PO,5,1,2019,0,0,0,0,5,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,៊,Mn,KHMER SIGN TRIISAP,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,၊,Po,MYANMAR SIGN LITTLE SECTION,4,1,2022,0,0,0,0,0,0,0,4,0
+nod,Thai,nod_Thai,Northern Thai,ড,Lo,BENGALI LETTER DDA,4,1,2020,0,0,0,0,0,4,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ហ,Lo,KHMER LETTER HA,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ব,Lo,BENGALI LETTER BA,4,1,2020,0,0,0,0,0,4,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ិ,Mn,KHMER VOWEL SIGN I,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,আ,Lo,BENGALI LETTER AA,4,1,2020,0,0,0,0,0,4,0,0,0
+nod,Thai,nod_Thai,Northern Thai,អ,Lo,KHMER LETTER QA,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,_,Pc,LOW LINE,4,1,2016,0,4,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ो,Mc,DEVANAGARI VOWEL SIGN O,4,1,2015,4,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,न,Lo,DEVANAGARI LETTER NA,4,1,2015,4,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ီ,Mn,MYANMAR VOWEL SIGN II,4,1,2022,0,0,0,0,0,0,0,4,0
+nod,Thai,nod_Thai,Northern Thai,ដ,Lo,KHMER LETTER DA,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ួ,Mn,KHMER VOWEL SIGN UA,4,1,2019,0,0,0,0,4,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ि,Mc,DEVANAGARI VOWEL SIGN I,4,1,2015,4,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฬ,Lo,THAI CHARACTER LO CHULA,4,1,2018,0,0,0,4,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,$,Sc,DOLLAR SIGN,4,2,"2016,2021",0,3,0,0,0,0,1,0,0
+nod,Thai,nod_Thai,Northern Thai,ট,Lo,BENGALI LETTER TTA,4,1,2020,0,0,0,0,0,4,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Z,Lu,LATIN CAPITAL LETTER Z,4,3,"2016,2020,2021",0,1,0,0,0,2,1,0,0
+nod,Thai,nod_Thai,Northern Thai,ও,Lo,BENGALI LETTER O,3,1,2020,0,0,0,0,0,3,0,0,0
+nod,Thai,nod_Thai,Northern Thai,В,Lu,CYRILLIC CAPITAL LETTER VE,3,1,2020,0,0,0,0,0,3,0,0,0
+nod,Thai,nod_Thai,Northern Thai,q,Ll,LATIN SMALL LETTER Q,3,1,2016,0,3,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ट,Lo,DEVANAGARI LETTER TTA,3,1,2015,3,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,क,Lo,DEVANAGARI LETTER KA,3,1,2015,3,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,অ,Lo,BENGALI LETTER A,3,1,2020,0,0,0,0,0,3,0,0,0
+nod,Thai,nod_Thai,Northern Thai,এ,Lo,BENGALI LETTER E,3,1,2020,0,0,0,0,0,3,0,0,0
+nod,Thai,nod_Thai,Northern Thai,គ,Lo,KHMER LETTER KO,3,1,2019,0,0,0,0,3,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ː,Lm,MODIFIER LETTER TRIANGULAR COLON,3,1,2016,0,3,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ំ,Mn,KHMER SIGN NIKAHIT,3,1,2019,0,0,0,0,3,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,စ,Lo,MYANMAR LETTER CA,3,1,2022,0,0,0,0,0,0,0,3,0
+nod,Thai,nod_Thai,Northern Thai,ু,Mn,BENGALI VOWEL SIGN U,3,1,2020,0,0,0,0,0,3,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ណ,Lo,KHMER LETTER NNO,3,1,2019,0,0,0,0,3,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,প,Lo,BENGALI LETTER PA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ъ,Lu,CYRILLIC CAPITAL LETTER HARD SIGN,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Щ,Lu,CYRILLIC CAPITAL LETTER SHCHA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ч,Lu,CYRILLIC CAPITAL LETTER CHE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ш,Lu,CYRILLIC CAPITAL LETTER SHA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ь,Lu,CYRILLIC CAPITAL LETTER SOFT SIGN,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ц,Lu,CYRILLIC CAPITAL LETTER TSE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Х,Lu,CYRILLIC CAPITAL LETTER HA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ы,Lu,CYRILLIC CAPITAL LETTER YERU,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,၈,Nd,MYANMAR DIGIT EIGHT,2,1,2022,0,0,0,0,0,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,Э,Lu,CYRILLIC CAPITAL LETTER E,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ю,Lu,CYRILLIC CAPITAL LETTER YU,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Я,Lu,CYRILLIC CAPITAL LETTER YA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ထ,Lo,MYANMAR LETTER THA,2,1,2022,0,0,0,0,0,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,။,Po,MYANMAR SIGN SECTION,2,1,2022,0,0,0,0,0,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,ဗ,Lo,MYANMAR LETTER BA,2,1,2022,0,0,0,0,0,0,0,2,0
+nod,Thai,nod_Thai,Northern Thai,ই,Lo,BENGALI LETTER I,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,У,Lu,CYRILLIC CAPITAL LETTER U,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ф,Lu,CYRILLIC CAPITAL LETTER EF,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,इ,Lo,DEVANAGARI LETTER I,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Т,Lu,CYRILLIC CAPITAL LETTER TE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ូ,Mn,KHMER VOWEL SIGN UU,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🇭,So,REGIONAL INDICATOR SYMBOL LETTER H,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,{,Ps,LEFT CURLY BRACKET,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🐓,So,ROOSTER,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,},Pe,RIGHT CURLY BRACKET,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ノ,Lo,KATAKANA LETTER NO,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,द,Lo,DEVANAGARI LETTER DA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ឆ,Lo,KHMER LETTER CHA,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ह,Lo,DEVANAGARI LETTER HA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ញ,Lo,KHMER LETTER NYO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ោ,Mc,KHMER VOWEL SIGN OO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,−,Sm,MINUS SIGN,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,។,Po,KHMER SIGN KHAN,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ល,Lo,KHMER LETTER LO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ធ,Lo,KHMER LETTER THO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,◌,So,DOTTED CIRCLE,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ឌ,Lo,KHMER LETTER DO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,फ,Lo,DEVANAGARI LETTER PHA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,र,Lo,DEVANAGARI LETTER RA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,भ,Lo,DEVANAGARI LETTER BHA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,छ,Lo,DEVANAGARI LETTER CHA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,म,Lo,DEVANAGARI LETTER MA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Р,Lu,CYRILLIC CAPITAL LETTER ER,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,×,Sm,MULTIPLICATION SIGN,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ȹ,Ll,LATIN SMALL LETTER QP DIGRAPH,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,៉,Mn,KHMER SIGN MUUSIKATOAN,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Д,Lu,CYRILLIC CAPITAL LETTER DE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,П,Lu,CYRILLIC CAPITAL LETTER PE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,О,Lu,CYRILLIC CAPITAL LETTER O,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Н,Lu,CYRILLIC CAPITAL LETTER EN,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,М,Lu,CYRILLIC CAPITAL LETTER EM,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Л,Lu,CYRILLIC CAPITAL LETTER EL,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,К,Lu,CYRILLIC CAPITAL LETTER KA,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Й,Lu,CYRILLIC CAPITAL LETTER SHORT I,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,И,Lu,CYRILLIC CAPITAL LETTER I,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,З,Lu,CYRILLIC CAPITAL LETTER ZE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ж,Lu,CYRILLIC CAPITAL LETTER ZHE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Ё,Lu,CYRILLIC CAPITAL LETTER IO,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Е,Lu,CYRILLIC CAPITAL LETTER IE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Г,Lu,CYRILLIC CAPITAL LETTER GHE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,Б,Lu,CYRILLIC CAPITAL LETTER BE,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๐,Nd,THAI DIGIT ZERO,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๚,Po,THAI CHARACTER ANGKHANKHU,2,1,2016,0,2,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,А,Lu,CYRILLIC CAPITAL LETTER A,2,1,2020,0,0,0,0,0,2,0,0,0
+nod,Thai,nod_Thai,Northern Thai,េ,Mc,KHMER VOWEL SIGN E,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ះ,Mc,KHMER SIGN REAHMUK,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ឃ,Lo,KHMER LETTER KHO,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,័,Mn,KHMER SIGN SAMYOK SANNYA,2,1,2019,0,0,0,0,2,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ल,Lo,DEVANAGARI LETTER LA,2,1,2015,2,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ओ,Lo,DEVANAGARI LETTER O,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ฯ,Lo,THAI CHARACTER PAIYANNOI,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,त,Lo,DEVANAGARI LETTER TA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๏,Po,THAI CHARACTER FONGMAN,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ु,Mn,DEVANAGARI VOWEL SIGN U,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ब,Lo,DEVANAGARI LETTER BA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,प,Lo,DEVANAGARI LETTER PA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ू,Mn,DEVANAGARI VOWEL SIGN UU,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ဆ,Lo,MYANMAR LETTER CHA,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,📗,So,GREEN BOOK,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၀,Nd,MYANMAR DIGIT ZERO,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၉,Nd,MYANMAR DIGIT NINE,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,च,Lo,DEVANAGARI LETTER CA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,၇,Nd,MYANMAR DIGIT SEVEN,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၆,Nd,MYANMAR DIGIT SIX,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၅,Nd,MYANMAR DIGIT FIVE,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၄,Nd,MYANMAR DIGIT FOUR,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,၃,Nd,MYANMAR DIGIT THREE,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,ł,Ll,LATIN SMALL LETTER L WITH STROKE,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,ई,Lo,DEVANAGARI LETTER II,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ူ,Mn,MYANMAR VOWEL SIGN UU,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,ဦ,Lo,MYANMAR LETTER UU,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,ဝ,Lo,MYANMAR LETTER WA,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1,1,2022,0,0,0,0,0,0,0,1,0
+nod,Thai,nod_Thai,Northern Thai,¢,Sc,CENT SIGN,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,๛,Po,THAI CHARACTER KHOMUT,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,থ,Lo,BENGALI LETTER THA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ী,Mc,BENGALI VOWEL SIGN II,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,চ,Lo,BENGALI LETTER CA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🇰,So,REGIONAL INDICATOR SYMBOL LETTER K,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,💕,So,TWO HEARTS,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🇹,So,REGIONAL INDICATOR SYMBOL LETTER T,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ឈ,Lo,KHMER LETTER CHO,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,៏,Mn,KHMER SIGN AHSDA,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ឿ,Mc,KHMER VOWEL SIGN YA,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ខ,Lo,KHMER LETTER KHA,1,1,2019,0,0,0,0,1,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,হ,Lo,BENGALI LETTER HA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ड,Lo,DEVANAGARI LETTER DDA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ফ,Lo,BENGALI LETTER PHA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,শ,Lo,BENGALI LETTER SHA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ছ,Lo,BENGALI LETTER CHA,1,1,2020,0,0,0,0,0,1,0,0,0
+nod,Thai,nod_Thai,Northern Thai,ी,Mc,DEVANAGARI VOWEL SIGN II,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,स,Lo,DEVANAGARI LETTER SA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,्,Mn,DEVANAGARI SIGN VIRAMA,1,1,2015,1,0,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,÷,Sm,DIVISION SIGN,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,́,Mn,COMBINING ACUTE ACCENT,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,@,Po,COMMERCIAL AT,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,£,Sc,POUND SIGN,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,┼,So,BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,̳,Mn,COMBINING DOUBLE LOW LINE,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,点,Lo,CJK UNIFIED IDEOGRAPH-70B9,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,字,Lo,CJK UNIFIED IDEOGRAPH-5B57,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,〃,Po,DITTO MARK,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,π,Ll,GREEK SMALL LETTER PI,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,。,Po,IDEOGRAPHIC FULL STOP,1,1,2016,0,1,0,0,0,0,0,0,0
+nod,Thai,nod_Thai,Northern Thai,🔺,So,UP-POINTING RED TRIANGLE,1,1,2022,0,0,0,0,0,0,0,1,0

@@ -1,0 +1,22 @@
+{
+  "language_code": "alt_Cyrl",
+  "iso_639_3": "alt",
+  "script": "Cyrl",
+  "language_name": "Southern Altai",
+  "total_characters": 356,
+  "total_frequency": 16766543,
+  "years_covered": [
+    "2013",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.947228"
+}

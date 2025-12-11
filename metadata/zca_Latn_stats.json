@@ -1,0 +1,16 @@
+{
+  "language_code": "zca_Latn",
+  "iso_639_3": "zca",
+  "script": "Latn",
+  "language_name": "Coatecas Altas Zapotec",
+  "total_characters": 87,
+  "total_frequency": 32930,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2019",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.702923"
+}

@@ -1,0 +1,18 @@
+{
+  "language_code": "tar_Latn",
+  "iso_639_3": "tar",
+  "script": "Latn",
+  "language_name": "Central Tarahumara",
+  "total_characters": 109,
+  "total_frequency": 318386,
+  "years_covered": [
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:11.782326"
+}

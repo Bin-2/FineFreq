@@ -1,0 +1,17 @@
+{
+  "language_code": "gvl_Latn",
+  "iso_639_3": "gvl",
+  "script": "Latn",
+  "language_name": "Gulay",
+  "total_characters": 104,
+  "total_frequency": 1221382,
+  "years_covered": [
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2019"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:55.161474"
+}

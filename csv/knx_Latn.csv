@@ -1,0 +1,74 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2020_frequency
+knx,Latn,knx_Latn,Kendayan,a,Ll,LATIN SMALL LETTER A,1543,2,"2017,2020",410,1133
+knx,Latn,knx_Latn,Kendayan, ,Zs,SPACE,1249,2,"2017,2020",289,960
+knx,Latn,knx_Latn,Kendayan,n,Ll,LATIN SMALL LETTER N,700,2,"2017,2020",137,563
+knx,Latn,knx_Latn,Kendayan,i,Ll,LATIN SMALL LETTER I,442,2,"2017,2020",122,320
+knx,Latn,knx_Latn,Kendayan,k,Ll,LATIN SMALL LETTER K,395,2,"2017,2020",73,322
+knx,Latn,knx_Latn,Kendayan,u,Ll,LATIN SMALL LETTER U,322,2,"2017,2020",75,247
+knx,Latn,knx_Latn,Kendayan,g,Ll,LATIN SMALL LETTER G,282,2,"2017,2020",48,234
+knx,Latn,knx_Latn,Kendayan,t,Ll,LATIN SMALL LETTER T,272,2,"2017,2020",86,186
+knx,Latn,knx_Latn,Kendayan,e,Ll,LATIN SMALL LETTER E,269,2,"2017,2020",49,220
+knx,Latn,knx_Latn,Kendayan,m,Ll,LATIN SMALL LETTER M,229,2,"2017,2020",79,150
+knx,Latn,knx_Latn,Kendayan,l,Ll,LATIN SMALL LETTER L,226,2,"2017,2020",60,166
+knx,Latn,knx_Latn,Kendayan,r,Ll,LATIN SMALL LETTER R,204,2,"2017,2020",56,148
+knx,Latn,knx_Latn,Kendayan,b,Ll,LATIN SMALL LETTER B,172,2,"2017,2020",46,126
+knx,Latn,knx_Latn,Kendayan,s,Ll,LATIN SMALL LETTER S,162,2,"2017,2020",63,99
+knx,Latn,knx_Latn,Kendayan,h,Ll,LATIN SMALL LETTER H,155,2,"2017,2020",38,117
+knx,Latn,knx_Latn,Kendayan,o,Ll,LATIN SMALL LETTER O,151,2,"2017,2020",29,122
+knx,Latn,knx_Latn,Kendayan,d,Ll,LATIN SMALL LETTER D,145,2,"2017,2020",37,108
+knx,Latn,knx_Latn,Kendayan,’,Pf,RIGHT SINGLE QUOTATION MARK,134,2,"2017,2020",46,88
+knx,Latn,knx_Latn,Kendayan,p,Ll,LATIN SMALL LETTER P,131,2,"2017,2020",41,90
+knx,Latn,knx_Latn,Kendayan,",",Po,COMMA,125,2,"2017,2020",6,119
+knx,Latn,knx_Latn,Kendayan,y,Ll,LATIN SMALL LETTER Y,114,2,"2017,2020",18,96
+knx,Latn,knx_Latn,Kendayan,N,Lu,LATIN CAPITAL LETTER N,77,2,"2017,2020",7,70
+knx,Latn,knx_Latn,Kendayan,A,Lu,LATIN CAPITAL LETTER A,60,2,"2017,2020",43,17
+knx,Latn,knx_Latn,Kendayan,j,Ll,LATIN SMALL LETTER J,49,2,"2017,2020",17,32
+knx,Latn,knx_Latn,Kendayan,.,Po,FULL STOP,44,2,"2017,2020",20,24
+knx,Latn,knx_Latn,Kendayan,c,Ll,LATIN SMALL LETTER C,41,2,"2017,2020",7,34
+knx,Latn,knx_Latn,Kendayan,K,Lu,LATIN CAPITAL LETTER K,29,2,"2017,2020",25,4
+knx,Latn,knx_Latn,Kendayan,B,Lu,LATIN CAPITAL LETTER B,21,2,"2017,2020",16,5
+knx,Latn,knx_Latn,Kendayan,G,Lu,LATIN CAPITAL LETTER G,21,2,"2017,2020",5,16
+knx,Latn,knx_Latn,Kendayan,S,Lu,LATIN CAPITAL LETTER S,20,2,"2017,2020",8,12
+knx,Latn,knx_Latn,Kendayan,M,Lu,LATIN CAPITAL LETTER M,18,2,"2017,2020",11,7
+knx,Latn,knx_Latn,Kendayan,P,Lu,LATIN CAPITAL LETTER P,17,2,"2017,2020",15,2
+knx,Latn,knx_Latn,Kendayan,R,Lu,LATIN CAPITAL LETTER R,16,2,"2017,2020",6,10
+knx,Latn,knx_Latn,Kendayan,T,Lu,LATIN CAPITAL LETTER T,15,2,"2017,2020",5,10
+knx,Latn,knx_Latn,Kendayan,L,Lu,LATIN CAPITAL LETTER L,15,2,"2017,2020",5,10
+knx,Latn,knx_Latn,Kendayan,w,Ll,LATIN SMALL LETTER W,14,2,"2017,2020",5,9
+knx,Latn,knx_Latn,Kendayan,D,Lu,LATIN CAPITAL LETTER D,12,2,"2017,2020",10,2
+knx,Latn,knx_Latn,Kendayan,?,Po,QUESTION MARK,12,1,2017,12,0
+knx,Latn,knx_Latn,Kendayan,-,Pd,HYPHEN-MINUS,11,2,"2017,2020",3,8
+knx,Latn,knx_Latn,Kendayan,f,Ll,LATIN SMALL LETTER F,10,2,"2017,2020",3,7
+knx,Latn,knx_Latn,Kendayan,(,Ps,LEFT PARENTHESIS,8,1,2020,0,8
+knx,Latn,knx_Latn,Kendayan,),Pe,RIGHT PARENTHESIS,8,1,2020,0,8
+knx,Latn,knx_Latn,Kendayan,1,Nd,DIGIT ONE,8,2,"2017,2020",6,2
+knx,Latn,knx_Latn,Kendayan,/,Po,SOLIDUS,8,1,2017,8,0
+knx,Latn,knx_Latn,Kendayan,Y,Lu,LATIN CAPITAL LETTER Y,7,2,"2017,2020",6,1
+knx,Latn,knx_Latn,Kendayan,C,Lu,LATIN CAPITAL LETTER C,6,2,"2017,2020",5,1
+knx,Latn,knx_Latn,Kendayan,U,Lu,LATIN CAPITAL LETTER U,6,2,"2017,2020",2,4
+knx,Latn,knx_Latn,Kendayan,J,Lu,LATIN CAPITAL LETTER J,5,2,"2017,2020",3,2
+knx,Latn,knx_Latn,Kendayan,0,Nd,DIGIT ZERO,5,2,"2017,2020",4,1
+knx,Latn,knx_Latn,Kendayan,I,Lu,LATIN CAPITAL LETTER I,5,2,"2017,2020",4,1
+knx,Latn,knx_Latn,Kendayan,x,Ll,LATIN SMALL LETTER X,4,2,"2017,2020",1,3
+knx,Latn,knx_Latn,Kendayan,:,Po,COLON,4,2,"2017,2020",1,3
+knx,Latn,knx_Latn,Kendayan,v,Ll,LATIN SMALL LETTER V,3,2,"2017,2020",2,1
+knx,Latn,knx_Latn,Kendayan,_,Pc,LOW LINE,3,1,2017,3,0
+knx,Latn,knx_Latn,Kendayan,2,Nd,DIGIT TWO,3,2,"2017,2020",2,1
+knx,Latn,knx_Latn,Kendayan,;,Po,SEMICOLON,2,1,2020,0,2
+knx,Latn,knx_Latn,Kendayan,4,Nd,DIGIT FOUR,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,3,Nd,DIGIT THREE,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,5,Nd,DIGIT FIVE,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,O,Lu,LATIN CAPITAL LETTER O,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,%,Po,PERCENT SIGN,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,V,Lu,LATIN CAPITAL LETTER V,2,1,2017,2,0
+knx,Latn,knx_Latn,Kendayan,q,Ll,LATIN SMALL LETTER Q,1,1,2017,1,0
+knx,Latn,knx_Latn,Kendayan,[,Ps,LEFT SQUARE BRACKET,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,],Pe,RIGHT SQUARE BRACKET,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,6,Nd,DIGIT SIX,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,8,Nd,DIGIT EIGHT,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,',Po,APOSTROPHE,1,1,2017,1,0
+knx,Latn,knx_Latn,Kendayan,W,Lu,LATIN CAPITAL LETTER W,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,E,Lu,LATIN CAPITAL LETTER E,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,7,Nd,DIGIT SEVEN,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2020,0,1
+knx,Latn,knx_Latn,Kendayan,!,Po,EXCLAMATION MARK,1,1,2020,0,1

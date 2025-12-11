@@ -1,0 +1,65 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency,year_2022_frequency
+var,Latn,var_Latn,Huarijio,a,Ll,LATIN SMALL LETTER A,25466,3,"2019,2020,2022",676,2749,22041
+var,Latn,var_Latn,Huarijio, ,Zs,SPACE,17559,3,"2019,2020,2022",454,1785,15320
+var,Latn,var_Latn,Huarijio,i,Ll,LATIN SMALL LETTER I,16855,3,"2019,2020,2022",390,1665,14800
+var,Latn,var_Latn,Huarijio,e,Ll,LATIN SMALL LETTER E,13621,3,"2019,2020,2022",417,1498,11706
+var,Latn,var_Latn,Huarijio,o,Ll,LATIN SMALL LETTER O,11176,3,"2019,2020,2022",324,1017,9835
+var,Latn,var_Latn,Huarijio,t,Ll,LATIN SMALL LETTER T,6666,3,"2019,2020,2022",110,676,5880
+var,Latn,var_Latn,Huarijio,m,Ll,LATIN SMALL LETTER M,6541,3,"2019,2020,2022",123,538,5880
+var,Latn,var_Latn,Huarijio,u,Ll,LATIN SMALL LETTER U,5915,3,"2019,2020,2022",175,782,4958
+var,Latn,var_Latn,Huarijio,p,Ll,LATIN SMALL LETTER P,5795,3,"2019,2020,2022",134,618,5043
+var,Latn,var_Latn,Huarijio,k,Ll,LATIN SMALL LETTER K,5320,3,"2019,2020,2022",82,567,4671
+var,Latn,var_Latn,Huarijio,h,Ll,LATIN SMALL LETTER H,5158,3,"2019,2020,2022",80,566,4512
+var,Latn,var_Latn,Huarijio,r,Ll,LATIN SMALL LETTER R,4448,3,"2019,2020,2022",234,464,3750
+var,Latn,var_Latn,Huarijio,n,Ll,LATIN SMALL LETTER N,3999,3,"2019,2020,2022",216,510,3273
+var,Latn,var_Latn,Huarijio,w,Ll,LATIN SMALL LETTER W,3504,3,"2019,2020,2022",89,334,3081
+var,Latn,var_Latn,Huarijio,c,Ll,LATIN SMALL LETTER C,3496,3,"2019,2020,2022",36,354,3106
+var,Latn,var_Latn,Huarijio,s,Ll,LATIN SMALL LETTER S,3488,3,"2019,2020,2022",112,306,3070
+var,Latn,var_Latn,Huarijio,',Po,APOSTROPHE,3000,3,"2019,2020,2022",45,321,2634
+var,Latn,var_Latn,Huarijio,",",Po,COMMA,2970,3,"2019,2020,2022",93,329,2548
+var,Latn,var_Latn,Huarijio,y,Ll,LATIN SMALL LETTER Y,1398,3,"2019,2020,2022",24,124,1250
+var,Latn,var_Latn,Huarijio,j,Ll,LATIN SMALL LETTER J,992,3,"2019,2020,2022",37,172,783
+var,Latn,var_Latn,Huarijio,.,Po,FULL STOP,991,3,"2019,2020,2022",28,121,842
+var,Latn,var_Latn,Huarijio,R,Lu,LATIN CAPITAL LETTER R,983,3,"2019,2020,2022",26,74,883
+var,Latn,var_Latn,Huarijio,E,Lu,LATIN CAPITAL LETTER E,505,3,"2019,2020,2022",26,77,402
+var,Latn,var_Latn,Huarijio,W,Lu,LATIN CAPITAL LETTER W,383,3,"2019,2020,2022",15,66,302
+var,Latn,var_Latn,Huarijio,P,Lu,LATIN CAPITAL LETTER P,352,3,"2019,2020,2022",4,61,287
+var,Latn,var_Latn,Huarijio,1,Nd,DIGIT ONE,329,3,"2019,2020,2022",15,44,270
+var,Latn,var_Latn,Huarijio,N,Lu,LATIN CAPITAL LETTER N,318,3,"2019,2020,2022",5,64,249
+var,Latn,var_Latn,Huarijio,í,Ll,LATIN SMALL LETTER I WITH ACUTE,251,3,"2019,2020,2022",3,10,238
+var,Latn,var_Latn,Huarijio,2,Nd,DIGIT TWO,206,3,"2019,2020,2022",11,28,167
+var,Latn,var_Latn,Huarijio,T,Lu,LATIN CAPITAL LETTER T,201,3,"2019,2020,2022",1,27,173
+var,Latn,var_Latn,Huarijio,A,Lu,LATIN CAPITAL LETTER A,186,3,"2019,2020,2022",27,26,133
+var,Latn,var_Latn,Huarijio,I,Lu,LATIN CAPITAL LETTER I,170,3,"2019,2020,2022",15,23,132
+var,Latn,var_Latn,Huarijio,;,Po,SEMICOLON,136,3,"2019,2020,2022",34,12,90
+var,Latn,var_Latn,Huarijio,K,Lu,LATIN CAPITAL LETTER K,117,3,"2019,2020,2022",1,15,101
+var,Latn,var_Latn,Huarijio,:,Po,COLON,107,3,"2019,2020,2022",5,43,59
+var,Latn,var_Latn,Huarijio,3,Nd,DIGIT THREE,101,3,"2019,2020,2022",6,21,74
+var,Latn,var_Latn,Huarijio,4,Nd,DIGIT FOUR,87,3,"2019,2020,2022",3,20,64
+var,Latn,var_Latn,Huarijio,M,Lu,LATIN CAPITAL LETTER M,70,3,"2019,2020,2022",13,12,45
+var,Latn,var_Latn,Huarijio,5,Nd,DIGIT FIVE,69,3,"2019,2020,2022",3,13,53
+var,Latn,var_Latn,Huarijio,7,Nd,DIGIT SEVEN,60,3,"2019,2020,2022",3,9,48
+var,Latn,var_Latn,Huarijio,O,Lu,LATIN CAPITAL LETTER O,60,3,"2019,2020,2022",19,4,37
+var,Latn,var_Latn,Huarijio,6,Nd,DIGIT SIX,59,3,"2019,2020,2022",2,8,49
+var,Latn,var_Latn,Huarijio,S,Lu,LATIN CAPITAL LETTER S,59,3,"2019,2020,2022",12,10,37
+var,Latn,var_Latn,Huarijio,8,Nd,DIGIT EIGHT,57,3,"2019,2020,2022",3,9,45
+var,Latn,var_Latn,Huarijio,—,Pd,EM DASH,55,3,"2019,2020,2022",1,41,13
+var,Latn,var_Latn,Huarijio,9,Nd,DIGIT NINE,54,3,"2019,2020,2022",2,8,44
+var,Latn,var_Latn,Huarijio,0,Nd,DIGIT ZERO,52,3,"2019,2020,2022",2,7,43
+var,Latn,var_Latn,Huarijio,Y,Lu,LATIN CAPITAL LETTER Y,42,3,"2019,2020,2022",2,4,36
+var,Latn,var_Latn,Huarijio,é,Ll,LATIN SMALL LETTER E WITH ACUTE,41,3,"2019,2020,2022",3,14,24
+var,Latn,var_Latn,Huarijio,?,Po,QUESTION MARK,38,2,"2020,2022",0,18,20
+var,Latn,var_Latn,Huarijio,¿,Po,INVERTED QUESTION MARK,35,2,"2020,2022",0,15,20
+var,Latn,var_Latn,Huarijio,U,Lu,LATIN CAPITAL LETTER U,31,2,"2019,2022",5,0,26
+var,Latn,var_Latn,Huarijio,á,Ll,LATIN SMALL LETTER A WITH ACUTE,23,1,2022,0,0,23
+var,Latn,var_Latn,Huarijio,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,21,3,"2019,2020,2022",1,4,16
+var,Latn,var_Latn,Huarijio,“,Pi,LEFT DOUBLE QUOTATION MARK,18,2,"2020,2022",0,3,15
+var,Latn,var_Latn,Huarijio,”,Pf,RIGHT DOUBLE QUOTATION MARK,18,2,"2020,2022",0,3,15
+var,Latn,var_Latn,Huarijio,¡,Po,INVERTED EXCLAMATION MARK,10,2,"2020,2022",0,8,2
+var,Latn,var_Latn,Huarijio,-,Pd,HYPHEN-MINUS,9,3,"2019,2020,2022",2,6,1
+var,Latn,var_Latn,Huarijio,!,Po,EXCLAMATION MARK,7,2,"2020,2022",0,5,2
+var,Latn,var_Latn,Huarijio,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,5,2,"2020,2022",0,3,2
+var,Latn,var_Latn,Huarijio,),Pe,RIGHT PARENTHESIS,5,3,"2019,2020,2022",2,2,1
+var,Latn,var_Latn,Huarijio,’,Pf,RIGHT SINGLE QUOTATION MARK,5,2,"2020,2022",0,1,4
+var,Latn,var_Latn,Huarijio,(,Ps,LEFT PARENTHESIS,5,3,"2019,2020,2022",2,2,1
+var,Latn,var_Latn,Huarijio,C,Lu,LATIN CAPITAL LETTER C,1,1,2022,0,0,1

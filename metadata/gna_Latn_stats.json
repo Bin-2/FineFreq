@@ -1,0 +1,14 @@
+{
+  "language_code": "gna_Latn",
+  "iso_639_3": "gna",
+  "script": "Latn",
+  "language_name": "Kaansa",
+  "total_characters": 90,
+  "total_frequency": 9695,
+  "years_covered": [
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:54.444741"
+}

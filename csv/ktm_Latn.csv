@@ -1,0 +1,70 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2021_frequency
+ktm,Latn,ktm_Latn,Kurti, ,Zs,SPACE,4163,2,"2017,2021",3403,760
+ktm,Latn,ktm_Latn,Kurti,e,Ll,LATIN SMALL LETTER E,1783,2,"2017,2021",1426,357
+ktm,Latn,ktm_Latn,Kurti,i,Ll,LATIN SMALL LETTER I,1667,2,"2017,2021",1346,321
+ktm,Latn,ktm_Latn,Kurti,a,Ll,LATIN SMALL LETTER A,1629,2,"2017,2021",1341,288
+ktm,Latn,ktm_Latn,Kurti,n,Ll,LATIN SMALL LETTER N,1560,2,"2017,2021",1280,280
+ktm,Latn,ktm_Latn,Kurti,u,Ll,LATIN SMALL LETTER U,1339,2,"2017,2021",1110,229
+ktm,Latn,ktm_Latn,Kurti,o,Ll,LATIN SMALL LETTER O,1318,2,"2017,2021",1088,230
+ktm,Latn,ktm_Latn,Kurti,t,Ll,LATIN SMALL LETTER T,915,2,"2017,2021",780,135
+ktm,Latn,ktm_Latn,Kurti,d,Ll,LATIN SMALL LETTER D,832,2,"2017,2021",657,175
+ktm,Latn,ktm_Latn,Kurti,s,Ll,LATIN SMALL LETTER S,815,2,"2017,2021",656,159
+ktm,Latn,ktm_Latn,Kurti,p,Ll,LATIN SMALL LETTER P,804,2,"2017,2021",639,165
+ktm,Latn,ktm_Latn,Kurti,r,Ll,LATIN SMALL LETTER R,803,2,"2017,2021",676,127
+ktm,Latn,ktm_Latn,Kurti,h,Ll,LATIN SMALL LETTER H,679,2,"2017,2021",554,125
+ktm,Latn,ktm_Latn,Kurti,l,Ll,LATIN SMALL LETTER L,659,2,"2017,2021",546,113
+ktm,Latn,ktm_Latn,Kurti,k,Ll,LATIN SMALL LETTER K,504,2,"2017,2021",392,112
+ktm,Latn,ktm_Latn,Kurti,m,Ll,LATIN SMALL LETTER M,461,2,"2017,2021",362,99
+ktm,Latn,ktm_Latn,Kurti,y,Ll,LATIN SMALL LETTER Y,356,2,"2017,2021",291,65
+ktm,Latn,ktm_Latn,Kurti,w,Ll,LATIN SMALL LETTER W,318,2,"2017,2021",239,79
+ktm,Latn,ktm_Latn,Kurti,.,Po,FULL STOP,316,2,"2017,2021",269,47
+ktm,Latn,ktm_Latn,Kurti,",",Po,COMMA,187,2,"2017,2021",141,46
+ktm,Latn,ktm_Latn,Kurti,Y,Lu,LATIN CAPITAL LETTER Y,145,2,"2017,2021",122,23
+ktm,Latn,ktm_Latn,Kurti,-,Pd,HYPHEN-MINUS,127,2,"2017,2021",93,34
+ktm,Latn,ktm_Latn,Kurti,I,Lu,LATIN CAPITAL LETTER I,124,2,"2017,2021",98,26
+ktm,Latn,ktm_Latn,Kurti,1,Nd,DIGIT ONE,118,2,"2017,2021",105,13
+ktm,Latn,ktm_Latn,Kurti,g,Ll,LATIN SMALL LETTER G,108,2,"2017,2021",87,21
+ktm,Latn,ktm_Latn,Kurti,L,Lu,LATIN CAPITAL LETTER L,96,2,"2017,2021",91,5
+ktm,Latn,ktm_Latn,Kurti,‐,Pd,HYPHEN,62,1,2017,62,0
+ktm,Latn,ktm_Latn,Kurti,K,Lu,LATIN CAPITAL LETTER K,58,2,"2017,2021",52,6
+ktm,Latn,ktm_Latn,Kurti,2,Nd,DIGIT TWO,57,2,"2017,2021",45,12
+ktm,Latn,ktm_Latn,Kurti,S,Lu,LATIN CAPITAL LETTER S,55,2,"2017,2021",51,4
+ktm,Latn,ktm_Latn,Kurti,T,Lu,LATIN CAPITAL LETTER T,55,2,"2017,2021",52,3
+ktm,Latn,ktm_Latn,Kurti,P,Lu,LATIN CAPITAL LETTER P,54,2,"2017,2021",53,1
+ktm,Latn,ktm_Latn,Kurti,M,Lu,LATIN CAPITAL LETTER M,51,2,"2017,2021",49,2
+ktm,Latn,ktm_Latn,Kurti,N,Lu,LATIN CAPITAL LETTER N,45,2,"2017,2021",41,4
+ktm,Latn,ktm_Latn,Kurti,',Po,APOSTROPHE,44,2,"2017,2021",26,18
+ktm,Latn,ktm_Latn,Kurti,b,Ll,LATIN SMALL LETTER B,44,2,"2017,2021",40,4
+ktm,Latn,ktm_Latn,Kurti,3,Nd,DIGIT THREE,40,2,"2017,2021",37,3
+ktm,Latn,ktm_Latn,Kurti,O,Lu,LATIN CAPITAL LETTER O,38,2,"2017,2021",33,5
+ktm,Latn,ktm_Latn,Kurti,4,Nd,DIGIT FOUR,36,2,"2017,2021",33,3
+ktm,Latn,ktm_Latn,Kurti,G,Lu,LATIN CAPITAL LETTER G,30,2,"2017,2021",28,2
+ktm,Latn,ktm_Latn,Kurti,A,Lu,LATIN CAPITAL LETTER A,29,2,"2017,2021",23,6
+ktm,Latn,ktm_Latn,Kurti,“,Pi,LEFT DOUBLE QUOTATION MARK,27,2,"2017,2021",18,9
+ktm,Latn,ktm_Latn,Kurti,”,Pf,RIGHT DOUBLE QUOTATION MARK,26,2,"2017,2021",18,8
+ktm,Latn,ktm_Latn,Kurti,H,Lu,LATIN CAPITAL LETTER H,26,2,"2017,2021",24,2
+ktm,Latn,ktm_Latn,Kurti,J,Lu,LATIN CAPITAL LETTER J,24,1,2017,24,0
+ktm,Latn,ktm_Latn,Kurti,5,Nd,DIGIT FIVE,21,2,"2017,2021",18,3
+ktm,Latn,ktm_Latn,Kurti,B,Lu,LATIN CAPITAL LETTER B,18,2,"2017,2021",14,4
+ktm,Latn,ktm_Latn,Kurti,8,Nd,DIGIT EIGHT,18,2,"2017,2021",15,3
+ktm,Latn,ktm_Latn,Kurti,6,Nd,DIGIT SIX,18,2,"2017,2021",15,3
+ktm,Latn,ktm_Latn,Kurti,),Pe,RIGHT PARENTHESIS,16,1,2017,16,0
+ktm,Latn,ktm_Latn,Kurti,(,Ps,LEFT PARENTHESIS,16,1,2017,16,0
+ktm,Latn,ktm_Latn,Kurti,7,Nd,DIGIT SEVEN,14,2,"2017,2021",11,3
+ktm,Latn,ktm_Latn,Kurti,0,Nd,DIGIT ZERO,13,2,"2017,2021",11,2
+ktm,Latn,ktm_Latn,Kurti,9,Nd,DIGIT NINE,12,2,"2017,2021",10,2
+ktm,Latn,ktm_Latn,Kurti,!,Po,EXCLAMATION MARK,10,2,"2017,2021",7,3
+ktm,Latn,ktm_Latn,Kurti,’,Pf,RIGHT SINGLE QUOTATION MARK,10,1,2017,10,0
+ktm,Latn,ktm_Latn,Kurti,?,Po,QUESTION MARK,8,2,"2017,2021",7,1
+ktm,Latn,ktm_Latn,Kurti,D,Lu,LATIN CAPITAL LETTER D,6,2,"2017,2021",5,1
+ktm,Latn,ktm_Latn,Kurti,E,Lu,LATIN CAPITAL LETTER E,6,2,"2017,2021",3,3
+ktm,Latn,ktm_Latn,Kurti,f,Ll,LATIN SMALL LETTER F,5,1,2017,5,0
+ktm,Latn,ktm_Latn,Kurti,v,Ll,LATIN SMALL LETTER V,5,1,2017,5,0
+ktm,Latn,ktm_Latn,Kurti,j,Ll,LATIN SMALL LETTER J,4,1,2021,0,4
+ktm,Latn,ktm_Latn,Kurti,‘,Pi,LEFT SINGLE QUOTATION MARK,2,2,"2017,2021",1,1
+ktm,Latn,ktm_Latn,Kurti,U,Lu,LATIN CAPITAL LETTER U,2,1,2017,2,0
+ktm,Latn,ktm_Latn,Kurti,:,Po,COLON,2,2,"2017,2021",1,1
+ktm,Latn,ktm_Latn,Kurti,*,Po,ASTERISK,1,1,2017,1,0
+ktm,Latn,ktm_Latn,Kurti,†,Po,DAGGER,1,1,2017,1,0
+ktm,Latn,ktm_Latn,Kurti,‡,Po,DOUBLE DAGGER,1,1,2017,1,0
+ktm,Latn,ktm_Latn,Kurti,R,Lu,LATIN CAPITAL LETTER R,1,1,2017,1,0

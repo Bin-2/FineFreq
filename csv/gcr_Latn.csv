@@ -1,0 +1,389 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+gcr,Latn,gcr_Latn,Guianese Creole French, ,Zs,SPACE,138877,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",351,4958,4262,2793,19567,73351,4844,16781,3485,8485
+gcr,Latn,gcr_Latn,Guianese Creole French,a,Ll,LATIN SMALL LETTER A,72199,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",132,2311,1853,1510,10482,38759,2695,9491,1499,3467
+gcr,Latn,gcr_Latn,Guianese Creole French,n,Ll,LATIN SMALL LETTER N,63856,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",135,2050,1609,1323,9830,35416,2208,7077,1383,2825
+gcr,Latn,gcr_Latn,Guianese Creole French,i,Ll,LATIN SMALL LETTER I,56743,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",76,1121,1228,1015,8429,33338,1938,6667,1104,1827
+gcr,Latn,gcr_Latn,Guianese Creole French,o,Ll,LATIN SMALL LETTER O,44425,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",121,1629,1375,947,6237,24483,1421,4795,1083,2334
+gcr,Latn,gcr_Latn,Guianese Creole French,é,Ll,LATIN SMALL LETTER E WITH ACUTE,39026,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",92,1644,1246,838,5390,21080,1273,3989,1009,2465
+gcr,Latn,gcr_Latn,Guianese Creole French,r,Ll,LATIN SMALL LETTER R,32893,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",40,815,703,615,4852,18803,1181,4085,649,1150
+gcr,Latn,gcr_Latn,Guianese Creole French,s,Ll,LATIN SMALL LETTER S,30691,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",58,902,653,599,4719,18047,914,2938,628,1233
+gcr,Latn,gcr_Latn,Guianese Creole French,k,Ll,LATIN SMALL LETTER K,30426,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",54,830,808,610,4253,17190,1075,3435,605,1566
+gcr,Latn,gcr_Latn,Guianese Creole French,t,Ll,LATIN SMALL LETTER T,27762,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",62,866,620,495,4324,15803,830,2723,739,1300
+gcr,Latn,gcr_Latn,Guianese Creole French,d,Ll,LATIN SMALL LETTER D,24650,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",24,441,385,383,3653,14316,983,3489,422,554
+gcr,Latn,gcr_Latn,Guianese Creole French,l,Ll,LATIN SMALL LETTER L,24042,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",49,636,510,451,3630,13403,944,3053,642,724
+gcr,Latn,gcr_Latn,Guianese Creole French,p,Ll,LATIN SMALL LETTER P,18536,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",45,719,524,371,2680,10226,572,1813,410,1176
+gcr,Latn,gcr_Latn,Guianese Creole French,u,Ll,LATIN SMALL LETTER U,17461,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",70,933,843,443,2323,8301,570,2048,564,1366
+gcr,Latn,gcr_Latn,Guianese Creole French,m,Ll,LATIN SMALL LETTER M,17359,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",27,529,437,284,2546,10016,558,1836,449,677
+gcr,Latn,gcr_Latn,Guianese Creole French,y,Ll,LATIN SMALL LETTER Y,16619,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",16,567,395,358,2222,9420,609,1837,333,862
+gcr,Latn,gcr_Latn,Guianese Creole French,è,Ll,LATIN SMALL LETTER E WITH GRAVE,14133,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",13,204,326,289,1935,8494,414,1427,296,735
+gcr,Latn,gcr_Latn,Guianese Creole French,e,Ll,LATIN SMALL LETTER E,14057,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",21,357,299,214,2545,6780,567,2286,523,465
+gcr,Latn,gcr_Latn,Guianese Creole French,-,Pd,HYPHEN-MINUS,11272,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",5,158,230,234,1593,6341,417,1713,162,419
+gcr,Latn,gcr_Latn,Guianese Creole French,",",Po,COMMA,8081,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",25,280,173,145,1311,4465,214,732,222,514
+gcr,Latn,gcr_Latn,Guianese Creole French,f,Ll,LATIN SMALL LETTER F,7993,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",19,224,138,158,1098,4479,307,1005,153,412
+gcr,Latn,gcr_Latn,Guianese Creole French,v,Ll,LATIN SMALL LETTER V,7816,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",17,232,350,200,1064,3937,300,1015,173,528
+gcr,Latn,gcr_Latn,Guianese Creole French,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,6918,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,125,147,114,997,3958,238,737,146,456
+gcr,Latn,gcr_Latn,Guianese Creole French,.,Po,FULL STOP,6915,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",22,371,298,119,897,3360,259,940,213,436
+gcr,Latn,gcr_Latn,Guianese Creole French,b,Ll,LATIN SMALL LETTER B,6890,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",7,225,276,165,952,3792,202,698,143,430
+gcr,Latn,gcr_Latn,Guianese Creole French,g,Ll,LATIN SMALL LETTER G,6331,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",13,224,131,119,904,3483,254,859,139,205
+gcr,Latn,gcr_Latn,Guianese Creole French,j,Ll,LATIN SMALL LETTER J,5798,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",8,149,170,121,838,3122,206,752,131,301
+gcr,Latn,gcr_Latn,Guianese Creole French,z,Ll,LATIN SMALL LETTER Z,5548,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",8,167,100,84,897,3186,163,550,120,273
+gcr,Latn,gcr_Latn,Guianese Creole French,w,Ll,LATIN SMALL LETTER W,4948,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",10,183,82,84,725,2654,209,647,141,213
+gcr,Latn,gcr_Latn,Guianese Creole French,h,Ll,LATIN SMALL LETTER H,4396,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",11,122,86,63,500,2031,220,1086,80,197
+gcr,Latn,gcr_Latn,Guianese Creole French,c,Ll,LATIN SMALL LETTER C,4145,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",13,124,99,74,666,1988,160,715,102,204
+gcr,Latn,gcr_Latn,Guianese Creole French,L,Lu,LATIN CAPITAL LETTER L,2744,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",20,159,90,73,527,1315,112,350,69,29
+gcr,Latn,gcr_Latn,Guianese Creole French,A,Lu,LATIN CAPITAL LETTER A,2491,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",35,254,111,35,269,975,133,487,64,128
+gcr,Latn,gcr_Latn,Guianese Creole French,1,Nd,DIGIT ONE,1952,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,43,84,21,166,733,138,528,45,194
+gcr,Latn,gcr_Latn,Guianese Creole French,S,Lu,LATIN CAPITAL LETTER S,1767,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,81,58,23,226,806,91,361,46,74
+gcr,Latn,gcr_Latn,Guianese Creole French,à,Ll,LATIN SMALL LETTER A WITH GRAVE,1604,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",1,0,1,21,236,890,75,356,23,1
+gcr,Latn,gcr_Latn,Guianese Creole French,0,Nd,DIGIT ZERO,1403,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",9,78,28,33,252,723,68,158,23,31
+gcr,Latn,gcr_Latn,Guianese Creole French,),Pe,RIGHT PARENTHESIS,1380,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",5,74,36,18,186,836,29,122,14,60
+gcr,Latn,gcr_Latn,Guianese Creole French,(,Ps,LEFT PARENTHESIS,1367,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",5,70,32,18,187,837,30,122,14,52
+gcr,Latn,gcr_Latn,Guianese Creole French,P,Lu,LATIN CAPITAL LETTER P,1349,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",23,83,67,48,155,576,46,165,50,136
+gcr,Latn,gcr_Latn,Guianese Creole French,M,Lu,LATIN CAPITAL LETTER M,1292,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",5,107,44,29,115,494,42,298,64,94
+gcr,Latn,gcr_Latn,Guianese Creole French,I,Lu,LATIN CAPITAL LETTER I,1277,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",19,166,51,13,79,428,76,340,51,54
+gcr,Latn,gcr_Latn,Guianese Creole French,K,Lu,LATIN CAPITAL LETTER K,1198,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",4,54,55,37,169,489,50,232,24,84
+gcr,Latn,gcr_Latn,Guianese Creole French,2,Nd,DIGIT TWO,1104,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,42,43,15,143,406,67,235,26,125
+gcr,Latn,gcr_Latn,Guianese Creole French,N,Lu,LATIN CAPITAL LETTER N,1004,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",32,250,43,18,98,347,28,93,53,42
+gcr,Latn,gcr_Latn,Guianese Creole French,|,Sm,VERTICAL LINE,985,5,"2019,2020,2021,2022,2023",0,0,0,0,52,727,49,152,5,0
+gcr,Latn,gcr_Latn,Guianese Creole French,D,Lu,LATIN CAPITAL LETTER D,947,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,40,10,17,131,441,46,193,32,36
+gcr,Latn,gcr_Latn,Guianese Creole French,:,Po,COLON,947,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",3,18,67,10,71,272,54,268,60,124
+gcr,Latn,gcr_Latn,Guianese Creole French,R,Lu,LATIN CAPITAL LETTER R,793,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,91,36,20,83,335,25,112,39,50
+gcr,Latn,gcr_Latn,Guianese Creole French,T,Lu,LATIN CAPITAL LETTER T,786,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,56,25,9,72,293,56,175,43,45
+gcr,Latn,gcr_Latn,Guianese Creole French,O,Lu,LATIN CAPITAL LETTER O,781,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",23,112,40,17,93,336,26,76,26,32
+gcr,Latn,gcr_Latn,Guianese Creole French,B,Lu,LATIN CAPITAL LETTER B,748,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,41,61,25,88,230,37,170,56,39
+gcr,Latn,gcr_Latn,Guianese Creole French,J,Lu,LATIN CAPITAL LETTER J,728,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,17,67,19,59,251,17,148,45,104
+gcr,Latn,gcr_Latn,Guianese Creole French,',Po,APOSTROPHE,665,7,"2018,2019,2020,2021,2022,2023,2024",0,0,0,13,106,403,39,81,22,1
+gcr,Latn,gcr_Latn,Guianese Creole French,4,Nd,DIGIT FOUR,626,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,13,24,4,88,252,47,122,19,57
+gcr,Latn,gcr_Latn,Guianese Creole French,3,Nd,DIGIT THREE,617,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,15,24,1,80,282,24,120,24,47
+gcr,Latn,gcr_Latn,Guianese Creole French,5,Nd,DIGIT FIVE,570,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,14,24,6,73,249,29,119,10,44
+gcr,Latn,gcr_Latn,Guianese Creole French,],Pe,RIGHT SQUARE BRACKET,555,7,"2017,2018,2019,2020,2021,2022,2023",0,0,4,13,80,249,49,152,8,0
+gcr,Latn,gcr_Latn,Guianese Creole French,C,Lu,LATIN CAPITAL LETTER C,555,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",4,23,11,12,74,200,39,154,25,13
+gcr,Latn,gcr_Latn,Guianese Creole French,[,Ps,LEFT SQUARE BRACKET,555,7,"2017,2018,2019,2020,2021,2022,2023",0,0,4,13,80,249,49,152,8,0
+gcr,Latn,gcr_Latn,Guianese Creole French,G,Lu,LATIN CAPITAL LETTER G,546,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,70,10,20,88,175,20,111,28,12
+gcr,Latn,gcr_Latn,Guianese Creole French,9,Nd,DIGIT NINE,540,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,17,17,4,63,281,37,79,20,21
+gcr,Latn,gcr_Latn,Guianese Creole French,6,Nd,DIGIT SIX,531,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,19,22,4,75,249,24,91,8,38
+gcr,Latn,gcr_Latn,Guianese Creole French,8,Nd,DIGIT EIGHT,505,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,9,15,6,66,245,33,91,14,26
+gcr,Latn,gcr_Latn,Guianese Creole French,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,494,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,29,22,4,70,313,6,2,7,39
+gcr,Latn,gcr_Latn,Guianese Creole French,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,489,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,32,22,4,70,314,6,2,7,30
+gcr,Latn,gcr_Latn,Guianese Creole French,7,Nd,DIGIT SEVEN,477,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,13,20,6,56,209,24,97,9,43
+gcr,Latn,gcr_Latn,Guianese Creole French,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,474,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,16,28,11,22,187,26,119,11,42
+gcr,Latn,gcr_Latn,Guianese Creole French,E,Lu,LATIN CAPITAL LETTER E,455,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",3,96,15,7,74,167,11,25,46,11
+gcr,Latn,gcr_Latn,Guianese Creole French,V,Lu,LATIN CAPITAL LETTER V,378,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",9,18,5,2,40,179,33,82,4,6
+gcr,Latn,gcr_Latn,Guianese Creole French,x,Ll,LATIN SMALL LETTER X,377,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",1,0,2,3,56,247,8,46,11,3
+gcr,Latn,gcr_Latn,Guianese Creole French,F,Lu,LATIN CAPITAL LETTER F,375,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,19,7,10,77,160,20,57,12,12
+gcr,Latn,gcr_Latn,Guianese Creole French,’,Pf,RIGHT SINGLE QUOTATION MARK,307,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,6,13,2,90,46,22,77,2,48
+gcr,Latn,gcr_Latn,Guianese Creole French,W,Lu,LATIN CAPITAL LETTER W,291,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",13,46,3,10,47,127,5,16,10,14
+gcr,Latn,gcr_Latn,Guianese Creole French,Y,Lu,LATIN CAPITAL LETTER Y,276,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",14,69,18,8,10,56,10,59,11,21
+gcr,Latn,gcr_Latn,Guianese Creole French,H,Lu,LATIN CAPITAL LETTER H,235,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",2,10,2,9,18,97,19,67,9,2
+gcr,Latn,gcr_Latn,Guianese Creole French,;,Po,SEMICOLON,225,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,10,3,4,34,120,4,15,6,28
+gcr,Latn,gcr_Latn,Guianese Creole French,?,Po,QUESTION MARK,221,7,"2016,2017,2018,2019,2020,2023,2024",0,13,58,36,12,15,0,0,24,63
+gcr,Latn,gcr_Latn,Guianese Creole French,q,Ll,LATIN SMALL LETTER Q,215,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",0,1,1,2,53,55,16,73,11,3
+gcr,Latn,gcr_Latn,Guianese Creole French,/,Po,SOLIDUS,167,6,"2016,2017,2018,2019,2020,2021",0,9,4,11,77,64,2,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,!,Po,EXCLAMATION MARK,159,9,"2013,2016,2017,2018,2019,2020,2021,2023,2024",1,55,13,57,2,2,6,0,10,13
+gcr,Latn,gcr_Latn,Guianese Creole French,U,Lu,LATIN CAPITAL LETTER U,151,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",10,30,15,3,17,32,2,10,9,23
+gcr,Latn,gcr_Latn,Guianese Creole French,È,Lu,LATIN CAPITAL LETTER E WITH GRAVE,119,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",2,0,34,11,10,27,2,9,3,21
+gcr,Latn,gcr_Latn,Guianese Creole French,Z,Lu,LATIN CAPITAL LETTER Z,116,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,13,5,3,7,40,7,22,1,17
+gcr,Latn,gcr_Latn,Guianese Creole French,ï,Ll,LATIN SMALL LETTER I WITH DIAERESIS,90,5,"2017,2019,2020,2021,2022",0,0,5,0,1,9,9,66,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,X,Lu,LATIN CAPITAL LETTER X,76,6,"2018,2019,2020,2021,2022,2023",0,0,0,1,11,40,13,10,1,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,63,5,"2013,2016,2019,2020,2022",5,33,0,0,12,5,0,8,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,—,Pd,EM DASH,57,3,"2017,2019,2020",0,0,3,0,7,47,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ò,Lu,LATIN CAPITAL LETTER O WITH GRAVE,56,6,"2016,2017,2019,2020,2022,2024",0,1,5,0,3,34,0,4,0,9
+gcr,Latn,gcr_Latn,Guianese Creole French,Q,Lu,LATIN CAPITAL LETTER Q,55,6,"2018,2019,2020,2021,2022,2023",0,0,0,1,8,13,4,27,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,%,Po,PERCENT SIGN,54,6,"2016,2017,2018,2019,2020,2021",0,4,6,1,15,26,2,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,53,5,"2019,2020,2021,2022,2023",0,0,0,0,2,10,7,33,1,0
+gcr,Latn,gcr_Latn,Guianese Creole French,”,Pf,RIGHT DOUBLE QUOTATION MARK,46,6,"2016,2017,2019,2020,2023,2024",0,2,1,0,4,1,0,0,33,5
+gcr,Latn,gcr_Latn,Guianese Creole French,“,Pi,LEFT DOUBLE QUOTATION MARK,45,6,"2016,2017,2019,2020,2023,2024",0,1,1,0,4,1,0,0,33,5
+gcr,Latn,gcr_Latn,Guianese Creole French,°,So,DEGREE SIGN,44,3,"2016,2019,2020",0,1,0,0,13,30,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,"""",Po,QUOTATION MARK,44,4,"2018,2019,2020,2023",0,0,0,6,9,20,0,0,9,0
+gcr,Latn,gcr_Latn,Guianese Creole French,À,Lu,LATIN CAPITAL LETTER A WITH GRAVE,42,5,"2018,2019,2020,2021,2022",0,0,0,1,9,25,1,6,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,40,4,"2019,2020,2021,2022",0,0,0,0,2,5,3,30,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,–,Pd,EN DASH,34,4,"2016,2019,2020,2023",0,2,0,0,4,27,0,0,1,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,34,6,"2013,2016,2019,2020,2021,2022",1,1,0,0,4,15,1,12,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,33,4,"2019,2020,2022,2023",0,0,0,0,6,4,0,22,1,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ā,Ll,LATIN SMALL LETTER A WITH MACRON,33,2,"2020,2021",0,0,0,0,0,32,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ς,Ll,GREEK SMALL LETTER FINAL SIGMA,30,3,"2019,2020,2021",0,0,0,0,2,27,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ο,Ll,GREEK SMALL LETTER OMICRON,28,3,"2019,2020,2021",0,0,0,0,7,20,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,26,4,"2019,2020,2021,2022",0,0,0,0,2,3,7,14,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,á,Ll,LATIN SMALL LETTER A WITH ACUTE,26,4,"2019,2020,2021,2022",0,0,0,0,2,14,5,5,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,=,Sm,EQUALS SIGN,22,4,"2016,2017,2018,2020",0,1,1,1,0,19,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,í,Ll,LATIN SMALL LETTER I WITH ACUTE,21,3,"2019,2020,2022",0,0,0,0,7,11,0,3,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ν,Ll,GREEK SMALL LETTER NU,20,2,"2019,2020",0,0,0,0,5,15,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,τ,Ll,GREEK SMALL LETTER TAU,20,3,"2019,2020,2021",0,0,0,0,5,14,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,19,3,"2019,2020,2022",0,0,0,0,5,11,0,3,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,κ,Ll,GREEK SMALL LETTER KAPPA,19,3,"2019,2020,2021",0,0,0,0,3,15,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,α,Ll,GREEK SMALL LETTER ALPHA,19,2,"2019,2020",0,0,0,0,5,14,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ρ,Ll,GREEK SMALL LETTER RHO,19,3,"2019,2020,2021",0,0,0,0,3,15,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,19,4,"2019,2020,2021,2022",0,0,0,0,5,7,2,5,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ι,Ll,GREEK SMALL LETTER IOTA,18,2,"2019,2020",0,0,0,0,1,17,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,15,3,"2020,2021,2022",0,0,0,0,0,6,4,5,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ε,Ll,GREEK SMALL LETTER EPSILON,15,2,"2019,2020",0,0,0,0,1,14,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,15,4,"2017,2019,2020,2023",0,0,1,0,5,4,0,0,5,0
+gcr,Latn,gcr_Latn,Guianese Creole French,λ,Ll,GREEK SMALL LETTER LAMDA,14,2,"2019,2020",0,0,0,0,3,11,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ō,Ll,LATIN SMALL LETTER O WITH MACRON,12,3,"2019,2020,2022",0,0,0,0,1,6,0,5,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,σ,Ll,GREEK SMALL LETTER SIGMA,12,1,2020,0,0,0,0,0,12,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ا,Lo,ARABIC LETTER ALEF,11,2,"2019,2020",0,0,0,0,1,10,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,11,5,"2018,2019,2020,2021,2022",0,0,0,1,2,2,5,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ã,Ll,LATIN SMALL LETTER A WITH TILDE,10,4,"2019,2020,2021,2022",0,0,0,0,2,1,1,6,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,π,Ll,GREEK SMALL LETTER PI,10,1,2020,0,0,0,0,0,10,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,œ,Ll,LATIN SMALL LIGATURE OE,10,5,"2019,2020,2021,2022,2024",0,0,0,0,5,1,1,2,0,1
+gcr,Latn,gcr_Latn,Guianese Creole French,−,Sm,MINUS SIGN,10,2,"2019,2020",0,0,0,0,4,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ī,Ll,LATIN SMALL LETTER I WITH MACRON,10,1,2020,0,0,0,0,0,10,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,′,Po,PRIME,10,1,2020,0,0,0,0,0,10,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,+,Sm,PLUS SIGN,10,2,"2019,2020",0,0,0,0,3,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,η,Ll,GREEK SMALL LETTER ETA,9,1,2020,0,0,0,0,0,9,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ό,Ll,GREEK SMALL LETTER OMICRON WITH TONOS,9,2,"2019,2020",0,0,0,0,1,8,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,μ,Ll,GREEK SMALL LETTER MU,9,2,"2019,2020",0,0,0,0,3,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ί,Ll,GREEK SMALL LETTER IOTA WITH TONOS,9,2,"2019,2020",0,0,0,0,2,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ά,Ll,GREEK SMALL LETTER ALPHA WITH TONOS,9,2,"2019,2020",0,0,0,0,2,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,γ,Ll,GREEK SMALL LETTER GAMMA,8,2,"2019,2020",0,0,0,0,1,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,8,3,"2020,2021,2022",0,0,0,0,0,6,1,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ˈ,Lm,MODIFIER LETTER VERTICAL LINE,8,1,2020,0,0,0,0,0,8,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,θ,Ll,GREEK SMALL LETTER THETA,7,2,"2019,2020",0,0,0,0,1,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,а,Ll,CYRILLIC SMALL LETTER A,7,1,2020,0,0,0,0,0,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ل,Lo,ARABIC LETTER LAM,7,2,"2019,2020",0,0,0,0,1,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ि,Mc,DEVANAGARI VOWEL SIGN I,7,1,2020,0,0,0,0,0,7,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,م,Lo,ARABIC LETTER MEEM,6,1,2020,0,0,0,0,0,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ô,Lu,LATIN CAPITAL LETTER O WITH CIRCUMFLEX,6,2,"2013,2016",2,4,0,0,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,φ,Ll,GREEK SMALL LETTER PHI,6,2,"2019,2020",0,0,0,0,1,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,δ,Ll,GREEK SMALL LETTER DELTA,6,1,2020,0,0,0,0,0,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ω,Ll,GREEK SMALL LETTER OMEGA,6,2,"2019,2020",0,0,0,0,2,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,*,Po,ASTERISK,6,3,"2017,2019,2022",0,0,1,0,4,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɪ,Ll,LATIN LETTER SMALL CAPITAL I,6,1,2020,0,0,0,0,0,6,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ı,Ll,LATIN SMALL LETTER DOTLESS I,6,1,2022,0,0,0,0,0,0,0,6,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ö,Lu,LATIN CAPITAL LETTER O WITH DIAERESIS,5,1,2022,0,0,0,0,0,0,0,5,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,×,Sm,MULTIPLICATION SIGN,5,1,2020,0,0,0,0,0,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,с,Ll,CYRILLIC SMALL LETTER ES,5,1,2020,0,0,0,0,0,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɡ,Ll,LATIN SMALL LETTER SCRIPT G,5,2,"2019,2020",0,0,0,0,2,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ṣ,Ll,LATIN SMALL LETTER S WITH DOT BELOW,5,1,2020,0,0,0,0,0,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ś,Lu,LATIN CAPITAL LETTER S WITH ACUTE,5,1,2020,0,0,0,0,0,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,е,Ll,CYRILLIC SMALL LETTER IE,5,1,2020,0,0,0,0,0,5,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ū,Ll,LATIN SMALL LETTER U WITH MACRON,5,2,"2020,2022",0,0,0,0,0,4,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,к,Ll,CYRILLIC SMALL LETTER KA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ر,Lo,ARABIC LETTER REH,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,य,Lo,DEVANAGARI LETTER YA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,्,Mn,DEVANAGARI SIGN VIRAMA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,н,Ll,CYRILLIC SMALL LETTER EN,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ạ,Ll,LATIN SMALL LETTER A WITH DOT BELOW,4,2,"2020,2022",0,0,0,0,0,3,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,و,Lo,ARABIC LETTER WAW,4,2,"2019,2020",0,0,0,0,1,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ṗ,Ll,LATIN SMALL LETTER P WITH DOT ABOVE,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,о,Ll,CYRILLIC SMALL LETTER O,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɑ,Ll,LATIN SMALL LETTER ALPHA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,р,Ll,CYRILLIC SMALL LETTER ER,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɥ,Ll,LATIN SMALL LETTER TURNED H,4,2,"2019,2020",0,0,0,0,2,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ह,Lo,DEVANAGARI LETTER HA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,4,2,"2019,2021",0,0,0,0,3,0,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ē,Ll,LATIN SMALL LETTER E WITH MACRON,4,2,"2019,2020",0,0,0,0,1,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,म,Lo,DEVANAGARI LETTER MA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ा,Mc,DEVANAGARI VOWEL SIGN AA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ल,Lo,DEVANAGARI LETTER LA,4,1,2020,0,0,0,0,0,4,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Đ,Lu,LATIN CAPITAL LETTER D WITH STROKE,4,2,"2020,2022",0,0,0,0,0,3,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ŕ,Ll,LATIN SMALL LETTER R WITH ACUTE,4,2,"2019,2020",0,0,0,0,1,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,я,Ll,CYRILLIC SMALL LETTER YA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ḥ,Ll,LATIN SMALL LETTER H WITH DOT BELOW,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ή,Ll,GREEK SMALL LETTER ETA WITH TONOS,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ṭ,Ll,LATIN SMALL LETTER T WITH DOT BELOW,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,́,Mn,COMBINING ACUTE ACCENT,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,√,Sm,SQUARE ROOT,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ያ,Lo,ETHIOPIC SYLLABLE YAA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ἄ,Ll,GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA,3,2,"2020,2021",0,0,0,0,0,2,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ت,Lo,ARABIC LETTER TEH,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ː,Lm,MODIFIER LETTER TRIANGULAR COLON,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,š,Ll,LATIN SMALL LETTER S WITH CARON,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ā,Lu,LATIN CAPITAL LETTER A WITH MACRON,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ṅ,Ll,LATIN SMALL LETTER N WITH DOT ABOVE,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,្,Mn,KHMER SIGN COENG,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɛ,Ll,LATIN SMALL LETTER OPEN E,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʃ,Ll,LATIN SMALL LETTER ESH,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,‘,Pi,LEFT SINGLE QUOTATION MARK,3,1,2024,0,0,0,0,0,0,0,0,0,3
+gcr,Latn,gcr_Latn,Guianese Creole French,ś,Ll,LATIN SMALL LETTER S WITH ACUTE,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,æ,Ll,LATIN SMALL LETTER AE,3,2,"2019,2020",0,0,0,0,1,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʁ,Ll,LATIN LETTER SMALL CAPITAL INVERTED R,3,2,"2019,2020",0,0,0,0,1,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɔ,Ll,LATIN SMALL LETTER OPEN O,3,2,"2019,2020",0,0,0,0,1,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Π,Lu,GREEK CAPITAL LETTER PI,3,2,"2019,2020",0,0,0,0,1,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,श,Lo,DEVANAGARI LETTER SHA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ष,Lo,DEVANAGARI LETTER SSA,3,1,2020,0,0,0,0,0,3,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,έ,Ll,GREEK SMALL LETTER EPSILON WITH TONOS,3,2,"2019,2020",0,0,0,0,2,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ἀ,Lu,GREEK CAPITAL LETTER ALPHA WITH PSILI,3,2,"2019,2020",0,0,0,0,1,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,@,Po,COMMERCIAL AT,3,2,"2013,2023",1,0,0,0,0,0,0,0,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ق,Lo,ARABIC LETTER QAF,2,2,"2019,2020",0,0,0,0,1,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ክ,Lo,ETHIOPIC SYLLABLE KE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,מ,Lo,HEBREW LETTER MEM,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ዊ,Lo,ETHIOPIC SYLLABLE WI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ו,Lo,HEBREW LETTER VAV,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ύ,Ll,GREEK SMALL LETTER UPSILON WITH TONOS,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ራ,Lo,ETHIOPIC SYLLABLE RAA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ه,Lo,ARABIC LETTER HEH,2,2,"2019,2020",0,0,0,0,1,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ي,Lo,ARABIC LETTER YEH,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,2,2,"2020,2022",0,0,0,0,0,1,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ጵ,Lo,ETHIOPIC SYLLABLE PHE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ዮ,Lo,ETHIOPIC SYLLABLE YO,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ት,Lo,ETHIOPIC SYLLABLE TE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ኢ,Lo,ETHIOPIC SYLLABLE GLOTTAL I,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,خ,Lo,ARABIC LETTER KHAH,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ī,Lu,LATIN CAPITAL LETTER I WITH MACRON,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,2,1,2019,0,0,0,0,2,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,β,Ll,GREEK SMALL LETTER BETA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ἰ,Ll,GREEK SMALL LETTER IOTA WITH PSILI,2,2,"2019,2020",0,0,0,0,1,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ה,Lo,HEBREW LETTER HE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ệ,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW,2,2,"2020,2022",0,0,0,0,0,1,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,↑,Sm,UPWARDS ARROW,2,1,2023,0,0,0,0,0,0,0,0,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,},Pe,RIGHT CURLY BRACKET,2,1,2023,0,0,0,0,0,0,0,0,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,{,Ps,LEFT CURLY BRACKET,2,1,2023,0,0,0,0,0,0,0,0,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,#,Po,NUMBER SIGN,2,1,2023,0,0,0,0,0,0,0,0,2,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ć,Ll,LATIN SMALL LETTER C WITH ACUTE,2,1,2022,0,0,0,0,0,0,0,2,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,€,Sc,EURO SIGN,2,1,2016,0,2,0,0,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ş,Ll,LATIN SMALL LETTER S WITH CEDILLA,2,2,"2021,2022",0,0,0,0,0,0,1,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ầ,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ہ,Lo,ARABIC LETTER HEH GOAL,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,М,Lu,CYRILLIC CAPITAL LETTER EM,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʿ,Lm,MODIFIER LETTER LEFT HALF RING,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ح,Lo,ARABIC LETTER HAH,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ц,Ll,CYRILLIC SMALL LETTER TSE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,т,Ll,CYRILLIC SMALL LETTER TE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ч,Ll,CYRILLIC SMALL LETTER CHE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,и,Ll,CYRILLIC SMALL LETTER I,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ת,Lo,HEBREW LETTER TAV,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,д,Ll,CYRILLIC SMALL LETTER DE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ּ,Mn,HEBREW POINT DAGESH OR MAPIQ,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Æ,Lu,LATIN CAPITAL LETTER AE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ة,Lo,ARABIC LETTER TEH MARBUTA,2,2,"2019,2020",0,0,0,0,1,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,द,Lo,DEVANAGARI LETTER DA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɐ,Ll,LATIN SMALL LETTER TURNED A,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ß,Ll,LATIN SMALL LETTER SHARP S,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,د,Lo,ARABIC LETTER DAL,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,υ,Ll,GREEK SMALL LETTER UPSILON,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ز,Lo,ARABIC LETTER ZAIN,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ش,Lo,ARABIC LETTER SHEEN,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ἴ,Ll,GREEK SMALL LETTER IOTA WITH PSILI AND OXIA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Œ,Lu,LATIN CAPITAL LIGATURE OE,2,2,"2020,2024",0,0,0,0,0,1,0,0,0,1
+gcr,Latn,gcr_Latn,Guianese Creole French,ễ,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,क,Lo,DEVANAGARI LETTER KA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ṃ,Ll,LATIN SMALL LETTER M WITH DOT BELOW,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ῆ,Ll,GREEK SMALL LETTER ETA WITH PERISPOMENI,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,រ,Lo,KHMER LETTER RO,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ា,Mc,KHMER VOWEL SIGN AA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ب,Lo,ARABIC LETTER BEH,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ត,Lo,KHMER LETTER TA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Α,Lu,GREEK CAPITAL LETTER ALPHA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Σ,Lu,GREEK CAPITAL LETTER SIGMA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ə,Ll,LATIN SMALL LETTER SCHWA,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ế,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ŋ,Ll,LATIN SMALL LETTER ENG,2,1,2020,0,0,0,0,0,2,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ō,Lu,LATIN CAPITAL LETTER O WITH MACRON,1,1,2022,0,0,0,0,0,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ج,Lo,ARABIC LETTER JEEM,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,®,So,REGISTERED SIGN,1,1,2023,0,0,0,0,0,0,0,0,1,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ज,Lo,DEVANAGARI LETTER JA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ῦ,Ll,GREEK SMALL LETTER UPSILON WITH PERISPOMENI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ی,Lo,ARABIC LETTER FARSI YEH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Î,Lu,LATIN CAPITAL LETTER I WITH CIRCUMFLEX,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ῳ,Ll,GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ὅ,Lu,GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ὁ,Ll,GREEK SMALL LETTER OMICRON WITH DASIA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,त,Lo,DEVANAGARI LETTER TA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,$,Sc,DOLLAR SIGN,1,1,2018,0,0,0,1,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ः,Mc,DEVANAGARI SIGN VISARGA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ë,Lu,LATIN CAPITAL LETTER E WITH DIAERESIS,1,1,2018,0,0,0,1,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ὐ,Ll,GREEK SMALL LETTER UPSILON WITH PSILI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ê,Lu,LATIN CAPITAL LETTER E WITH CIRCUMFLEX,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ὠ,Lu,GREEK CAPITAL LETTER OMEGA WITH PSILI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,л,Ll,CYRILLIC SMALL LETTER EL,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,й,Ll,CYRILLIC SMALL LETTER SHORT I,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Б,Lu,CYRILLIC CAPITAL LETTER BE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,з,Ll,CYRILLIC SMALL LETTER ZE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,О,Lu,CYRILLIC CAPITAL LETTER O,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,⁄,Sm,FRACTION SLASH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ε,Lu,GREEK CAPITAL LETTER EPSILON,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,阴,Lo,CJK UNIFIED IDEOGRAPH-9634,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,न,Lo,DEVANAGARI LETTER NA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,阳,Lo,CJK UNIFIED IDEOGRAPH-9633,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,प,Lo,DEVANAGARI LETTER PA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,_,Pc,LOW LINE,1,1,2021,0,0,0,0,0,0,1,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,उ,Lo,DEVANAGARI LETTER U,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ķ,Ll,LATIN SMALL LETTER K WITH CEDILLA,1,1,2022,0,0,0,0,0,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ằ,Ll,LATIN SMALL LETTER A WITH BREVE AND GRAVE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,`,Sk,GRAVE ACCENT,1,1,2022,0,0,0,0,0,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ư,Ll,LATIN SMALL LETTER U WITH HORN,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Т,Lu,CYRILLIC CAPITAL LETTER TE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ŏ,Ll,LATIN SMALL LETTER O WITH BREVE,1,1,2022,0,0,0,0,0,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,^,Sk,CIRCUMFLEX ACCENT,1,1,2017,0,0,1,0,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,§,Po,SECTION SIGN,1,1,2017,0,0,1,0,0,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,х,Ll,CYRILLIC SMALL LETTER HA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ё,Ll,CYRILLIC SMALL LETTER IO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ы,Ll,CYRILLIC SMALL LETTER YERU,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,П,Lu,CYRILLIC CAPITAL LETTER PE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ž,Ll,LATIN SMALL LETTER Z WITH CARON,1,1,2022,0,0,0,0,0,0,0,1,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ξ,Ll,GREEK SMALL LETTER XI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ὀ,Lu,GREEK CAPITAL LETTER OMICRON WITH PSILI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ῖ,Ll,GREEK SMALL LETTER IOTA WITH PERISPOMENI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,月,Lo,CJK UNIFIED IDEOGRAPH-6708,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʒ,Ll,LATIN SMALL LETTER EZH,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ὰ,Ll,GREEK SMALL LETTER ALPHA WITH VARIA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,曆,Lo,CJK UNIFIED IDEOGRAPH-66C6,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,陽,Lo,CJK UNIFIED IDEOGRAPH-967D,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,陰,Lo,CJK UNIFIED IDEOGRAPH-9670,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,历,Lo,CJK UNIFIED IDEOGRAPH-5386,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,闰,Lo,CJK UNIFIED IDEOGRAPH-95F0,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ਖ,Lo,GURMUKHI LETTER KHA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʦ,Ll,LATIN SMALL LETTER TS DIGRAPH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,õ,Ll,LATIN SMALL LETTER O WITH TILDE,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ፐ,Lo,ETHIOPIC SYLLABLE PA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ሪ,Lo,ETHIOPIC SYLLABLE RI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ሲ,Lo,ETHIOPIC SYLLABLE SI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ሞ,Lo,ETHIOPIC SYLLABLE MO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ዲ,Lo,ETHIOPIC SYLLABLE DI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,आ,Lo,DEVANAGARI LETTER AA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ላ,Lo,ETHIOPIC SYLLABLE LAA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ङ,Lo,DEVANAGARI LETTER NGA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ዴ,Lo,ETHIOPIC SYLLABLE DEE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ፌ,Lo,ETHIOPIC SYLLABLE FEE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,የ,Lo,ETHIOPIC SYLLABLE YA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,र,Lo,DEVANAGARI LETTER RA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ប,Lo,KHMER LETTER BA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ស,Lo,KHMER LETTER SA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ý,Ll,LATIN SMALL LETTER Y WITH ACUTE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,▪,So,BLACK SMALL SQUARE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʉ,Ll,LATIN SMALL LETTER U BAR,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ɾ,Ll,LATIN SMALL LETTER R WITH FISHHOOK,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ទ,Lo,KHMER LETTER TO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,អ,Lo,KHMER LETTER QA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ង,Lo,KHMER LETTER NGO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Č,Lu,LATIN CAPITAL LETTER C WITH CARON,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,គ,Lo,KHMER LETTER KO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,វ,Lo,KHMER LETTER VO,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ד,Lo,HEBREW LETTER DALET,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ְ,Mn,HEBREW POINT SHEVA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ל,Lo,HEBREW LETTER LAMED,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ብ,Lo,ETHIOPIC SYLLABLE BE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ሊ,Lo,ETHIOPIC SYLLABLE LI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ψ,Ll,GREEK SMALL LETTER PSI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʼ,Lm,MODIFIER LETTER APOSTROPHE,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ῶ,Ll,GREEK SMALL LETTER OMEGA WITH PERISPOMENI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,С,Lu,CYRILLIC CAPITAL LETTER ES,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,К,Lu,CYRILLIC CAPITAL LETTER KA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,̯,Mn,COMBINING INVERTED BREVE BELOW,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ַ,Mn,HEBREW POINT PATAH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,м,Ll,CYRILLIC SMALL LETTER EM,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ʀ,Ll,LATIN LETTER SMALL CAPITAL R,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ੱ,Mn,GURMUKHI ADDAK,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ਿ,Mc,GURMUKHI VOWEL SIGN I,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,у,Ll,CYRILLIC SMALL LETTER U,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ਸ,Lo,GURMUKHI LETTER SA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ж,Ll,CYRILLIC SMALL LETTER ZHE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,å,Ll,LATIN SMALL LETTER A WITH RING ABOVE,1,1,2019,0,0,0,0,1,0,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ן,Lo,HEBREW LETTER FINAL NUN,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,כ,Lo,HEBREW LETTER KAF,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,י,Lo,HEBREW LETTER YOD,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ח,Lo,HEBREW LETTER HET,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ר,Lo,HEBREW LETTER RESH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ז,Lo,HEBREW LETTER ZAYIN,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ş,Lu,LATIN CAPITAL LETTER S WITH CEDILLA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ğ,Ll,LATIN SMALL LETTER G WITH BREVE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ن,Lo,ARABIC LETTER NOON,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ط,Lo,ARABIC LETTER TAH,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,س,Lo,ARABIC LETTER SEEN,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,أ,Lo,ARABIC LETTER ALEF WITH HAMZA ABOVE,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,χ,Ll,GREEK SMALL LETTER CHI,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,Ζ,Lu,GREEK CAPITAL LETTER ZETA,1,1,2020,0,0,0,0,0,1,0,0,0,0
+gcr,Latn,gcr_Latn,Guianese Creole French,ἐ,Ll,GREEK SMALL LETTER EPSILON WITH PSILI,1,1,2020,0,0,0,0,0,1,0,0,0,0

@@ -1,0 +1,17 @@
+{
+  "language_code": "wiu_Latn",
+  "iso_639_3": "wiu",
+  "script": "Latn",
+  "language_name": "Wiru",
+  "total_characters": 80,
+  "total_frequency": 1248667,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:15.387619"
+}

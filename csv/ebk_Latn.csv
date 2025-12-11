@@ -1,0 +1,88 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2021_frequency,year_2022_frequency
+ebk,Latn,ebk_Latn,Eastern Bontok,a,Ll,LATIN SMALL LETTER A,39246,4,"2017,2019,2021,2022",73,19027,18451,1695
+ebk,Latn,ebk_Latn,Eastern Bontok, ,Zs,SPACE,34241,4,"2017,2019,2021,2022",50,16555,16240,1396
+ebk,Latn,ebk_Latn,Eastern Bontok,n,Ll,LATIN SMALL LETTER N,22078,4,"2017,2019,2021,2022",30,10901,10223,924
+ebk,Latn,ebk_Latn,Eastern Bontok,i,Ll,LATIN SMALL LETTER I,10623,4,"2017,2019,2021,2022",18,5073,5104,428
+ebk,Latn,ebk_Latn,Eastern Bontok,u,Ll,LATIN SMALL LETTER U,9160,4,"2017,2019,2021,2022",13,4379,4348,420
+ebk,Latn,ebk_Latn,Eastern Bontok,y,Ll,LATIN SMALL LETTER Y,8363,4,"2017,2019,2021,2022",13,4028,3927,395
+ebk,Latn,ebk_Latn,Eastern Bontok,s,Ll,LATIN SMALL LETTER S,7519,4,"2017,2019,2021,2022",16,3676,3507,320
+ebk,Latn,ebk_Latn,Eastern Bontok,k,Ll,LATIN SMALL LETTER K,6939,4,"2017,2019,2021,2022",14,3290,3348,287
+ebk,Latn,ebk_Latn,Eastern Bontok,m,Ll,LATIN SMALL LETTER M,6472,4,"2017,2019,2021,2022",20,2995,3200,257
+ebk,Latn,ebk_Latn,Eastern Bontok,t,Ll,LATIN SMALL LETTER T,6348,4,"2017,2019,2021,2022",3,3087,3011,247
+ebk,Latn,ebk_Latn,Eastern Bontok,h,Ll,LATIN SMALL LETTER H,5880,4,"2017,2019,2021,2022",15,2883,2707,275
+ebk,Latn,ebk_Latn,Eastern Bontok,o,Ll,LATIN SMALL LETTER O,5583,4,"2017,2019,2021,2022",4,2817,2554,208
+ebk,Latn,ebk_Latn,Eastern Bontok,c,Ll,LATIN SMALL LETTER C,4685,4,"2017,2019,2021,2022",14,2245,2186,240
+ebk,Latn,ebk_Latn,Eastern Bontok,e,Ll,LATIN SMALL LETTER E,4254,4,"2017,2019,2021,2022",4,2187,1913,150
+ebk,Latn,ebk_Latn,Eastern Bontok,p,Ll,LATIN SMALL LETTER P,3825,3,"2019,2021,2022",0,1905,1751,169
+ebk,Latn,ebk_Latn,Eastern Bontok,r,Ll,LATIN SMALL LETTER R,3492,4,"2017,2019,2021,2022",10,1641,1709,132
+ebk,Latn,ebk_Latn,Eastern Bontok,g,Ll,LATIN SMALL LETTER G,3451,4,"2017,2019,2021,2022",5,1566,1701,179
+ebk,Latn,ebk_Latn,Eastern Bontok,l,Ll,LATIN SMALL LETTER L,2838,4,"2017,2019,2021,2022",3,1398,1303,134
+ebk,Latn,ebk_Latn,Eastern Bontok,.,Po,FULL STOP,2054,4,"2017,2019,2021,2022",11,978,964,101
+ebk,Latn,ebk_Latn,Eastern Bontok,-,Pd,HYPHEN-MINUS,1846,4,"2017,2019,2021,2022",1,861,888,96
+ebk,Latn,ebk_Latn,Eastern Bontok,f,Ll,LATIN SMALL LETTER F,1706,4,"2017,2019,2021,2022",3,775,865,63
+ebk,Latn,ebk_Latn,Eastern Bontok,w,Ll,LATIN SMALL LETTER W,1598,4,"2017,2019,2021,2022",6,753,760,79
+ebk,Latn,ebk_Latn,Eastern Bontok,A,Lu,LATIN CAPITAL LETTER A,1516,4,"2017,2019,2021,2022",2,809,665,40
+ebk,Latn,ebk_Latn,Eastern Bontok,d,Ll,LATIN SMALL LETTER D,1511,4,"2017,2019,2021,2022",4,767,683,57
+ebk,Latn,ebk_Latn,Eastern Bontok,1,Nd,DIGIT ONE,1396,3,"2019,2021,2022",0,581,762,53
+ebk,Latn,ebk_Latn,Eastern Bontok,",",Po,COMMA,1215,3,"2019,2021,2022",0,609,575,31
+ebk,Latn,ebk_Latn,Eastern Bontok,N,Lu,LATIN CAPITAL LETTER N,1081,4,"2017,2019,2021,2022",1,570,484,26
+ebk,Latn,ebk_Latn,Eastern Bontok,b,Ll,LATIN SMALL LETTER B,886,3,"2019,2021,2022",0,415,441,30
+ebk,Latn,ebk_Latn,Eastern Bontok,:,Po,COLON,721,3,"2019,2021,2022",0,263,427,31
+ebk,Latn,ebk_Latn,Eastern Bontok,D,Lu,LATIN CAPITAL LETTER D,675,3,"2019,2021,2022",0,364,288,23
+ebk,Latn,ebk_Latn,Eastern Bontok,2,Nd,DIGIT TWO,661,3,"2019,2021,2022",0,278,343,40
+ebk,Latn,ebk_Latn,Eastern Bontok,C,Lu,LATIN CAPITAL LETTER C,620,3,"2019,2021,2022",0,251,354,15
+ebk,Latn,ebk_Latn,Eastern Bontok,J,Lu,LATIN CAPITAL LETTER J,489,3,"2019,2021,2022",0,323,158,8
+ebk,Latn,ebk_Latn,Eastern Bontok,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,489,3,"2019,2021,2022",0,237,238,14
+ebk,Latn,ebk_Latn,Eastern Bontok,3,Nd,DIGIT THREE,370,3,"2019,2021,2022",0,150,212,8
+ebk,Latn,ebk_Latn,Eastern Bontok,M,Lu,LATIN CAPITAL LETTER M,338,4,"2017,2019,2021,2022",3,174,148,13
+ebk,Latn,ebk_Latn,Eastern Bontok,P,Lu,LATIN CAPITAL LETTER P,324,4,"2017,2019,2021,2022",2,139,176,7
+ebk,Latn,ebk_Latn,Eastern Bontok,T,Lu,LATIN CAPITAL LETTER T,314,4,"2017,2019,2021,2022",1,107,197,9
+ebk,Latn,ebk_Latn,Eastern Bontok,4,Nd,DIGIT FOUR,294,3,"2019,2021,2022",0,134,150,10
+ebk,Latn,ebk_Latn,Eastern Bontok,S,Lu,LATIN CAPITAL LETTER S,270,3,"2019,2021,2022",0,150,113,7
+ebk,Latn,ebk_Latn,Eastern Bontok,5,Nd,DIGIT FIVE,269,3,"2019,2021,2022",0,108,152,9
+ebk,Latn,ebk_Latn,Eastern Bontok,6,Nd,DIGIT SIX,264,3,"2019,2021,2022",0,107,135,22
+ebk,Latn,ebk_Latn,Eastern Bontok,K,Lu,LATIN CAPITAL LETTER K,246,4,"2017,2019,2021,2022",1,129,106,10
+ebk,Latn,ebk_Latn,Eastern Bontok,I,Lu,LATIN CAPITAL LETTER I,236,4,"2017,2019,2021,2022",1,124,104,7
+ebk,Latn,ebk_Latn,Eastern Bontok,H,Lu,LATIN CAPITAL LETTER H,217,3,"2019,2021,2022",0,147,67,3
+ebk,Latn,ebk_Latn,Eastern Bontok,8,Nd,DIGIT EIGHT,191,3,"2019,2021,2022",0,98,90,3
+ebk,Latn,ebk_Latn,Eastern Bontok,E,Lu,LATIN CAPITAL LETTER E,191,3,"2019,2021,2022",0,107,80,4
+ebk,Latn,ebk_Latn,Eastern Bontok,0,Nd,DIGIT ZERO,184,3,"2019,2021,2022",0,82,96,6
+ebk,Latn,ebk_Latn,Eastern Bontok,9,Nd,DIGIT NINE,179,3,"2019,2021,2022",0,78,85,16
+ebk,Latn,ebk_Latn,Eastern Bontok,),Pe,RIGHT PARENTHESIS,174,3,"2019,2021,2022",0,77,96,1
+ebk,Latn,ebk_Latn,Eastern Bontok,(,Ps,LEFT PARENTHESIS,174,3,"2019,2021,2022",0,77,96,1
+ebk,Latn,ebk_Latn,Eastern Bontok,7,Nd,DIGIT SEVEN,172,3,"2019,2021,2022",0,76,93,3
+ebk,Latn,ebk_Latn,Eastern Bontok,;,Po,SEMICOLON,164,3,"2019,2021,2022",0,39,118,7
+ebk,Latn,ebk_Latn,Eastern Bontok,L,Lu,LATIN CAPITAL LETTER L,145,4,"2017,2019,2021,2022",1,54,88,2
+ebk,Latn,ebk_Latn,Eastern Bontok,O,Lu,LATIN CAPITAL LETTER O,124,3,"2019,2021,2022",0,78,42,4
+ebk,Latn,ebk_Latn,Eastern Bontok,“,Pi,LEFT DOUBLE QUOTATION MARK,123,3,"2019,2021,2022",0,92,28,3
+ebk,Latn,ebk_Latn,Eastern Bontok,”,Pf,RIGHT DOUBLE QUOTATION MARK,120,3,"2019,2021,2022",0,89,28,3
+ebk,Latn,ebk_Latn,Eastern Bontok,F,Lu,LATIN CAPITAL LETTER F,86,2,"2019,2021",0,50,36,0
+ebk,Latn,ebk_Latn,Eastern Bontok,G,Lu,LATIN CAPITAL LETTER G,82,3,"2019,2021,2022",0,33,42,7
+ebk,Latn,ebk_Latn,Eastern Bontok,*,Po,ASTERISK,71,3,"2019,2021,2022",0,28,36,7
+ebk,Latn,ebk_Latn,Eastern Bontok,R,Lu,LATIN CAPITAL LETTER R,69,3,"2019,2021,2022",0,41,26,2
+ebk,Latn,ebk_Latn,Eastern Bontok,',Po,APOSTROPHE,57,4,"2017,2019,2021,2022",1,30,24,2
+ebk,Latn,ebk_Latn,Eastern Bontok,†,Po,DAGGER,54,3,"2019,2021,2022",0,21,28,5
+ebk,Latn,ebk_Latn,Eastern Bontok,U,Lu,LATIN CAPITAL LETTER U,43,3,"2019,2021,2022",0,26,13,4
+ebk,Latn,ebk_Latn,Eastern Bontok,B,Lu,LATIN CAPITAL LETTER B,41,3,"2019,2021,2022",0,24,12,5
+ebk,Latn,ebk_Latn,Eastern Bontok,‡,Po,DOUBLE DAGGER,39,3,"2019,2021,2022",0,15,20,4
+ebk,Latn,ebk_Latn,Eastern Bontok,á,Ll,LATIN SMALL LETTER A WITH ACUTE,39,3,"2019,2021,2022",0,14,20,5
+ebk,Latn,ebk_Latn,Eastern Bontok,!,Po,EXCLAMATION MARK,37,3,"2019,2021,2022",0,20,14,3
+ebk,Latn,ebk_Latn,Eastern Bontok,?,Po,QUESTION MARK,35,2,"2019,2021",0,24,11,0
+ebk,Latn,ebk_Latn,Eastern Bontok,§,Po,SECTION SIGN,28,3,"2019,2021,2022",0,9,15,4
+ebk,Latn,ebk_Latn,Eastern Bontok,v,Ll,LATIN SMALL LETTER V,26,3,"2019,2021,2022",0,17,5,4
+ebk,Latn,ebk_Latn,Eastern Bontok,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,25,3,"2019,2021,2022",0,12,11,2
+ebk,Latn,ebk_Latn,Eastern Bontok,W,Lu,LATIN CAPITAL LETTER W,23,3,"2019,2021,2022",0,17,5,1
+ebk,Latn,ebk_Latn,Eastern Bontok,Y,Lu,LATIN CAPITAL LETTER Y,22,3,"2017,2019,2021",1,10,11,0
+ebk,Latn,ebk_Latn,Eastern Bontok,z,Ll,LATIN SMALL LETTER Z,15,1,2019,0,15,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,#,Po,NUMBER SIGN,10,1,2019,0,10,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,’,Pf,RIGHT SINGLE QUOTATION MARK,7,1,2019,0,7,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,‘,Pi,LEFT SINGLE QUOTATION MARK,7,1,2019,0,7,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,+,Sm,PLUS SIGN,7,1,2019,0,7,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,é,Ll,LATIN SMALL LETTER E WITH ACUTE,6,2,"2019,2021",0,4,2,0
+ebk,Latn,ebk_Latn,Eastern Bontok,Z,Lu,LATIN CAPITAL LETTER Z,4,1,2019,0,4,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,í,Ll,LATIN SMALL LETTER I WITH ACUTE,1,1,2019,0,1,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,Ӡ,Lu,CYRILLIC CAPITAL LETTER ABKHASIAN DZE,1,1,2019,0,1,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,[,Ps,LEFT SQUARE BRACKET,1,1,2019,0,1,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,],Pe,RIGHT SQUARE BRACKET,1,1,2019,0,1,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,x,Ll,LATIN SMALL LETTER X,1,1,2019,0,1,0,0
+ebk,Latn,ebk_Latn,Eastern Bontok,j,Ll,LATIN SMALL LETTER J,1,1,2021,0,0,1,0

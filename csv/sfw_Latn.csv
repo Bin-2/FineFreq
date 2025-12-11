@@ -1,0 +1,93 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2020_frequency,year_2021_frequency
+sfw,Latn,sfw_Latn,Sehwi, ,Zs,SPACE,5629,2,"2020,2021",5160,469
+sfw,Latn,sfw_Latn,Sehwi,a,Ll,LATIN SMALL LETTER A,2815,2,"2020,2021",2591,224
+sfw,Latn,sfw_Latn,Sehwi,e,Ll,LATIN SMALL LETTER E,2557,2,"2020,2021",2313,244
+sfw,Latn,sfw_Latn,Sehwi,n,Ll,LATIN SMALL LETTER N,1903,2,"2020,2021",1756,147
+sfw,Latn,sfw_Latn,Sehwi,ɛ,Ll,LATIN SMALL LETTER OPEN E,1584,2,"2020,2021",1492,92
+sfw,Latn,sfw_Latn,Sehwi,o,Ll,LATIN SMALL LETTER O,1328,2,"2020,2021",1149,179
+sfw,Latn,sfw_Latn,Sehwi,y,Ll,LATIN SMALL LETTER Y,1199,2,"2020,2021",1140,59
+sfw,Latn,sfw_Latn,Sehwi,i,Ll,LATIN SMALL LETTER I,1159,2,"2020,2021",1072,87
+sfw,Latn,sfw_Latn,Sehwi,ɔ,Ll,LATIN SMALL LETTER OPEN O,1144,2,"2020,2021",1069,75
+sfw,Latn,sfw_Latn,Sehwi,b,Ll,LATIN SMALL LETTER B,982,2,"2020,2021",894,88
+sfw,Latn,sfw_Latn,Sehwi,w,Ll,LATIN SMALL LETTER W,773,2,"2020,2021",686,87
+sfw,Latn,sfw_Latn,Sehwi,m,Ll,LATIN SMALL LETTER M,745,2,"2020,2021",698,47
+sfw,Latn,sfw_Latn,Sehwi,s,Ll,LATIN SMALL LETTER S,732,2,"2020,2021",657,75
+sfw,Latn,sfw_Latn,Sehwi,k,Ll,LATIN SMALL LETTER K,718,2,"2020,2021",667,51
+sfw,Latn,sfw_Latn,Sehwi,u,Ll,LATIN SMALL LETTER U,651,2,"2020,2021",574,77
+sfw,Latn,sfw_Latn,Sehwi,r,Ll,LATIN SMALL LETTER R,620,2,"2020,2021",559,61
+sfw,Latn,sfw_Latn,Sehwi,l,Ll,LATIN SMALL LETTER L,523,2,"2020,2021",427,96
+sfw,Latn,sfw_Latn,Sehwi,t,Ll,LATIN SMALL LETTER T,483,2,"2020,2021",447,36
+sfw,Latn,sfw_Latn,Sehwi,.,Po,FULL STOP,402,2,"2020,2021",350,52
+sfw,Latn,sfw_Latn,Sehwi,h,Ll,LATIN SMALL LETTER H,400,2,"2020,2021",365,35
+sfw,Latn,sfw_Latn,Sehwi,d,Ll,LATIN SMALL LETTER D,381,2,"2020,2021",343,38
+sfw,Latn,sfw_Latn,Sehwi,",",Po,COMMA,308,2,"2020,2021",274,34
+sfw,Latn,sfw_Latn,Sehwi,f,Ll,LATIN SMALL LETTER F,299,2,"2020,2021",275,24
+sfw,Latn,sfw_Latn,Sehwi,g,Ll,LATIN SMALL LETTER G,258,2,"2020,2021",248,10
+sfw,Latn,sfw_Latn,Sehwi,N,Lu,LATIN CAPITAL LETTER N,247,2,"2020,2021",237,10
+sfw,Latn,sfw_Latn,Sehwi,1,Nd,DIGIT ONE,223,2,"2020,2021",196,27
+sfw,Latn,sfw_Latn,Sehwi,Y,Lu,LATIN CAPITAL LETTER Y,219,2,"2020,2021",177,42
+sfw,Latn,sfw_Latn,Sehwi,p,Ll,LATIN SMALL LETTER P,184,1,2020,184,0
+sfw,Latn,sfw_Latn,Sehwi,A,Lu,LATIN CAPITAL LETTER A,172,2,"2020,2021",143,29
+sfw,Latn,sfw_Latn,Sehwi,:,Po,COLON,141,2,"2020,2021",135,6
+sfw,Latn,sfw_Latn,Sehwi,2,Nd,DIGIT TWO,136,2,"2020,2021",112,24
+sfw,Latn,sfw_Latn,Sehwi,B,Lu,LATIN CAPITAL LETTER B,120,2,"2020,2021",109,11
+sfw,Latn,sfw_Latn,Sehwi,S,Lu,LATIN CAPITAL LETTER S,105,2,"2020,2021",91,14
+sfw,Latn,sfw_Latn,Sehwi,z,Ll,LATIN SMALL LETTER Z,105,2,"2020,2021",97,8
+sfw,Latn,sfw_Latn,Sehwi,K,Lu,LATIN CAPITAL LETTER K,103,2,"2020,2021",95,8
+sfw,Latn,sfw_Latn,Sehwi,3,Nd,DIGIT THREE,96,2,"2020,2021",84,12
+sfw,Latn,sfw_Latn,Sehwi,4,Nd,DIGIT FOUR,83,2,"2020,2021",76,7
+sfw,Latn,sfw_Latn,Sehwi,Ɔ,Lu,LATIN CAPITAL LETTER OPEN O,71,2,"2020,2021",69,2
+sfw,Latn,sfw_Latn,Sehwi,E,Lu,LATIN CAPITAL LETTER E,69,2,"2020,2021",62,7
+sfw,Latn,sfw_Latn,Sehwi,?,Po,QUESTION MARK,63,1,2020,63,0
+sfw,Latn,sfw_Latn,Sehwi,0,Nd,DIGIT ZERO,62,2,"2020,2021",59,3
+sfw,Latn,sfw_Latn,Sehwi,;,Po,SEMICOLON,60,2,"2020,2021",52,8
+sfw,Latn,sfw_Latn,Sehwi,ẽ,Ll,LATIN SMALL LETTER E WITH TILDE,59,1,2020,59,0
+sfw,Latn,sfw_Latn,Sehwi,v,Ll,LATIN SMALL LETTER V,57,1,2020,57,0
+sfw,Latn,sfw_Latn,Sehwi,/,Po,SOLIDUS,56,1,2020,56,0
+sfw,Latn,sfw_Latn,Sehwi,(,Ps,LEFT PARENTHESIS,50,2,"2020,2021",46,4
+sfw,Latn,sfw_Latn,Sehwi,),Pe,RIGHT PARENTHESIS,50,2,"2020,2021",46,4
+sfw,Latn,sfw_Latn,Sehwi,M,Lu,LATIN CAPITAL LETTER M,49,2,"2020,2021",41,8
+sfw,Latn,sfw_Latn,Sehwi,7,Nd,DIGIT SEVEN,47,2,"2020,2021",42,5
+sfw,Latn,sfw_Latn,Sehwi,5,Nd,DIGIT FIVE,44,2,"2020,2021",40,4
+sfw,Latn,sfw_Latn,Sehwi,—,Pd,EM DASH,44,1,2020,44,0
+sfw,Latn,sfw_Latn,Sehwi,D,Lu,LATIN CAPITAL LETTER D,43,2,"2020,2021",34,9
+sfw,Latn,sfw_Latn,Sehwi,W,Lu,LATIN CAPITAL LETTER W,42,2,"2020,2021",40,2
+sfw,Latn,sfw_Latn,Sehwi,8,Nd,DIGIT EIGHT,40,2,"2020,2021",35,5
+sfw,Latn,sfw_Latn,Sehwi,9,Nd,DIGIT NINE,38,2,"2020,2021",35,3
+sfw,Latn,sfw_Latn,Sehwi,é,Ll,LATIN SMALL LETTER E WITH ACUTE,38,2,"2020,2021",35,3
+sfw,Latn,sfw_Latn,Sehwi,6,Nd,DIGIT SIX,35,2,"2020,2021",33,2
+sfw,Latn,sfw_Latn,Sehwi,-,Pd,HYPHEN-MINUS,35,2,"2020,2021",30,5
+sfw,Latn,sfw_Latn,Sehwi,õ,Ll,LATIN SMALL LETTER O WITH TILDE,33,1,2020,33,0
+sfw,Latn,sfw_Latn,Sehwi,O,Lu,LATIN CAPITAL LETTER O,32,2,"2020,2021",29,3
+sfw,Latn,sfw_Latn,Sehwi,I,Lu,LATIN CAPITAL LETTER I,30,2,"2020,2021",28,2
+sfw,Latn,sfw_Latn,Sehwi,T,Lu,LATIN CAPITAL LETTER T,30,2,"2020,2021",27,3
+sfw,Latn,sfw_Latn,Sehwi,ã,Ll,LATIN SMALL LETTER A WITH TILDE,29,1,2020,29,0
+sfw,Latn,sfw_Latn,Sehwi,á,Ll,LATIN SMALL LETTER A WITH ACUTE,24,1,2020,24,0
+sfw,Latn,sfw_Latn,Sehwi,H,Lu,LATIN CAPITAL LETTER H,23,2,"2020,2021",19,4
+sfw,Latn,sfw_Latn,Sehwi,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,21,2,"2020,2021",20,1
+sfw,Latn,sfw_Latn,Sehwi,’,Pf,RIGHT SINGLE QUOTATION MARK,21,2,"2020,2021",20,1
+sfw,Latn,sfw_Latn,Sehwi,“,Pi,LEFT DOUBLE QUOTATION MARK,21,2,"2020,2021",19,2
+sfw,Latn,sfw_Latn,Sehwi,”,Pf,RIGHT DOUBLE QUOTATION MARK,21,2,"2020,2021",19,2
+sfw,Latn,sfw_Latn,Sehwi,P,Lu,LATIN CAPITAL LETTER P,19,2,"2020,2021",17,2
+sfw,Latn,sfw_Latn,Sehwi,c,Ll,LATIN SMALL LETTER C,19,1,2020,19,0
+sfw,Latn,sfw_Latn,Sehwi,U,Lu,LATIN CAPITAL LETTER U,17,2,"2020,2021",15,2
+sfw,Latn,sfw_Latn,Sehwi,_,Pc,LOW LINE,15,1,2020,15,0
+sfw,Latn,sfw_Latn,Sehwi,R,Lu,LATIN CAPITAL LETTER R,15,2,"2020,2021",8,7
+sfw,Latn,sfw_Latn,Sehwi,́,Mn,COMBINING ACUTE ACCENT,14,1,2020,14,0
+sfw,Latn,sfw_Latn,Sehwi,G,Lu,LATIN CAPITAL LETTER G,14,1,2020,14,0
+sfw,Latn,sfw_Latn,Sehwi,V,Lu,LATIN CAPITAL LETTER V,13,1,2020,13,0
+sfw,Latn,sfw_Latn,Sehwi,L,Lu,LATIN CAPITAL LETTER L,13,2,"2020,2021",9,4
+sfw,Latn,sfw_Latn,Sehwi,!,Po,EXCLAMATION MARK,11,1,2020,11,0
+sfw,Latn,sfw_Latn,Sehwi,F,Lu,LATIN CAPITAL LETTER F,9,1,2020,9,0
+sfw,Latn,sfw_Latn,Sehwi,ũ,Ll,LATIN SMALL LETTER U WITH TILDE,8,1,2020,8,0
+sfw,Latn,sfw_Latn,Sehwi,j,Ll,LATIN SMALL LETTER J,7,1,2020,7,0
+sfw,Latn,sfw_Latn,Sehwi,#,Po,NUMBER SIGN,7,1,2021,0,7
+sfw,Latn,sfw_Latn,Sehwi,Ẽ,Lu,LATIN CAPITAL LETTER E WITH TILDE,4,1,2020,4,0
+sfw,Latn,sfw_Latn,Sehwi,ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,4,1,2020,4,0
+sfw,Latn,sfw_Latn,Sehwi,J,Lu,LATIN CAPITAL LETTER J,2,1,2020,2,0
+sfw,Latn,sfw_Latn,Sehwi,è,Ll,LATIN SMALL LETTER E WITH GRAVE,2,1,2020,2,0
+sfw,Latn,sfw_Latn,Sehwi,x,Ll,LATIN SMALL LETTER X,2,1,2020,2,0
+sfw,Latn,sfw_Latn,Sehwi,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2020,1,0
+sfw,Latn,sfw_Latn,Sehwi,C,Lu,LATIN CAPITAL LETTER C,1,1,2020,1,0
+sfw,Latn,sfw_Latn,Sehwi,q,Ll,LATIN SMALL LETTER Q,1,1,2020,1,0
+sfw,Latn,sfw_Latn,Sehwi,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1,1,2020,1,0

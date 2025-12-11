@@ -1,0 +1,16 @@
+{
+  "language_code": "bzh_Latn",
+  "iso_639_3": "bzh",
+  "script": "Latn",
+  "language_name": "Mapos Buang",
+  "total_characters": 95,
+  "total_frequency": 2131828,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:49.899736"
+}

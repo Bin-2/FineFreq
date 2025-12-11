@@ -1,0 +1,21 @@
+{
+  "language_code": "ewo_Latn",
+  "iso_639_3": "ewo",
+  "script": "Latn",
+  "language_name": "Ewondo",
+  "total_characters": 178,
+  "total_frequency": 285122,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:53.246397"
+}

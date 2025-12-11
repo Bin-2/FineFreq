@@ -1,0 +1,88 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2020_frequency
+bom,Latn,bom_Latn,Berom, ,Zs,SPACE,1297,3,"2017,2019,2020",366,834,97
+bom,Latn,bom_Latn,Berom,a,Ll,LATIN SMALL LETTER A,542,3,"2017,2019,2020",139,362,41
+bom,Latn,bom_Latn,Berom,n,Ll,LATIN SMALL LETTER N,435,3,"2017,2019,2020",122,290,23
+bom,Latn,bom_Latn,Berom,e,Ll,LATIN SMALL LETTER E,382,3,"2017,2019,2020",99,233,50
+bom,Latn,bom_Latn,Berom,y,Ll,LATIN SMALL LETTER Y,262,3,"2017,2019,2020",68,179,15
+bom,Latn,bom_Latn,Berom,g,Ll,LATIN SMALL LETTER G,214,3,"2017,2019,2020",70,131,13
+bom,Latn,bom_Latn,Berom,i,Ll,LATIN SMALL LETTER I,191,3,"2017,2019,2020",70,114,7
+bom,Latn,bom_Latn,Berom,o,Ll,LATIN SMALL LETTER O,179,3,"2017,2019,2020",52,107,20
+bom,Latn,bom_Latn,Berom,t,Ll,LATIN SMALL LETTER T,146,3,"2017,2019,2020",40,89,17
+bom,Latn,bom_Latn,Berom,w,Ll,LATIN SMALL LETTER W,139,3,"2017,2019,2020",38,81,20
+bom,Latn,bom_Latn,Berom,r,Ll,LATIN SMALL LETTER R,126,3,"2017,2019,2020",22,92,12
+bom,Latn,bom_Latn,Berom,s,Ll,LATIN SMALL LETTER S,124,3,"2017,2019,2020",39,74,11
+bom,Latn,bom_Latn,Berom,ɛ,Ll,LATIN SMALL LETTER OPEN E,113,2,"2017,2019",39,74,0
+bom,Latn,bom_Latn,Berom,",",Po,COMMA,113,3,"2017,2019,2020",22,86,5
+bom,Latn,bom_Latn,Berom,k,Ll,LATIN SMALL LETTER K,112,3,"2017,2019,2020",33,72,7
+bom,Latn,bom_Latn,Berom,m,Ll,LATIN SMALL LETTER M,98,3,"2017,2019,2020",43,38,17
+bom,Latn,bom_Latn,Berom,d,Ll,LATIN SMALL LETTER D,96,3,"2017,2019,2020",40,53,3
+bom,Latn,bom_Latn,Berom,h,Ll,LATIN SMALL LETTER H,83,3,"2017,2019,2020",19,54,10
+bom,Latn,bom_Latn,Berom,ɔ,Ll,LATIN SMALL LETTER OPEN O,77,2,"2017,2019",23,54,0
+bom,Latn,bom_Latn,Berom,.,Po,FULL STOP,74,3,"2017,2019,2020",16,51,7
+bom,Latn,bom_Latn,Berom,b,Ll,LATIN SMALL LETTER B,66,3,"2017,2019,2020",13,44,9
+bom,Latn,bom_Latn,Berom,l,Ll,LATIN SMALL LETTER L,65,3,"2017,2019,2020",18,39,8
+bom,Latn,bom_Latn,Berom,u,Ll,LATIN SMALL LETTER U,63,3,"2017,2019,2020",12,41,10
+bom,Latn,bom_Latn,Berom,p,Ll,LATIN SMALL LETTER P,52,3,"2017,2019,2020",12,38,2
+bom,Latn,bom_Latn,Berom,é,Ll,LATIN SMALL LETTER E WITH ACUTE,42,2,"2017,2019",10,32,0
+bom,Latn,bom_Latn,Berom,D,Lu,LATIN CAPITAL LETTER D,34,3,"2017,2019,2020",10,19,5
+bom,Latn,bom_Latn,Berom,j,Ll,LATIN SMALL LETTER J,33,3,"2017,2019,2020",12,18,3
+bom,Latn,bom_Latn,Berom,1,Nd,DIGIT ONE,30,2,"2017,2019",12,18,0
+bom,Latn,bom_Latn,Berom,́,Mn,COMBINING ACUTE ACCENT,29,2,"2017,2019",4,25,0
+bom,Latn,bom_Latn,Berom,v,Ll,LATIN SMALL LETTER V,24,3,"2017,2019,2020",11,9,4
+bom,Latn,bom_Latn,Berom,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,21,2,"2017,2019",7,14,0
+bom,Latn,bom_Latn,Berom,K,Lu,LATIN CAPITAL LETTER K,21,3,"2017,2019,2020",2,18,1
+bom,Latn,bom_Latn,Berom,c,Ll,LATIN SMALL LETTER C,18,3,"2017,2019,2020",8,9,1
+bom,Latn,bom_Latn,Berom,T,Lu,LATIN CAPITAL LETTER T,15,3,"2017,2019,2020",2,12,1
+bom,Latn,bom_Latn,Berom,A,Lu,LATIN CAPITAL LETTER A,15,3,"2017,2019,2020",1,13,1
+bom,Latn,bom_Latn,Berom,2,Nd,DIGIT TWO,14,2,"2017,2019",1,13,0
+bom,Latn,bom_Latn,Berom,̀,Mn,COMBINING GRAVE ACCENT,14,2,"2017,2019",10,4,0
+bom,Latn,bom_Latn,Berom,”,Pf,RIGHT DOUBLE QUOTATION MARK,12,1,2019,0,12,0
+bom,Latn,bom_Latn,Berom,“,Pi,LEFT DOUBLE QUOTATION MARK,12,1,2019,0,12,0
+bom,Latn,bom_Latn,Berom,̂,Mn,COMBINING CIRCUMFLEX ACCENT,11,2,"2017,2019",3,8,0
+bom,Latn,bom_Latn,Berom,è,Ll,LATIN SMALL LETTER E WITH GRAVE,11,2,"2017,2019",1,10,0
+bom,Latn,bom_Latn,Berom,à,Ll,LATIN SMALL LETTER A WITH GRAVE,11,2,"2017,2019",1,10,0
+bom,Latn,bom_Latn,Berom,:,Po,COLON,10,2,"2017,2019",3,7,0
+bom,Latn,bom_Latn,Berom,N,Lu,LATIN CAPITAL LETTER N,9,2,"2019,2020",0,8,1
+bom,Latn,bom_Latn,Berom,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,8,2,"2017,2019",4,4,0
+bom,Latn,bom_Latn,Berom,Y,Lu,LATIN CAPITAL LETTER Y,8,1,2017,8,0,0
+bom,Latn,bom_Latn,Berom,E,Lu,LATIN CAPITAL LETTER E,7,3,"2017,2019,2020",2,3,2
+bom,Latn,bom_Latn,Berom,ā,Ll,LATIN SMALL LETTER A WITH MACRON,6,2,"2017,2019",1,5,0
+bom,Latn,bom_Latn,Berom,3,Nd,DIGIT THREE,6,2,"2017,2019",1,5,0
+bom,Latn,bom_Latn,Berom,R,Lu,LATIN CAPITAL LETTER R,6,2,"2017,2020",5,0,1
+bom,Latn,bom_Latn,Berom,G,Lu,LATIN CAPITAL LETTER G,5,2,"2017,2019",2,3,0
+bom,Latn,bom_Latn,Berom,5,Nd,DIGIT FIVE,5,2,"2017,2019",1,4,0
+bom,Latn,bom_Latn,Berom,B,Lu,LATIN CAPITAL LETTER B,5,3,"2017,2019,2020",2,1,2
+bom,Latn,bom_Latn,Berom,ē,Ll,LATIN SMALL LETTER E WITH MACRON,5,1,2017,5,0,0
+bom,Latn,bom_Latn,Berom,á,Ll,LATIN SMALL LETTER A WITH ACUTE,5,1,2017,5,0,0
+bom,Latn,bom_Latn,Berom,8,Nd,DIGIT EIGHT,5,2,"2017,2019",2,3,0
+bom,Latn,bom_Latn,Berom,0,Nd,DIGIT ZERO,5,2,"2017,2019",2,3,0
+bom,Latn,bom_Latn,Berom,6,Nd,DIGIT SIX,5,2,"2017,2019",2,3,0
+bom,Latn,bom_Latn,Berom,7,Nd,DIGIT SEVEN,4,2,"2017,2019",1,3,0
+bom,Latn,bom_Latn,Berom,M,Lu,LATIN CAPITAL LETTER M,4,3,"2017,2019,2020",1,1,2
+bom,Latn,bom_Latn,Berom,ī,Ll,LATIN SMALL LETTER I WITH MACRON,4,1,2019,0,4,0
+bom,Latn,bom_Latn,Berom,z,Ll,LATIN SMALL LETTER Z,4,1,2019,0,4,0
+bom,Latn,bom_Latn,Berom,!,Po,EXCLAMATION MARK,4,3,"2017,2019,2020",2,1,1
+bom,Latn,bom_Latn,Berom,4,Nd,DIGIT FOUR,4,2,"2017,2019",1,3,0
+bom,Latn,bom_Latn,Berom,f,Ll,LATIN SMALL LETTER F,4,3,"2017,2019,2020",1,2,1
+bom,Latn,bom_Latn,Berom,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,3,1,2019,0,3,0
+bom,Latn,bom_Latn,Berom,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,3,1,2017,3,0,0
+bom,Latn,bom_Latn,Berom,9,Nd,DIGIT NINE,3,1,2019,0,3,0
+bom,Latn,bom_Latn,Berom,ě,Ll,LATIN SMALL LETTER E WITH CARON,3,1,2019,0,3,0
+bom,Latn,bom_Latn,Berom,̄,Mn,COMBINING MACRON,3,2,"2017,2019",2,1,0
+bom,Latn,bom_Latn,Berom,J,Lu,LATIN CAPITAL LETTER J,3,2,"2017,2019",1,2,0
+bom,Latn,bom_Latn,Berom,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,2,1,2019,0,2,0
+bom,Latn,bom_Latn,Berom,#,Po,NUMBER SIGN,2,1,2019,0,2,0
+bom,Latn,bom_Latn,Berom,L,Lu,LATIN CAPITAL LETTER L,2,1,2019,0,2,0
+bom,Latn,bom_Latn,Berom,S,Lu,LATIN CAPITAL LETTER S,2,1,2017,2,0,0
+bom,Latn,bom_Latn,Berom,I,Lu,LATIN CAPITAL LETTER I,1,1,2019,0,1,0
+bom,Latn,bom_Latn,Berom,;,Po,SEMICOLON,1,1,2019,0,1,0
+bom,Latn,bom_Latn,Berom,x,Ll,LATIN SMALL LETTER X,1,1,2020,0,0,1
+bom,Latn,bom_Latn,Berom,V,Lu,LATIN CAPITAL LETTER V,1,1,2019,0,1,0
+bom,Latn,bom_Latn,Berom,P,Lu,LATIN CAPITAL LETTER P,1,1,2019,0,1,0
+bom,Latn,bom_Latn,Berom,O,Lu,LATIN CAPITAL LETTER O,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,(,Ps,LEFT PARENTHESIS,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,),Pe,RIGHT PARENTHESIS,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,-,Pd,HYPHEN-MINUS,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,H,Lu,LATIN CAPITAL LETTER H,1,1,2017,1,0,0
+bom,Latn,bom_Latn,Berom,',Po,APOSTROPHE,1,1,2020,0,0,1

@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2024_frequency
+bvd,Latn,bvd_Latn,Baeggu,a,Ll,LATIN SMALL LETTER A,129493,3,"2017,2019,2024",3231,438,125824
+bvd,Latn,bvd_Latn,Baeggu, ,Zs,SPACE,126158,3,"2017,2019,2024",2849,559,122750
+bvd,Latn,bvd_Latn,Baeggu,i,Ll,LATIN SMALL LETTER I,53060,3,"2017,2019,2024",1261,250,51549
+bvd,Latn,bvd_Latn,Baeggu,n,Ll,LATIN SMALL LETTER N,38709,3,"2017,2019,2024",729,154,37826
+bvd,Latn,bvd_Latn,Baeggu,o,Ll,LATIN SMALL LETTER O,33672,3,"2017,2019,2024",1148,173,32351
+bvd,Latn,bvd_Latn,Baeggu,u,Ll,LATIN SMALL LETTER U,29666,3,"2017,2019,2024",469,154,29043
+bvd,Latn,bvd_Latn,Baeggu,e,Ll,LATIN SMALL LETTER E,24314,3,"2017,2019,2024",596,150,23568
+bvd,Latn,bvd_Latn,Baeggu,l,Ll,LATIN SMALL LETTER L,23705,3,"2017,2019,2024",435,119,23151
+bvd,Latn,bvd_Latn,Baeggu,k,Ll,LATIN SMALL LETTER K,21630,3,"2017,2019,2024",283,95,21252
+bvd,Latn,bvd_Latn,Baeggu,s,Ll,LATIN SMALL LETTER S,16357,3,"2017,2019,2024",378,112,15867
+bvd,Latn,bvd_Latn,Baeggu,m,Ll,LATIN SMALL LETTER M,15213,3,"2017,2019,2024",653,65,14495
+bvd,Latn,bvd_Latn,Baeggu,',Po,APOSTROPHE,14022,1,2024,0,0,14022
+bvd,Latn,bvd_Latn,Baeggu,t,Ll,LATIN SMALL LETTER T,13327,3,"2017,2019,2024",420,74,12833
+bvd,Latn,bvd_Latn,Baeggu,d,Ll,LATIN SMALL LETTER D,12720,3,"2017,2019,2024",258,51,12411
+bvd,Latn,bvd_Latn,Baeggu,r,Ll,LATIN SMALL LETTER R,11971,3,"2017,2019,2024",315,89,11567
+bvd,Latn,bvd_Latn,Baeggu,f,Ll,LATIN SMALL LETTER F,11392,3,"2017,2019,2024",383,52,10957
+bvd,Latn,bvd_Latn,Baeggu,g,Ll,LATIN SMALL LETTER G,7151,3,"2017,2019,2024",330,41,6780
+bvd,Latn,bvd_Latn,Baeggu,",",Po,COMMA,5368,3,"2017,2019,2024",241,43,5084
+bvd,Latn,bvd_Latn,Baeggu,.,Po,FULL STOP,5359,3,"2017,2019,2024",105,43,5211
+bvd,Latn,bvd_Latn,Baeggu,b,Ll,LATIN SMALL LETTER B,5269,3,"2017,2019,2024",94,31,5144
+bvd,Latn,bvd_Latn,Baeggu,w,Ll,LATIN SMALL LETTER W,5039,3,"2017,2019,2024",29,15,4995
+bvd,Latn,bvd_Latn,Baeggu,G,Lu,LATIN CAPITAL LETTER G,2008,3,"2017,2019,2024",33,5,1970
+bvd,Latn,bvd_Latn,Baeggu,M,Lu,LATIN CAPITAL LETTER M,1821,3,"2017,2019,2024",38,15,1768
+bvd,Latn,bvd_Latn,Baeggu,N,Lu,LATIN CAPITAL LETTER N,1721,3,"2017,2019,2024",10,9,1702
+bvd,Latn,bvd_Latn,Baeggu,1,Nd,DIGIT ONE,1610,3,"2017,2019,2024",2,16,1592
+bvd,Latn,bvd_Latn,Baeggu,D,Lu,LATIN CAPITAL LETTER D,1465,3,"2017,2019,2024",23,7,1435
+bvd,Latn,bvd_Latn,Baeggu,A,Lu,LATIN CAPITAL LETTER A,1317,3,"2017,2019,2024",60,6,1251
+bvd,Latn,bvd_Latn,Baeggu,S,Lu,LATIN CAPITAL LETTER S,1283,3,"2017,2019,2024",53,14,1216
+bvd,Latn,bvd_Latn,Baeggu,K,Lu,LATIN CAPITAL LETTER K,1125,3,"2017,2019,2024",2,3,1120
+bvd,Latn,bvd_Latn,Baeggu,2,Nd,DIGIT TWO,904,3,"2017,2019,2024",1,10,893
+bvd,Latn,bvd_Latn,Baeggu,3,Nd,DIGIT THREE,539,3,"2017,2019,2024",1,5,533
+bvd,Latn,bvd_Latn,Baeggu,“,Pi,LEFT DOUBLE QUOTATION MARK,525,1,2024,0,0,525
+bvd,Latn,bvd_Latn,Baeggu,”,Pf,RIGHT DOUBLE QUOTATION MARK,505,1,2024,0,0,505
+bvd,Latn,bvd_Latn,Baeggu,4,Nd,DIGIT FOUR,444,3,"2017,2019,2024",1,9,434
+bvd,Latn,bvd_Latn,Baeggu,T,Lu,LATIN CAPITAL LETTER T,407,3,"2017,2019,2024",10,5,392
+bvd,Latn,bvd_Latn,Baeggu,5,Nd,DIGIT FIVE,362,2,"2019,2024",0,6,356
+bvd,Latn,bvd_Latn,Baeggu,6,Nd,DIGIT SIX,346,2,"2019,2024",0,14,332
+bvd,Latn,bvd_Latn,Baeggu,B,Lu,LATIN CAPITAL LETTER B,309,3,"2017,2019,2024",14,1,294
+bvd,Latn,bvd_Latn,Baeggu,8,Nd,DIGIT EIGHT,296,2,"2019,2024",0,12,284
+bvd,Latn,bvd_Latn,Baeggu,0,Nd,DIGIT ZERO,295,2,"2019,2024",0,31,264
+bvd,Latn,bvd_Latn,Baeggu,7,Nd,DIGIT SEVEN,290,2,"2019,2024",0,7,283
+bvd,Latn,bvd_Latn,Baeggu,I,Lu,LATIN CAPITAL LETTER I,282,3,"2017,2019,2024",11,3,268
+bvd,Latn,bvd_Latn,Baeggu,9,Nd,DIGIT NINE,280,2,"2019,2024",0,5,275
+bvd,Latn,bvd_Latn,Baeggu,L,Lu,LATIN CAPITAL LETTER L,278,3,"2017,2019,2024",37,4,237
+bvd,Latn,bvd_Latn,Baeggu,F,Lu,LATIN CAPITAL LETTER F,267,3,"2017,2019,2024",21,7,239
+bvd,Latn,bvd_Latn,Baeggu,h,Ll,LATIN SMALL LETTER H,263,3,"2017,2019,2024",97,43,123
+bvd,Latn,bvd_Latn,Baeggu,:,Po,COLON,219,3,"2017,2019,2024",15,3,201
+bvd,Latn,bvd_Latn,Baeggu,O,Lu,LATIN CAPITAL LETTER O,199,3,"2017,2019,2024",39,2,158
+bvd,Latn,bvd_Latn,Baeggu,!,Po,EXCLAMATION MARK,184,1,2024,0,0,184
+bvd,Latn,bvd_Latn,Baeggu,),Pe,RIGHT PARENTHESIS,143,2,"2017,2024",3,0,140
+bvd,Latn,bvd_Latn,Baeggu,(,Ps,LEFT PARENTHESIS,143,2,"2017,2024",3,0,140
+bvd,Latn,bvd_Latn,Baeggu,W,Lu,LATIN CAPITAL LETTER W,130,3,"2017,2019,2024",12,2,116
+bvd,Latn,bvd_Latn,Baeggu,;,Po,SEMICOLON,126,2,"2017,2024",83,0,43
+bvd,Latn,bvd_Latn,Baeggu,?,Po,QUESTION MARK,123,1,2024,0,0,123
+bvd,Latn,bvd_Latn,Baeggu,-,Pd,HYPHEN-MINUS,110,2,"2017,2024",1,0,109
+bvd,Latn,bvd_Latn,Baeggu,U,Lu,LATIN CAPITAL LETTER U,108,3,"2017,2019,2024",13,2,93
+bvd,Latn,bvd_Latn,Baeggu,H,Lu,LATIN CAPITAL LETTER H,83,3,"2017,2019,2024",13,7,63
+bvd,Latn,bvd_Latn,Baeggu,‘,Pi,LEFT SINGLE QUOTATION MARK,82,3,"2017,2019,2024",1,43,38
+bvd,Latn,bvd_Latn,Baeggu,E,Lu,LATIN CAPITAL LETTER E,75,3,"2017,2019,2024",8,1,66
+bvd,Latn,bvd_Latn,Baeggu,R,Lu,LATIN CAPITAL LETTER R,70,2,"2017,2024",5,0,65
+bvd,Latn,bvd_Latn,Baeggu,|,Sm,VERTICAL LINE,59,2,"2017,2019",13,46,0
+bvd,Latn,bvd_Latn,Baeggu,C,Lu,LATIN CAPITAL LETTER C,53,3,"2017,2019,2024",32,4,17
+bvd,Latn,bvd_Latn,Baeggu,’,Pf,RIGHT SINGLE QUOTATION MARK,45,3,"2017,2019,2024",1,6,38
+bvd,Latn,bvd_Latn,Baeggu,c,Ll,LATIN SMALL LETTER C,38,3,"2017,2019,2024",6,12,20
+bvd,Latn,bvd_Latn,Baeggu,p,Ll,LATIN SMALL LETTER P,37,3,"2017,2019,2024",3,12,22
+bvd,Latn,bvd_Latn,Baeggu,y,Ll,LATIN SMALL LETTER Y,29,3,"2017,2019,2024",6,13,10
+bvd,Latn,bvd_Latn,Baeggu,J,Lu,LATIN CAPITAL LETTER J,27,3,"2017,2019,2024",19,3,5
+bvd,Latn,bvd_Latn,Baeggu,—,Pd,EM DASH,26,1,2024,0,0,26
+bvd,Latn,bvd_Latn,Baeggu,q,Ll,LATIN SMALL LETTER Q,26,2,"2017,2019",25,1,0
+bvd,Latn,bvd_Latn,Baeggu,P,Lu,LATIN CAPITAL LETTER P,26,3,"2017,2019,2024",7,9,10
+bvd,Latn,bvd_Latn,Baeggu,×,Sm,MULTIPLICATION SIGN,15,1,2019,0,15,0
+bvd,Latn,bvd_Latn,Baeggu,v,Ll,LATIN SMALL LETTER V,10,3,"2017,2019,2024",1,2,7
+bvd,Latn,bvd_Latn,Baeggu,j,Ll,LATIN SMALL LETTER J,8,2,"2019,2024",0,2,6
+bvd,Latn,bvd_Latn,Baeggu,Q,Lu,LATIN CAPITAL LETTER Q,3,2,"2017,2019",2,1,0
+bvd,Latn,bvd_Latn,Baeggu,Y,Lu,LATIN CAPITAL LETTER Y,2,2,"2017,2019",1,1,0
+bvd,Latn,bvd_Latn,Baeggu,z,Ll,LATIN SMALL LETTER Z,2,2,"2019,2024",0,1,1
+bvd,Latn,bvd_Latn,Baeggu,¶,Po,PILCROW SIGN,2,1,2017,2,0,0
+bvd,Latn,bvd_Latn,Baeggu,X,Lu,LATIN CAPITAL LETTER X,1,1,2019,0,1,0
+bvd,Latn,bvd_Latn,Baeggu,x,Ll,LATIN SMALL LETTER X,1,1,2024,0,0,1

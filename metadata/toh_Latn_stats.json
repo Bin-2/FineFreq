@@ -1,0 +1,19 @@
+{
+  "language_code": "toh_Latn",
+  "iso_639_3": "toh",
+  "script": "Latn",
+  "language_name": "Gitonga",
+  "total_characters": 96,
+  "total_frequency": 1249552,
+  "years_covered": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:12.772570"
+}

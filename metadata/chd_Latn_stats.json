@@ -1,0 +1,20 @@
+{
+  "language_code": "chd_Latn",
+  "iso_639_3": "chd",
+  "script": "Latn",
+  "language_name": "Highland Oaxaca Chontal",
+  "total_characters": 108,
+  "total_frequency": 1730072,
+  "years_covered": [
+    "2014",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:50.466275"
+}

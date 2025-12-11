@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2020_frequency
+tmc,Latn,tmc_Latn,Tumak, ,Zs,SPACE,4102,2,"2018,2020",3605,497
+tmc,Latn,tmc_Latn,Tumak,ᵻ,Ll,LATIN SMALL CAPITAL LETTER I WITH STROKE,1932,2,"2018,2020",1741,191
+tmc,Latn,tmc_Latn,Tumak,a,Ll,LATIN SMALL LETTER A,1739,2,"2018,2020",1480,259
+tmc,Latn,tmc_Latn,Tumak,n,Ll,LATIN SMALL LETTER N,1350,2,"2018,2020",1252,98
+tmc,Latn,tmc_Latn,Tumak,-,Pd,HYPHEN-MINUS,1257,2,"2018,2020",1121,136
+tmc,Latn,tmc_Latn,Tumak,',Po,APOSTROPHE,809,2,"2018,2020",717,92
+tmc,Latn,tmc_Latn,Tumak,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,701,2,"2018,2020",641,60
+tmc,Latn,tmc_Latn,Tumak,g,Ll,LATIN SMALL LETTER G,677,2,"2018,2020",610,67
+tmc,Latn,tmc_Latn,Tumak,d,Ll,LATIN SMALL LETTER D,656,2,"2018,2020",584,72
+tmc,Latn,tmc_Latn,Tumak,u,Ll,LATIN SMALL LETTER U,617,2,"2018,2020",561,56
+tmc,Latn,tmc_Latn,Tumak,i,Ll,LATIN SMALL LETTER I,578,2,"2018,2020",498,80
+tmc,Latn,tmc_Latn,Tumak,y,Ll,LATIN SMALL LETTER Y,523,2,"2018,2020",489,34
+tmc,Latn,tmc_Latn,Tumak,e,Ll,LATIN SMALL LETTER E,461,2,"2018,2020",421,40
+tmc,Latn,tmc_Latn,Tumak,r,Ll,LATIN SMALL LETTER R,432,2,"2018,2020",365,67
+tmc,Latn,tmc_Latn,Tumak,l,Ll,LATIN SMALL LETTER L,358,2,"2018,2020",315,43
+tmc,Latn,tmc_Latn,Tumak,.,Po,FULL STOP,327,2,"2018,2020",267,60
+tmc,Latn,tmc_Latn,Tumak,m,Ll,LATIN SMALL LETTER M,313,2,"2018,2020",250,63
+tmc,Latn,tmc_Latn,Tumak,k,Ll,LATIN SMALL LETTER K,299,2,"2018,2020",246,53
+tmc,Latn,tmc_Latn,Tumak,j,Ll,LATIN SMALL LETTER J,290,2,"2018,2020",250,40
+tmc,Latn,tmc_Latn,Tumak,w,Ll,LATIN SMALL LETTER W,255,2,"2018,2020",192,63
+tmc,Latn,tmc_Latn,Tumak,b,Ll,LATIN SMALL LETTER B,235,2,"2018,2020",191,44
+tmc,Latn,tmc_Latn,Tumak,o,Ll,LATIN SMALL LETTER O,210,2,"2018,2020",143,67
+tmc,Latn,tmc_Latn,Tumak,h,Ll,LATIN SMALL LETTER H,191,2,"2018,2020",171,20
+tmc,Latn,tmc_Latn,Tumak,",",Po,COMMA,176,2,"2018,2020",163,13
+tmc,Latn,tmc_Latn,Tumak,t,Ll,LATIN SMALL LETTER T,162,2,"2018,2020",141,21
+tmc,Latn,tmc_Latn,Tumak,B,Lu,LATIN CAPITAL LETTER B,134,2,"2018,2020",124,10
+tmc,Latn,tmc_Latn,Tumak,s,Ll,LATIN SMALL LETTER S,114,2,"2018,2020",84,30
+tmc,Latn,tmc_Latn,Tumak,p,Ll,LATIN SMALL LETTER P,101,2,"2018,2020",88,13
+tmc,Latn,tmc_Latn,Tumak,J,Lu,LATIN CAPITAL LETTER J,97,2,"2018,2020",65,32
+tmc,Latn,tmc_Latn,Tumak,1,Nd,DIGIT ONE,93,2,"2018,2020",78,15
+tmc,Latn,tmc_Latn,Tumak,A,Lu,LATIN CAPITAL LETTER A,65,2,"2018,2020",43,22
+tmc,Latn,tmc_Latn,Tumak,꞊,Sk,MODIFIER LETTER SHORT EQUALS SIGN,63,2,"2018,2020",58,5
+tmc,Latn,tmc_Latn,Tumak,"""",Po,QUOTATION MARK,63,2,"2018,2020",55,8
+tmc,Latn,tmc_Latn,Tumak,D,Lu,LATIN CAPITAL LETTER D,62,2,"2018,2020",48,14
+tmc,Latn,tmc_Latn,Tumak,G,Lu,LATIN CAPITAL LETTER G,50,2,"2018,2020",48,2
+tmc,Latn,tmc_Latn,Tumak,2,Nd,DIGIT TWO,49,2,"2018,2020",40,9
+tmc,Latn,tmc_Latn,Tumak,M,Lu,LATIN CAPITAL LETTER M,44,2,"2018,2020",35,9
+tmc,Latn,tmc_Latn,Tumak,N,Lu,LATIN CAPITAL LETTER N,43,2,"2018,2020",41,2
+tmc,Latn,tmc_Latn,Tumak,K,Lu,LATIN CAPITAL LETTER K,41,2,"2018,2020",32,9
+tmc,Latn,tmc_Latn,Tumak,ɔ,Ll,LATIN SMALL LETTER OPEN O,40,2,"2018,2020",31,9
+tmc,Latn,tmc_Latn,Tumak,E,Lu,LATIN CAPITAL LETTER E,39,2,"2018,2020",25,14
+tmc,Latn,tmc_Latn,Tumak,ɛ,Ll,LATIN SMALL LETTER OPEN E,36,2,"2018,2020",29,7
+tmc,Latn,tmc_Latn,Tumak,:,Po,COLON,28,2,"2018,2020",22,6
+tmc,Latn,tmc_Latn,Tumak,Ɨ,Lu,LATIN CAPITAL LETTER I WITH STROKE,26,2,"2018,2020",24,2
+tmc,Latn,tmc_Latn,Tumak,̰,Mn,COMBINING TILDE BELOW,25,2,"2018,2020",15,10
+tmc,Latn,tmc_Latn,Tumak,U,Lu,LATIN CAPITAL LETTER U,24,2,"2018,2020",23,1
+tmc,Latn,tmc_Latn,Tumak,4,Nd,DIGIT FOUR,20,2,"2018,2020",16,4
+tmc,Latn,tmc_Latn,Tumak,3,Nd,DIGIT THREE,18,2,"2018,2020",15,3
+tmc,Latn,tmc_Latn,Tumak,5,Nd,DIGIT FIVE,17,2,"2018,2020",14,3
+tmc,Latn,tmc_Latn,Tumak,7,Nd,DIGIT SEVEN,16,2,"2018,2020",13,3
+tmc,Latn,tmc_Latn,Tumak,S,Lu,LATIN CAPITAL LETTER S,16,2,"2018,2020",8,8
+tmc,Latn,tmc_Latn,Tumak,Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,16,2,"2018,2020",14,2
+tmc,Latn,tmc_Latn,Tumak,9,Nd,DIGIT NINE,14,2,"2018,2020",12,2
+tmc,Latn,tmc_Latn,Tumak,6,Nd,DIGIT SIX,14,2,"2018,2020",12,2
+tmc,Latn,tmc_Latn,Tumak,8,Nd,DIGIT EIGHT,14,2,"2018,2020",12,2
+tmc,Latn,tmc_Latn,Tumak,0,Nd,DIGIT ZERO,13,2,"2018,2020",11,2
+tmc,Latn,tmc_Latn,Tumak,/,Po,SOLIDUS,12,1,2018,12,0
+tmc,Latn,tmc_Latn,Tumak,T,Lu,LATIN CAPITAL LETTER T,12,2,"2018,2020",8,4
+tmc,Latn,tmc_Latn,Tumak,^,Sk,CIRCUMFLEX ACCENT,11,1,2018,11,0
+tmc,Latn,tmc_Latn,Tumak,I,Lu,LATIN CAPITAL LETTER I,10,2,"2018,2020",6,4
+tmc,Latn,tmc_Latn,Tumak,O,Lu,LATIN CAPITAL LETTER O,8,2,"2018,2020",4,4
+tmc,Latn,tmc_Latn,Tumak,R,Lu,LATIN CAPITAL LETTER R,8,2,"2018,2020",4,4
+tmc,Latn,tmc_Latn,Tumak,W,Lu,LATIN CAPITAL LETTER W,8,2,"2018,2020",7,1
+tmc,Latn,tmc_Latn,Tumak,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,8,1,2018,8,0
+tmc,Latn,tmc_Latn,Tumak,?,Po,QUESTION MARK,8,1,2018,8,0
+tmc,Latn,tmc_Latn,Tumak,H,Lu,LATIN CAPITAL LETTER H,6,2,"2018,2020",5,1
+tmc,Latn,tmc_Latn,Tumak,P,Lu,LATIN CAPITAL LETTER P,5,2,"2018,2020",3,2
+tmc,Latn,tmc_Latn,Tumak,Y,Lu,LATIN CAPITAL LETTER Y,4,2,"2018,2020",2,2
+tmc,Latn,tmc_Latn,Tumak,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,3,1,2018,3,0
+tmc,Latn,tmc_Latn,Tumak,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,3,1,2018,3,0
+tmc,Latn,tmc_Latn,Tumak,C,Lu,LATIN CAPITAL LETTER C,3,1,2018,3,0
+tmc,Latn,tmc_Latn,Tumak,L,Lu,LATIN CAPITAL LETTER L,2,1,2018,2,0
+tmc,Latn,tmc_Latn,Tumak,V,Lu,LATIN CAPITAL LETTER V,2,1,2018,2,0
+tmc,Latn,tmc_Latn,Tumak,(,Ps,LEFT PARENTHESIS,2,2,"2018,2020",1,1
+tmc,Latn,tmc_Latn,Tumak,),Pe,RIGHT PARENTHESIS,2,2,"2018,2020",1,1
+tmc,Latn,tmc_Latn,Tumak,!,Po,EXCLAMATION MARK,1,1,2018,1,0

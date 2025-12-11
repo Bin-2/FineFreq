@@ -1,0 +1,78 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2021_frequency
+swk,Latn,swk_Latn,Malawi Sena,a,Ll,LATIN SMALL LETTER A,12222,2,"2018,2021",11674,548
+swk,Latn,swk_Latn,Malawi Sena, ,Zs,SPACE,9898,2,"2018,2021",9505,393
+swk,Latn,swk_Latn,Malawi Sena,u,Ll,LATIN SMALL LETTER U,5199,2,"2018,2021",5044,155
+swk,Latn,swk_Latn,Malawi Sena,n,Ll,LATIN SMALL LETTER N,4991,2,"2018,2021",4848,143
+swk,Latn,swk_Latn,Malawi Sena,e,Ll,LATIN SMALL LETTER E,4309,2,"2018,2021",4148,161
+swk,Latn,swk_Latn,Malawi Sena,i,Ll,LATIN SMALL LETTER I,4110,2,"2018,2021",3918,192
+swk,Latn,swk_Latn,Malawi Sena,k,Ll,LATIN SMALL LETTER K,3317,2,"2018,2021",3203,114
+swk,Latn,swk_Latn,Malawi Sena,m,Ll,LATIN SMALL LETTER M,2724,2,"2018,2021",2634,90
+swk,Latn,swk_Latn,Malawi Sena,o,Ll,LATIN SMALL LETTER O,2469,2,"2018,2021",2365,104
+swk,Latn,swk_Latn,Malawi Sena,h,Ll,LATIN SMALL LETTER H,2281,2,"2018,2021",2197,84
+swk,Latn,swk_Latn,Malawi Sena,d,Ll,LATIN SMALL LETTER D,2193,2,"2018,2021",2081,112
+swk,Latn,swk_Latn,Malawi Sena,t,Ll,LATIN SMALL LETTER T,1901,2,"2018,2021",1837,64
+swk,Latn,swk_Latn,Malawi Sena,w,Ll,LATIN SMALL LETTER W,1820,2,"2018,2021",1771,49
+swk,Latn,swk_Latn,Malawi Sena,l,Ll,LATIN SMALL LETTER L,1750,2,"2018,2021",1634,116
+swk,Latn,swk_Latn,Malawi Sena,y,Ll,LATIN SMALL LETTER Y,1722,2,"2018,2021",1691,31
+swk,Latn,swk_Latn,Malawi Sena,p,Ll,LATIN SMALL LETTER P,1580,2,"2018,2021",1542,38
+swk,Latn,swk_Latn,Malawi Sena,s,Ll,LATIN SMALL LETTER S,1533,2,"2018,2021",1483,50
+swk,Latn,swk_Latn,Malawi Sena,b,Ll,LATIN SMALL LETTER B,1233,2,"2018,2021",1136,97
+swk,Latn,swk_Latn,Malawi Sena,.,Po,FULL STOP,1185,2,"2018,2021",1156,29
+swk,Latn,swk_Latn,Malawi Sena,z,Ll,LATIN SMALL LETTER Z,1146,2,"2018,2021",1096,50
+swk,Latn,swk_Latn,Malawi Sena,g,Ll,LATIN SMALL LETTER G,1111,2,"2018,2021",1095,16
+swk,Latn,swk_Latn,Malawi Sena,r,Ll,LATIN SMALL LETTER R,1002,2,"2018,2021",948,54
+swk,Latn,swk_Latn,Malawi Sena,c,Ll,LATIN SMALL LETTER C,646,2,"2018,2021",621,25
+swk,Latn,swk_Latn,Malawi Sena,M,Lu,LATIN CAPITAL LETTER M,645,2,"2018,2021",621,24
+swk,Latn,swk_Latn,Malawi Sena,Y,Lu,LATIN CAPITAL LETTER Y,567,2,"2018,2021",532,35
+swk,Latn,swk_Latn,Malawi Sena,f,Ll,LATIN SMALL LETTER F,460,2,"2018,2021",436,24
+swk,Latn,swk_Latn,Malawi Sena,",",Po,COMMA,448,2,"2018,2021",393,55
+swk,Latn,swk_Latn,Malawi Sena,1,Nd,DIGIT ONE,410,2,"2018,2021",392,18
+swk,Latn,swk_Latn,Malawi Sena,I,Lu,LATIN CAPITAL LETTER I,353,2,"2018,2021",350,3
+swk,Latn,swk_Latn,Malawi Sena,:,Po,COLON,251,2,"2018,2021",248,3
+swk,Latn,swk_Latn,Malawi Sena,2,Nd,DIGIT TWO,251,2,"2018,2021",237,14
+swk,Latn,swk_Latn,Malawi Sena,"""",Po,QUOTATION MARK,249,1,2018,249,0
+swk,Latn,swk_Latn,Malawi Sena,-,Pd,HYPHEN-MINUS,241,2,"2018,2021",234,7
+swk,Latn,swk_Latn,Malawi Sena,A,Lu,LATIN CAPITAL LETTER A,204,2,"2018,2021",182,22
+swk,Latn,swk_Latn,Malawi Sena,3,Nd,DIGIT THREE,155,2,"2018,2021",150,5
+swk,Latn,swk_Latn,Malawi Sena,N,Lu,LATIN CAPITAL LETTER N,154,2,"2018,2021",149,5
+swk,Latn,swk_Latn,Malawi Sena,4,Nd,DIGIT FOUR,142,2,"2018,2021",140,2
+swk,Latn,swk_Latn,Malawi Sena,j,Ll,LATIN SMALL LETTER J,141,2,"2018,2021",139,2
+swk,Latn,swk_Latn,Malawi Sena,v,Ll,LATIN SMALL LETTER V,132,2,"2018,2021",125,7
+swk,Latn,swk_Latn,Malawi Sena,P,Lu,LATIN CAPITAL LETTER P,132,2,"2018,2021",128,4
+swk,Latn,swk_Latn,Malawi Sena,',Po,APOSTROPHE,125,1,2018,125,0
+swk,Latn,swk_Latn,Malawi Sena,;,Po,SEMICOLON,114,1,2018,114,0
+swk,Latn,swk_Latn,Malawi Sena,5,Nd,DIGIT FIVE,110,2,"2018,2021",109,1
+swk,Latn,swk_Latn,Malawi Sena,L,Lu,LATIN CAPITAL LETTER L,110,2,"2018,2021",106,4
+swk,Latn,swk_Latn,Malawi Sena,6,Nd,DIGIT SIX,109,2,"2018,2021",105,4
+swk,Latn,swk_Latn,Malawi Sena,K,Lu,LATIN CAPITAL LETTER K,108,2,"2018,2021",98,10
+swk,Latn,swk_Latn,Malawi Sena,8,Nd,DIGIT EIGHT,95,2,"2018,2021",93,2
+swk,Latn,swk_Latn,Malawi Sena,7,Nd,DIGIT SEVEN,83,2,"2018,2021",80,3
+swk,Latn,swk_Latn,Malawi Sena,9,Nd,DIGIT NINE,81,2,"2018,2021",80,1
+swk,Latn,swk_Latn,Malawi Sena,0,Nd,DIGIT ZERO,76,2,"2018,2021",75,1
+swk,Latn,swk_Latn,Malawi Sena,T,Lu,LATIN CAPITAL LETTER T,68,2,"2018,2021",64,4
+swk,Latn,swk_Latn,Malawi Sena,S,Lu,LATIN CAPITAL LETTER S,44,2,"2018,2021",38,6
+swk,Latn,swk_Latn,Malawi Sena,B,Lu,LATIN CAPITAL LETTER B,41,2,"2018,2021",36,5
+swk,Latn,swk_Latn,Malawi Sena,|,Sm,VERTICAL LINE,40,1,2018,40,0
+swk,Latn,swk_Latn,Malawi Sena,?,Po,QUESTION MARK,30,1,2018,30,0
+swk,Latn,swk_Latn,Malawi Sena,C,Lu,LATIN CAPITAL LETTER C,29,1,2018,29,0
+swk,Latn,swk_Latn,Malawi Sena,!,Po,EXCLAMATION MARK,27,1,2018,27,0
+swk,Latn,swk_Latn,Malawi Sena,W,Lu,LATIN CAPITAL LETTER W,20,2,"2018,2021",18,2
+swk,Latn,swk_Latn,Malawi Sena,G,Lu,LATIN CAPITAL LETTER G,19,1,2018,19,0
+swk,Latn,swk_Latn,Malawi Sena,U,Lu,LATIN CAPITAL LETTER U,17,2,"2018,2021",13,4
+swk,Latn,swk_Latn,Malawi Sena,Z,Lu,LATIN CAPITAL LETTER Z,17,2,"2018,2021",12,5
+swk,Latn,swk_Latn,Malawi Sena,D,Lu,LATIN CAPITAL LETTER D,15,2,"2018,2021",9,6
+swk,Latn,swk_Latn,Malawi Sena,H,Lu,LATIN CAPITAL LETTER H,14,2,"2018,2021",10,4
+swk,Latn,swk_Latn,Malawi Sena,E,Lu,LATIN CAPITAL LETTER E,13,2,"2018,2021",6,7
+swk,Latn,swk_Latn,Malawi Sena,(,Ps,LEFT PARENTHESIS,13,2,"2018,2021",6,7
+swk,Latn,swk_Latn,Malawi Sena,),Pe,RIGHT PARENTHESIS,13,2,"2018,2021",6,7
+swk,Latn,swk_Latn,Malawi Sena,’,Pf,RIGHT SINGLE QUOTATION MARK,9,1,2018,9,0
+swk,Latn,swk_Latn,Malawi Sena,O,Lu,LATIN CAPITAL LETTER O,7,2,"2018,2021",5,2
+swk,Latn,swk_Latn,Malawi Sena,R,Lu,LATIN CAPITAL LETTER R,7,2,"2018,2021",1,6
+swk,Latn,swk_Latn,Malawi Sena,V,Lu,LATIN CAPITAL LETTER V,4,1,2018,4,0
+swk,Latn,swk_Latn,Malawi Sena,#,Po,NUMBER SIGN,4,1,2021,0,4
+swk,Latn,swk_Latn,Malawi Sena,F,Lu,LATIN CAPITAL LETTER F,2,1,2018,2,0
+swk,Latn,swk_Latn,Malawi Sena,“,Pi,LEFT DOUBLE QUOTATION MARK,2,1,2021,0,2
+swk,Latn,swk_Latn,Malawi Sena,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,1,2021,0,2
+swk,Latn,swk_Latn,Malawi Sena,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2018,1,0
+swk,Latn,swk_Latn,Malawi Sena,=,Sm,EQUALS SIGN,1,1,2018,1,0
+swk,Latn,swk_Latn,Malawi Sena,/,Po,SOLIDUS,1,1,2018,1,0

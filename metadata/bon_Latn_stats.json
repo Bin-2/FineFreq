@@ -1,0 +1,18 @@
+{
+  "language_code": "bon_Latn",
+  "iso_639_3": "bon",
+  "script": "Latn",
+  "language_name": "Bine",
+  "total_characters": 89,
+  "total_frequency": 2358771,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:49.241751"
+}

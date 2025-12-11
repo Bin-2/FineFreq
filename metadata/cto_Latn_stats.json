@@ -1,0 +1,16 @@
+{
+  "language_code": "cto_Latn",
+  "iso_639_3": "cto",
+  "script": "Latn",
+  "language_name": "Emberá-Catío",
+  "total_characters": 112,
+  "total_frequency": 665472,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:51.527103"
+}

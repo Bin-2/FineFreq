@@ -1,0 +1,55 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency
+wmt,Latn,wmt_Latn,Walmajarri,a,Ll,LATIN SMALL LETTER A,49046,4,"2017,2019,2020,2021",107,40541,3325,5073
+wmt,Latn,wmt_Latn,Walmajarri,n,Ll,LATIN SMALL LETTER N,28162,4,"2017,2019,2020,2021",55,23142,1842,3123
+wmt,Latn,wmt_Latn,Walmajarri,r,Ll,LATIN SMALL LETTER R,26297,4,"2017,2019,2020,2021",59,21595,1922,2721
+wmt,Latn,wmt_Latn,Walmajarri, ,Zs,SPACE,24525,4,"2017,2019,2020,2021",65,20096,1710,2654
+wmt,Latn,wmt_Latn,Walmajarri,i,Ll,LATIN SMALL LETTER I,20222,4,"2017,2019,2020,2021",33,16614,1438,2137
+wmt,Latn,wmt_Latn,Walmajarri,u,Ll,LATIN SMALL LETTER U,18089,4,"2017,2019,2020,2021",63,14842,1181,2003
+wmt,Latn,wmt_Latn,Walmajarri,y,Ll,LATIN SMALL LETTER Y,11148,4,"2017,2019,2020,2021",20,9287,671,1170
+wmt,Latn,wmt_Latn,Walmajarri,l,Ll,LATIN SMALL LETTER L,10573,4,"2017,2019,2020,2021",27,8636,765,1145
+wmt,Latn,wmt_Latn,Walmajarri,k,Ll,LATIN SMALL LETTER K,9237,4,"2017,2019,2020,2021",21,7619,635,962
+wmt,Latn,wmt_Latn,Walmajarri,p,Ll,LATIN SMALL LETTER P,9175,4,"2017,2019,2020,2021",31,7617,581,946
+wmt,Latn,wmt_Latn,Walmajarri,g,Ll,LATIN SMALL LETTER G,8249,4,"2017,2019,2020,2021",32,6731,527,959
+wmt,Latn,wmt_Latn,Walmajarri,t,Ll,LATIN SMALL LETTER T,7984,4,"2017,2019,2020,2021",11,6596,505,872
+wmt,Latn,wmt_Latn,Walmajarri,j,Ll,LATIN SMALL LETTER J,7554,4,"2017,2019,2020,2021",14,6300,493,747
+wmt,Latn,wmt_Latn,Walmajarri,m,Ll,LATIN SMALL LETTER M,5559,4,"2017,2019,2020,2021",8,4619,370,562
+wmt,Latn,wmt_Latn,Walmajarri,w,Ll,LATIN SMALL LETTER W,5037,4,"2017,2019,2020,2021",16,4213,300,508
+wmt,Latn,wmt_Latn,Walmajarri,.,Po,FULL STOP,3992,4,"2017,2019,2020,2021",9,3264,288,431
+wmt,Latn,wmt_Latn,Walmajarri,N,Lu,LATIN CAPITAL LETTER N,1819,4,"2017,2019,2020,2021",9,1490,85,235
+wmt,Latn,wmt_Latn,Walmajarri,",",Po,COMMA,1491,4,"2017,2019,2020,2021",4,1195,117,175
+wmt,Latn,wmt_Latn,Walmajarri,J,Lu,LATIN CAPITAL LETTER J,984,4,"2017,2019,2020,2021",2,729,124,129
+wmt,Latn,wmt_Latn,Walmajarri,W,Lu,LATIN CAPITAL LETTER W,948,4,"2017,2019,2020,2021",1,762,84,101
+wmt,Latn,wmt_Latn,Walmajarri,Y,Lu,LATIN CAPITAL LETTER Y,789,4,"2017,2019,2020,2021",4,695,34,56
+wmt,Latn,wmt_Latn,Walmajarri,“,Pi,LEFT DOUBLE QUOTATION MARK,592,4,"2017,2019,2020,2021",1,477,50,64
+wmt,Latn,wmt_Latn,Walmajarri,K,Lu,LATIN CAPITAL LETTER K,588,4,"2017,2019,2020,2021",3,474,44,67
+wmt,Latn,wmt_Latn,Walmajarri,”,Pf,RIGHT DOUBLE QUOTATION MARK,586,3,"2019,2020,2021",0,472,50,64
+wmt,Latn,wmt_Latn,Walmajarri,M,Lu,LATIN CAPITAL LETTER M,467,4,"2017,2019,2020,2021",1,364,65,37
+wmt,Latn,wmt_Latn,Walmajarri,P,Lu,LATIN CAPITAL LETTER P,441,4,"2017,2019,2020,2021",1,353,51,36
+wmt,Latn,wmt_Latn,Walmajarri,s,Ll,LATIN SMALL LETTER S,385,3,"2019,2020,2021",0,208,174,3
+wmt,Latn,wmt_Latn,Walmajarri,1,Nd,DIGIT ONE,229,4,"2017,2019,2020,2021",1,181,32,15
+wmt,Latn,wmt_Latn,Walmajarri,A,Lu,LATIN CAPITAL LETTER A,227,1,2019,0,227,0,0
+wmt,Latn,wmt_Latn,Walmajarri,T,Lu,LATIN CAPITAL LETTER T,176,3,"2019,2020,2021",0,105,16,55
+wmt,Latn,wmt_Latn,Walmajarri,e,Ll,LATIN SMALL LETTER E,153,2,"2019,2020",0,66,87,0
+wmt,Latn,wmt_Latn,Walmajarri,L,Lu,LATIN CAPITAL LETTER L,139,3,"2019,2020,2021",0,127,5,7
+wmt,Latn,wmt_Latn,Walmajarri,2,Nd,DIGIT TWO,137,4,"2017,2019,2020,2021",1,105,23,8
+wmt,Latn,wmt_Latn,Walmajarri,R,Lu,LATIN CAPITAL LETTER R,117,2,"2019,2020",0,110,7,0
+wmt,Latn,wmt_Latn,Walmajarri,-,Pd,HYPHEN-MINUS,85,2,"2019,2020",0,84,1,0
+wmt,Latn,wmt_Latn,Walmajarri,3,Nd,DIGIT THREE,85,3,"2019,2020,2021",0,71,9,5
+wmt,Latn,wmt_Latn,Walmajarri,4,Nd,DIGIT FOUR,71,3,"2019,2020,2021",0,59,7,5
+wmt,Latn,wmt_Latn,Walmajarri,0,Nd,DIGIT ZERO,55,3,"2019,2020,2021",0,45,7,3
+wmt,Latn,wmt_Latn,Walmajarri,5,Nd,DIGIT FIVE,49,3,"2019,2020,2021",0,36,7,6
+wmt,Latn,wmt_Latn,Walmajarri,7,Nd,DIGIT SEVEN,47,3,"2019,2020,2021",0,38,6,3
+wmt,Latn,wmt_Latn,Walmajarri,8,Nd,DIGIT EIGHT,41,3,"2019,2020,2021",0,33,7,1
+wmt,Latn,wmt_Latn,Walmajarri,6,Nd,DIGIT SIX,41,3,"2019,2020,2021",0,34,6,1
+wmt,Latn,wmt_Latn,Walmajarri,9,Nd,DIGIT NINE,37,2,"2019,2020",0,31,6,0
+wmt,Latn,wmt_Latn,Walmajarri,‘,Pi,LEFT SINGLE QUOTATION MARK,14,2,"2019,2020",0,11,3,0
+wmt,Latn,wmt_Latn,Walmajarri,’,Pf,RIGHT SINGLE QUOTATION MARK,14,2,"2019,2020",0,11,3,0
+wmt,Latn,wmt_Latn,Walmajarri,S,Lu,LATIN CAPITAL LETTER S,13,1,2019,0,13,0,0
+wmt,Latn,wmt_Latn,Walmajarri,:,Po,COLON,2,2,"2017,2019",1,1,0,0
+wmt,Latn,wmt_Latn,Walmajarri,I,Lu,LATIN CAPITAL LETTER I,1,1,2019,0,1,0,0
+wmt,Latn,wmt_Latn,Walmajarri,G,Lu,LATIN CAPITAL LETTER G,1,1,2019,0,1,0,0
+wmt,Latn,wmt_Latn,Walmajarri,U,Lu,LATIN CAPITAL LETTER U,1,1,2019,0,1,0,0
+wmt,Latn,wmt_Latn,Walmajarri,H,Lu,LATIN CAPITAL LETTER H,1,1,2019,0,1,0,0
+wmt,Latn,wmt_Latn,Walmajarri,o,Ll,LATIN SMALL LETTER O,1,1,2020,0,0,1,0
+wmt,Latn,wmt_Latn,Walmajarri,h,Ll,LATIN SMALL LETTER H,1,1,2020,0,0,1,0
+wmt,Latn,wmt_Latn,Walmajarri,b,Ll,LATIN SMALL LETTER B,1,1,2021,0,0,0,1

@@ -1,0 +1,68 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2023_frequency
+bwd,Latn,bwd_Latn,Bwaidoka,a,Ll,LATIN SMALL LETTER A,51587,3,"2017,2018,2023",1109,50100,378
+bwd,Latn,bwd_Latn,Bwaidoka, ,Zs,SPACE,30956,3,"2017,2018,2023",593,30124,239
+bwd,Latn,bwd_Latn,Bwaidoka,i,Ll,LATIN SMALL LETTER I,23116,3,"2017,2018,2023",447,22520,149
+bwd,Latn,bwd_Latn,Bwaidoka,n,Ll,LATIN SMALL LETTER N,16624,3,"2017,2018,2023",301,16206,117
+bwd,Latn,bwd_Latn,Bwaidoka,e,Ll,LATIN SMALL LETTER E,15085,3,"2017,2018,2023",271,14707,107
+bwd,Latn,bwd_Latn,Bwaidoka,u,Ll,LATIN SMALL LETTER U,10329,3,"2017,2018,2023",210,10053,66
+bwd,Latn,bwd_Latn,Bwaidoka,g,Ll,LATIN SMALL LETTER G,9110,3,"2017,2018,2023",203,8863,44
+bwd,Latn,bwd_Latn,Bwaidoka,d,Ll,LATIN SMALL LETTER D,9047,3,"2017,2018,2023",194,8776,77
+bwd,Latn,bwd_Latn,Bwaidoka,o,Ll,LATIN SMALL LETTER O,7966,3,"2017,2018,2023",85,7820,61
+bwd,Latn,bwd_Latn,Bwaidoka,v,Ll,LATIN SMALL LETTER V,7207,3,"2017,2018,2023",138,7027,42
+bwd,Latn,bwd_Latn,Bwaidoka,y,Ll,LATIN SMALL LETTER Y,7189,3,"2017,2018,2023",157,6983,49
+bwd,Latn,bwd_Latn,Bwaidoka,k,Ll,LATIN SMALL LETTER K,7128,3,"2017,2018,2023",94,6972,62
+bwd,Latn,bwd_Latn,Bwaidoka,l,Ll,LATIN SMALL LETTER L,6259,3,"2017,2018,2023",109,6096,54
+bwd,Latn,bwd_Latn,Bwaidoka,w,Ll,LATIN SMALL LETTER W,5822,3,"2017,2018,2023",125,5661,36
+bwd,Latn,bwd_Latn,Bwaidoka,m,Ll,LATIN SMALL LETTER M,5707,3,"2017,2018,2023",115,5562,30
+bwd,Latn,bwd_Latn,Bwaidoka,t,Ll,LATIN SMALL LETTER T,5500,3,"2017,2018,2023",92,5371,37
+bwd,Latn,bwd_Latn,Bwaidoka,b,Ll,LATIN SMALL LETTER B,4522,3,"2017,2018,2023",141,4340,41
+bwd,Latn,bwd_Latn,Bwaidoka,",",Po,COMMA,2510,3,"2017,2018,2023",52,2443,15
+bwd,Latn,bwd_Latn,Bwaidoka,f,Ll,LATIN SMALL LETTER F,2319,3,"2017,2018,2023",60,2230,29
+bwd,Latn,bwd_Latn,Bwaidoka,.,Po,FULL STOP,2161,3,"2017,2018,2023",56,2084,21
+bwd,Latn,bwd_Latn,Bwaidoka,s,Ll,LATIN SMALL LETTER S,1519,3,"2017,2018,2023",17,1479,23
+bwd,Latn,bwd_Latn,Bwaidoka,A,Lu,LATIN CAPITAL LETTER A,1495,3,"2017,2018,2023",30,1455,10
+bwd,Latn,bwd_Latn,Bwaidoka,-,Pd,HYPHEN-MINUS,1252,3,"2017,2018,2023",9,1236,7
+bwd,Latn,bwd_Latn,Bwaidoka,I,Lu,LATIN CAPITAL LETTER I,747,3,"2017,2018,2023",2,744,1
+bwd,Latn,bwd_Latn,Bwaidoka,E,Lu,LATIN CAPITAL LETTER E,719,3,"2017,2018,2023",1,713,5
+bwd,Latn,bwd_Latn,Bwaidoka,1,Nd,DIGIT ONE,714,2,"2017,2018",15,699,0
+bwd,Latn,bwd_Latn,Bwaidoka,Y,Lu,LATIN CAPITAL LETTER Y,703,3,"2017,2018,2023",21,677,5
+bwd,Latn,bwd_Latn,Bwaidoka,2,Nd,DIGIT TWO,562,2,"2017,2018",13,549,0
+bwd,Latn,bwd_Latn,Bwaidoka,“,Pi,LEFT DOUBLE QUOTATION MARK,531,3,"2017,2018,2023",12,516,3
+bwd,Latn,bwd_Latn,Bwaidoka,”,Pf,RIGHT DOUBLE QUOTATION MARK,514,3,"2017,2018,2023",12,499,3
+bwd,Latn,bwd_Latn,Bwaidoka,K,Lu,LATIN CAPITAL LETTER K,356,3,"2017,2018,2023",7,348,1
+bwd,Latn,bwd_Latn,Bwaidoka,3,Nd,DIGIT THREE,344,2,"2017,2018",5,339,0
+bwd,Latn,bwd_Latn,Bwaidoka,T,Lu,LATIN CAPITAL LETTER T,313,3,"2017,2018,2023",4,307,2
+bwd,Latn,bwd_Latn,Bwaidoka,L,Lu,LATIN CAPITAL LETTER L,307,2,"2017,2018",6,301,0
+bwd,Latn,bwd_Latn,Bwaidoka,4,Nd,DIGIT FOUR,237,2,"2017,2018",3,234,0
+bwd,Latn,bwd_Latn,Bwaidoka,0,Nd,DIGIT ZERO,234,2,"2017,2018",3,231,0
+bwd,Latn,bwd_Latn,Bwaidoka,S,Lu,LATIN CAPITAL LETTER S,234,2,"2018,2023",0,232,2
+bwd,Latn,bwd_Latn,Bwaidoka,5,Nd,DIGIT FIVE,199,2,"2017,2018",3,196,0
+bwd,Latn,bwd_Latn,Bwaidoka,B,Lu,LATIN CAPITAL LETTER B,180,3,"2017,2018,2023",2,176,2
+bwd,Latn,bwd_Latn,Bwaidoka,G,Lu,LATIN CAPITAL LETTER G,175,2,"2017,2018",4,171,0
+bwd,Latn,bwd_Latn,Bwaidoka,6,Nd,DIGIT SIX,171,2,"2017,2018",3,168,0
+bwd,Latn,bwd_Latn,Bwaidoka,7,Nd,DIGIT SEVEN,169,2,"2017,2018",3,166,0
+bwd,Latn,bwd_Latn,Bwaidoka,*,Po,ASTERISK,162,1,2018,0,162,0
+bwd,Latn,bwd_Latn,Bwaidoka,9,Nd,DIGIT NINE,155,2,"2017,2018",3,152,0
+bwd,Latn,bwd_Latn,Bwaidoka,8,Nd,DIGIT EIGHT,153,2,"2017,2018",3,150,0
+bwd,Latn,bwd_Latn,Bwaidoka,M,Lu,LATIN CAPITAL LETTER M,151,2,"2017,2018",5,146,0
+bwd,Latn,bwd_Latn,Bwaidoka,p,Ll,LATIN SMALL LETTER P,138,2,"2018,2023",0,135,3
+bwd,Latn,bwd_Latn,Bwaidoka,?,Po,QUESTION MARK,129,1,2018,0,129,0
+bwd,Latn,bwd_Latn,Bwaidoka,F,Lu,LATIN CAPITAL LETTER F,123,1,2018,0,123,0
+bwd,Latn,bwd_Latn,Bwaidoka,N,Lu,LATIN CAPITAL LETTER N,112,3,"2017,2018,2023",4,107,1
+bwd,Latn,bwd_Latn,Bwaidoka,U,Lu,LATIN CAPITAL LETTER U,85,1,2018,0,85,0
+bwd,Latn,bwd_Latn,Bwaidoka,‘,Pi,LEFT SINGLE QUOTATION MARK,73,2,"2017,2018",5,68,0
+bwd,Latn,bwd_Latn,Bwaidoka,!,Po,EXCLAMATION MARK,71,2,"2018,2023",0,69,2
+bwd,Latn,bwd_Latn,Bwaidoka,’,Pf,RIGHT SINGLE QUOTATION MARK,70,2,"2017,2018",5,65,0
+bwd,Latn,bwd_Latn,Bwaidoka,:,Po,COLON,61,2,"2018,2023",0,60,1
+bwd,Latn,bwd_Latn,Bwaidoka,W,Lu,LATIN CAPITAL LETTER W,60,3,"2017,2018,2023",1,56,3
+bwd,Latn,bwd_Latn,Bwaidoka,O,Lu,LATIN CAPITAL LETTER O,41,1,2018,0,41,0
+bwd,Latn,bwd_Latn,Bwaidoka,P,Lu,LATIN CAPITAL LETTER P,38,1,2018,0,38,0
+bwd,Latn,bwd_Latn,Bwaidoka,',Po,APOSTROPHE,33,1,2018,0,33,0
+bwd,Latn,bwd_Latn,Bwaidoka,D,Lu,LATIN CAPITAL LETTER D,25,1,2018,0,25,0
+bwd,Latn,bwd_Latn,Bwaidoka,V,Lu,LATIN CAPITAL LETTER V,22,3,"2017,2018,2023",1,20,1
+bwd,Latn,bwd_Latn,Bwaidoka,(,Ps,LEFT PARENTHESIS,13,1,2018,0,13,0
+bwd,Latn,bwd_Latn,Bwaidoka,),Pe,RIGHT PARENTHESIS,13,1,2018,0,13,0
+bwd,Latn,bwd_Latn,Bwaidoka,c,Ll,LATIN SMALL LETTER C,8,1,2023,0,0,8
+bwd,Latn,bwd_Latn,Bwaidoka,h,Ll,LATIN SMALL LETTER H,7,1,2023,0,0,7
+bwd,Latn,bwd_Latn,Bwaidoka,r,Ll,LATIN SMALL LETTER R,4,1,2023,0,0,4
+bwd,Latn,bwd_Latn,Bwaidoka,z,Ll,LATIN SMALL LETTER Z,3,1,2023,0,0,3

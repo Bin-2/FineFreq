@@ -1,0 +1,93 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency
+mny,Latn,mny_Latn,Manyawa,a,Ll,LATIN SMALL LETTER A,6312,4,"2016,2017,2018,2019",29,76,206,6001
+mny,Latn,mny_Latn,Manyawa, ,Zs,SPACE,5673,4,"2016,2017,2018,2019",64,76,203,5330
+mny,Latn,mny_Latn,Manyawa,e,Ll,LATIN SMALL LETTER E,3524,4,"2016,2017,2018,2019",26,36,131,3331
+mny,Latn,mny_Latn,Manyawa,i,Ll,LATIN SMALL LETTER I,3059,4,"2016,2017,2018,2019",31,59,114,2855
+mny,Latn,mny_Latn,Manyawa,o,Ll,LATIN SMALL LETTER O,2694,4,"2016,2017,2018,2019",20,32,99,2543
+mny,Latn,mny_Latn,Manyawa,n,Ll,LATIN SMALL LETTER N,2572,4,"2016,2017,2018,2019",27,50,114,2381
+mny,Latn,mny_Latn,Manyawa,h,Ll,LATIN SMALL LETTER H,2181,4,"2016,2017,2018,2019",2,42,88,2049
+mny,Latn,mny_Latn,Manyawa,u,Ll,LATIN SMALL LETTER U,2116,4,"2016,2017,2018,2019",11,31,78,1996
+mny,Latn,mny_Latn,Manyawa,l,Ll,LATIN SMALL LETTER L,1997,4,"2016,2017,2018,2019",5,18,64,1910
+mny,Latn,mny_Latn,Manyawa,w,Ll,LATIN SMALL LETTER W,1832,3,"2017,2018,2019",0,27,55,1750
+mny,Latn,mny_Latn,Manyawa,d,Ll,LATIN SMALL LETTER D,1491,4,"2016,2017,2018,2019",14,19,69,1389
+mny,Latn,mny_Latn,Manyawa,m,Ll,LATIN SMALL LETTER M,1455,4,"2016,2017,2018,2019",12,19,58,1366
+mny,Latn,mny_Latn,Manyawa,y,Ll,LATIN SMALL LETTER Y,941,3,"2017,2018,2019",0,12,38,891
+mny,Latn,mny_Latn,Manyawa,r,Ll,LATIN SMALL LETTER R,877,4,"2016,2017,2018,2019",10,10,39,818
+mny,Latn,mny_Latn,Manyawa,g,Ll,LATIN SMALL LETTER G,776,3,"2017,2018,2019",0,9,30,737
+mny,Latn,mny_Latn,Manyawa,b,Ll,LATIN SMALL LETTER B,697,4,"2016,2017,2018,2019",1,8,26,662
+mny,Latn,mny_Latn,Manyawa,t,Ll,LATIN SMALL LETTER T,675,4,"2016,2017,2018,2019",8,14,32,621
+mny,Latn,mny_Latn,Manyawa,.,Po,FULL STOP,605,4,"2016,2017,2018,2019",1,8,19,577
+mny,Latn,mny_Latn,Manyawa,k,Ll,LATIN SMALL LETTER K,589,3,"2017,2018,2019",0,2,17,570
+mny,Latn,mny_Latn,Manyawa,v,Ll,LATIN SMALL LETTER V,522,4,"2016,2017,2018,2019",3,7,16,496
+mny,Latn,mny_Latn,Manyawa,s,Ll,LATIN SMALL LETTER S,444,4,"2016,2017,2018,2019",25,6,19,394
+mny,Latn,mny_Latn,Manyawa,M,Lu,LATIN CAPITAL LETTER M,301,4,"2016,2017,2018,2019",2,6,12,281
+mny,Latn,mny_Latn,Manyawa,A,Lu,LATIN CAPITAL LETTER A,292,3,"2017,2018,2019",0,2,17,273
+mny,Latn,mny_Latn,Manyawa,O,Lu,LATIN CAPITAL LETTER O,282,3,"2017,2018,2019",0,4,20,258
+mny,Latn,mny_Latn,Manyawa,",",Po,COMMA,276,4,"2016,2017,2018,2019",2,6,6,262
+mny,Latn,mny_Latn,Manyawa,p,Ll,LATIN SMALL LETTER P,256,4,"2016,2017,2018,2019",6,2,12,236
+mny,Latn,mny_Latn,Manyawa,1,Nd,DIGIT ONE,251,3,"2016,2018,2019",1,0,7,243
+mny,Latn,mny_Latn,Manyawa,:,Po,COLON,228,2,"2018,2019",0,0,2,226
+mny,Latn,mny_Latn,Manyawa,E,Lu,LATIN CAPITAL LETTER E,165,2,"2018,2019",0,0,9,156
+mny,Latn,mny_Latn,Manyawa,2,Nd,DIGIT TWO,146,2,"2018,2019",0,0,5,141
+mny,Latn,mny_Latn,Manyawa,N,Lu,LATIN CAPITAL LETTER N,145,4,"2016,2017,2018,2019",1,2,3,139
+mny,Latn,mny_Latn,Manyawa,W,Lu,LATIN CAPITAL LETTER W,141,3,"2017,2018,2019",0,1,1,139
+mny,Latn,mny_Latn,Manyawa,f,Ll,LATIN SMALL LETTER F,125,4,"2016,2017,2018,2019",1,2,7,115
+mny,Latn,mny_Latn,Manyawa,J,Lu,LATIN CAPITAL LETTER J,119,3,"2017,2018,2019",0,4,2,113
+mny,Latn,mny_Latn,Manyawa,D,Lu,LATIN CAPITAL LETTER D,113,2,"2018,2019",0,0,4,109
+mny,Latn,mny_Latn,Manyawa,3,Nd,DIGIT THREE,111,3,"2016,2018,2019",1,0,2,108
+mny,Latn,mny_Latn,Manyawa,?,Po,QUESTION MARK,108,2,"2018,2019",0,0,5,103
+mny,Latn,mny_Latn,Manyawa,Y,Lu,LATIN CAPITAL LETTER Y,108,3,"2017,2018,2019",0,1,3,104
+mny,Latn,mny_Latn,Manyawa,4,Nd,DIGIT FOUR,107,2,"2018,2019",0,0,3,104
+mny,Latn,mny_Latn,Manyawa,I,Lu,LATIN CAPITAL LETTER I,105,2,"2018,2019",0,0,4,101
+mny,Latn,mny_Latn,Manyawa,B,Lu,LATIN CAPITAL LETTER B,101,4,"2016,2017,2018,2019",1,3,14,83
+mny,Latn,mny_Latn,Manyawa,—,Pd,EM DASH,80,1,2019,0,0,0,80
+mny,Latn,mny_Latn,Manyawa,j,Ll,LATIN SMALL LETTER J,77,4,"2016,2017,2018,2019",5,1,5,66
+mny,Latn,mny_Latn,Manyawa,0,Nd,DIGIT ZERO,72,2,"2018,2019",0,0,7,65
+mny,Latn,mny_Latn,Manyawa,H,Lu,LATIN CAPITAL LETTER H,67,2,"2018,2019",0,0,5,62
+mny,Latn,mny_Latn,Manyawa,5,Nd,DIGIT FIVE,59,2,"2018,2019",0,0,3,56
+mny,Latn,mny_Latn,Manyawa,),Pe,RIGHT PARENTHESIS,59,2,"2018,2019",0,0,1,58
+mny,Latn,mny_Latn,Manyawa,(,Ps,LEFT PARENTHESIS,59,2,"2018,2019",0,0,1,58
+mny,Latn,mny_Latn,Manyawa,L,Lu,LATIN CAPITAL LETTER L,55,2,"2018,2019",0,0,2,53
+mny,Latn,mny_Latn,Manyawa,;,Po,SEMICOLON,49,1,2019,0,0,0,49
+mny,Latn,mny_Latn,Manyawa,8,Nd,DIGIT EIGHT,48,1,2019,0,0,0,48
+mny,Latn,mny_Latn,Manyawa,G,Lu,LATIN CAPITAL LETTER G,47,2,"2018,2019",0,0,2,45
+mny,Latn,mny_Latn,Manyawa,K,Lu,LATIN CAPITAL LETTER K,47,3,"2017,2018,2019",0,1,3,43
+mny,Latn,mny_Latn,Manyawa,S,Lu,LATIN CAPITAL LETTER S,47,2,"2018,2019",0,0,4,43
+mny,Latn,mny_Latn,Manyawa,9,Nd,DIGIT NINE,47,1,2019,0,0,0,47
+mny,Latn,mny_Latn,Manyawa,7,Nd,DIGIT SEVEN,44,1,2019,0,0,0,44
+mny,Latn,mny_Latn,Manyawa,z,Ll,LATIN SMALL LETTER Z,42,2,"2016,2019",1,0,0,41
+mny,Latn,mny_Latn,Manyawa,R,Lu,LATIN CAPITAL LETTER R,40,2,"2018,2019",0,0,6,34
+mny,Latn,mny_Latn,Manyawa,-,Pd,HYPHEN-MINUS,40,2,"2018,2019",0,0,2,38
+mny,Latn,mny_Latn,Manyawa,6,Nd,DIGIT SIX,38,1,2019,0,0,0,38
+mny,Latn,mny_Latn,Manyawa,U,Lu,LATIN CAPITAL LETTER U,37,2,"2018,2019",0,0,4,33
+mny,Latn,mny_Latn,Manyawa,T,Lu,LATIN CAPITAL LETTER T,35,2,"2017,2019",0,1,0,34
+mny,Latn,mny_Latn,Manyawa,P,Lu,LATIN CAPITAL LETTER P,31,2,"2018,2019",0,0,2,29
+mny,Latn,mny_Latn,Manyawa,x,Ll,LATIN SMALL LETTER X,29,2,"2018,2019",0,0,3,26
+mny,Latn,mny_Latn,Manyawa,ã,Ll,LATIN SMALL LETTER A WITH TILDE,26,1,2019,0,0,0,26
+mny,Latn,mny_Latn,Manyawa,“,Pi,LEFT DOUBLE QUOTATION MARK,23,2,"2016,2019",2,0,0,21
+mny,Latn,mny_Latn,Manyawa,”,Pf,RIGHT DOUBLE QUOTATION MARK,23,2,"2016,2019",2,0,0,21
+mny,Latn,mny_Latn,Manyawa,X,Lu,LATIN CAPITAL LETTER X,22,1,2019,0,0,0,22
+mny,Latn,mny_Latn,Manyawa,V,Lu,LATIN CAPITAL LETTER V,22,2,"2018,2019",0,0,1,21
+mny,Latn,mny_Latn,Manyawa,c,Ll,LATIN SMALL LETTER C,22,2,"2016,2019",4,0,0,18
+mny,Latn,mny_Latn,Manyawa,C,Lu,LATIN CAPITAL LETTER C,17,1,2019,0,0,0,17
+mny,Latn,mny_Latn,Manyawa,’,Pf,RIGHT SINGLE QUOTATION MARK,16,1,2019,0,0,0,16
+mny,Latn,mny_Latn,Manyawa,é,Ll,LATIN SMALL LETTER E WITH ACUTE,14,2,"2016,2019",3,0,0,11
+mny,Latn,mny_Latn,Manyawa,í,Ll,LATIN SMALL LETTER I WITH ACUTE,13,2,"2018,2019",0,0,1,12
+mny,Latn,mny_Latn,Manyawa,!,Po,EXCLAMATION MARK,13,3,"2016,2018,2019",3,0,1,9
+mny,Latn,mny_Latn,Manyawa,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,10,1,2019,0,0,0,10
+mny,Latn,mny_Latn,Manyawa,F,Lu,LATIN CAPITAL LETTER F,9,1,2019,0,0,0,9
+mny,Latn,mny_Latn,Manyawa,/,Po,SOLIDUS,9,2,"2018,2019",0,0,8,1
+mny,Latn,mny_Latn,Manyawa,q,Ll,LATIN SMALL LETTER Q,7,3,"2016,2018,2019",2,0,1,4
+mny,Latn,mny_Latn,Manyawa,○,So,WHITE CIRCLE,6,1,2019,0,0,0,6
+mny,Latn,mny_Latn,Manyawa,‘,Pi,LEFT SINGLE QUOTATION MARK,5,1,2019,0,0,0,5
+mny,Latn,mny_Latn,Manyawa,–,Pd,EN DASH,4,2,"2016,2019",2,0,0,2
+mny,Latn,mny_Latn,Manyawa,á,Ll,LATIN SMALL LETTER A WITH ACUTE,4,2,"2016,2019",2,0,0,2
+mny,Latn,mny_Latn,Manyawa,_,Pc,LOW LINE,3,1,2018,0,0,3,0
+mny,Latn,mny_Latn,Manyawa,●,So,BLACK CIRCLE,3,1,2019,0,0,0,3
+mny,Latn,mny_Latn,Manyawa,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,2,1,2019,0,0,0,2
+mny,Latn,mny_Latn,Manyawa,%,Po,PERCENT SIGN,2,1,2019,0,0,0,2
+mny,Latn,mny_Latn,Manyawa,®,So,REGISTERED SIGN,2,1,2019,0,0,0,2
+mny,Latn,mny_Latn,Manyawa,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,1,1,2016,1,0,0,0
+mny,Latn,mny_Latn,Manyawa,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,1,1,2019,0,0,0,1
+mny,Latn,mny_Latn,Manyawa,*,Po,ASTERISK,1,1,2019,0,0,0,1
+mny,Latn,mny_Latn,Manyawa,^,Sk,CIRCUMFLEX ACCENT,1,1,2019,0,0,0,1

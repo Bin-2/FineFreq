@@ -1,0 +1,72 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2018_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+ntp,Latn,ntp_Latn,Northern Tepehuan,a,Ll,LATIN SMALL LETTER A,23832,6,"2014,2018,2020,2021,2022,2023",1475,4901,14258,439,2196,563
+ntp,Latn,ntp_Latn,Northern Tepehuan,i,Ll,LATIN SMALL LETTER I,19507,6,"2014,2018,2020,2021,2022,2023",1233,3893,11912,354,1702,413
+ntp,Latn,ntp_Latn,Northern Tepehuan, ,Zs,SPACE,16938,6,"2014,2018,2020,2021,2022,2023",1025,3496,10352,284,1446,335
+ntp,Latn,ntp_Latn,Northern Tepehuan,ʌ,Ll,LATIN SMALL LETTER TURNED V,14092,6,"2014,2018,2020,2021,2022,2023",897,2783,8523,274,1333,282
+ntp,Latn,ntp_Latn,Northern Tepehuan,d,Ll,LATIN SMALL LETTER D,7668,6,"2014,2018,2020,2021,2022,2023",515,1535,4620,136,690,172
+ntp,Latn,ntp_Latn,Northern Tepehuan,u,Ll,LATIN SMALL LETTER U,7435,6,"2014,2018,2020,2021,2022,2023",442,1599,4545,152,567,130
+ntp,Latn,ntp_Latn,Northern Tepehuan,s,Ll,LATIN SMALL LETTER S,5959,6,"2014,2018,2020,2021,2022,2023",374,1287,3579,111,498,110
+ntp,Latn,ntp_Latn,Northern Tepehuan,m,Ll,LATIN SMALL LETTER M,5292,6,"2014,2018,2020,2021,2022,2023",308,1050,3164,119,541,110
+ntp,Latn,ntp_Latn,Northern Tepehuan,o,Ll,LATIN SMALL LETTER O,5148,6,"2014,2018,2020,2021,2022,2023",351,1177,3012,78,433,97
+ntp,Latn,ntp_Latn,Northern Tepehuan,g,Ll,LATIN SMALL LETTER G,5142,6,"2014,2018,2020,2021,2022,2023",259,1045,3064,107,514,153
+ntp,Latn,ntp_Latn,Northern Tepehuan,t,Ll,LATIN SMALL LETTER T,4508,6,"2014,2018,2020,2021,2022,2023",319,877,2670,95,452,95
+ntp,Latn,ntp_Latn,Northern Tepehuan,c,Ll,LATIN SMALL LETTER C,4267,6,"2014,2018,2020,2021,2022,2023",188,914,2647,69,342,107
+ntp,Latn,ntp_Latn,Northern Tepehuan,r,Ll,LATIN SMALL LETTER R,2600,6,"2014,2018,2020,2021,2022,2023",170,657,1493,41,189,50
+ntp,Latn,ntp_Latn,Northern Tepehuan,v,Ll,LATIN SMALL LETTER V,2585,6,"2014,2018,2020,2021,2022,2023",106,579,1562,49,222,67
+ntp,Latn,ntp_Latn,Northern Tepehuan,n,Ll,LATIN SMALL LETTER N,1853,6,"2014,2018,2020,2021,2022,2023",134,378,1090,42,175,34
+ntp,Latn,ntp_Latn,Northern Tepehuan,p,Ll,LATIN SMALL LETTER P,1357,6,"2014,2018,2020,2021,2022,2023",86,255,835,31,123,27
+ntp,Latn,ntp_Latn,Northern Tepehuan,.,Po,FULL STOP,1261,6,"2014,2018,2020,2021,2022,2023",97,262,764,23,97,18
+ntp,Latn,ntp_Latn,Northern Tepehuan,D,Lu,LATIN CAPITAL LETTER D,1229,6,"2014,2018,2020,2021,2022,2023",88,260,753,24,83,21
+ntp,Latn,ntp_Latn,Northern Tepehuan,l,Ll,LATIN SMALL LETTER L,1136,6,"2014,2018,2020,2021,2022,2023",69,241,678,18,108,22
+ntp,Latn,ntp_Latn,Northern Tepehuan,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,1106,6,"2014,2018,2020,2021,2022,2023",65,199,691,15,105,31
+ntp,Latn,ntp_Latn,Northern Tepehuan,e,Ll,LATIN SMALL LETTER E,462,6,"2014,2018,2020,2021,2022,2023",40,98,281,4,37,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,S,Lu,LATIN CAPITAL LETTER S,450,6,"2014,2018,2020,2021,2022,2023",37,107,269,12,21,4
+ntp,Latn,ntp_Latn,Northern Tepehuan,q,Ll,LATIN SMALL LETTER Q,411,6,"2014,2018,2020,2021,2022,2023",28,74,253,5,42,9
+ntp,Latn,ntp_Latn,Northern Tepehuan,C,Lu,LATIN CAPITAL LETTER C,377,6,"2014,2018,2020,2021,2022,2023",14,118,207,10,24,4
+ntp,Latn,ntp_Latn,Northern Tepehuan,1,Nd,DIGIT ONE,355,6,"2014,2018,2020,2021,2022,2023",17,88,200,5,37,8
+ntp,Latn,ntp_Latn,Northern Tepehuan,b,Ll,LATIN SMALL LETTER B,327,6,"2014,2018,2020,2021,2022,2023",15,70,213,3,20,6
+ntp,Latn,ntp_Latn,Northern Tepehuan,―,Pd,HORIZONTAL BAR,325,5,"2014,2018,2020,2022,2023",68,41,192,0,21,3
+ntp,Latn,ntp_Latn,Northern Tepehuan,j,Ll,LATIN SMALL LETTER J,314,6,"2014,2018,2020,2021,2022,2023",16,68,204,3,20,3
+ntp,Latn,ntp_Latn,Northern Tepehuan,",",Po,COMMA,308,6,"2014,2018,2020,2021,2022,2023",14,71,183,5,21,14
+ntp,Latn,ntp_Latn,Northern Tepehuan,A,Lu,LATIN CAPITAL LETTER A,293,6,"2014,2018,2020,2021,2022,2023",32,70,173,3,14,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,y,Ll,LATIN SMALL LETTER Y,209,6,"2014,2018,2020,2021,2022,2023",7,33,141,1,25,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,2,Nd,DIGIT TWO,202,6,"2014,2018,2020,2021,2022,2023",15,44,128,2,10,3
+ntp,Latn,ntp_Latn,Northern Tepehuan,í,Ll,LATIN SMALL LETTER I WITH ACUTE,159,4,"2014,2018,2020,2022",13,34,104,0,8,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,Ʌ,Lu,LATIN CAPITAL LETTER TURNED V,141,6,"2014,2018,2020,2021,2022,2023",14,32,88,2,4,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,T,Lu,LATIN CAPITAL LETTER T,119,5,"2014,2018,2020,2021,2022",16,14,76,3,10,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,3,Nd,DIGIT THREE,119,6,"2014,2018,2020,2021,2022,2023",15,18,73,1,10,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,4,Nd,DIGIT FOUR,105,6,"2014,2018,2020,2021,2022,2023",15,16,63,1,8,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,V,Lu,LATIN CAPITAL LETTER V,99,6,"2014,2018,2020,2021,2022,2023",27,14,49,1,6,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,G,Lu,LATIN CAPITAL LETTER G,92,5,"2014,2018,2020,2021,2022",6,15,63,3,5,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,:,Po,COLON,92,3,"2014,2018,2020",31,4,57,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,I,Lu,LATIN CAPITAL LETTER I,91,4,"2014,2018,2020,2022",5,21,60,0,5,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,P,Lu,LATIN CAPITAL LETTER P,89,5,"2014,2018,2020,2021,2022",15,21,44,3,6,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,5,Nd,DIGIT FIVE,87,6,"2014,2018,2020,2021,2022,2023",7,15,55,1,7,2
+ntp,Latn,ntp_Latn,Northern Tepehuan,M,Lu,LATIN CAPITAL LETTER M,82,4,"2014,2018,2020,2022",8,24,46,0,4,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,6,Nd,DIGIT SIX,78,6,"2014,2018,2020,2021,2022,2023",5,14,51,1,6,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,7,Nd,DIGIT SEVEN,76,6,"2014,2018,2020,2021,2022,2023",5,14,49,1,6,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,8,Nd,DIGIT EIGHT,67,6,"2014,2018,2020,2021,2022,2023",5,14,40,1,6,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,9,Nd,DIGIT NINE,64,6,"2014,2018,2020,2021,2022,2023",5,13,39,1,5,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,0,Nd,DIGIT ZERO,63,6,"2014,2018,2020,2021,2022,2023",5,12,39,1,5,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,J,Lu,LATIN CAPITAL LETTER J,54,4,"2014,2018,2020,2022",5,20,28,0,1,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,E,Lu,LATIN CAPITAL LETTER E,40,3,"2014,2018,2020",2,20,18,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,B,Lu,LATIN CAPITAL LETTER B,29,4,"2014,2018,2020,2022",3,9,13,0,4,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,O,Lu,LATIN CAPITAL LETTER O,28,4,"2014,2018,2020,2022",2,13,12,0,1,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,Z,Lu,LATIN CAPITAL LETTER Z,28,1,2020,0,0,28,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,N,Lu,LATIN CAPITAL LETTER N,21,4,"2014,2018,2020,2022",10,3,7,0,1,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,f,Ll,LATIN SMALL LETTER F,20,3,"2014,2018,2020",5,9,6,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,?,Po,QUESTION MARK,19,2,"2014,2020",11,0,8,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,“,Pi,LEFT DOUBLE QUOTATION MARK,19,2,"2014,2020",3,0,16,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,”,Pf,RIGHT DOUBLE QUOTATION MARK,19,2,"2014,2020",3,0,16,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,¿,Po,INVERTED QUESTION MARK,19,2,"2014,2020",11,0,8,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,-,Pd,HYPHEN-MINUS,15,4,"2014,2018,2020,2023",2,5,7,0,0,1
+ntp,Latn,ntp_Latn,Northern Tepehuan,h,Ll,LATIN SMALL LETTER H,15,3,"2014,2020,2022",3,0,10,0,2,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,R,Lu,LATIN CAPITAL LETTER R,12,2,"2018,2020",0,5,7,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,U,Lu,LATIN CAPITAL LETTER U,11,2,"2018,2020",0,3,8,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,á,Ll,LATIN SMALL LETTER A WITH ACUTE,9,2,"2014,2020",5,0,4,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,F,Lu,LATIN CAPITAL LETTER F,5,3,"2018,2020,2022",0,1,3,0,1,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3,1,2020,0,0,3,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,;,Po,SEMICOLON,3,1,2020,0,0,3,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,3,1,2020,0,0,3,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,L,Lu,LATIN CAPITAL LETTER L,3,3,"2014,2018,2020",1,1,1,0,0,0
+ntp,Latn,ntp_Latn,Northern Tepehuan,Y,Lu,LATIN CAPITAL LETTER Y,1,1,2020,0,0,1,0,0,0

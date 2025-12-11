@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency
+aia,Latn,aia_Latn,Arosi,a,Ll,LATIN SMALL LETTER A,227411,2,"2017,2019",684,226727
+aia,Latn,aia_Latn,Arosi, ,Zs,SPACE,171566,2,"2017,2019",495,171071
+aia,Latn,aia_Latn,Arosi,i,Ll,LATIN SMALL LETTER I,116080,2,"2017,2019",266,115814
+aia,Latn,aia_Latn,Arosi,',Po,APOSTROPHE,76959,2,"2017,2019",171,76788
+aia,Latn,aia_Latn,Arosi,n,Ll,LATIN SMALL LETTER N,59505,2,"2017,2019",192,59313
+aia,Latn,aia_Latn,Arosi,o,Ll,LATIN SMALL LETTER O,54095,2,"2017,2019",116,53979
+aia,Latn,aia_Latn,Arosi,u,Ll,LATIN SMALL LETTER U,48651,2,"2017,2019",90,48561
+aia,Latn,aia_Latn,Arosi,r,Ll,LATIN SMALL LETTER R,48585,2,"2017,2019",108,48477
+aia,Latn,aia_Latn,Arosi,h,Ll,LATIN SMALL LETTER H,32490,2,"2017,2019",58,32432
+aia,Latn,aia_Latn,Arosi,e,Ll,LATIN SMALL LETTER E,30576,2,"2017,2019",115,30461
+aia,Latn,aia_Latn,Arosi,m,Ll,LATIN SMALL LETTER M,29943,2,"2017,2019",111,29832
+aia,Latn,aia_Latn,Arosi,s,Ll,LATIN SMALL LETTER S,21355,2,"2017,2019",68,21287
+aia,Latn,aia_Latn,Arosi,t,Ll,LATIN SMALL LETTER T,20051,2,"2017,2019",52,19999
+aia,Latn,aia_Latn,Arosi,d,Ll,LATIN SMALL LETTER D,15032,2,"2017,2019",49,14983
+aia,Latn,aia_Latn,Arosi,g,Ll,LATIN SMALL LETTER G,14634,2,"2017,2019",24,14610
+aia,Latn,aia_Latn,Arosi,w,Ll,LATIN SMALL LETTER W,10285,2,"2017,2019",16,10269
+aia,Latn,aia_Latn,Arosi,.,Po,FULL STOP,10063,2,"2017,2019",25,10038
+aia,Latn,aia_Latn,Arosi,b,Ll,LATIN SMALL LETTER B,9371,2,"2017,2019",40,9331
+aia,Latn,aia_Latn,Arosi,",",Po,COMMA,8650,2,"2017,2019",51,8599
+aia,Latn,aia_Latn,Arosi,M,Lu,LATIN CAPITAL LETTER M,4985,2,"2017,2019",17,4968
+aia,Latn,aia_Latn,Arosi,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,3845,1,2019,0,3845
+aia,Latn,aia_Latn,Arosi,1,Nd,DIGIT ONE,3421,2,"2017,2019",13,3408
+aia,Latn,aia_Latn,Arosi,G,Lu,LATIN CAPITAL LETTER G,3392,2,"2017,2019",5,3387
+aia,Latn,aia_Latn,Arosi,-,Pd,HYPHEN-MINUS,3068,2,"2017,2019",5,3063
+aia,Latn,aia_Latn,Arosi,A,Lu,LATIN CAPITAL LETTER A,2820,2,"2017,2019",21,2799
+aia,Latn,aia_Latn,Arosi,I,Lu,LATIN CAPITAL LETTER I,2721,2,"2017,2019",13,2708
+aia,Latn,aia_Latn,Arosi,k,Ll,LATIN SMALL LETTER K,2668,2,"2017,2019",16,2652
+aia,Latn,aia_Latn,Arosi,N,Lu,LATIN CAPITAL LETTER N,2599,2,"2017,2019",9,2590
+aia,Latn,aia_Latn,Arosi,J,Lu,LATIN CAPITAL LETTER J,2320,2,"2017,2019",30,2290
+aia,Latn,aia_Latn,Arosi,2,Nd,DIGIT TWO,2299,2,"2017,2019",9,2290
+aia,Latn,aia_Latn,Arosi,l,Ll,LATIN SMALL LETTER L,1720,2,"2017,2019",26,1694
+aia,Latn,aia_Latn,Arosi,H,Lu,LATIN CAPITAL LETTER H,1485,2,"2017,2019",8,1477
+aia,Latn,aia_Latn,Arosi,3,Nd,DIGIT THREE,1478,2,"2017,2019",3,1475
+aia,Latn,aia_Latn,Arosi,“,Pi,LEFT DOUBLE QUOTATION MARK,1139,1,2019,0,1139
+aia,Latn,aia_Latn,Arosi,4,Nd,DIGIT FOUR,1137,2,"2017,2019",3,1134
+aia,Latn,aia_Latn,Arosi,R,Lu,LATIN CAPITAL LETTER R,1125,2,"2017,2019",7,1118
+aia,Latn,aia_Latn,Arosi,P,Lu,LATIN CAPITAL LETTER P,985,2,"2017,2019",2,983
+aia,Latn,aia_Latn,Arosi,K,Lu,LATIN CAPITAL LETTER K,972,2,"2017,2019",2,970
+aia,Latn,aia_Latn,Arosi,”,Pf,RIGHT DOUBLE QUOTATION MARK,970,1,2019,0,970
+aia,Latn,aia_Latn,Arosi,p,Ll,LATIN SMALL LETTER P,945,2,"2017,2019",11,934
+aia,Latn,aia_Latn,Arosi,O,Lu,LATIN CAPITAL LETTER O,908,2,"2017,2019",3,905
+aia,Latn,aia_Latn,Arosi,5,Nd,DIGIT FIVE,894,2,"2017,2019",3,891
+aia,Latn,aia_Latn,Arosi,T,Lu,LATIN CAPITAL LETTER T,867,2,"2017,2019",1,866
+aia,Latn,aia_Latn,Arosi,:,Po,COLON,804,1,2019,0,804
+aia,Latn,aia_Latn,Arosi,S,Lu,LATIN CAPITAL LETTER S,756,2,"2017,2019",11,745
+aia,Latn,aia_Latn,Arosi,6,Nd,DIGIT SIX,745,2,"2017,2019",2,743
+aia,Latn,aia_Latn,Arosi,7,Nd,DIGIT SEVEN,714,2,"2017,2019",2,712
+aia,Latn,aia_Latn,Arosi,8,Nd,DIGIT EIGHT,691,2,"2017,2019",2,689
+aia,Latn,aia_Latn,Arosi,9,Nd,DIGIT NINE,648,2,"2017,2019",2,646
+aia,Latn,aia_Latn,Arosi,0,Nd,DIGIT ZERO,639,2,"2017,2019",2,637
+aia,Latn,aia_Latn,Arosi,?,Po,QUESTION MARK,580,1,2019,0,580
+aia,Latn,aia_Latn,Arosi,E,Lu,LATIN CAPITAL LETTER E,468,2,"2017,2019",13,455
+aia,Latn,aia_Latn,Arosi,!,Po,EXCLAMATION MARK,423,1,2019,0,423
+aia,Latn,aia_Latn,Arosi,B,Lu,LATIN CAPITAL LETTER B,370,2,"2017,2019",6,364
+aia,Latn,aia_Latn,Arosi,v,Ll,LATIN SMALL LETTER V,297,2,"2017,2019",7,290
+aia,Latn,aia_Latn,Arosi,j,Ll,LATIN SMALL LETTER J,214,2,"2017,2019",4,210
+aia,Latn,aia_Latn,Arosi,D,Lu,LATIN CAPITAL LETTER D,214,2,"2017,2019",6,208
+aia,Latn,aia_Latn,Arosi,U,Lu,LATIN CAPITAL LETTER U,211,2,"2017,2019",3,208
+aia,Latn,aia_Latn,Arosi,*,Po,ASTERISK,180,1,2019,0,180
+aia,Latn,aia_Latn,Arosi,),Pe,RIGHT PARENTHESIS,170,2,"2017,2019",4,166
+aia,Latn,aia_Latn,Arosi,(,Ps,LEFT PARENTHESIS,170,2,"2017,2019",4,166
+aia,Latn,aia_Latn,Arosi,‘,Pi,LEFT SINGLE QUOTATION MARK,157,1,2019,0,157
+aia,Latn,aia_Latn,Arosi,’,Pf,RIGHT SINGLE QUOTATION MARK,156,1,2019,0,156
+aia,Latn,aia_Latn,Arosi,L,Lu,LATIN CAPITAL LETTER L,151,1,2019,0,151
+aia,Latn,aia_Latn,Arosi,W,Lu,LATIN CAPITAL LETTER W,116,1,2019,0,116
+aia,Latn,aia_Latn,Arosi,f,Ll,LATIN SMALL LETTER F,113,2,"2017,2019",2,111
+aia,Latn,aia_Latn,Arosi,F,Lu,LATIN CAPITAL LETTER F,113,1,2019,0,113
+aia,Latn,aia_Latn,Arosi,;,Po,SEMICOLON,110,1,2019,0,110
+aia,Latn,aia_Latn,Arosi,†,Po,DAGGER,67,1,2019,0,67
+aia,Latn,aia_Latn,Arosi,‡,Po,DOUBLE DAGGER,49,1,2019,0,49
+aia,Latn,aia_Latn,Arosi,§,Po,SECTION SIGN,23,1,2019,0,23
+aia,Latn,aia_Latn,Arosi,+,Sm,PLUS SIGN,23,1,2019,0,23
+aia,Latn,aia_Latn,Arosi,c,Ll,LATIN SMALL LETTER C,17,1,2019,0,17
+aia,Latn,aia_Latn,Arosi,Ӡ,Lu,CYRILLIC CAPITAL LETTER ABKHASIAN DZE,15,1,2019,0,15
+aia,Latn,aia_Latn,Arosi,/,Po,SOLIDUS,8,1,2019,0,8
+aia,Latn,aia_Latn,Arosi,—,Pd,EM DASH,7,1,2019,0,7
+aia,Latn,aia_Latn,Arosi,y,Ll,LATIN SMALL LETTER Y,6,2,"2017,2019",1,5
+aia,Latn,aia_Latn,Arosi,C,Lu,LATIN CAPITAL LETTER C,4,2,"2017,2019",1,3
+aia,Latn,aia_Latn,Arosi,"""",Po,QUOTATION MARK,4,1,2017,4,0

@@ -1,0 +1,25 @@
+{
+  "language_code": "eng_Latn",
+  "iso_639_3": "eng",
+  "script": "Latn",
+  "language_name": "English",
+  "total_characters": 69211,
+  "total_frequency": 81075397566715,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "data_source": "FineWeb, v1.4.0",
+  "generated_on": "2025-12-03T18:11:52.938910"
+}

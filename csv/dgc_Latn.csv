@@ -1,0 +1,79 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2023_frequency
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta, ,Zs,SPACE,192143,6,"2017,2018,2019,2020,2021,2023",426,159667,14970,7716,427,8937
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,a,Ll,LATIN SMALL LETTER A,160305,6,"2017,2018,2019,2020,2021,2023",398,132251,13001,6785,435,7435
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,n,Ll,LATIN SMALL LETTER N,68044,6,"2017,2018,2019,2020,2021,2023",164,56681,5102,2774,154,3169
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,i,Ll,LATIN SMALL LETTER I,64357,6,"2017,2018,2019,2020,2021,2023",118,53458,5096,2679,140,2866
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,t,Ll,LATIN SMALL LETTER T,42743,6,"2017,2018,2019,2020,2021,2023",100,35241,3595,1732,105,1970
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,d,Ll,LATIN SMALL LETTER D,36264,6,"2017,2018,2019,2020,2021,2023",76,30855,2308,1248,83,1694
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,y,Ll,LATIN SMALL LETTER Y,35726,6,"2017,2018,2019,2020,2021,2023",79,29608,2883,1363,78,1715
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,u,Ll,LATIN SMALL LETTER U,35275,6,"2017,2018,2019,2020,2021,2023",69,29687,2488,1268,54,1709
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,s,Ll,LATIN SMALL LETTER S,34847,6,"2017,2018,2019,2020,2021,2023",61,29126,2730,1314,59,1557
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,e,Ll,LATIN SMALL LETTER E,33152,6,"2017,2018,2019,2020,2021,2023",75,28562,1854,1075,64,1522
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,k,Ll,LATIN SMALL LETTER K,32576,6,"2017,2018,2019,2020,2021,2023",82,26865,2680,1327,79,1543
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,é,Ll,LATIN SMALL LETTER E WITH ACUTE,32484,6,"2017,2018,2019,2020,2021,2023",72,27169,2508,1145,76,1514
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,o,Ll,LATIN SMALL LETTER O,29637,6,"2017,2018,2019,2020,2021,2023",72,24414,2559,1157,75,1360
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,m,Ll,LATIN SMALL LETTER M,28642,6,"2017,2018,2019,2020,2021,2023",125,22868,2844,1242,127,1436
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,g,Ll,LATIN SMALL LETTER G,28126,6,"2017,2018,2019,2020,2021,2023",56,23493,2050,1084,69,1374
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,l,Ll,LATIN SMALL LETTER L,21608,6,"2017,2018,2019,2020,2021,2023",53,17900,1681,910,46,1018
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,",",Po,COMMA,17537,6,"2017,2018,2019,2020,2021,2023",22,15073,1019,586,41,796
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,p,Ll,LATIN SMALL LETTER P,15715,6,"2017,2018,2019,2020,2021,2023",42,12780,1457,669,36,731
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,b,Ll,LATIN SMALL LETTER B,12663,6,"2017,2018,2019,2020,2021,2023",20,10713,830,435,27,638
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,.,Po,FULL STOP,11337,6,"2017,2018,2019,2020,2021,2023",27,9279,1011,510,27,483
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,r,Ll,LATIN SMALL LETTER R,8175,6,"2017,2018,2019,2020,2021,2023",19,6729,696,352,15,364
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,h,Ll,LATIN SMALL LETTER H,8069,6,"2017,2018,2019,2020,2021,2023",26,6465,801,384,19,374
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,w,Ll,LATIN SMALL LETTER W,7726,6,"2017,2018,2019,2020,2021,2023",17,6440,592,303,17,357
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,E,Lu,LATIN CAPITAL LETTER E,4339,6,"2017,2018,2019,2020,2021,2023",5,3789,214,140,4,187
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,J,Lu,LATIN CAPITAL LETTER J,3859,6,"2017,2018,2019,2020,2021,2023",1,3490,130,79,3,156
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,D,Lu,LATIN CAPITAL LETTER D,3534,6,"2017,2018,2019,2020,2021,2023",10,2732,417,215,8,152
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,“,Pi,LEFT DOUBLE QUOTATION MARK,3259,4,"2018,2019,2020,2023",0,2991,29,58,0,181
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,P,Lu,LATIN CAPITAL LETTER P,3039,6,"2017,2018,2019,2020,2021,2023",4,2532,268,98,12,125
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,”,Pf,RIGHT DOUBLE QUOTATION MARK,2971,4,"2018,2019,2020,2023",0,2730,28,55,0,158
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,1,Nd,DIGIT ONE,2926,6,"2017,2018,2019,2020,2021,2023",19,2378,274,117,11,127
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,N,Lu,LATIN CAPITAL LETTER N,2498,6,"2017,2018,2019,2020,2021,2023",7,2149,138,81,7,116
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,2,Nd,DIGIT TWO,2457,6,"2017,2018,2019,2020,2021,2023",2,2132,153,64,2,104
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,S,Lu,LATIN CAPITAL LETTER S,2447,6,"2017,2018,2019,2020,2021,2023",13,1916,239,156,2,121
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,T,Lu,LATIN CAPITAL LETTER T,2416,5,"2017,2018,2019,2020,2023",5,2030,164,91,0,126
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,M,Lu,LATIN CAPITAL LETTER M,1830,6,"2017,2018,2019,2020,2021,2023",5,1518,139,83,1,84
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,3,Nd,DIGIT THREE,1787,6,"2017,2018,2019,2020,2021,2023",4,1599,62,39,2,81
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,K,Lu,LATIN CAPITAL LETTER K,1453,6,"2017,2018,2019,2020,2021,2023",2,1183,132,68,4,64
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,4,Nd,DIGIT FOUR,1272,6,"2017,2018,2019,2020,2021,2023",1,1110,55,38,2,66
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,I,Lu,LATIN CAPITAL LETTER I,1003,6,"2017,2018,2019,2020,2021,2023",5,819,93,41,1,44
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,A,Lu,LATIN CAPITAL LETTER A,985,6,"2017,2018,2019,2020,2021,2023",10,872,45,31,1,26
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,5,Nd,DIGIT FIVE,943,6,"2017,2018,2019,2020,2021,2023",1,809,50,36,2,45
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,-,Pd,HYPHEN-MINUS,921,6,"2017,2018,2019,2020,2021,2023",3,792,70,35,2,19
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,B,Lu,LATIN CAPITAL LETTER B,915,5,"2017,2018,2019,2020,2023",2,768,65,33,0,47
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,?,Po,QUESTION MARK,863,5,"2017,2018,2019,2020,2023",1,795,15,6,0,46
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,6,Nd,DIGIT SIX,824,6,"2017,2018,2019,2020,2021,2023",4,692,51,33,2,42
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,7,Nd,DIGIT SEVEN,768,6,"2017,2018,2019,2020,2021,2023",1,653,47,32,2,33
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,9,Nd,DIGIT NINE,685,6,"2017,2018,2019,2020,2021,2023",2,587,45,21,1,29
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,8,Nd,DIGIT EIGHT,683,6,"2017,2018,2019,2020,2021,2023",2,579,45,23,2,32
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,H,Lu,LATIN CAPITAL LETTER H,663,4,"2018,2019,2020,2023",0,569,10,28,0,56
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,0,Nd,DIGIT ZERO,636,6,"2017,2018,2019,2020,2021,2023",3,538,43,21,1,30
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,!,Po,EXCLAMATION MARK,598,4,"2018,2019,2020,2023",0,553,10,10,0,25
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,:,Po,COLON,487,6,"2017,2018,2019,2020,2021,2023",6,444,17,10,1,9
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,G,Lu,LATIN CAPITAL LETTER G,450,5,"2017,2018,2019,2020,2023",3,372,36,23,0,16
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,C,Lu,LATIN CAPITAL LETTER C,407,6,"2017,2018,2019,2020,2021,2023",3,176,176,43,4,5
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,;,Po,SEMICOLON,392,5,"2017,2018,2019,2020,2023",5,317,39,10,0,21
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,‘,Pi,LEFT SINGLE QUOTATION MARK,321,4,"2017,2018,2020,2023",1,306,0,2,0,12
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,’,Pf,RIGHT SINGLE QUOTATION MARK,319,4,"2017,2018,2020,2023",1,304,0,2,0,12
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,ˈ,Lm,MODIFIER LETTER VERTICAL LINE,310,6,"2017,2018,2019,2020,2021,2023",1,233,40,12,2,22
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,L,Lu,LATIN CAPITAL LETTER L,310,5,"2017,2018,2019,2020,2023",1,285,8,4,0,12
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,R,Lu,LATIN CAPITAL LETTER R,143,5,"2017,2018,2019,2020,2023",1,137,1,1,0,3
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,U,Lu,LATIN CAPITAL LETTER U,134,5,"2017,2018,2019,2020,2023",2,102,14,8,0,8
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,O,Lu,LATIN CAPITAL LETTER O,107,4,"2018,2019,2020,2023",0,89,10,3,0,5
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,c,Ll,LATIN SMALL LETTER C,100,1,2018,0,100,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,f,Ll,LATIN SMALL LETTER F,78,1,2018,0,78,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,(,Ps,LEFT PARENTHESIS,71,4,"2017,2018,2020,2023",1,64,0,1,0,5
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,),Pe,RIGHT PARENTHESIS,71,4,"2017,2018,2020,2023",1,64,0,1,0,5
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,W,Lu,LATIN CAPITAL LETTER W,32,2,"2018,2019",0,30,2,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,|,Sm,VERTICAL LINE,26,1,2018,0,26,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,x,Ll,LATIN SMALL LETTER X,26,1,2018,0,26,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,V,Lu,LATIN CAPITAL LETTER V,26,1,2018,0,26,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,©,So,COPYRIGHT SIGN,26,1,2018,0,26,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,v,Ll,LATIN SMALL LETTER V,26,1,2018,0,26,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,á,Ll,LATIN SMALL LETTER A WITH ACUTE,8,1,2018,0,8,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,Y,Lu,LATIN CAPITAL LETTER Y,6,3,"2018,2020,2023",0,3,0,1,0,2
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,',Po,APOSTROPHE,2,1,2017,2,0,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,í,Ll,LATIN SMALL LETTER I WITH ACUTE,2,2,"2018,2020",0,1,0,1,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,Z,Lu,LATIN CAPITAL LETTER Z,1,1,2018,0,1,0,0,0,0
+dgc,Latn,dgc_Latn,Casiguran Dumagat Agta,z,Ll,LATIN SMALL LETTER Z,1,1,2018,0,1,0,0,0,0

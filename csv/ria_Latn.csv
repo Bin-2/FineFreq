@@ -1,0 +1,99 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2023_frequency
+ria,Latn,ria_Latn,Riang (India), ,Zs,SPACE,26255,5,"2018,2019,2020,2021,2023",605,24354,78,510,708
+ria,Latn,ria_Latn,Riang (India),a,Ll,LATIN SMALL LETTER A,14482,5,"2018,2019,2020,2021,2023",331,13457,35,259,400
+ria,Latn,ria_Latn,Riang (India),i,Ll,LATIN SMALL LETTER I,9655,5,"2018,2019,2020,2021,2023",247,8867,24,237,280
+ria,Latn,ria_Latn,Riang (India),h,Ll,LATIN SMALL LETTER H,9584,5,"2018,2019,2020,2021,2023",259,8858,27,200,240
+ria,Latn,ria_Latn,Riang (India),n,Ll,LATIN SMALL LETTER N,8976,5,"2018,2019,2020,2021,2023",219,8290,24,175,268
+ria,Latn,ria_Latn,Riang (India),o,Ll,LATIN SMALL LETTER O,8861,5,"2018,2019,2020,2021,2023",225,8174,35,142,285
+ria,Latn,ria_Latn,Riang (India),e,Ll,LATIN SMALL LETTER E,5720,5,"2018,2019,2020,2021,2023",112,5263,19,146,180
+ria,Latn,ria_Latn,Riang (India),u,Ll,LATIN SMALL LETTER U,5481,5,"2018,2019,2020,2021,2023",120,5134,20,83,124
+ria,Latn,ria_Latn,Riang (India),g,Ll,LATIN SMALL LETTER G,5021,5,"2018,2019,2020,2021,2023",120,4694,13,65,129
+ria,Latn,ria_Latn,Riang (India),r,Ll,LATIN SMALL LETTER R,4074,5,"2018,2019,2020,2021,2023",93,3796,8,65,112
+ria,Latn,ria_Latn,Riang (India),k,Ll,LATIN SMALL LETTER K,3974,5,"2018,2019,2020,2021,2023",113,3635,9,106,111
+ria,Latn,ria_Latn,Riang (India),m,Ll,LATIN SMALL LETTER M,3825,5,"2018,2019,2020,2021,2023",74,3528,22,74,127
+ria,Latn,ria_Latn,Riang (India),t,Ll,LATIN SMALL LETTER T,3777,5,"2018,2019,2020,2021,2023",66,3573,10,41,87
+ria,Latn,ria_Latn,Riang (India),s,Ll,LATIN SMALL LETTER S,3508,5,"2018,2019,2020,2021,2023",69,3248,5,75,111
+ria,Latn,ria_Latn,Riang (India),l,Ll,LATIN SMALL LETTER L,2561,5,"2018,2019,2020,2021,2023",56,2399,6,57,43
+ria,Latn,ria_Latn,Riang (India),b,Ll,LATIN SMALL LETTER B,2421,5,"2018,2019,2020,2021,2023",55,2171,9,98,88
+ria,Latn,ria_Latn,Riang (India),y,Ll,LATIN SMALL LETTER Y,2407,5,"2018,2019,2020,2021,2023",57,2260,5,31,54
+ria,Latn,ria_Latn,Riang (India),p,Ll,LATIN SMALL LETTER P,2112,5,"2018,2019,2020,2021,2023",59,1958,10,22,63
+ria,Latn,ria_Latn,Riang (India),A,Lu,LATIN CAPITAL LETTER A,1886,5,"2018,2019,2020,2021,2023",42,1804,1,23,16
+ria,Latn,ria_Latn,Riang (India),.,Po,FULL STOP,1482,5,"2018,2019,2020,2021,2023",9,1417,4,23,29
+ria,Latn,ria_Latn,Riang (India),c,Ll,LATIN SMALL LETTER C,1367,5,"2018,2019,2020,2021,2023",30,1275,3,21,38
+ria,Latn,ria_Latn,Riang (India),H,Lu,LATIN CAPITAL LETTER H,1210,4,"2018,2019,2021,2023",40,1157,0,8,5
+ria,Latn,ria_Latn,Riang (India),d,Ll,LATIN SMALL LETTER D,1086,5,"2018,2019,2020,2021,2023",15,1008,1,29,33
+ria,Latn,ria_Latn,Riang (India),I,Lu,LATIN CAPITAL LETTER I,966,4,"2018,2019,2021,2023",40,914,0,5,7
+ria,Latn,ria_Latn,Riang (India),",",Po,COMMA,948,4,"2018,2019,2021,2023",52,815,0,52,29
+ria,Latn,ria_Latn,Riang (India),O,Lu,LATIN CAPITAL LETTER O,870,4,"2018,2019,2021,2023",26,839,0,3,2
+ria,Latn,ria_Latn,Riang (India),B,Lu,LATIN CAPITAL LETTER B,870,5,"2018,2019,2020,2021,2023",23,802,3,11,31
+ria,Latn,ria_Latn,Riang (India),j,Ll,LATIN SMALL LETTER J,766,4,"2018,2019,2021,2023",15,719,0,8,24
+ria,Latn,ria_Latn,Riang (India),R,Lu,LATIN CAPITAL LETTER R,756,5,"2018,2019,2020,2021,2023",26,707,2,6,15
+ria,Latn,ria_Latn,Riang (India),M,Lu,LATIN CAPITAL LETTER M,752,4,"2018,2019,2021,2023",14,722,0,11,5
+ria,Latn,ria_Latn,Riang (India),N,Lu,LATIN CAPITAL LETTER N,735,4,"2018,2019,2021,2023",22,708,0,3,2
+ria,Latn,ria_Latn,Riang (India),K,Lu,LATIN CAPITAL LETTER K,683,4,"2018,2019,2021,2023",21,638,0,6,18
+ria,Latn,ria_Latn,Riang (India),U,Lu,LATIN CAPITAL LETTER U,640,4,"2018,2019,2021,2023",20,613,0,3,4
+ria,Latn,ria_Latn,Riang (India),T,Lu,LATIN CAPITAL LETTER T,633,5,"2018,2019,2020,2021,2023",23,600,1,3,6
+ria,Latn,ria_Latn,Riang (India),S,Lu,LATIN CAPITAL LETTER S,592,4,"2018,2019,2021,2023",17,564,0,6,5
+ria,Latn,ria_Latn,Riang (India),w,Ll,LATIN SMALL LETTER W,554,4,"2018,2019,2021,2023",14,500,0,10,30
+ria,Latn,ria_Latn,Riang (India),G,Lu,LATIN CAPITAL LETTER G,489,3,"2018,2019,2023",15,472,0,0,2
+ria,Latn,ria_Latn,Riang (India),),Pe,RIGHT PARENTHESIS,441,4,"2018,2019,2021,2023",3,429,0,3,6
+ria,Latn,ria_Latn,Riang (India),L,Lu,LATIN CAPITAL LETTER L,398,4,"2018,2019,2021,2023",16,379,0,2,1
+ria,Latn,ria_Latn,Riang (India),E,Lu,LATIN CAPITAL LETTER E,396,4,"2018,2019,2021,2023",23,364,0,6,3
+ria,Latn,ria_Latn,Riang (India),P,Lu,LATIN CAPITAL LETTER P,359,5,"2018,2019,2020,2021,2023",9,340,3,4,3
+ria,Latn,ria_Latn,Riang (India),-,Pd,HYPHEN-MINUS,274,4,"2018,2019,2021,2023",11,255,0,2,6
+ria,Latn,ria_Latn,Riang (India),C,Lu,LATIN CAPITAL LETTER C,228,5,"2018,2019,2020,2021,2023",13,202,2,3,8
+ria,Latn,ria_Latn,Riang (India),1,Nd,DIGIT ONE,218,4,"2018,2019,2021,2023",3,196,0,15,4
+ria,Latn,ria_Latn,Riang (India),f,Ll,LATIN SMALL LETTER F,216,3,"2018,2019,2023",1,211,0,0,4
+ria,Latn,ria_Latn,Riang (India),D,Lu,LATIN CAPITAL LETTER D,210,5,"2018,2019,2020,2021,2023",7,189,1,6,7
+ria,Latn,ria_Latn,Riang (India),(,Ps,LEFT PARENTHESIS,190,4,"2018,2019,2021,2023",2,179,0,3,6
+ria,Latn,ria_Latn,Riang (India),J,Lu,LATIN CAPITAL LETTER J,187,4,"2018,2019,2021,2023",10,144,0,30,3
+ria,Latn,ria_Latn,Riang (India),Y,Lu,LATIN CAPITAL LETTER Y,162,3,"2018,2019,2023",5,156,0,0,1
+ria,Latn,ria_Latn,Riang (India),2,Nd,DIGIT TWO,135,4,"2018,2019,2021,2023",4,115,0,11,5
+ria,Latn,ria_Latn,Riang (India),=,Sm,EQUALS SIGN,121,1,2019,0,121,0,0,0
+ria,Latn,ria_Latn,Riang (India),v,Ll,LATIN SMALL LETTER V,116,3,"2019,2020,2023",0,111,1,0,4
+ria,Latn,ria_Latn,Riang (India),·,Po,MIDDLE DOT,101,1,2019,0,101,0,0,0
+ria,Latn,ria_Latn,Riang (India),3,Nd,DIGIT THREE,100,3,"2019,2021,2023",0,92,0,6,2
+ria,Latn,ria_Latn,Riang (India),0,Nd,DIGIT ZERO,97,3,"2019,2021,2023",0,90,0,2,5
+ria,Latn,ria_Latn,Riang (India),4,Nd,DIGIT FOUR,95,4,"2018,2019,2021,2023",1,87,0,3,4
+ria,Latn,ria_Latn,Riang (India),W,Lu,LATIN CAPITAL LETTER W,93,3,"2018,2019,2023",8,82,0,0,3
+ria,Latn,ria_Latn,Riang (India),"""",Po,QUOTATION MARK,87,2,"2018,2019",4,83,0,0,0
+ria,Latn,ria_Latn,Riang (India),9,Nd,DIGIT NINE,85,4,"2018,2019,2021,2023",3,77,0,2,3
+ria,Latn,ria_Latn,Riang (India),6,Nd,DIGIT SIX,82,4,"2018,2019,2021,2023",1,74,0,2,5
+ria,Latn,ria_Latn,Riang (India),5,Nd,DIGIT FIVE,82,4,"2018,2019,2021,2023",2,75,0,3,2
+ria,Latn,ria_Latn,Riang (India),7,Nd,DIGIT SEVEN,75,3,"2019,2021,2023",0,67,0,3,5
+ria,Latn,ria_Latn,Riang (India),:,Po,COLON,72,4,"2018,2019,2021,2023",2,64,0,2,4
+ria,Latn,ria_Latn,Riang (India),8,Nd,DIGIT EIGHT,67,4,"2018,2019,2021,2023",1,62,0,3,1
+ria,Latn,ria_Latn,Riang (India),z,Ll,LATIN SMALL LETTER Z,55,4,"2019,2020,2021,2023",0,33,1,18,3
+ria,Latn,ria_Latn,Riang (India),/,Po,SOLIDUS,54,3,"2018,2019,2023",7,40,0,0,7
+ria,Latn,ria_Latn,Riang (India),“,Pi,LEFT DOUBLE QUOTATION MARK,53,2,"2019,2021",0,50,0,3,0
+ria,Latn,ria_Latn,Riang (India),”,Pf,RIGHT DOUBLE QUOTATION MARK,52,3,"2018,2019,2021",1,48,0,3,0
+ria,Latn,ria_Latn,Riang (India),?,Po,QUESTION MARK,35,1,2019,0,35,0,0,0
+ria,Latn,ria_Latn,Riang (India),F,Lu,LATIN CAPITAL LETTER F,33,3,"2018,2019,2023",2,28,0,0,3
+ria,Latn,ria_Latn,Riang (India),Z,Lu,LATIN CAPITAL LETTER Z,29,2,"2019,2021",0,24,0,5,0
+ria,Latn,ria_Latn,Riang (India),',Po,APOSTROPHE,29,1,2019,0,29,0,0,0
+ria,Latn,ria_Latn,Riang (India),*,Po,ASTERISK,28,1,2019,0,28,0,0,0
+ria,Latn,ria_Latn,Riang (India),;,Po,SEMICOLON,26,2,"2019,2021",0,25,0,1,0
+ria,Latn,ria_Latn,Riang (India),’,Pf,RIGHT SINGLE QUOTATION MARK,24,1,2019,0,24,0,0,0
+ria,Latn,ria_Latn,Riang (India),á,Ll,LATIN SMALL LETTER A WITH ACUTE,20,2,"2019,2021",0,16,0,4,0
+ria,Latn,ria_Latn,Riang (India),●,So,BLACK CIRCLE,18,1,2019,0,18,0,0,0
+ria,Latn,ria_Latn,Riang (India),‘,Pi,LEFT SINGLE QUOTATION MARK,16,1,2019,0,16,0,0,0
+ria,Latn,ria_Latn,Riang (India),•,Po,BULLET,14,2,"2019,2023",0,7,0,0,7
+ria,Latn,ria_Latn,Riang (India),x,Ll,LATIN SMALL LETTER X,14,2,"2018,2019",3,11,0,0,0
+ria,Latn,ria_Latn,Riang (India),!,Po,EXCLAMATION MARK,13,2,"2019,2023",0,12,0,0,1
+ria,Latn,ria_Latn,Riang (India),V,Lu,LATIN CAPITAL LETTER V,12,2,"2018,2019",1,11,0,0,0
+ria,Latn,ria_Latn,Riang (India),–,Pd,EN DASH,10,1,2019,0,10,0,0,0
+ria,Latn,ria_Latn,Riang (India),q,Ll,LATIN SMALL LETTER Q,10,1,2019,0,10,0,0,0
+ria,Latn,ria_Latn,Riang (India),>,Sm,GREATER-THAN SIGN,9,1,2019,0,9,0,0,0
+ria,Latn,ria_Latn,Riang (India),ó,Ll,LATIN SMALL LETTER O WITH ACUTE,9,1,2019,0,9,0,0,0
+ria,Latn,ria_Latn,Riang (India),Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,9,1,2019,0,9,0,0,0
+ria,Latn,ria_Latn,Riang (India),Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,5,1,2019,0,5,0,0,0
+ria,Latn,ria_Latn,Riang (India),_,Pc,LOW LINE,4,1,2019,0,4,0,0,0
+ria,Latn,ria_Latn,Riang (India),&,Po,AMPERSAND,3,2,"2019,2023",0,2,0,0,1
+ria,Latn,ria_Latn,Riang (India),},Pe,RIGHT CURLY BRACKET,3,1,2019,0,3,0,0,0
+ria,Latn,ria_Latn,Riang (India),{,Ps,LEFT CURLY BRACKET,3,1,2019,0,3,0,0,0
+ria,Latn,ria_Latn,Riang (India),Q,Lu,LATIN CAPITAL LETTER Q,2,1,2019,0,2,0,0,0
+ria,Latn,ria_Latn,Riang (India),%,Po,PERCENT SIGN,2,1,2019,0,2,0,0,0
+ria,Latn,ria_Latn,Riang (India),X,Lu,LATIN CAPITAL LETTER X,1,1,2019,0,1,0,0,0
+ria,Latn,ria_Latn,Riang (India),ñ,Ll,LATIN SMALL LETTER N WITH TILDE,1,1,2019,0,1,0,0,0
+ria,Latn,ria_Latn,Riang (India),ú,Ll,LATIN SMALL LETTER U WITH ACUTE,1,1,2019,0,1,0,0,0
+ria,Latn,ria_Latn,Riang (India),+,Sm,PLUS SIGN,1,1,2023,0,0,0,0,1

@@ -1,0 +1,18 @@
+{
+  "language_code": "yad_Latn",
+  "iso_639_3": "yad",
+  "script": "Latn",
+  "language_name": "Yagua",
+  "total_characters": 83,
+  "total_frequency": 263146,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2019",
+    "2020",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.016615"
+}

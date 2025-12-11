@@ -1,0 +1,23 @@
+{
+  "language_code": "kaa_Cyrl",
+  "iso_639_3": "kaa",
+  "script": "Cyrl",
+  "language_name": "Kara-Kalpak",
+  "total_characters": 437,
+  "total_frequency": 29456232,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:58.563603"
+}

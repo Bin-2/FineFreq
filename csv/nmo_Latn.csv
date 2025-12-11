@@ -1,0 +1,74 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2021_frequency
+nmo,Latn,nmo_Latn,Moyon Naga,a,Ll,LATIN SMALL LETTER A,30128,2,"2019,2021",29641,487
+nmo,Latn,nmo_Latn,Moyon Naga, ,Zs,SPACE,29144,2,"2019,2021",28692,452
+nmo,Latn,nmo_Latn,Moyon Naga,n,Ll,LATIN SMALL LETTER N,22421,2,"2019,2021",22089,332
+nmo,Latn,nmo_Latn,Moyon Naga,h,Ll,LATIN SMALL LETTER H,17625,2,"2019,2021",17379,246
+nmo,Latn,nmo_Latn,Moyon Naga,i,Ll,LATIN SMALL LETTER I,16998,2,"2019,2021",16733,265
+nmo,Latn,nmo_Latn,Moyon Naga,e,Ll,LATIN SMALL LETTER E,15754,2,"2019,2021",15493,261
+nmo,Latn,nmo_Latn,Moyon Naga,g,Ll,LATIN SMALL LETTER G,9514,2,"2019,2021",9365,149
+nmo,Latn,nmo_Latn,Moyon Naga,u,Ll,LATIN SMALL LETTER U,9211,2,"2019,2021",9038,173
+nmo,Latn,nmo_Latn,Moyon Naga,k,Ll,LATIN SMALL LETTER K,6812,2,"2019,2021",6726,86
+nmo,Latn,nmo_Latn,Moyon Naga,c,Ll,LATIN SMALL LETTER C,6552,2,"2019,2021",6466,86
+nmo,Latn,nmo_Latn,Moyon Naga,r,Ll,LATIN SMALL LETTER R,6184,2,"2019,2021",6065,119
+nmo,Latn,nmo_Latn,Moyon Naga,m,Ll,LATIN SMALL LETTER M,5928,2,"2019,2021",5827,101
+nmo,Latn,nmo_Latn,Moyon Naga,t,Ll,LATIN SMALL LETTER T,4726,2,"2019,2021",4631,95
+nmo,Latn,nmo_Latn,Moyon Naga,s,Ll,LATIN SMALL LETTER S,4024,2,"2019,2021",3950,74
+nmo,Latn,nmo_Latn,Moyon Naga,o,Ll,LATIN SMALL LETTER O,3558,2,"2019,2021",3505,53
+nmo,Latn,nmo_Latn,Moyon Naga,v,Ll,LATIN SMALL LETTER V,3454,2,"2019,2021",3416,38
+nmo,Latn,nmo_Latn,Moyon Naga,w,Ll,LATIN SMALL LETTER W,3411,2,"2019,2021",3354,57
+nmo,Latn,nmo_Latn,Moyon Naga,p,Ll,LATIN SMALL LETTER P,2990,2,"2019,2021",2930,60
+nmo,Latn,nmo_Latn,Moyon Naga,",",Po,COMMA,1769,2,"2019,2021",1748,21
+nmo,Latn,nmo_Latn,Moyon Naga,.,Po,FULL STOP,1580,2,"2019,2021",1559,21
+nmo,Latn,nmo_Latn,Moyon Naga,y,Ll,LATIN SMALL LETTER Y,1263,2,"2019,2021",1250,13
+nmo,Latn,nmo_Latn,Moyon Naga,l,Ll,LATIN SMALL LETTER L,1178,2,"2019,2021",1158,20
+nmo,Latn,nmo_Latn,Moyon Naga,b,Ll,LATIN SMALL LETTER B,994,2,"2019,2021",988,6
+nmo,Latn,nmo_Latn,Moyon Naga,A,Lu,LATIN CAPITAL LETTER A,952,2,"2019,2021",938,14
+nmo,Latn,nmo_Latn,Moyon Naga,j,Ll,LATIN SMALL LETTER J,931,2,"2019,2021",907,24
+nmo,Latn,nmo_Latn,Moyon Naga,J,Lu,LATIN CAPITAL LETTER J,895,2,"2019,2021",875,20
+nmo,Latn,nmo_Latn,Moyon Naga,1,Nd,DIGIT ONE,779,2,"2019,2021",764,15
+nmo,Latn,nmo_Latn,Moyon Naga,2,Nd,DIGIT TWO,638,2,"2019,2021",628,10
+nmo,Latn,nmo_Latn,Moyon Naga,d,Ll,LATIN SMALL LETTER D,552,2,"2019,2021",527,25
+nmo,Latn,nmo_Latn,Moyon Naga,3,Nd,DIGIT THREE,520,2,"2019,2021",516,4
+nmo,Latn,nmo_Latn,Moyon Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,475,2,"2019,2021",467,8
+nmo,Latn,nmo_Latn,Moyon Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,456,2,"2019,2021",448,8
+nmo,Latn,nmo_Latn,Moyon Naga,-,Pd,HYPHEN-MINUS,388,2,"2019,2021",384,4
+nmo,Latn,nmo_Latn,Moyon Naga,4,Nd,DIGIT FOUR,379,2,"2019,2021",375,4
+nmo,Latn,nmo_Latn,Moyon Naga,f,Ll,LATIN SMALL LETTER F,376,2,"2019,2021",371,5
+nmo,Latn,nmo_Latn,Moyon Naga,;,Po,SEMICOLON,343,2,"2019,2021",336,7
+nmo,Latn,nmo_Latn,Moyon Naga,C,Lu,LATIN CAPITAL LETTER C,341,2,"2019,2021",339,2
+nmo,Latn,nmo_Latn,Moyon Naga,M,Lu,LATIN CAPITAL LETTER M,314,2,"2019,2021",313,1
+nmo,Latn,nmo_Latn,Moyon Naga,T,Lu,LATIN CAPITAL LETTER T,301,1,2019,301,0
+nmo,Latn,nmo_Latn,Moyon Naga,K,Lu,LATIN CAPITAL LETTER K,275,2,"2019,2021",272,3
+nmo,Latn,nmo_Latn,Moyon Naga,N,Lu,LATIN CAPITAL LETTER N,274,2,"2019,2021",270,4
+nmo,Latn,nmo_Latn,Moyon Naga,5,Nd,DIGIT FIVE,261,2,"2019,2021",258,3
+nmo,Latn,nmo_Latn,Moyon Naga,6,Nd,DIGIT SIX,214,2,"2019,2021",212,2
+nmo,Latn,nmo_Latn,Moyon Naga,E,Lu,LATIN CAPITAL LETTER E,205,2,"2019,2021",201,4
+nmo,Latn,nmo_Latn,Moyon Naga,I,Lu,LATIN CAPITAL LETTER I,198,2,"2019,2021",186,12
+nmo,Latn,nmo_Latn,Moyon Naga,8,Nd,DIGIT EIGHT,197,2,"2019,2021",195,2
+nmo,Latn,nmo_Latn,Moyon Naga,7,Nd,DIGIT SEVEN,190,2,"2019,2021",188,2
+nmo,Latn,nmo_Latn,Moyon Naga,9,Nd,DIGIT NINE,190,2,"2019,2021",187,3
+nmo,Latn,nmo_Latn,Moyon Naga,?,Po,QUESTION MARK,185,2,"2019,2021",183,2
+nmo,Latn,nmo_Latn,Moyon Naga,0,Nd,DIGIT ZERO,183,2,"2019,2021",181,2
+nmo,Latn,nmo_Latn,Moyon Naga,P,Lu,LATIN CAPITAL LETTER P,177,1,2019,177,0
+nmo,Latn,nmo_Latn,Moyon Naga,S,Lu,LATIN CAPITAL LETTER S,170,1,2019,170,0
+nmo,Latn,nmo_Latn,Moyon Naga,H,Lu,LATIN CAPITAL LETTER H,170,2,"2019,2021",156,14
+nmo,Latn,nmo_Latn,Moyon Naga,z,Ll,LATIN SMALL LETTER Z,131,2,"2019,2021",126,5
+nmo,Latn,nmo_Latn,Moyon Naga,L,Lu,LATIN CAPITAL LETTER L,108,2,"2019,2021",107,1
+nmo,Latn,nmo_Latn,Moyon Naga,),Pe,RIGHT PARENTHESIS,91,1,2019,91,0
+nmo,Latn,nmo_Latn,Moyon Naga,(,Ps,LEFT PARENTHESIS,91,1,2019,91,0
+nmo,Latn,nmo_Latn,Moyon Naga,G,Lu,LATIN CAPITAL LETTER G,74,2,"2019,2021",71,3
+nmo,Latn,nmo_Latn,Moyon Naga,Y,Lu,LATIN CAPITAL LETTER Y,71,1,2019,71,0
+nmo,Latn,nmo_Latn,Moyon Naga,!,Po,EXCLAMATION MARK,66,1,2019,66,0
+nmo,Latn,nmo_Latn,Moyon Naga,‘,Pi,LEFT SINGLE QUOTATION MARK,62,1,2019,62,0
+nmo,Latn,nmo_Latn,Moyon Naga,R,Lu,LATIN CAPITAL LETTER R,61,2,"2019,2021",59,2
+nmo,Latn,nmo_Latn,Moyon Naga,’,Pf,RIGHT SINGLE QUOTATION MARK,61,1,2019,61,0
+nmo,Latn,nmo_Latn,Moyon Naga,B,Lu,LATIN CAPITAL LETTER B,58,2,"2019,2021",53,5
+nmo,Latn,nmo_Latn,Moyon Naga,D,Lu,LATIN CAPITAL LETTER D,53,1,2019,53,0
+nmo,Latn,nmo_Latn,Moyon Naga,O,Lu,LATIN CAPITAL LETTER O,50,2,"2019,2021",49,1
+nmo,Latn,nmo_Latn,Moyon Naga,:,Po,COLON,31,2,"2019,2021",29,2
+nmo,Latn,nmo_Latn,Moyon Naga,U,Lu,LATIN CAPITAL LETTER U,20,1,2019,20,0
+nmo,Latn,nmo_Latn,Moyon Naga,V,Lu,LATIN CAPITAL LETTER V,20,1,2019,20,0
+nmo,Latn,nmo_Latn,Moyon Naga,Z,Lu,LATIN CAPITAL LETTER Z,11,1,2019,11,0
+nmo,Latn,nmo_Latn,Moyon Naga,#,Po,NUMBER SIGN,7,2,"2019,2021",6,1
+nmo,Latn,nmo_Latn,Moyon Naga,F,Lu,LATIN CAPITAL LETTER F,3,1,2019,3,0
+nmo,Latn,nmo_Latn,Moyon Naga,—,Pd,EM DASH,1,1,2019,1,0

@@ -1,0 +1,20 @@
+{
+  "language_code": "trp_Latn",
+  "iso_639_3": "trp",
+  "script": "Latn",
+  "language_name": "Kok Borok",
+  "total_characters": 198,
+  "total_frequency": 596483,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:13.042853"
+}

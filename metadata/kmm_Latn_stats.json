@@ -1,0 +1,19 @@
+{
+  "language_code": "kmm_Latn",
+  "iso_639_3": "kmm",
+  "script": "Latn",
+  "language_name": "Kom (India)",
+  "total_characters": 144,
+  "total_frequency": 173407,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2019",
+    "2020",
+    "2022",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:59.808342"
+}

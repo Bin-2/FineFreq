@@ -1,0 +1,18 @@
+{
+  "language_code": "kss_Latn",
+  "iso_639_3": "kss",
+  "script": "Latn",
+  "language_name": "Southern Kisi",
+  "total_characters": 118,
+  "total_frequency": 967915,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:00.648744"
+}

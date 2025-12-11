@@ -1,0 +1,91 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2022_frequency
+tpa,Latn,tpa_Latn,Taupota,a,Ll,LATIN SMALL LETTER A,20370,3,"2018,2019,2022",17261,1544,1565
+tpa,Latn,tpa_Latn,Taupota, ,Zs,SPACE,17558,3,"2018,2019,2022",15150,1182,1226
+tpa,Latn,tpa_Latn,Taupota,i,Ll,LATIN SMALL LETTER I,10234,3,"2018,2019,2022",8700,757,777
+tpa,Latn,tpa_Latn,Taupota,n,Ll,LATIN SMALL LETTER N,6208,3,"2018,2019,2022",5339,424,445
+tpa,Latn,tpa_Latn,Taupota,e,Ll,LATIN SMALL LETTER E,6084,3,"2018,2019,2022",5309,378,397
+tpa,Latn,tpa_Latn,Taupota,h,Ll,LATIN SMALL LETTER H,5461,3,"2018,2019,2022",4731,351,379
+tpa,Latn,tpa_Latn,Taupota,u,Ll,LATIN SMALL LETTER U,4658,3,"2018,2019,2022",3921,350,387
+tpa,Latn,tpa_Latn,Taupota,r,Ll,LATIN SMALL LETTER R,4014,3,"2018,2019,2022",3483,262,269
+tpa,Latn,tpa_Latn,Taupota,o,Ll,LATIN SMALL LETTER O,4005,3,"2018,2019,2022",3464,275,266
+tpa,Latn,tpa_Latn,Taupota,m,Ll,LATIN SMALL LETTER M,3629,3,"2018,2019,2022",3063,287,279
+tpa,Latn,tpa_Latn,Taupota,t,Ll,LATIN SMALL LETTER T,2874,3,"2018,2019,2022",2546,161,167
+tpa,Latn,tpa_Latn,Taupota,g,Ll,LATIN SMALL LETTER G,2129,3,"2018,2019,2022",1819,152,158
+tpa,Latn,tpa_Latn,Taupota,w,Ll,LATIN SMALL LETTER W,2106,3,"2018,2019,2022",1799,149,158
+tpa,Latn,tpa_Latn,Taupota,p,Ll,LATIN SMALL LETTER P,2016,3,"2018,2019,2022",1749,137,130
+tpa,Latn,tpa_Latn,Taupota,v,Ll,LATIN SMALL LETTER V,1971,3,"2018,2019,2022",1687,144,140
+tpa,Latn,tpa_Latn,Taupota,y,Ll,LATIN SMALL LETTER Y,1524,3,"2018,2019,2022",1294,116,114
+tpa,Latn,tpa_Latn,Taupota,s,Ll,LATIN SMALL LETTER S,1405,3,"2018,2019,2022",1286,57,62
+tpa,Latn,tpa_Latn,Taupota,",",Po,COMMA,1219,3,"2018,2019,2022",1064,74,81
+tpa,Latn,tpa_Latn,Taupota,d,Ll,LATIN SMALL LETTER D,1198,3,"2018,2019,2022",1027,82,89
+tpa,Latn,tpa_Latn,Taupota,b,Ll,LATIN SMALL LETTER B,1141,3,"2018,2019,2022",956,91,94
+tpa,Latn,tpa_Latn,Taupota,',Po,APOSTROPHE,1137,1,2018,1137,0,0
+tpa,Latn,tpa_Latn,Taupota,.,Po,FULL STOP,883,3,"2018,2019,2022",759,62,62
+tpa,Latn,tpa_Latn,Taupota,M,Lu,LATIN CAPITAL LETTER M,730,3,"2018,2019,2022",614,60,56
+tpa,Latn,tpa_Latn,Taupota,1,Nd,DIGIT ONE,553,3,"2018,2019,2022",456,53,44
+tpa,Latn,tpa_Latn,Taupota,k,Ll,LATIN SMALL LETTER K,495,3,"2018,2019,2022",397,46,52
+tpa,Latn,tpa_Latn,Taupota,2,Nd,DIGIT TWO,431,3,"2018,2019,2022",374,31,26
+tpa,Latn,tpa_Latn,Taupota,Y,Lu,LATIN CAPITAL LETTER Y,402,3,"2018,2019,2022",328,33,41
+tpa,Latn,tpa_Latn,Taupota,l,Ll,LATIN SMALL LETTER L,368,3,"2018,2019,2022",337,16,15
+tpa,Latn,tpa_Latn,Taupota,T,Lu,LATIN CAPITAL LETTER T,305,3,"2018,2019,2022",272,16,17
+tpa,Latn,tpa_Latn,Taupota,3,Nd,DIGIT THREE,293,3,"2018,2019,2022",241,28,24
+tpa,Latn,tpa_Latn,Taupota,A,Lu,LATIN CAPITAL LETTER A,291,3,"2018,2019,2022",257,16,18
+tpa,Latn,tpa_Latn,Taupota,”,Pf,RIGHT DOUBLE QUOTATION MARK,259,3,"2018,2019,2022",229,15,15
+tpa,Latn,tpa_Latn,Taupota,“,Pi,LEFT DOUBLE QUOTATION MARK,259,3,"2018,2019,2022",229,15,15
+tpa,Latn,tpa_Latn,Taupota,V,Lu,LATIN CAPITAL LETTER V,238,3,"2018,2019,2022",222,8,8
+tpa,Latn,tpa_Latn,Taupota,c,Ll,LATIN SMALL LETTER C,231,3,"2018,2019,2022",228,2,1
+tpa,Latn,tpa_Latn,Taupota,4,Nd,DIGIT FOUR,227,3,"2018,2019,2022",171,30,26
+tpa,Latn,tpa_Latn,Taupota,:,Po,COLON,217,3,"2018,2019,2022",174,27,16
+tpa,Latn,tpa_Latn,Taupota,-,Pd,HYPHEN-MINUS,199,3,"2018,2019,2022",166,17,16
+tpa,Latn,tpa_Latn,Taupota,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,196,2,"2019,2022",0,98,98
+tpa,Latn,tpa_Latn,Taupota,J,Lu,LATIN CAPITAL LETTER J,180,3,"2018,2019,2022",142,21,17
+tpa,Latn,tpa_Latn,Taupota,*,Po,ASTERISK,179,3,"2018,2019,2022",129,26,24
+tpa,Latn,tpa_Latn,Taupota,E,Lu,LATIN CAPITAL LETTER E,169,3,"2018,2019,2022",166,2,1
+tpa,Latn,tpa_Latn,Taupota,N,Lu,LATIN CAPITAL LETTER N,155,3,"2018,2019,2022",140,8,7
+tpa,Latn,tpa_Latn,Taupota,S,Lu,LATIN CAPITAL LETTER S,140,3,"2018,2019,2022",132,4,4
+tpa,Latn,tpa_Latn,Taupota,5,Nd,DIGIT FIVE,137,3,"2018,2019,2022",119,10,8
+tpa,Latn,tpa_Latn,Taupota,8,Nd,DIGIT EIGHT,130,3,"2018,2019,2022",111,10,9
+tpa,Latn,tpa_Latn,Taupota,0,Nd,DIGIT ZERO,130,3,"2018,2019,2022",118,7,5
+tpa,Latn,tpa_Latn,Taupota,P,Lu,LATIN CAPITAL LETTER P,129,3,"2018,2019,2022",118,5,6
+tpa,Latn,tpa_Latn,Taupota,W,Lu,LATIN CAPITAL LETTER W,124,3,"2018,2019,2022",103,9,12
+tpa,Latn,tpa_Latn,Taupota,6,Nd,DIGIT SIX,124,3,"2018,2019,2022",111,8,5
+tpa,Latn,tpa_Latn,Taupota,f,Ll,LATIN SMALL LETTER F,122,1,2018,122,0,0
+tpa,Latn,tpa_Latn,Taupota,G,Lu,LATIN CAPITAL LETTER G,122,3,"2018,2019,2022",103,9,10
+tpa,Latn,tpa_Latn,Taupota,R,Lu,LATIN CAPITAL LETTER R,117,3,"2018,2019,2022",99,8,10
+tpa,Latn,tpa_Latn,Taupota,7,Nd,DIGIT SEVEN,108,3,"2018,2019,2022",92,9,7
+tpa,Latn,tpa_Latn,Taupota,(,Ps,LEFT PARENTHESIS,105,3,"2018,2019,2022",87,10,8
+tpa,Latn,tpa_Latn,Taupota,),Pe,RIGHT PARENTHESIS,105,3,"2018,2019,2022",87,10,8
+tpa,Latn,tpa_Latn,Taupota,9,Nd,DIGIT NINE,105,3,"2018,2019,2022",94,6,5
+tpa,Latn,tpa_Latn,Taupota,I,Lu,LATIN CAPITAL LETTER I,102,3,"2018,2019,2022",94,5,3
+tpa,Latn,tpa_Latn,Taupota,▼,So,BLACK DOWN-POINTING TRIANGLE,102,1,2018,102,0,0
+tpa,Latn,tpa_Latn,Taupota,H,Lu,LATIN CAPITAL LETTER H,102,3,"2018,2019,2022",97,3,2
+tpa,Latn,tpa_Latn,Taupota,!,Po,EXCLAMATION MARK,93,3,"2018,2019,2022",81,6,6
+tpa,Latn,tpa_Latn,Taupota,L,Lu,LATIN CAPITAL LETTER L,90,3,"2018,2019,2022",74,8,8
+tpa,Latn,tpa_Latn,Taupota,?,Po,QUESTION MARK,86,3,"2018,2019,2022",80,3,3
+tpa,Latn,tpa_Latn,Taupota,;,Po,SEMICOLON,83,3,"2018,2019,2022",69,7,7
+tpa,Latn,tpa_Latn,Taupota,B,Lu,LATIN CAPITAL LETTER B,81,3,"2018,2019,2022",74,3,4
+tpa,Latn,tpa_Latn,Taupota,x,Ll,LATIN SMALL LETTER X,77,1,2018,77,0,0
+tpa,Latn,tpa_Latn,Taupota,K,Lu,LATIN CAPITAL LETTER K,67,3,"2018,2019,2022",63,1,3
+tpa,Latn,tpa_Latn,Taupota,j,Ll,LATIN SMALL LETTER J,65,2,"2018,2022",63,0,2
+tpa,Latn,tpa_Latn,Taupota,U,Lu,LATIN CAPITAL LETTER U,60,3,"2018,2019,2022",58,1,1
+tpa,Latn,tpa_Latn,Taupota,D,Lu,LATIN CAPITAL LETTER D,54,3,"2018,2019,2022",52,1,1
+tpa,Latn,tpa_Latn,Taupota,O,Lu,LATIN CAPITAL LETTER O,51,3,"2018,2019,2022",44,4,3
+tpa,Latn,tpa_Latn,Taupota,C,Lu,LATIN CAPITAL LETTER C,51,3,"2018,2019,2022",49,1,1
+tpa,Latn,tpa_Latn,Taupota,‘,Pi,LEFT SINGLE QUOTATION MARK,37,3,"2018,2019,2022",35,1,1
+tpa,Latn,tpa_Latn,Taupota,’,Pf,RIGHT SINGLE QUOTATION MARK,35,3,"2018,2019,2022",33,1,1
+tpa,Latn,tpa_Latn,Taupota,q,Ll,LATIN SMALL LETTER Q,13,1,2018,13,0,0
+tpa,Latn,tpa_Latn,Taupota,F,Lu,LATIN CAPITAL LETTER F,13,1,2018,13,0,0
+tpa,Latn,tpa_Latn,Taupota,©,So,COPYRIGHT SIGN,13,1,2018,13,0,0
+tpa,Latn,tpa_Latn,Taupota,`,Sk,GRAVE ACCENT,13,1,2018,13,0,0
+tpa,Latn,tpa_Latn,Taupota,z,Ll,LATIN SMALL LETTER Z,11,3,"2018,2019,2022",7,2,2
+tpa,Latn,tpa_Latn,Taupota,&,Po,AMPERSAND,10,1,2018,10,0,0
+tpa,Latn,tpa_Latn,Taupota,#,Po,NUMBER SIGN,10,1,2019,0,10,0
+tpa,Latn,tpa_Latn,Taupota,–,Pd,EN DASH,5,1,2018,5,0,0
+tpa,Latn,tpa_Latn,Taupota,Z,Lu,LATIN CAPITAL LETTER Z,4,3,"2018,2019,2022",2,1,1
+tpa,Latn,tpa_Latn,Taupota,✡,So,STAR OF DAVID,3,1,2022,0,0,3
+tpa,Latn,tpa_Latn,Taupota,—,Pd,EM DASH,2,1,2018,2,0,0
+tpa,Latn,tpa_Latn,Taupota,†,Po,DAGGER,2,1,2022,0,0,2
+tpa,Latn,tpa_Latn,Taupota,‡,Po,DOUBLE DAGGER,2,1,2022,0,0,2
+tpa,Latn,tpa_Latn,Taupota,[,Ps,LEFT SQUARE BRACKET,1,1,2018,1,0,0
+tpa,Latn,tpa_Latn,Taupota,],Pe,RIGHT SQUARE BRACKET,1,1,2018,1,0,0
+tpa,Latn,tpa_Latn,Taupota,§,Po,SECTION SIGN,1,1,2022,0,0,1

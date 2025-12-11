@@ -1,0 +1,18 @@
+{
+  "language_code": "trn_Latn",
+  "iso_639_3": "trn",
+  "script": "Latn",
+  "language_name": "Trinitario",
+  "total_characters": 134,
+  "total_frequency": 1596043,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2019",
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:13.012852"
+}

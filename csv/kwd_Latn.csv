@@ -1,0 +1,81 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency
+kwd,Latn,kwd_Latn,Kwaio,a,Ll,LATIN SMALL LETTER A,235654,2,"2017,2019",234615,1039
+kwd,Latn,kwd_Latn,Kwaio, ,Zs,SPACE,206426,2,"2017,2019",205511,915
+kwd,Latn,kwd_Latn,Kwaio,i,Ll,LATIN SMALL LETTER I,77736,2,"2017,2019",77356,380
+kwd,Latn,kwd_Latn,Kwaio,',Po,APOSTROPHE,75645,2,"2017,2019",75305,340
+kwd,Latn,kwd_Latn,Kwaio,n,Ll,LATIN SMALL LETTER N,74158,2,"2017,2019",73831,327
+kwd,Latn,kwd_Latn,Kwaio,o,Ll,LATIN SMALL LETTER O,70599,2,"2017,2019",70359,240
+kwd,Latn,kwd_Latn,Kwaio,l,Ll,LATIN SMALL LETTER L,48120,2,"2017,2019",47868,252
+kwd,Latn,kwd_Latn,Kwaio,u,Ll,LATIN SMALL LETTER U,47777,2,"2017,2019",47558,219
+kwd,Latn,kwd_Latn,Kwaio,e,Ll,LATIN SMALL LETTER E,47128,2,"2017,2019",46839,289
+kwd,Latn,kwd_Latn,Kwaio,g,Ll,LATIN SMALL LETTER G,45506,2,"2017,2019",45316,190
+kwd,Latn,kwd_Latn,Kwaio,t,Ll,LATIN SMALL LETTER T,29671,2,"2017,2019",29539,132
+kwd,Latn,kwd_Latn,Kwaio,f,Ll,LATIN SMALL LETTER F,27281,2,"2017,2019",27149,132
+kwd,Latn,kwd_Latn,Kwaio,m,Ll,LATIN SMALL LETTER M,27178,2,"2017,2019",27071,107
+kwd,Latn,kwd_Latn,Kwaio,r,Ll,LATIN SMALL LETTER R,24850,2,"2017,2019",24725,125
+kwd,Latn,kwd_Latn,Kwaio,k,Ll,LATIN SMALL LETTER K,17472,2,"2017,2019",17382,90
+kwd,Latn,kwd_Latn,Kwaio,s,Ll,LATIN SMALL LETTER S,17007,2,"2017,2019",16928,79
+kwd,Latn,kwd_Latn,Kwaio,",",Po,COMMA,12402,2,"2017,2019",12331,71
+kwd,Latn,kwd_Latn,Kwaio,w,Ll,LATIN SMALL LETTER W,9793,2,"2017,2019",9750,43
+kwd,Latn,kwd_Latn,Kwaio,.,Po,FULL STOP,9281,2,"2017,2019",9245,36
+kwd,Latn,kwd_Latn,Kwaio,d,Ll,LATIN SMALL LETTER D,7078,2,"2017,2019",7052,26
+kwd,Latn,kwd_Latn,Kwaio,b,Ll,LATIN SMALL LETTER B,6926,2,"2017,2019",6868,58
+kwd,Latn,kwd_Latn,Kwaio,M,Lu,LATIN CAPITAL LETTER M,5079,2,"2017,2019",5052,27
+kwd,Latn,kwd_Latn,Kwaio,1,Nd,DIGIT ONE,3501,2,"2017,2019",3480,21
+kwd,Latn,kwd_Latn,Kwaio,G,Lu,LATIN CAPITAL LETTER G,3445,2,"2017,2019",3434,11
+kwd,Latn,kwd_Latn,Kwaio,J,Lu,LATIN CAPITAL LETTER J,3198,2,"2017,2019",3179,19
+kwd,Latn,kwd_Latn,Kwaio,N,Lu,LATIN CAPITAL LETTER N,2628,2,"2017,2019",2614,14
+kwd,Latn,kwd_Latn,Kwaio,2,Nd,DIGIT TWO,2413,2,"2017,2019",2402,11
+kwd,Latn,kwd_Latn,Kwaio,A,Lu,LATIN CAPITAL LETTER A,2150,2,"2017,2019",2148,2
+kwd,Latn,kwd_Latn,Kwaio,T,Lu,LATIN CAPITAL LETTER T,1669,2,"2017,2019",1665,4
+kwd,Latn,kwd_Latn,Kwaio,3,Nd,DIGIT THREE,1559,2,"2017,2019",1555,4
+kwd,Latn,kwd_Latn,Kwaio,K,Lu,LATIN CAPITAL LETTER K,1499,2,"2017,2019",1497,2
+kwd,Latn,kwd_Latn,Kwaio,L,Lu,LATIN CAPITAL LETTER L,1300,1,2017,1300,0
+kwd,Latn,kwd_Latn,Kwaio,4,Nd,DIGIT FOUR,1203,2,"2017,2019",1201,2
+kwd,Latn,kwd_Latn,Kwaio,“,Pi,LEFT DOUBLE QUOTATION MARK,1176,2,"2017,2019",1166,10
+kwd,Latn,kwd_Latn,Kwaio,S,Lu,LATIN CAPITAL LETTER S,1134,2,"2017,2019",1133,1
+kwd,Latn,kwd_Latn,Kwaio,:,Po,COLON,1084,2,"2017,2019",1078,6
+kwd,Latn,kwd_Latn,Kwaio,”,Pf,RIGHT DOUBLE QUOTATION MARK,1075,2,"2017,2019",1065,10
+kwd,Latn,kwd_Latn,Kwaio,5,Nd,DIGIT FIVE,952,2,"2017,2019",948,4
+kwd,Latn,kwd_Latn,Kwaio,6,Nd,DIGIT SIX,808,2,"2017,2019",806,2
+kwd,Latn,kwd_Latn,Kwaio,0,Nd,DIGIT ZERO,745,2,"2017,2019",743,2
+kwd,Latn,kwd_Latn,Kwaio,P,Lu,LATIN CAPITAL LETTER P,731,1,2017,731,0
+kwd,Latn,kwd_Latn,Kwaio,7,Nd,DIGIT SEVEN,716,2,"2017,2019",714,2
+kwd,Latn,kwd_Latn,Kwaio,8,Nd,DIGIT EIGHT,683,2,"2017,2019",680,3
+kwd,Latn,kwd_Latn,Kwaio,9,Nd,DIGIT NINE,674,2,"2017,2019",672,2
+kwd,Latn,kwd_Latn,Kwaio,I,Lu,LATIN CAPITAL LETTER I,646,2,"2017,2019",636,10
+kwd,Latn,kwd_Latn,Kwaio,-,Pd,HYPHEN-MINUS,538,2,"2017,2019",537,1
+kwd,Latn,kwd_Latn,Kwaio,F,Lu,LATIN CAPITAL LETTER F,445,1,2017,445,0
+kwd,Latn,kwd_Latn,Kwaio,W,Lu,LATIN CAPITAL LETTER W,412,1,2017,412,0
+kwd,Latn,kwd_Latn,Kwaio,p,Ll,LATIN SMALL LETTER P,388,2,"2017,2019",378,10
+kwd,Latn,kwd_Latn,Kwaio,(,Ps,LEFT PARENTHESIS,370,1,2017,370,0
+kwd,Latn,kwd_Latn,Kwaio,),Pe,RIGHT PARENTHESIS,370,1,2017,370,0
+kwd,Latn,kwd_Latn,Kwaio,?,Po,QUESTION MARK,318,2,"2017,2019",316,2
+kwd,Latn,kwd_Latn,Kwaio,!,Po,EXCLAMATION MARK,282,1,2017,282,0
+kwd,Latn,kwd_Latn,Kwaio,;,Po,SEMICOLON,257,1,2017,257,0
+kwd,Latn,kwd_Latn,Kwaio,E,Lu,LATIN CAPITAL LETTER E,256,2,"2017,2019",255,1
+kwd,Latn,kwd_Latn,Kwaio,✡,So,STAR OF DAVID,250,1,2017,250,0
+kwd,Latn,kwd_Latn,Kwaio,B,Lu,LATIN CAPITAL LETTER B,249,2,"2017,2019",242,7
+kwd,Latn,kwd_Latn,Kwaio,D,Lu,LATIN CAPITAL LETTER D,246,1,2017,246,0
+kwd,Latn,kwd_Latn,Kwaio,O,Lu,LATIN CAPITAL LETTER O,240,1,2017,240,0
+kwd,Latn,kwd_Latn,Kwaio,‘,Pi,LEFT SINGLE QUOTATION MARK,230,2,"2017,2019",229,1
+kwd,Latn,kwd_Latn,Kwaio,’,Pf,RIGHT SINGLE QUOTATION MARK,221,2,"2017,2019",220,1
+kwd,Latn,kwd_Latn,Kwaio,R,Lu,LATIN CAPITAL LETTER R,199,2,"2017,2019",196,3
+kwd,Latn,kwd_Latn,Kwaio,|,Sm,VERTICAL LINE,192,1,2017,192,0
+kwd,Latn,kwd_Latn,Kwaio,H,Lu,LATIN CAPITAL LETTER H,155,2,"2017,2019",144,11
+kwd,Latn,kwd_Latn,Kwaio,h,Ll,LATIN SMALL LETTER H,140,2,"2017,2019",131,9
+kwd,Latn,kwd_Latn,Kwaio,—,Pd,EM DASH,106,1,2017,106,0
+kwd,Latn,kwd_Latn,Kwaio,*,Po,ASTERISK,98,1,2017,98,0
+kwd,Latn,kwd_Latn,Kwaio,j,Ll,LATIN SMALL LETTER J,78,2,"2017,2019",72,6
+kwd,Latn,kwd_Latn,Kwaio,U,Lu,LATIN CAPITAL LETTER U,63,1,2017,63,0
+kwd,Latn,kwd_Latn,Kwaio,v,Ll,LATIN SMALL LETTER V,57,1,2017,57,0
+kwd,Latn,kwd_Latn,Kwaio,c,Ll,LATIN SMALL LETTER C,41,2,"2017,2019",40,1
+kwd,Latn,kwd_Latn,Kwaio,†,Po,DAGGER,32,1,2017,32,0
+kwd,Latn,kwd_Latn,Kwaio,C,Lu,LATIN CAPITAL LETTER C,25,1,2017,25,0
+kwd,Latn,kwd_Latn,Kwaio,/,Po,SOLIDUS,11,1,2017,11,0
+kwd,Latn,kwd_Latn,Kwaio,‡,Po,DOUBLE DAGGER,9,1,2017,9,0
+kwd,Latn,kwd_Latn,Kwaio,y,Ll,LATIN SMALL LETTER Y,7,2,"2017,2019",6,1
+kwd,Latn,kwd_Latn,Kwaio,#,Po,NUMBER SIGN,5,1,2019,0,5
+kwd,Latn,kwd_Latn,Kwaio,x,Ll,LATIN SMALL LETTER X,3,1,2017,3,0
+kwd,Latn,kwd_Latn,Kwaio,V,Lu,LATIN CAPITAL LETTER V,3,1,2017,3,0
+kwd,Latn,kwd_Latn,Kwaio,§,Po,SECTION SIGN,3,1,2017,3,0

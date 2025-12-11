@@ -1,0 +1,98 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency
+dln,Latn,dln_Latn,Darlong, ,Zs,SPACE,26012,2,"2017,2018",22772,3240
+dln,Latn,dln_Latn,Darlong,a,Ll,LATIN SMALL LETTER A,18358,2,"2017,2018",16383,1975
+dln,Latn,dln_Latn,Darlong,n,Ll,LATIN SMALL LETTER N,13885,2,"2017,2018",11950,1935
+dln,Latn,dln_Latn,Darlong,i,Ll,LATIN SMALL LETTER I,12904,2,"2017,2018",11230,1674
+dln,Latn,dln_Latn,Darlong,h,Ll,LATIN SMALL LETTER H,9888,2,"2017,2018",8751,1137
+dln,Latn,dln_Latn,Darlong,u,Ll,LATIN SMALL LETTER U,5084,2,"2017,2018",4461,623
+dln,Latn,dln_Latn,Darlong,t,Ll,LATIN SMALL LETTER T,4904,2,"2017,2018",4376,528
+dln,Latn,dln_Latn,Darlong,g,Ll,LATIN SMALL LETTER G,4382,2,"2017,2018",3827,555
+dln,Latn,dln_Latn,Darlong,e,Ll,LATIN SMALL LETTER E,3807,2,"2017,2018",3408,399
+dln,Latn,dln_Latn,Darlong,l,Ll,LATIN SMALL LETTER L,3654,2,"2017,2018",3194,460
+dln,Latn,dln_Latn,Darlong,m,Ll,LATIN SMALL LETTER M,3638,2,"2017,2018",3178,460
+dln,Latn,dln_Latn,Darlong,k,Ll,LATIN SMALL LETTER K,3160,2,"2017,2018",2707,453
+dln,Latn,dln_Latn,Darlong,c,Ll,LATIN SMALL LETTER C,3074,2,"2017,2018",2684,390
+dln,Latn,dln_Latn,Darlong,r,Ll,LATIN SMALL LETTER R,2775,2,"2017,2018",2473,302
+dln,Latn,dln_Latn,Darlong,o,Ll,LATIN SMALL LETTER O,2553,2,"2017,2018",2152,401
+dln,Latn,dln_Latn,Darlong,w,Ll,LATIN SMALL LETTER W,2099,2,"2017,2018",1882,217
+dln,Latn,dln_Latn,Darlong,",",Po,COMMA,1827,2,"2017,2018",1670,157
+dln,Latn,dln_Latn,Darlong,.,Po,FULL STOP,1564,2,"2017,2018",1327,237
+dln,Latn,dln_Latn,Darlong,p,Ll,LATIN SMALL LETTER P,1491,2,"2017,2018",1355,136
+dln,Latn,dln_Latn,Darlong,s,Ll,LATIN SMALL LETTER S,1479,2,"2017,2018",1333,146
+dln,Latn,dln_Latn,Darlong,d,Ll,LATIN SMALL LETTER D,1070,2,"2017,2018",930,140
+dln,Latn,dln_Latn,Darlong,A,Lu,LATIN CAPITAL LETTER A,639,2,"2017,2018",591,48
+dln,Latn,dln_Latn,Darlong,z,Ll,LATIN SMALL LETTER Z,527,2,"2017,2018",436,91
+dln,Latn,dln_Latn,Darlong,b,Ll,LATIN SMALL LETTER B,527,2,"2017,2018",451,76
+dln,Latn,dln_Latn,Darlong,v,Ll,LATIN SMALL LETTER V,505,2,"2017,2018",418,87
+dln,Latn,dln_Latn,Darlong,I,Lu,LATIN CAPITAL LETTER I,496,2,"2017,2018",456,40
+dln,Latn,dln_Latn,Darlong,1,Nd,DIGIT ONE,455,2,"2017,2018",424,31
+dln,Latn,dln_Latn,Darlong,M,Lu,LATIN CAPITAL LETTER M,420,2,"2017,2018",377,43
+dln,Latn,dln_Latn,Darlong,P,Lu,LATIN CAPITAL LETTER P,419,2,"2017,2018",365,54
+dln,Latn,dln_Latn,Darlong,T,Lu,LATIN CAPITAL LETTER T,414,2,"2017,2018",391,23
+dln,Latn,dln_Latn,Darlong,N,Lu,LATIN CAPITAL LETTER N,412,2,"2017,2018",386,26
+dln,Latn,dln_Latn,Darlong,K,Lu,LATIN CAPITAL LETTER K,388,2,"2017,2018",361,27
+dln,Latn,dln_Latn,Darlong,S,Lu,LATIN CAPITAL LETTER S,346,2,"2017,2018",307,39
+dln,Latn,dln_Latn,Darlong,H,Lu,LATIN CAPITAL LETTER H,330,2,"2017,2018",294,36
+dln,Latn,dln_Latn,Darlong,:,Po,COLON,323,2,"2017,2018",321,2
+dln,Latn,dln_Latn,Darlong,2,Nd,DIGIT TWO,313,2,"2017,2018",259,54
+dln,Latn,dln_Latn,Darlong,D,Lu,LATIN CAPITAL LETTER D,304,2,"2017,2018",258,46
+dln,Latn,dln_Latn,Darlong,C,Lu,LATIN CAPITAL LETTER C,282,2,"2017,2018",250,32
+dln,Latn,dln_Latn,Darlong,f,Ll,LATIN SMALL LETTER F,279,2,"2017,2018",229,50
+dln,Latn,dln_Latn,Darlong,L,Lu,LATIN CAPITAL LETTER L,264,2,"2017,2018",258,6
+dln,Latn,dln_Latn,Darlong,R,Lu,LATIN CAPITAL LETTER R,194,2,"2017,2018",187,7
+dln,Latn,dln_Latn,Darlong,3,Nd,DIGIT THREE,194,2,"2017,2018",181,13
+dln,Latn,dln_Latn,Darlong,"""",Po,QUOTATION MARK,163,1,2017,163,0
+dln,Latn,dln_Latn,Darlong,y,Ll,LATIN SMALL LETTER Y,142,2,"2017,2018",132,10
+dln,Latn,dln_Latn,Darlong,E,Lu,LATIN CAPITAL LETTER E,140,2,"2017,2018",139,1
+dln,Latn,dln_Latn,Darlong,-,Pd,HYPHEN-MINUS,124,2,"2017,2018",122,2
+dln,Latn,dln_Latn,Darlong,4,Nd,DIGIT FOUR,124,2,"2017,2018",120,4
+dln,Latn,dln_Latn,Darlong,U,Lu,LATIN CAPITAL LETTER U,121,2,"2017,2018",115,6
+dln,Latn,dln_Latn,Darlong,0,Nd,DIGIT ZERO,117,2,"2017,2018",81,36
+dln,Latn,dln_Latn,Darlong,;,Po,SEMICOLON,116,2,"2017,2018",115,1
+dln,Latn,dln_Latn,Darlong,G,Lu,LATIN CAPITAL LETTER G,113,2,"2017,2018",111,2
+dln,Latn,dln_Latn,Darlong,5,Nd,DIGIT FIVE,110,2,"2017,2018",107,3
+dln,Latn,dln_Latn,Darlong,9,Nd,DIGIT NINE,110,2,"2017,2018",99,11
+dln,Latn,dln_Latn,Darlong,(,Ps,LEFT PARENTHESIS,106,1,2017,106,0
+dln,Latn,dln_Latn,Darlong,),Pe,RIGHT PARENTHESIS,104,1,2017,104,0
+dln,Latn,dln_Latn,Darlong,B,Lu,LATIN CAPITAL LETTER B,98,2,"2017,2018",96,2
+dln,Latn,dln_Latn,Darlong,8,Nd,DIGIT EIGHT,92,2,"2017,2018",83,9
+dln,Latn,dln_Latn,Darlong,J,Lu,LATIN CAPITAL LETTER J,91,1,2017,91,0
+dln,Latn,dln_Latn,Darlong,7,Nd,DIGIT SEVEN,90,2,"2017,2018",86,4
+dln,Latn,dln_Latn,Darlong,6,Nd,DIGIT SIX,88,2,"2017,2018",85,3
+dln,Latn,dln_Latn,Darlong,“,Pi,LEFT DOUBLE QUOTATION MARK,81,2,"2017,2018",57,24
+dln,Latn,dln_Latn,Darlong,?,Po,QUESTION MARK,77,2,"2017,2018",66,11
+dln,Latn,dln_Latn,Darlong,”,Pf,RIGHT DOUBLE QUOTATION MARK,73,2,"2017,2018",62,11
+dln,Latn,dln_Latn,Darlong,O,Lu,LATIN CAPITAL LETTER O,53,2,"2017,2018",52,1
+dln,Latn,dln_Latn,Darlong,W,Lu,LATIN CAPITAL LETTER W,52,1,2017,52,0
+dln,Latn,dln_Latn,Darlong,û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,48,1,2018,0,48
+dln,Latn,dln_Latn,Darlong,Z,Lu,LATIN CAPITAL LETTER Z,48,2,"2017,2018",46,2
+dln,Latn,dln_Latn,Darlong,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,45,2,"2017,2018",5,40
+dln,Latn,dln_Latn,Darlong,/,Po,SOLIDUS,44,2,"2017,2018",33,11
+dln,Latn,dln_Latn,Darlong,>,Sm,GREATER-THAN SIGN,43,1,2017,43,0
+dln,Latn,dln_Latn,Darlong,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,43,1,2018,0,43
+dln,Latn,dln_Latn,Darlong,ṭ,Ll,LATIN SMALL LETTER T WITH DOT BELOW,37,2,"2017,2018",8,29
+dln,Latn,dln_Latn,Darlong,V,Lu,LATIN CAPITAL LETTER V,33,2,"2017,2018",22,11
+dln,Latn,dln_Latn,Darlong,Y,Lu,LATIN CAPITAL LETTER Y,27,2,"2017,2018",22,5
+dln,Latn,dln_Latn,Darlong,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,27,1,2018,0,27
+dln,Latn,dln_Latn,Darlong,!,Po,EXCLAMATION MARK,26,2,"2017,2018",22,4
+dln,Latn,dln_Latn,Darlong,F,Lu,LATIN CAPITAL LETTER F,24,1,2017,24,0
+dln,Latn,dln_Latn,Darlong,’,Pf,RIGHT SINGLE QUOTATION MARK,21,2,"2017,2018",15,6
+dln,Latn,dln_Latn,Darlong,',Po,APOSTROPHE,15,1,2017,15,0
+dln,Latn,dln_Latn,Darlong,x,Ll,LATIN SMALL LETTER X,13,1,2017,13,0
+dln,Latn,dln_Latn,Darlong,‘,Pi,LEFT SINGLE QUOTATION MARK,12,2,"2017,2018",9,3
+dln,Latn,dln_Latn,Darlong,–,Pd,EN DASH,7,1,2017,7,0
+dln,Latn,dln_Latn,Darlong,%,Po,PERCENT SIGN,4,1,2017,4,0
+dln,Latn,dln_Latn,Darlong,q,Ll,LATIN SMALL LETTER Q,2,1,2017,2,0
+dln,Latn,dln_Latn,Darlong,j,Ll,LATIN SMALL LETTER J,2,1,2017,2,0
+dln,Latn,dln_Latn,Darlong,Ḳ,Lu,LATIN CAPITAL LETTER K WITH DOT BELOW,2,1,2017,2,0
+dln,Latn,dln_Latn,Darlong,æ,Ll,LATIN SMALL LETTER AE,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,ẓ,Ll,LATIN SMALL LETTER Z WITH DOT BELOW,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,X,Lu,LATIN CAPITAL LETTER X,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,ḥ,Ll,LATIN SMALL LETTER H WITH DOT BELOW,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,ν,Ll,GREEK SMALL LETTER NU,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,ω,Ll,GREEK SMALL LETTER OMEGA,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,μ,Ll,GREEK SMALL LETTER MU,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,ί,Ll,GREEK SMALL LETTER IOTA WITH TONOS,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,δ,Ll,GREEK SMALL LETTER DELTA,1,1,2017,1,0
+dln,Latn,dln_Latn,Darlong,α,Ll,GREEK SMALL LETTER ALPHA,1,1,2017,1,0

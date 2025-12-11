@@ -1,0 +1,71 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2023_frequency,year_2024_frequency
+ess,Latn,ess_Latn,Central Siberian Yupik,a,Ll,LATIN SMALL LETTER A,1246,3,"2018,2023,2024",443,729,74
+ess,Latn,ess_Latn,Central Siberian Yupik,g,Ll,LATIN SMALL LETTER G,752,3,"2018,2023,2024",156,549,47
+ess,Latn,ess_Latn,Central Siberian Yupik, ,Zs,SPACE,748,3,"2018,2023,2024",268,432,48
+ess,Latn,ess_Latn,Central Siberian Yupik,n,Ll,LATIN SMALL LETTER N,709,3,"2018,2023,2024",166,492,51
+ess,Latn,ess_Latn,Central Siberian Yupik,e,Ll,LATIN SMALL LETTER E,683,3,"2018,2023,2024",180,443,60
+ess,Latn,ess_Latn,Central Siberian Yupik,i,Ll,LATIN SMALL LETTER I,627,3,"2018,2023,2024",121,445,61
+ess,Latn,ess_Latn,Central Siberian Yupik,t,Ll,LATIN SMALL LETTER T,508,3,"2018,2023,2024",120,329,59
+ess,Latn,ess_Latn,Central Siberian Yupik,u,Ll,LATIN SMALL LETTER U,472,3,"2018,2023,2024",127,314,31
+ess,Latn,ess_Latn,Central Siberian Yupik,l,Ll,LATIN SMALL LETTER L,472,3,"2018,2023,2024",113,329,30
+ess,Latn,ess_Latn,Central Siberian Yupik,h,Ll,LATIN SMALL LETTER H,448,3,"2018,2023,2024",122,303,23
+ess,Latn,ess_Latn,Central Siberian Yupik,k,Ll,LATIN SMALL LETTER K,390,3,"2018,2023,2024",112,258,20
+ess,Latn,ess_Latn,Central Siberian Yupik,m,Ll,LATIN SMALL LETTER M,350,3,"2018,2023,2024",109,222,19
+ess,Latn,ess_Latn,Central Siberian Yupik,s,Ll,LATIN SMALL LETTER S,221,3,"2018,2023,2024",61,145,15
+ess,Latn,ess_Latn,Central Siberian Yupik,q,Ll,LATIN SMALL LETTER Q,177,3,"2018,2023,2024",51,114,12
+ess,Latn,ess_Latn,Central Siberian Yupik,-,Pd,HYPHEN-MINUS,163,3,"2018,2023,2024",71,74,18
+ess,Latn,ess_Latn,Central Siberian Yupik,p,Ll,LATIN SMALL LETTER P,117,3,"2018,2023,2024",20,82,15
+ess,Latn,ess_Latn,Central Siberian Yupik,.,Po,FULL STOP,102,3,"2018,2023,2024",26,65,11
+ess,Latn,ess_Latn,Central Siberian Yupik,r,Ll,LATIN SMALL LETTER R,101,3,"2018,2023,2024",32,64,5
+ess,Latn,ess_Latn,Central Siberian Yupik,y,Ll,LATIN SMALL LETTER Y,91,3,"2018,2023,2024",21,66,4
+ess,Latn,ess_Latn,Central Siberian Yupik,o,Ll,LATIN SMALL LETTER O,87,3,"2018,2023,2024",54,23,10
+ess,Latn,ess_Latn,Central Siberian Yupik,",",Po,COMMA,72,3,"2018,2023,2024",48,23,1
+ess,Latn,ess_Latn,Central Siberian Yupik,v,Ll,LATIN SMALL LETTER V,66,3,"2018,2023,2024",11,47,8
+ess,Latn,ess_Latn,Central Siberian Yupik,w,Ll,LATIN SMALL LETTER W,44,3,"2018,2023,2024",12,23,9
+ess,Latn,ess_Latn,Central Siberian Yupik,b,Ll,LATIN SMALL LETTER B,40,3,"2018,2023,2024",29,6,5
+ess,Latn,ess_Latn,Central Siberian Yupik,d,Ll,LATIN SMALL LETTER D,39,3,"2018,2023,2024",21,17,1
+ess,Latn,ess_Latn,Central Siberian Yupik,A,Lu,LATIN CAPITAL LETTER A,39,2,"2018,2023",26,13,0
+ess,Latn,ess_Latn,Central Siberian Yupik,J,Lu,LATIN CAPITAL LETTER J,34,1,2018,34,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,N,Lu,LATIN CAPITAL LETTER N,27,3,"2018,2023,2024",3,20,4
+ess,Latn,ess_Latn,Central Siberian Yupik,S,Lu,LATIN CAPITAL LETTER S,25,3,"2018,2023,2024",9,13,3
+ess,Latn,ess_Latn,Central Siberian Yupik,),Pe,RIGHT PARENTHESIS,20,3,"2018,2023,2024",4,13,3
+ess,Latn,ess_Latn,Central Siberian Yupik,(,Ps,LEFT PARENTHESIS,20,3,"2018,2023,2024",4,13,3
+ess,Latn,ess_Latn,Central Siberian Yupik,z,Ll,LATIN SMALL LETTER Z,20,1,2018,20,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,T,Lu,LATIN CAPITAL LETTER T,17,3,"2018,2023,2024",6,9,2
+ess,Latn,ess_Latn,Central Siberian Yupik,c,Ll,LATIN SMALL LETTER C,17,3,"2018,2023,2024",10,6,1
+ess,Latn,ess_Latn,Central Siberian Yupik,1,Nd,DIGIT ONE,16,1,2018,16,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,U,Lu,LATIN CAPITAL LETTER U,15,3,"2018,2023,2024",6,7,2
+ess,Latn,ess_Latn,Central Siberian Yupik,M,Lu,LATIN CAPITAL LETTER M,15,3,"2018,2023,2024",12,2,1
+ess,Latn,ess_Latn,Central Siberian Yupik,I,Lu,LATIN CAPITAL LETTER I,15,2,"2018,2023",3,12,0
+ess,Latn,ess_Latn,Central Siberian Yupik,D,Lu,LATIN CAPITAL LETTER D,15,3,"2018,2023,2024",7,6,2
+ess,Latn,ess_Latn,Central Siberian Yupik,P,Lu,LATIN CAPITAL LETTER P,13,3,"2018,2023,2024",2,9,2
+ess,Latn,ess_Latn,Central Siberian Yupik,L,Lu,LATIN CAPITAL LETTER L,11,2,"2023,2024",0,9,2
+ess,Latn,ess_Latn,Central Siberian Yupik,2,Nd,DIGIT TWO,11,2,"2018,2024",9,0,2
+ess,Latn,ess_Latn,Central Siberian Yupik,E,Lu,LATIN CAPITAL LETTER E,10,2,"2018,2023",8,2,0
+ess,Latn,ess_Latn,Central Siberian Yupik,f,Ll,LATIN SMALL LETTER F,9,1,2023,0,9,0
+ess,Latn,ess_Latn,Central Siberian Yupik,K,Lu,LATIN CAPITAL LETTER K,8,3,"2018,2023,2024",2,5,1
+ess,Latn,ess_Latn,Central Siberian Yupik,C,Lu,LATIN CAPITAL LETTER C,8,2,"2018,2023",5,3,0
+ess,Latn,ess_Latn,Central Siberian Yupik,0,Nd,DIGIT ZERO,8,3,"2018,2023,2024",2,4,2
+ess,Latn,ess_Latn,Central Siberian Yupik,3,Nd,DIGIT THREE,7,2,"2018,2023",3,4,0
+ess,Latn,ess_Latn,Central Siberian Yupik,B,Lu,LATIN CAPITAL LETTER B,7,1,2018,7,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,4,Nd,DIGIT FOUR,7,2,"2018,2024",6,0,1
+ess,Latn,ess_Latn,Central Siberian Yupik,W,Lu,LATIN CAPITAL LETTER W,6,2,"2023,2024",0,4,2
+ess,Latn,ess_Latn,Central Siberian Yupik,H,Lu,LATIN CAPITAL LETTER H,6,3,"2018,2023,2024",4,1,1
+ess,Latn,ess_Latn,Central Siberian Yupik,Q,Lu,LATIN CAPITAL LETTER Q,6,3,"2018,2023,2024",1,4,1
+ess,Latn,ess_Latn,Central Siberian Yupik,R,Lu,LATIN CAPITAL LETTER R,6,1,2018,6,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,Z,Lu,LATIN CAPITAL LETTER Z,5,1,2018,5,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,:,Po,COLON,4,3,"2018,2023,2024",2,1,1
+ess,Latn,ess_Latn,Central Siberian Yupik,“,Pi,LEFT DOUBLE QUOTATION MARK,4,2,"2018,2023",3,1,0
+ess,Latn,ess_Latn,Central Siberian Yupik,F,Lu,LATIN CAPITAL LETTER F,4,1,2023,0,4,0
+ess,Latn,ess_Latn,Central Siberian Yupik,”,Pf,RIGHT DOUBLE QUOTATION MARK,4,2,"2018,2023",3,1,0
+ess,Latn,ess_Latn,Central Siberian Yupik,/,Po,SOLIDUS,4,2,"2023,2024",0,2,2
+ess,Latn,ess_Latn,Central Siberian Yupik,5,Nd,DIGIT FIVE,4,2,"2018,2024",3,0,1
+ess,Latn,ess_Latn,Central Siberian Yupik,',Po,APOSTROPHE,3,3,"2018,2023,2024",1,1,1
+ess,Latn,ess_Latn,Central Siberian Yupik,O,Lu,LATIN CAPITAL LETTER O,3,1,2018,3,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,7,Nd,DIGIT SEVEN,2,1,2018,2,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,9,Nd,DIGIT NINE,2,1,2018,2,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,8,Nd,DIGIT EIGHT,2,1,2018,2,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,j,Ll,LATIN SMALL LETTER J,2,1,2018,2,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,6,Nd,DIGIT SIX,2,1,2018,2,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,;,Po,SEMICOLON,1,1,2018,1,0,0
+ess,Latn,ess_Latn,Central Siberian Yupik,V,Lu,LATIN CAPITAL LETTER V,1,1,2023,0,1,0

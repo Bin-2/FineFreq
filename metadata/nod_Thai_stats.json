@@ -1,0 +1,21 @@
+{
+  "language_code": "nod_Thai",
+  "iso_639_3": "nod",
+  "script": "Thai",
+  "language_name": "Northern Thai",
+  "total_characters": 407,
+  "total_frequency": 738915,
+  "years_covered": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:06.421251"
+}

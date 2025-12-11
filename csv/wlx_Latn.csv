@@ -1,0 +1,103 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2021_frequency,year_2022_frequency,year_2024_frequency
+wlx,Latn,wlx_Latn,Wali (Ghana), ,Zs,SPACE,19453,5,"2017,2018,2021,2022,2024",7152,4592,974,6253,482
+wlx,Latn,wlx_Latn,Wali (Ghana),a,Ll,LATIN SMALL LETTER A,15270,5,"2017,2018,2021,2022,2024",5359,3895,657,5015,344
+wlx,Latn,wlx_Latn,Wali (Ghana),n,Ll,LATIN SMALL LETTER N,8474,5,"2017,2018,2021,2022,2024",3284,2013,448,2470,259
+wlx,Latn,wlx_Latn,Wali (Ghana),i,Ll,LATIN SMALL LETTER I,6693,5,"2017,2018,2021,2022,2024",2914,1312,425,1724,318
+wlx,Latn,wlx_Latn,Wali (Ghana),g,Ll,LATIN SMALL LETTER G,6031,5,"2017,2018,2021,2022,2024",2344,1387,342,1800,158
+wlx,Latn,wlx_Latn,Wali (Ghana),e,Ll,LATIN SMALL LETTER E,5596,5,"2017,2018,2021,2022,2024",1882,1512,231,1734,237
+wlx,Latn,wlx_Latn,Wali (Ghana),u,Ll,LATIN SMALL LETTER U,3964,5,"2017,2018,2021,2022,2024",1620,845,250,1109,140
+wlx,Latn,wlx_Latn,Wali (Ghana),b,Ll,LATIN SMALL LETTER B,2804,5,"2017,2018,2021,2022,2024",1063,696,117,840,88
+wlx,Latn,wlx_Latn,Wali (Ghana),y,Ll,LATIN SMALL LETTER Y,2656,5,"2017,2018,2021,2022,2024",936,718,110,811,81
+wlx,Latn,wlx_Latn,Wali (Ghana),o,Ll,LATIN SMALL LETTER O,2593,5,"2017,2018,2021,2022,2024",937,704,173,662,117
+wlx,Latn,wlx_Latn,Wali (Ghana),l,Ll,LATIN SMALL LETTER L,2498,5,"2017,2018,2021,2022,2024",827,625,99,851,96
+wlx,Latn,wlx_Latn,Wali (Ghana),m,Ll,LATIN SMALL LETTER M,2226,5,"2017,2018,2021,2022,2024",732,691,72,686,45
+wlx,Latn,wlx_Latn,Wali (Ghana),k,Ll,LATIN SMALL LETTER K,2131,5,"2017,2018,2021,2022,2024",714,543,92,749,33
+wlx,Latn,wlx_Latn,Wali (Ghana),h,Ll,LATIN SMALL LETTER H,2123,5,"2017,2018,2021,2022,2024",711,579,65,696,72
+wlx,Latn,wlx_Latn,Wali (Ghana),r,Ll,LATIN SMALL LETTER R,2088,5,"2017,2018,2021,2022,2024",788,427,76,726,71
+wlx,Latn,wlx_Latn,Wali (Ghana),d,Ll,LATIN SMALL LETTER D,2063,5,"2017,2018,2021,2022,2024",726,456,87,711,83
+wlx,Latn,wlx_Latn,Wali (Ghana),t,Ll,LATIN SMALL LETTER T,1513,5,"2017,2018,2021,2022,2024",585,307,55,423,143
+wlx,Latn,wlx_Latn,Wali (Ghana),.,Po,FULL STOP,1484,5,"2017,2018,2021,2022,2024",516,351,73,487,57
+wlx,Latn,wlx_Latn,Wali (Ghana),s,Ll,LATIN SMALL LETTER S,1266,5,"2017,2018,2021,2022,2024",441,275,64,416,70
+wlx,Latn,wlx_Latn,Wali (Ghana),A,Lu,LATIN CAPITAL LETTER A,1045,5,"2017,2018,2021,2022,2024",279,328,7,424,7
+wlx,Latn,wlx_Latn,Wali (Ghana),p,Ll,LATIN SMALL LETTER P,987,5,"2017,2018,2021,2022,2024",343,232,64,313,35
+wlx,Latn,wlx_Latn,Wali (Ghana),ε,Ll,GREEK SMALL LETTER EPSILON,780,3,"2017,2018,2022",267,94,0,419,0
+wlx,Latn,wlx_Latn,Wali (Ghana),",",Po,COMMA,779,5,"2017,2018,2021,2022,2024",338,209,55,167,10
+wlx,Latn,wlx_Latn,Wali (Ghana),M,Lu,LATIN CAPITAL LETTER M,747,5,"2017,2018,2021,2022,2024",210,244,5,287,1
+wlx,Latn,wlx_Latn,Wali (Ghana),',Po,APOSTROPHE,720,2,"2017,2021",529,0,191,0,0
+wlx,Latn,wlx_Latn,Wali (Ghana),j,Ll,LATIN SMALL LETTER J,660,5,"2017,2018,2021,2022,2024",227,187,30,195,21
+wlx,Latn,wlx_Latn,Wali (Ghana),w,Ll,LATIN SMALL LETTER W,575,5,"2017,2018,2021,2022,2024",164,172,37,185,17
+wlx,Latn,wlx_Latn,Wali (Ghana),N,Lu,LATIN CAPITAL LETTER N,451,5,"2017,2018,2021,2022,2024",189,106,30,124,2
+wlx,Latn,wlx_Latn,Wali (Ghana),O,Lu,LATIN CAPITAL LETTER O,390,3,"2017,2018,2022",89,130,0,171,0
+wlx,Latn,wlx_Latn,Wali (Ghana),K,Lu,LATIN CAPITAL LETTER K,383,5,"2017,2018,2021,2022,2024",118,104,18,142,1
+wlx,Latn,wlx_Latn,Wali (Ghana),B,Lu,LATIN CAPITAL LETTER B,376,5,"2017,2018,2021,2022,2024",149,102,16,106,3
+wlx,Latn,wlx_Latn,Wali (Ghana),z,Ll,LATIN SMALL LETTER Z,365,4,"2017,2018,2021,2022",124,85,4,152,0
+wlx,Latn,wlx_Latn,Wali (Ghana),כ,Lo,HEBREW LETTER KAF,357,3,"2017,2018,2022",112,50,0,195,0
+wlx,Latn,wlx_Latn,Wali (Ghana),G,Lu,LATIN CAPITAL LETTER G,316,4,"2017,2018,2021,2022",81,97,8,130,0
+wlx,Latn,wlx_Latn,Wali (Ghana),1,Nd,DIGIT ONE,283,5,"2017,2018,2021,2022,2024",127,36,17,89,14
+wlx,Latn,wlx_Latn,Wali (Ghana),f,Ll,LATIN SMALL LETTER F,260,5,"2017,2018,2021,2022,2024",79,35,2,76,68
+wlx,Latn,wlx_Latn,Wali (Ghana),T,Lu,LATIN CAPITAL LETTER T,225,5,"2017,2018,2021,2022,2024",68,65,1,84,7
+wlx,Latn,wlx_Latn,Wali (Ghana),S,Lu,LATIN CAPITAL LETTER S,223,5,"2017,2018,2021,2022,2024",74,59,10,79,1
+wlx,Latn,wlx_Latn,Wali (Ghana),I,Lu,LATIN CAPITAL LETTER I,220,5,"2017,2018,2021,2022,2024",59,73,2,84,2
+wlx,Latn,wlx_Latn,Wali (Ghana),v,Ll,LATIN SMALL LETTER V,201,5,"2017,2018,2021,2022,2024",76,43,4,58,20
+wlx,Latn,wlx_Latn,Wali (Ghana),R,Lu,LATIN CAPITAL LETTER R,198,3,"2017,2018,2022",48,52,0,98,0
+wlx,Latn,wlx_Latn,Wali (Ghana),U,Lu,LATIN CAPITAL LETTER U,197,5,"2017,2018,2021,2022,2024",77,36,16,63,5
+wlx,Latn,wlx_Latn,Wali (Ghana),-,Pd,HYPHEN-MINUS,182,5,"2017,2018,2021,2022,2024",85,19,11,62,5
+wlx,Latn,wlx_Latn,Wali (Ghana),H,Lu,LATIN CAPITAL LETTER H,179,5,"2017,2018,2021,2022,2024",51,43,1,79,5
+wlx,Latn,wlx_Latn,Wali (Ghana),E,Lu,LATIN CAPITAL LETTER E,172,4,"2017,2018,2022,2024",43,48,0,79,2
+wlx,Latn,wlx_Latn,Wali (Ghana),L,Lu,LATIN CAPITAL LETTER L,171,3,"2017,2018,2022",33,35,0,103,0
+wlx,Latn,wlx_Latn,Wali (Ghana),c,Ll,LATIN SMALL LETTER C,158,5,"2017,2018,2021,2022,2024",57,16,7,21,57
+wlx,Latn,wlx_Latn,Wali (Ghana),Y,Lu,LATIN CAPITAL LETTER Y,147,4,"2017,2018,2021,2022",46,54,17,30,0
+wlx,Latn,wlx_Latn,Wali (Ghana),D,Lu,LATIN CAPITAL LETTER D,141,5,"2017,2018,2021,2022,2024",40,52,5,43,1
+wlx,Latn,wlx_Latn,Wali (Ghana),9,Nd,DIGIT NINE,136,4,"2017,2018,2021,2022",59,21,4,52,0
+wlx,Latn,wlx_Latn,Wali (Ghana),0,Nd,DIGIT ZERO,125,5,"2017,2018,2021,2022,2024",45,32,5,42,1
+wlx,Latn,wlx_Latn,Wali (Ghana),2,Nd,DIGIT TWO,117,5,"2017,2018,2021,2022,2024",66,1,15,22,13
+wlx,Latn,wlx_Latn,Wali (Ghana),Q,Lu,LATIN CAPITAL LETTER Q,105,3,"2017,2018,2022",31,17,0,57,0
+wlx,Latn,wlx_Latn,Wali (Ghana),),Pe,RIGHT PARENTHESIS,98,5,"2017,2018,2021,2022,2024",24,14,1,34,25
+wlx,Latn,wlx_Latn,Wali (Ghana),(,Ps,LEFT PARENTHESIS,96,5,"2017,2018,2021,2022,2024",24,14,1,32,25
+wlx,Latn,wlx_Latn,Wali (Ghana),J,Lu,LATIN CAPITAL LETTER J,94,4,"2017,2018,2021,2022",41,19,13,21,0
+wlx,Latn,wlx_Latn,Wali (Ghana),8,Nd,DIGIT EIGHT,93,4,"2017,2018,2021,2022",31,5,4,53,0
+wlx,Latn,wlx_Latn,Wali (Ghana),3,Nd,DIGIT THREE,77,5,"2017,2018,2021,2022,2024",29,7,17,19,5
+wlx,Latn,wlx_Latn,Wali (Ghana),;,Po,SEMICOLON,74,5,"2017,2018,2021,2022,2024",7,27,1,14,25
+wlx,Latn,wlx_Latn,Wali (Ghana),P,Lu,LATIN CAPITAL LETTER P,72,4,"2017,2018,2022,2024",13,15,0,41,3
+wlx,Latn,wlx_Latn,Wali (Ghana),4,Nd,DIGIT FOUR,62,5,"2017,2018,2021,2022,2024",29,5,12,14,2
+wlx,Latn,wlx_Latn,Wali (Ghana),6,Nd,DIGIT SIX,55,5,"2017,2018,2021,2022,2024",21,5,4,24,1
+wlx,Latn,wlx_Latn,Wali (Ghana),5,Nd,DIGIT FIVE,55,5,"2017,2018,2021,2022,2024",22,3,5,21,4
+wlx,Latn,wlx_Latn,Wali (Ghana),q,Ll,LATIN SMALL LETTER Q,49,3,"2017,2018,2022",18,8,0,23,0
+wlx,Latn,wlx_Latn,Wali (Ghana),7,Nd,DIGIT SEVEN,48,4,"2017,2018,2021,2022",23,2,4,19,0
+wlx,Latn,wlx_Latn,Wali (Ghana),‘,Pi,LEFT SINGLE QUOTATION MARK,47,3,"2017,2018,2024",1,2,0,0,44
+wlx,Latn,wlx_Latn,Wali (Ghana),?,Po,QUESTION MARK,47,5,"2017,2018,2021,2022,2024",8,23,4,8,4
+wlx,Latn,wlx_Latn,Wali (Ghana),:,Po,COLON,45,5,"2017,2018,2021,2022,2024",12,6,16,10,1
+wlx,Latn,wlx_Latn,Wali (Ghana),W,Lu,LATIN CAPITAL LETTER W,44,5,"2017,2018,2021,2022,2024",12,6,3,21,2
+wlx,Latn,wlx_Latn,Wali (Ghana),C,Lu,LATIN CAPITAL LETTER C,42,4,"2017,2018,2021,2022",24,3,3,12,0
+wlx,Latn,wlx_Latn,Wali (Ghana),Z,Lu,LATIN CAPITAL LETTER Z,40,4,"2017,2018,2021,2022",9,8,2,21,0
+wlx,Latn,wlx_Latn,Wali (Ghana),–,Pd,EN DASH,40,2,"2017,2022",27,0,0,13,0
+wlx,Latn,wlx_Latn,Wali (Ghana),F,Lu,LATIN CAPITAL LETTER F,39,3,"2017,2018,2022",13,9,0,17,0
+wlx,Latn,wlx_Latn,Wali (Ghana),/,Po,SOLIDUS,36,4,"2017,2018,2022,2024",16,6,0,5,9
+wlx,Latn,wlx_Latn,Wali (Ghana),“,Pi,LEFT DOUBLE QUOTATION MARK,31,3,"2017,2018,2022",6,4,0,21,0
+wlx,Latn,wlx_Latn,Wali (Ghana),"""",Po,QUOTATION MARK,26,2,"2017,2018",16,10,0,0,0
+wlx,Latn,wlx_Latn,Wali (Ghana),V,Lu,LATIN CAPITAL LETTER V,18,3,"2017,2018,2022",7,6,0,5,0
+wlx,Latn,wlx_Latn,Wali (Ghana),”,Pf,RIGHT DOUBLE QUOTATION MARK,17,3,"2017,2018,2022",3,5,0,9,0
+wlx,Latn,wlx_Latn,Wali (Ghana),É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,17,1,2018,0,17,0,0,0
+wlx,Latn,wlx_Latn,Wali (Ghana),’,Pf,RIGHT SINGLE QUOTATION MARK,16,4,"2017,2018,2022,2024",7,2,0,2,5
+wlx,Latn,wlx_Latn,Wali (Ghana),x,Ll,LATIN SMALL LETTER X,7,3,"2018,2022,2024",0,4,0,2,1
+wlx,Latn,wlx_Latn,Wali (Ghana),!,Po,EXCLAMATION MARK,7,1,2022,0,0,0,7,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ا,Lo,ARABIC LETTER ALEF,6,1,2022,0,0,0,6,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ل,Lo,ARABIC LETTER LAM,4,1,2022,0,0,0,4,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ر,Lo,ARABIC LETTER REH,3,1,2022,0,0,0,3,0
+wlx,Latn,wlx_Latn,Wali (Ghana),»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,3,1,2022,0,0,0,3,0
+wlx,Latn,wlx_Latn,Wali (Ghana),@,Po,COMMERCIAL AT,3,1,2018,0,3,0,0,0
+wlx,Latn,wlx_Latn,Wali (Ghana),X,Lu,LATIN CAPITAL LETTER X,3,2,"2017,2018",1,2,0,0,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ت,Lo,ARABIC LETTER TEH,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ي,Lo,ARABIC LETTER YEH,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),خ,Lo,ARABIC LETTER KHAH,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ش,Lo,ARABIC LETTER SHEEN,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ح,Lo,ARABIC LETTER HAH,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),د,Lo,ARABIC LETTER DAL,2,1,2022,0,0,0,2,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ن,Lo,ARABIC LETTER NOON,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ف,Lo,ARABIC LETTER FEH,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ظ,Lo,ARABIC LETTER ZAH,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ب,Lo,ARABIC LETTER BEH,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ك,Lo,ARABIC LETTER KAF,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ة,Lo,ARABIC LETTER TEH MARBUTA,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),ض,Lo,ARABIC LETTER DAD,1,1,2022,0,0,0,1,0
+wlx,Latn,wlx_Latn,Wali (Ghana),إ,Lo,ARABIC LETTER ALEF WITH HAMZA BELOW,1,1,2022,0,0,0,1,0

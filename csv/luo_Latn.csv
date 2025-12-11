@@ -1,0 +1,462 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2014_frequency,year_2015_frequency,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania), ,Zs,SPACE,1616242,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",12521,1616,1429,7947,79933,53808,64624,644658,420667,213002,57941,58096
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),o,Ll,LATIN SMALL LETTER O,1006170,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",7904,834,212,3822,52907,34696,42015,396346,264064,135706,34041,33623
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),a,Ll,LATIN SMALL LETTER A,828686,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",6622,914,1269,5098,43530,29274,36897,327975,214399,108304,28207,26197
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),n,Ll,LATIN SMALL LETTER N,634365,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",4822,603,442,2827,33090,20453,24318,252264,163401,85517,22606,24022
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),e,Ll,LATIN SMALL LETTER E,623534,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",4693,761,242,2613,30850,21323,24595,245959,163478,82736,22471,23813
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),i,Ll,LATIN SMALL LETTER I,586834,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",4423,533,707,3172,30333,19086,22933,227479,155566,79971,20826,21805
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),m,Ll,LATIN SMALL LETTER M,411563,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",3121,267,97,1680,19079,15018,18113,165067,108640,53729,13869,12883
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),k,Ll,LATIN SMALL LETTER K,352185,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",2784,387,161,1486,18923,11258,14607,133908,95259,49166,13190,11056
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),g,Ll,LATIN SMALL LETTER G,289159,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",2280,206,231,1203,14574,9206,11292,110871,77776,40781,10063,10676
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),r,Ll,LATIN SMALL LETTER R,274215,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",2302,492,221,1211,13592,11665,14008,101316,74589,34997,10012,9810
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),d,Ll,LATIN SMALL LETTER D,259416,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",2395,280,216,971,14215,9577,11645,94148,70811,37067,9173,8918
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),h,Ll,LATIN SMALL LETTER H,234694,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1750,236,380,1082,12123,7978,9075,89406,63281,33131,8447,7805
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),u,Ll,LATIN SMALL LETTER U,218469,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1885,258,229,1036,11222,7734,9782,74487,64235,31454,7806,8341
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),y,Ll,LATIN SMALL LETTER Y,216795,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1633,163,100,920,12051,6491,8075,89416,55468,28203,7083,7192
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),t,Ll,LATIN SMALL LETTER T,208741,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1767,326,203,1287,12542,7602,9870,75466,56673,27149,7073,8783
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),w,Ll,LATIN SMALL LETTER W,164502,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1435,185,22,822,8976,5017,5734,69826,40725,21871,5161,4728
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),l,Ll,LATIN SMALL LETTER L,145106,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1346,238,164,696,7701,6265,7673,52183,38387,19454,5064,5935
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),c,Ll,LATIN SMALL LETTER C,134023,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1047,141,63,594,6837,5047,6039,48126,37549,18516,4448,5616
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),s,Ll,LATIN SMALL LETTER S,117262,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",866,235,100,778,4952,4417,5572,43955,31878,14348,4385,5776
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),.,Po,FULL STOP,107150,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",765,83,55,525,6837,3491,4560,42057,29637,12085,4292,2763
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),b,Ll,LATIN SMALL LETTER B,90394,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",778,99,89,531,4766,3757,4257,33718,24798,11661,2689,3251
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),",",Po,COMMA,83939,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",358,59,33,325,3826,2459,1947,31261,23122,14114,2697,3738
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),j,Ll,LATIN SMALL LETTER J,71124,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",540,41,10,294,3515,2384,2692,28452,18525,10310,2011,2350
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),p,Ll,LATIN SMALL LETTER P,66496,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",655,146,36,308,4005,2974,3695,24647,17530,7771,2524,2205
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),’,Pf,RIGHT SINGLE QUOTATION MARK,43887,11,"2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024",22,27,0,259,2595,1037,1428,24617,7559,2516,1582,2245
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),N,Lu,LATIN CAPITAL LETTER N,41339,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",309,57,81,233,1856,1785,1239,16415,10258,6191,1367,1548
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),1,Nd,DIGIT ONE,35851,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",80,15,45,53,1110,983,580,15650,9458,5206,1240,1431
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),K,Lu,LATIN CAPITAL LETTER K,32641,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",356,68,154,201,2167,1252,1782,12626,7746,3954,1235,1100
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),J,Lu,LATIN CAPITAL LETTER J,32562,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",271,19,72,88,933,956,674,17146,6511,4050,1059,783
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),M,Lu,LATIN CAPITAL LETTER M,30718,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",310,24,116,200,1537,1537,1436,12381,8351,2646,1096,1084
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),A,Lu,LATIN CAPITAL LETTER A,24313,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",551,65,124,258,1420,1515,1198,9085,5369,2546,937,1245
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),2,Nd,DIGIT TWO,22970,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",70,21,23,13,669,641,404,8444,6924,3752,885,1124
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),O,Lu,LATIN CAPITAL LETTER O,22321,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",482,55,37,134,1427,1580,1398,8843,4970,1932,690,773
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),:,Po,COLON,20365,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",72,14,11,134,391,647,202,11747,3444,1748,1040,915
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),-,Pd,HYPHEN-MINUS,18021,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",202,2,97,124,751,781,478,5829,4071,3487,1472,727
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),E,Lu,LATIN CAPITAL LETTER E,17548,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",219,38,67,55,666,658,491,7996,3845,2040,754,719
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),v,Ll,LATIN SMALL LETTER V,14918,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",57,33,16,75,156,384,333,7593,3764,1573,387,547
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),T,Lu,LATIN CAPITAL LETTER T,13935,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",129,33,36,53,754,495,423,4583,3990,1822,713,904
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),3,Nd,DIGIT THREE,13815,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",39,14,14,30,395,369,192,5433,3844,2284,478,723
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),R,Lu,LATIN CAPITAL LETTER R,13059,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",254,34,25,48,513,1048,535,4507,2736,1997,751,611
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),I,Lu,LATIN CAPITAL LETTER I,13000,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",168,48,52,66,572,332,473,5480,3018,1723,540,528
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),S,Lu,LATIN CAPITAL LETTER S,12628,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",136,65,165,122,622,494,660,4901,2524,1523,713,703
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ʼ,Lm,MODIFIER LETTER APOSTROPHE,12566,5,"2020,2021,2022,2023,2024",0,0,0,0,0,0,0,9,7149,5225,17,166
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Y,Lu,LATIN CAPITAL LETTER Y,12471,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",65,28,35,14,312,273,286,6092,2843,1460,554,509
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),B,Lu,LATIN CAPITAL LETTER B,12131,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",92,17,28,43,524,391,471,4568,2976,1470,680,871
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),0,Nd,DIGIT ZERO,11901,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",145,31,12,15,486,378,424,4387,3514,1634,313,562
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),|,Sm,VERTICAL LINE,11508,10,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023",64,0,6,4,71,38,104,283,8118,2766,54,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),W,Lu,LATIN CAPITAL LETTER W,11440,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",134,15,3,40,590,460,476,4952,2635,1097,440,598
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),“,Pi,LEFT DOUBLE QUOTATION MARK,11261,11,"2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,2,0,1,110,75,89,5202,2812,1822,411,725
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),?,Po,QUESTION MARK,11140,10,"2013,2016,2017,2018,2019,2020,2021,2022,2023,2024",44,0,0,16,397,205,113,7298,1666,853,193,355
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),G,Lu,LATIN CAPITAL LETTER G,10406,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",123,22,63,66,487,302,456,4109,2579,1014,387,798
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),4,Nd,DIGIT FOUR,10348,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",14,31,3,15,323,255,143,4383,2801,1524,356,500
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),”,Pf,RIGHT DOUBLE QUOTATION MARK,10197,11,"2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024",15,2,0,1,104,75,115,5169,2095,1470,463,688
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),f,Ll,LATIN SMALL LETTER F,10060,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",99,83,22,100,559,610,679,3017,2838,1138,265,650
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),P,Lu,LATIN CAPITAL LETTER P,10036,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",81,52,21,120,510,362,474,4147,1983,1159,391,736
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),C,Lu,LATIN CAPITAL LETTER C,9511,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",157,22,64,188,421,388,621,3178,2600,772,386,714
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),D,Lu,LATIN CAPITAL LETTER D,9344,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",117,21,75,91,490,292,445,3372,2096,1078,593,674
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),[,Ps,LEFT SQUARE BRACKET,8715,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",6,3,11,2,4,230,423,524,4550,2641,20,301
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),],Pe,RIGHT SQUARE BRACKET,8715,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",6,3,11,2,3,230,423,524,4549,2643,20,301
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),5,Nd,DIGIT FIVE,8621,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,2,3,4,290,215,166,3723,2231,1238,315,422
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),),Pe,RIGHT PARENTHESIS,8435,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",69,4,44,20,584,236,287,5852,636,191,373,139
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),(,Ps,LEFT PARENTHESIS,8432,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",69,4,43,20,589,231,262,5888,632,190,363,141
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),6,Nd,DIGIT SIX,7574,11,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",30,0,9,15,274,196,106,3071,2105,1144,280,344
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),9,Nd,DIGIT NINE,7441,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",85,1,48,12,365,169,127,3051,2015,1007,227,334
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),L,Lu,LATIN CAPITAL LETTER L,7420,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",166,47,19,38,444,291,380,2526,1683,841,390,595
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),H,Lu,LATIN CAPITAL LETTER H,6910,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",118,40,86,67,240,243,267,2802,1339,799,382,527
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),7,Nd,DIGIT SEVEN,6887,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",14,1,11,7,236,168,112,2944,1818,1016,232,328
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),8,Nd,DIGIT EIGHT,6682,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",12,1,11,2,233,210,126,2687,1829,999,247,325
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),;,Po,SEMICOLON,6194,11,"2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024",30,1,0,1,804,188,153,1798,1471,917,622,209
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),',Po,APOSTROPHE,6164,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",372,1,1,3,1327,586,239,215,1164,1747,389,120
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),+,Sm,PLUS SIGN,5119,6,"2019,2020,2021,2022,2023,2024",0,0,0,0,0,0,3,2,2666,868,62,1518
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),U,Lu,LATIN CAPITAL LETTER U,4719,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",121,5,20,24,229,201,286,1867,1172,433,173,188
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),F,Lu,LATIN CAPITAL LETTER F,3823,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",26,6,18,22,67,168,184,1164,1133,353,153,529
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),!,Po,EXCLAMATION MARK,3323,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",30,3,4,1,218,50,48,1296,870,542,99,162
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),‘,Pi,LEFT SINGLE QUOTATION MARK,3233,9,"2014,2017,2018,2019,2020,2021,2022,2023,2024",0,1,0,0,8,20,10,1881,786,380,41,106
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),—,Pd,EM DASH,3027,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,0,0,0,42,33,8,2340,214,76,263,51
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),z,Ll,LATIN SMALL LETTER Z,2672,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",25,8,14,89,86,189,105,729,823,356,115,133
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),"""",Po,QUOTATION MARK,2155,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",28,16,2,2,133,189,34,124,820,692,113,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Z,Lu,LATIN CAPITAL LETTER Z,2073,11,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",22,0,133,49,49,261,37,798,353,254,62,55
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),/,Po,SOLIDUS,1494,10,"2013,2014,2017,2018,2019,2020,2021,2022,2023,2024",48,3,0,0,35,54,70,396,540,144,13,191
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),*,Po,ASTERISK,1148,10,"2013,2014,2017,2018,2019,2020,2021,2022,2023,2024",102,3,0,0,6,65,4,372,329,79,13,175
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),V,Lu,LATIN CAPITAL LETTER V,1051,11,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",8,0,8,12,21,61,66,388,178,38,84,187
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),x,Ll,LATIN SMALL LETTER X,672,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",21,9,12,17,24,66,54,207,176,6,22,58
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),^,Sk,CIRCUMFLEX ACCENT,578,6,"2017,2020,2021,2022,2023,2024",0,0,0,0,2,0,0,255,178,46,8,89
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ī,Ll,LATIN SMALL LETTER I WITH MACRON,450,1,2021,0,0,0,0,0,0,0,0,450,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),_,Pc,LOW LINE,362,11,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,0,2,1,16,3,1,78,198,51,2,9
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ū,Ll,LATIN SMALL LETTER U WITH MACRON,319,1,2021,0,0,0,0,0,0,0,0,319,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),–,Pd,EN DASH,275,9,"2013,2017,2018,2019,2020,2021,2022,2023,2024",1,0,0,0,5,14,20,80,122,1,29,3
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),q,Ll,LATIN SMALL LETTER Q,271,12,"2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",9,8,3,2,3,36,20,59,62,39,17,13
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),#,Po,NUMBER SIGN,255,7,"2017,2018,2019,2020,2021,2022,2023",0,0,0,0,7,1,7,13,205,16,6,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),é,Ll,LATIN SMALL LETTER E WITH ACUTE,190,7,"2013,2017,2018,2019,2020,2021,2022",1,0,0,0,1,30,105,43,8,2,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),=,Sm,EQUALS SIGN,181,4,"2013,2014,2017,2019",159,7,0,0,7,0,8,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),~,Sm,TILDE,176,3,"2015,2020,2021",0,0,2,0,0,0,0,1,173,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),%,Po,PERCENT SIGN,154,7,"2017,2018,2019,2020,2021,2022,2024",0,0,0,0,1,6,4,126,13,2,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),©,So,COPYRIGHT SIGN,126,8,"2013,2017,2018,2019,2021,2022,2023,2024",17,0,0,0,10,2,1,0,22,32,1,41
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ा,Mc,DEVANAGARI VOWEL SIGN AA,98,2,"2020,2021",0,0,0,0,0,0,0,21,77,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),·,Po,MIDDLE DOT,84,6,"2017,2018,2020,2021,2023,2024",0,0,0,0,6,8,0,19,11,0,39,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Q,Lu,LATIN CAPITAL LETTER Q,82,11,"2013,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",1,0,3,1,11,6,2,42,7,2,4,3
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),駅,Lo,CJK UNIFIED IDEOGRAPH-99C5,79,1,2019,0,0,0,0,0,0,79,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),&,Po,AMPERSAND,75,10,"2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",0,0,3,2,4,8,18,11,26,1,1,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),े,Mn,DEVANAGARI VOWEL SIGN E,72,2,"2020,2021",0,0,0,0,0,0,0,16,56,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),र,Lo,DEVANAGARI LETTER RA,68,2,"2020,2021",0,0,0,0,0,0,0,11,57,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ū,Lu,LATIN CAPITAL LETTER U WITH MACRON,65,1,2021,0,0,0,0,0,0,0,0,65,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ʹ,Lm,MODIFIER LETTER PRIME,63,4,"2017,2020,2021,2023",0,0,0,0,2,0,0,18,9,0,34,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),क,Lo,DEVANAGARI LETTER KA,53,2,"2020,2021",0,0,0,0,0,0,0,12,41,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),è,Ll,LATIN SMALL LETTER E WITH GRAVE,52,2,"2018,2020",0,0,0,0,0,2,0,50,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),्,Mn,DEVANAGARI SIGN VIRAMA,48,2,"2020,2021",0,0,0,0,0,0,0,19,29,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),X,Lu,LATIN CAPITAL LETTER X,45,7,"2013,2017,2018,2019,2020,2021,2024",18,0,0,0,1,4,4,13,4,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),स,Lo,DEVANAGARI LETTER SA,42,2,"2020,2021",0,0,0,0,0,0,0,1,41,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ी,Mc,DEVANAGARI VOWEL SIGN II,41,2,"2020,2021",0,0,0,0,0,0,0,18,23,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),य,Lo,DEVANAGARI LETTER YA,41,2,"2020,2021",0,0,0,0,0,0,0,11,30,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),न,Lo,DEVANAGARI LETTER NA,38,2,"2020,2021",0,0,0,0,0,0,0,5,33,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ह,Lo,DEVANAGARI LETTER HA,33,2,"2020,2021",0,0,0,0,0,0,0,3,30,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),¶,Po,PILCROW SIGN,32,3,"2019,2020,2022",0,0,0,0,0,0,9,20,0,3,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),н,Ll,CYRILLIC SMALL LETTER EN,29,1,2017,0,0,0,0,29,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),១,Nd,KHMER DIGIT ONE,29,1,2022,0,0,0,0,0,0,0,0,0,29,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),@,Po,COMMERCIAL AT,28,8,"2013,2015,2016,2017,2018,2020,2021,2023",15,0,1,1,4,2,0,2,1,0,2,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),त,Lo,DEVANAGARI LETTER TA,28,2,"2020,2021",0,0,0,0,0,0,0,3,25,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៣,Nd,KHMER DIGIT THREE,28,1,2022,0,0,0,0,0,0,0,0,0,28,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ो,Mc,DEVANAGARI VOWEL SIGN O,28,2,"2020,2021",0,0,0,0,0,0,0,3,25,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ग,Lo,DEVANAGARI LETTER GA,28,2,"2020,2021",0,0,0,0,0,0,0,21,7,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),о,Ll,CYRILLIC SMALL LETTER O,27,1,2017,0,0,0,0,27,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ं,Mn,DEVANAGARI SIGN ANUSVARA,27,2,"2020,2021",0,0,0,0,0,0,0,12,15,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),म,Lo,DEVANAGARI LETTER MA,26,2,"2020,2021",0,0,0,0,0,0,0,10,16,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ó,Ll,LATIN SMALL LETTER O WITH ACUTE,26,4,"2013,2014,2018,2020",3,1,0,0,0,6,0,16,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),и,Ll,CYRILLIC SMALL LETTER I,23,1,2017,0,0,0,0,23,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),е,Ll,CYRILLIC SMALL LETTER IE,23,1,2017,0,0,0,0,23,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),២,Nd,KHMER DIGIT TWO,23,1,2022,0,0,0,0,0,0,0,0,0,23,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),>,Sm,GREATER-THAN SIGN,23,6,"2014,2018,2020,2021,2022,2024",0,13,0,0,0,1,0,5,1,2,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),प,Lo,DEVANAGARI LETTER PA,22,2,"2020,2021",0,0,0,0,0,0,0,4,18,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ि,Mc,DEVANAGARI VOWEL SIGN I,22,2,"2020,2021",0,0,0,0,0,0,0,2,20,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៤,Nd,KHMER DIGIT FOUR,22,1,2022,0,0,0,0,0,0,0,0,0,22,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ا,Lo,ARABIC LETTER ALEF,22,1,2024,0,0,0,0,0,0,0,0,0,0,0,22
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),í,Ll,LATIN SMALL LETTER I WITH ACUTE,22,5,"2013,2018,2020,2021,2022",1,0,0,0,0,9,0,10,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),द,Lo,DEVANAGARI LETTER DA,22,2,"2020,2021",0,0,0,0,0,0,0,6,16,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),á,Ll,LATIN SMALL LETTER A WITH ACUTE,21,3,"2018,2020,2021",0,0,0,0,0,11,0,5,5,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),थ,Lo,DEVANAGARI LETTER THA,19,2,"2020,2021",0,0,0,0,0,0,0,2,17,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),文,Lo,CJK UNIFIED IDEOGRAPH-6587,19,1,2019,0,0,0,0,0,0,19,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),中,Lo,CJK UNIFIED IDEOGRAPH-4E2D,19,1,2019,0,0,0,0,0,0,19,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ũ,Ll,LATIN SMALL LETTER U WITH TILDE,18,1,2014,0,18,0,0,0,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),山,Lo,CJK UNIFIED IDEOGRAPH-5C71,17,1,2019,0,0,0,0,0,0,17,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),अ,Lo,DEVANAGARI LETTER A,17,2,"2020,2021",0,0,0,0,0,0,0,6,11,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),系,Lo,CJK UNIFIED IDEOGRAPH-7CFB,17,1,2019,0,0,0,0,0,0,17,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ज,Lo,DEVANAGARI LETTER JA,17,2,"2020,2021",0,0,0,0,0,0,0,6,11,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),श,Lo,DEVANAGARI LETTER SHA,17,2,"2020,2021",0,0,0,0,0,0,0,6,11,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),с,Ll,CYRILLIC SMALL LETTER ES,17,1,2017,0,0,0,0,17,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),व,Lo,DEVANAGARI LETTER VA,16,2,"2020,2021",0,0,0,0,0,0,0,4,12,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),町,Lo,CJK UNIFIED IDEOGRAPH-753A,16,1,2019,0,0,0,0,0,0,16,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ब,Lo,DEVANAGARI LETTER BA,16,2,"2020,2021",0,0,0,0,0,0,0,7,9,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ल,Lo,DEVANAGARI LETTER LA,16,2,"2020,2021",0,0,0,0,0,0,0,2,14,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ل,Lo,ARABIC LETTER LAM,16,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,15
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),川,Lo,CJK UNIFIED IDEOGRAPH-5DDD,15,1,2019,0,0,0,0,0,0,15,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ू,Mn,DEVANAGARI VOWEL SIGN UU,14,2,"2020,2021",0,0,0,0,0,0,0,1,13,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),<,Sm,LESS-THAN SIGN,14,2,"2014,2024",0,13,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),а,Ll,CYRILLIC SMALL LETTER A,14,1,2017,0,0,0,0,14,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),®,So,REGISTERED SIGN,14,3,"2018,2020,2022",0,0,0,0,0,6,0,7,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),崎,Lo,CJK UNIFIED IDEOGRAPH-5D0E,13,1,2019,0,0,0,0,0,0,13,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),в,Ll,CYRILLIC SMALL LETTER VE,13,1,2017,0,0,0,0,13,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ה,Lo,HEBREW LETTER HE,13,3,"2020,2021,2022",0,0,0,0,0,0,0,5,7,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),陽,Lo,CJK UNIFIED IDEOGRAPH-967D,12,1,2019,0,0,0,0,0,0,12,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),○,So,WHITE CIRCLE,12,1,2020,0,0,0,0,0,0,0,12,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),р,Ll,CYRILLIC SMALL LETTER ER,12,1,2017,0,0,0,0,12,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),औ,Lo,DEVANAGARI LETTER AU,12,1,2021,0,0,0,0,0,0,0,0,12,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,11,3,"2017,2018,2020",0,0,0,0,1,3,0,7,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,11,4,"2017,2018,2020,2022",0,0,0,0,1,5,0,4,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),و,Lo,ARABIC LETTER WAW,11,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,2,9
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),扇,Lo,CJK UNIFIED IDEOGRAPH-6247,11,1,2019,0,0,0,0,0,0,11,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ã,Ll,LATIN SMALL LETTER A WITH TILDE,11,3,"2017,2018,2020",0,0,0,0,1,6,0,4,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ي,Lo,ARABIC LETTER YEH,11,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,10
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ु,Mn,DEVANAGARI VOWEL SIGN U,11,2,"2020,2021",0,0,0,0,0,0,0,1,10,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),я,Ll,CYRILLIC SMALL LETTER YA,10,1,2017,0,0,0,0,10,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),`,Sk,GRAVE ACCENT,10,2,"2017,2019",0,0,0,0,9,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ì,Ll,LATIN SMALL LETTER I WITH GRAVE,10,1,2021,0,0,0,0,0,0,0,0,10,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ī,Lu,LATIN CAPITAL LETTER I WITH MACRON,10,1,2021,0,0,0,0,0,0,0,0,10,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),у,Ll,CYRILLIC SMALL LETTER U,10,1,2017,0,0,0,0,10,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ñ,Ll,LATIN SMALL LETTER N WITH TILDE,9,3,"2013,2018,2021",1,0,0,0,0,2,0,0,6,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),।,Po,DEVANAGARI DANDA,9,2,"2020,2021",0,0,0,0,0,0,0,1,8,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),鶴,Lo,CJK UNIFIED IDEOGRAPH-9DB4,9,1,2019,0,0,0,0,0,0,9,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៥,Nd,KHMER DIGIT FIVE,9,1,2022,0,0,0,0,0,0,0,0,0,9,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),×,Sm,MULTIPLICATION SIGN,9,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,8
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),見,Lo,CJK UNIFIED IDEOGRAPH-898B,9,1,2019,0,0,0,0,0,0,9,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,9,2,"2020,2021",0,0,0,0,0,0,0,8,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ɛ,Ll,LATIN SMALL LETTER OPEN E,9,1,2020,0,0,0,0,0,0,0,9,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๒,Nd,THAI DIGIT TWO,8,1,2021,0,0,0,0,0,0,0,0,8,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),០,Nd,KHMER DIGIT ZERO,8,1,2022,0,0,0,0,0,0,0,0,0,8,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),б,Ll,CYRILLIC SMALL LETTER BE,8,1,2017,0,0,0,0,8,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),浜,Lo,CJK UNIFIED IDEOGRAPH-6D5C,8,1,2019,0,0,0,0,0,0,8,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ن,Lo,ARABIC LETTER NOON,8,1,2024,0,0,0,0,0,0,0,0,0,0,0,8
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៦,Nd,KHMER DIGIT SIX,8,1,2022,0,0,0,0,0,0,0,0,0,8,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),м,Ll,CYRILLIC SMALL LETTER EM,8,1,2017,0,0,0,0,8,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),г,Ll,CYRILLIC SMALL LETTER GHE,8,1,2017,0,0,0,0,8,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),新,Lo,CJK UNIFIED IDEOGRAPH-65B0,7,1,2019,0,0,0,0,0,0,7,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),д,Ll,CYRILLIC SMALL LETTER DE,7,1,2017,0,0,0,0,7,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),},Pe,RIGHT CURLY BRACKET,7,5,"2015,2017,2018,2019,2021",0,0,3,0,1,1,1,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ĩ,Ll,LATIN SMALL LETTER I WITH TILDE,7,1,2014,0,7,0,0,0,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),з,Ll,CYRILLIC SMALL LETTER ZE,7,1,2017,0,0,0,0,7,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),æ,Ll,LATIN SMALL LETTER AE,7,1,2020,0,0,0,0,0,0,0,7,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),л,Ll,CYRILLIC SMALL LETTER EL,7,1,2017,0,0,0,0,7,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),उ,Lo,DEVANAGARI LETTER U,7,1,2021,0,0,0,0,0,0,0,0,7,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),電,Lo,CJK UNIFIED IDEOGRAPH-96FB,7,1,2019,0,0,0,0,0,0,7,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ख,Lo,DEVANAGARI LETTER KHA,7,2,"2020,2021",0,0,0,0,0,0,0,1,6,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๑,Nd,THAI DIGIT ONE,7,1,2021,0,0,0,0,0,0,0,0,7,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ए,Lo,DEVANAGARI LETTER E,7,1,2021,0,0,0,0,0,0,0,0,7,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៧,Nd,KHMER DIGIT SEVEN,7,1,2022,0,0,0,0,0,0,0,0,0,7,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),鉄,Lo,CJK UNIFIED IDEOGRAPH-9244,7,1,2019,0,0,0,0,0,0,7,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,7,2,"2018,2020",0,0,0,0,0,5,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),{,Ps,LEFT CURLY BRACKET,6,4,"2015,2018,2019,2021",0,0,3,0,0,1,1,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),د,Lo,ARABIC LETTER DAL,6,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,5
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ю,Ll,CYRILLIC SMALL LETTER YU,6,1,2017,0,0,0,0,6,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),פ,Lo,HEBREW LETTER PE,6,3,"2020,2021,2022",0,0,0,0,0,0,0,4,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),נ,Lo,HEBREW LETTER NUN,6,3,"2020,2021,2022",0,0,0,0,0,0,0,4,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ש,Lo,HEBREW LETTER SHIN,6,3,"2020,2021,2022",0,0,0,0,0,0,0,4,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៨,Nd,KHMER DIGIT EIGHT,6,1,2022,0,0,0,0,0,0,0,0,0,6,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),�,So,REPLACEMENT CHARACTER,6,1,2018,0,0,0,0,0,6,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ו,Lo,HEBREW LETTER VAV,6,3,"2020,2021,2022",0,0,0,0,0,0,0,1,4,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),●,So,BLACK CIRCLE,6,1,2020,0,0,0,0,0,0,0,6,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),י,Lo,HEBREW LETTER YOD,6,3,"2020,2021,2022",0,0,0,0,0,0,0,1,4,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၁,Nd,MYANMAR DIGIT ONE,6,1,2022,0,0,0,0,0,0,0,0,0,6,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),線,Lo,CJK UNIFIED IDEOGRAPH-7DDA,6,1,2019,0,0,0,0,0,0,6,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),磨,Lo,CJK UNIFIED IDEOGRAPH-78E8,6,1,2019,0,0,0,0,0,0,6,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),س,Lo,ARABIC LETTER SEEN,6,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,5
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),小,Lo,CJK UNIFIED IDEOGRAPH-5C0F,6,1,2019,0,0,0,0,0,0,6,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),च,Lo,DEVANAGARI LETTER CA,6,2,"2020,2021",0,0,0,0,0,0,0,4,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ب,Lo,ARABIC LETTER BEH,5,1,2024,0,0,0,0,0,0,0,0,0,0,0,5
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),¿,Po,INVERTED QUESTION MARK,5,3,"2013,2021,2022",1,0,0,0,0,0,0,0,1,3,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),š,Ll,LATIN SMALL LETTER S WITH CARON,5,1,2018,0,0,0,0,0,5,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),៩,Nd,KHMER DIGIT NINE,5,1,2022,0,0,0,0,0,0,0,0,0,5,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ы,Ll,CYRILLIC SMALL LETTER YERU,5,1,2017,0,0,0,0,5,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),大,Lo,CJK UNIFIED IDEOGRAPH-5927,5,1,2019,0,0,0,0,0,0,5,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),「,Ps,LEFT CORNER BRACKET,5,1,2019,0,0,0,0,0,0,5,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),т,Ll,CYRILLIC SMALL LETTER TE,5,1,2017,0,0,0,0,5,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),」,Pe,RIGHT CORNER BRACKET,5,1,2019,0,0,0,0,0,0,5,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),田,Lo,CJK UNIFIED IDEOGRAPH-7530,5,1,2019,0,0,0,0,0,0,5,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),•,Po,BULLET,5,3,"2017,2019,2023",0,0,0,0,2,0,2,0,0,0,1,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),栄,Lo,CJK UNIFIED IDEOGRAPH-6804,5,1,2019,0,0,0,0,0,0,5,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ׁ,Mn,HEBREW POINT SHIN DOT,4,1,2020,0,0,0,0,0,0,0,4,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ध,Lo,DEVANAGARI LETTER DHA,4,1,2021,0,0,0,0,0,0,0,0,4,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),इ,Lo,DEVANAGARI LETTER I,4,1,2021,0,0,0,0,0,0,0,0,4,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ف,Lo,ARABIC LETTER FEH,4,1,2024,0,0,0,0,0,0,0,0,0,0,0,4
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),م,Lo,ARABIC LETTER MEEM,4,1,2024,0,0,0,0,0,0,0,0,0,0,0,4
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ŋ,Ll,LATIN SMALL LETTER ENG,4,1,2024,0,0,0,0,0,0,0,0,0,0,0,4
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),भ,Lo,DEVANAGARI LETTER BHA,4,2,"2020,2021",0,0,0,0,0,0,0,1,3,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),😂,So,FACE WITH TEARS OF JOY,4,1,2020,0,0,0,0,0,0,0,4,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ठ,Lo,DEVANAGARI LETTER TTHA,4,1,2021,0,0,0,0,0,0,0,0,4,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ة,Lo,ARABIC LETTER TEH MARBUTA,4,1,2024,0,0,0,0,0,0,0,0,0,0,0,4
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),姫,Lo,CJK UNIFIED IDEOGRAPH-59EB,4,1,2019,0,0,0,0,0,0,4,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),路,Lo,CJK UNIFIED IDEOGRAPH-8DEF,4,1,2019,0,0,0,0,0,0,4,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ж,Ll,CYRILLIC SMALL LETTER ZHE,4,1,2017,0,0,0,0,4,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),\,Po,REVERSE SOLIDUS,4,2,"2019,2023",0,0,0,0,0,0,2,0,0,0,2,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),à,Ll,LATIN SMALL LETTER A WITH GRAVE,4,2,"2018,2020",0,0,0,0,0,3,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),😴,So,SLEEPING FACE,3,1,2020,0,0,0,0,0,0,0,3,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),к,Ll,CYRILLIC SMALL LETTER KA,3,1,2017,0,0,0,0,3,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),子,Lo,CJK UNIFIED IDEOGRAPH-5B50,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),舞,Lo,CJK UNIFIED IDEOGRAPH-821E,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),石,Lo,CJK UNIFIED IDEOGRAPH-77F3,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),३,Nd,DEVANAGARI DIGIT THREE,3,1,2022,0,0,0,0,0,0,0,0,0,3,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),塩,Lo,CJK UNIFIED IDEOGRAPH-5869,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),鹿,Lo,CJK UNIFIED IDEOGRAPH-9E7F,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),飾,Lo,CJK UNIFIED IDEOGRAPH-98FE,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),亀,Lo,CJK UNIFIED IDEOGRAPH-4E80,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),妻,Lo,CJK UNIFIED IDEOGRAPH-59BB,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ر,Lo,ARABIC LETTER REH,3,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ै,Mn,DEVANAGARI VOWEL SIGN AI,3,2,"2020,2021",0,0,0,0,0,0,0,2,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),き,Lo,HIRAGANA LETTER KI,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),行,Lo,CJK UNIFIED IDEOGRAPH-884C,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ौ,Mc,DEVANAGARI VOWEL SIGN AU,3,2,"2020,2021",0,0,0,0,0,0,0,1,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),須,Lo,CJK UNIFIED IDEOGRAPH-9808,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),通,Lo,CJK UNIFIED IDEOGRAPH-901A,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),普,Lo,CJK UNIFIED IDEOGRAPH-666E,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,3,2,"2018,2020",0,0,0,0,0,1,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ú,Ll,LATIN SMALL LETTER U WITH ACUTE,3,2,"2018,2020",0,0,0,0,0,1,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,3,2,"2017,2021",0,0,0,0,1,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ढ,Lo,DEVANAGARI LETTER DDHA,3,1,2021,0,0,0,0,0,0,0,0,3,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ь,Ll,CYRILLIC SMALL LETTER SOFT SIGN,3,1,2017,0,0,0,0,3,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,3,2,"2018,2020",0,0,0,0,0,1,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ج,Lo,ARABIC LETTER JEEM,3,2,"2023,2024",0,0,0,0,0,0,0,0,0,0,1,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,3,2,"2013,2020",1,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),野,Lo,CJK UNIFIED IDEOGRAPH-91CE,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),غ,Lo,ARABIC LETTER GHAIN,3,1,2024,0,0,0,0,0,0,0,0,0,0,0,3
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),浦,Lo,CJK UNIFIED IDEOGRAPH-6D66,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),芝,Lo,CJK UNIFIED IDEOGRAPH-829D,3,1,2019,0,0,0,0,0,0,3,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),土,Lo,CJK UNIFIED IDEOGRAPH-571F,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),浅,Lo,CJK UNIFIED IDEOGRAPH-6D45,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ه,Lo,ARABIC LETTER HEH,2,1,2024,0,0,0,0,0,0,0,0,0,0,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ũ,Lu,LATIN CAPITAL LETTER U WITH TILDE,2,1,2014,0,2,0,0,0,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),€,Sc,EURO SIGN,2,1,2018,0,0,0,0,0,2,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ح,Lo,ARABIC LETTER HAH,2,1,2024,0,0,0,0,0,0,0,0,0,0,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),網,Lo,CJK UNIFIED IDEOGRAPH-7DB2,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),干,Lo,CJK UNIFIED IDEOGRAPH-5E72,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),א,Lo,HEBREW LETTER ALEF,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ق,Lo,ARABIC LETTER QAF,2,1,2024,0,0,0,0,0,0,0,0,0,0,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ط,Lo,ARABIC LETTER TAH,2,1,2024,0,0,0,0,0,0,0,0,0,0,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ב,Lo,HEBREW LETTER BET,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),東,Lo,CJK UNIFIED IDEOGRAPH-6771,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),आ,Lo,DEVANAGARI LETTER AA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ד,Lo,HEBREW LETTER DALET,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ड,Lo,DEVANAGARI LETTER DDA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ø,Ll,LATIN SMALL LETTER O WITH STROKE,2,1,2020,0,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๖,Nd,THAI DIGIT SIX,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๕,Nd,THAI DIGIT FIVE,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๔,Nd,THAI DIGIT FOUR,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),č,Ll,LATIN SMALL LETTER C WITH CARON,2,2,"2018,2019",0,0,0,0,0,1,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),️,Mn,VARIATION SELECTOR-16,2,1,2022,0,0,0,0,0,0,0,0,0,2,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),⁄,Sm,FRACTION SLASH,2,1,2018,0,0,0,0,0,2,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),′,Po,PRIME,2,1,2018,0,0,0,0,0,2,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),▪,So,BLACK SMALL SQUARE,2,1,2020,0,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),़,Mn,DEVANAGARI SIGN NUKTA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),०,Nd,DEVANAGARI DIGIT ZERO,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,2,1,2018,0,0,0,0,0,2,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),१,Nd,DEVANAGARI DIGIT ONE,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ण,Lo,DEVANAGARI LETTER NNA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ג,Lo,HEBREW LETTER GIMEL,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),२,Nd,DEVANAGARI DIGIT TWO,2,1,2022,0,0,0,0,0,0,0,0,0,2,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၅,Nd,MYANMAR DIGIT FIVE,2,1,2022,0,0,0,0,0,0,0,0,0,2,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),👃,So,NOSE,2,2,"2020,2022",0,0,0,0,0,0,0,1,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),👀,So,EYES,2,2,"2020,2022",0,0,0,0,0,0,0,1,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),צ,Lo,HEBREW LETTER TSADI,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ç,Lu,LATIN CAPITAL LETTER C WITH CEDILLA,2,1,2020,0,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ч,Ll,CYRILLIC SMALL LETTER CHE,2,1,2017,0,0,0,0,2,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),°,So,DEGREE SIGN,2,1,2020,0,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၈,Nd,MYANMAR DIGIT EIGHT,2,1,2022,0,0,0,0,0,0,0,0,0,2,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ס,Lo,HEBREW LETTER SAMEKH,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ק,Lo,HEBREW LETTER QOF,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ר,Lo,HEBREW LETTER RESH,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ת,Lo,HEBREW LETTER TAV,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),п,Ll,CYRILLIC SMALL LETTER PE,2,1,2017,0,0,0,0,2,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),घ,Lo,DEVANAGARI LETTER GHA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ष,Lo,DEVANAGARI LETTER SSA,2,1,2021,0,0,0,0,0,0,0,0,2,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),明,Lo,CJK UNIFIED IDEOGRAPH-660E,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ע,Lo,HEBREW LETTER AYIN,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),מ,Lo,HEBREW LETTER MEM,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ח,Lo,HEBREW LETTER HET,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,2,2,"2016,2018",0,0,0,1,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),久,Lo,CJK UNIFIED IDEOGRAPH-4E45,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),保,Lo,CJK UNIFIED IDEOGRAPH-4FDD,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),魚,Lo,CJK UNIFIED IDEOGRAPH-9B5A,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),住,Lo,CJK UNIFIED IDEOGRAPH-4F4F,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),加,Lo,CJK UNIFIED IDEOGRAPH-52A0,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),古,Lo,CJK UNIFIED IDEOGRAPH-53E4,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),К,Lu,CYRILLIC CAPITAL LETTER KA,2,1,2017,0,0,0,0,2,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ז,Lo,HEBREW LETTER ZAYIN,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ט,Lo,HEBREW LETTER TET,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),么,Lo,CJK UNIFIED IDEOGRAPH-4E48,2,1,2019,0,0,0,0,0,0,2,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),כ,Lo,HEBREW LETTER KAF,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,2,1,2020,0,0,0,0,0,0,0,2,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ל,Lo,HEBREW LETTER LAMED,2,2,"2021,2022",0,0,0,0,0,0,0,0,1,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ع,Lo,ARABIC LETTER AIN,2,1,2024,0,0,0,0,0,0,0,0,0,0,0,2
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ऐ,Lo,DEVANAGARI LETTER AI,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ئ,Lo,ARABIC LETTER YEH WITH HAMZA ABOVE,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),झ,Lo,DEVANAGARI LETTER JHA,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ट,Lo,DEVANAGARI LETTER TTA,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),♬,So,BEAMED SIXTEENTH NOTES,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Н,Lu,CYRILLIC CAPITAL LETTER EN,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ص,Lo,ARABIC LETTER SAD,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),щ,Ll,CYRILLIC SMALL LETTER SHCHA,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Х,Lu,CYRILLIC CAPITAL LETTER HA,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),አ,Lo,ETHIOPIC SYLLABLE GLOTTAL A,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ф,Ll,CYRILLIC SMALL LETTER EF,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),О,Lu,CYRILLIC CAPITAL LETTER O,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),И,Lu,CYRILLIC CAPITAL LETTER I,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),С,Lu,CYRILLIC CAPITAL LETTER ES,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),В,Lu,CYRILLIC CAPITAL LETTER VE,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),♫,So,BEAMED EIGHTH NOTES,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၄,Nd,MYANMAR DIGIT FOUR,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၆,Nd,MYANMAR DIGIT SIX,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ማ,Lo,ETHIOPIC SYLLABLE MAA,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),၇,Nd,MYANMAR DIGIT SEVEN,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ш,Ll,CYRILLIC SMALL LETTER SHA,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ር,Lo,ETHIOPIC SYLLABLE RE,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,1,1,2016,0,0,0,1,0,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),±,Sm,PLUS-MINUS SIGN,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),←,Sm,LEFTWARDS ARROW,1,1,2014,0,1,0,0,0,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ت,Lo,ARABIC LETTER TEH,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ث,Lo,ARABIC LETTER THEH,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),،,Po,ARABIC COMMA,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ኛ,Lo,ETHIOPIC SYLLABLE NYAA,1,1,2017,0,0,0,0,1,0,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ك,Lo,ARABIC LETTER KAF,1,1,2024,0,0,0,0,0,0,0,0,0,0,0,1
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),😶,So,FACE WITHOUT MOUTH,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),😻,So,SMILING CAT FACE WITH HEART-SHAPED EYES,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),🍆,So,AUBERGINE,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),💕,So,TWO HEARTS,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),🍑,So,PEACH,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),➡,So,BLACK RIGHTWARDS ARROW,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),⬅,So,LEFTWARDS BLACK ARROW,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),फ,Lo,DEVANAGARI LETTER PHA,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),छ,Lo,DEVANAGARI LETTER CHA,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ń,Ll,LATIN SMALL LETTER N WITH ACUTE,1,1,2022,0,0,0,0,0,0,0,0,0,1,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),岡,Lo,CJK UNIFIED IDEOGRAPH-5CA1,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),٩,Nd,ARABIC-INDIC DIGIT NINE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),👐,So,OPEN HANDS SIGN,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),意,Lo,CJK UNIFIED IDEOGRAPH-610F,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),思,Lo,CJK UNIFIED IDEOGRAPH-601D,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),发,Lo,CJK UNIFIED IDEOGRAPH-53D1,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),音,Lo,CJK UNIFIED IDEOGRAPH-97F3,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),怎,Lo,CJK UNIFIED IDEOGRAPH-600E,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),读,Lo,CJK UNIFIED IDEOGRAPH-8BFB,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),翻,Lo,CJK UNIFIED IDEOGRAPH-7FFB,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),译,Lo,CJK UNIFIED IDEOGRAPH-8BD1,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),手,Lo,CJK UNIFIED IDEOGRAPH-624B,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),机,Lo,CJK UNIFIED IDEOGRAPH-673A,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),版,Lo,CJK UNIFIED IDEOGRAPH-7248,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),庫,Lo,CJK UNIFIED IDEOGRAPH-5EAB,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),$,Sc,DOLLAR SIGN,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ʍ,Ll,LATIN SMALL LETTER TURNED W,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),兵,Lo,CJK UNIFIED IDEOGRAPH-5175,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),什,Lo,CJK UNIFIED IDEOGRAPH-4EC0,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),是,Lo,CJK UNIFIED IDEOGRAPH-662F,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),名,Lo,CJK UNIFIED IDEOGRAPH-540D,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),安,Lo,CJK UNIFIED IDEOGRAPH-5B89,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),急,Lo,CJK UNIFIED IDEOGRAPH-6025,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),昭,Lo,CJK UNIFIED IDEOGRAPH-662D,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),和,Lo,CJK UNIFIED IDEOGRAPH-548C,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),武,Lo,CJK UNIFIED IDEOGRAPH-6B66,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),蔵,Lo,CJK UNIFIED IDEOGRAPH-8535,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),白,Lo,CJK UNIFIED IDEOGRAPH-767D,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),善,Lo,CJK UNIFIED IDEOGRAPH-5584,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),標,Lo,CJK UNIFIED IDEOGRAPH-6A19,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),弁,Lo,CJK UNIFIED IDEOGRAPH-5F01,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),天,Lo,CJK UNIFIED IDEOGRAPH-5929,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),橋,Lo,CJK UNIFIED IDEOGRAPH-6A4B,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),海,Lo,CJK UNIFIED IDEOGRAPH-6D77,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),å,Ll,LATIN SMALL LETTER A WITH RING ABOVE,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),上,Lo,CJK UNIFIED IDEOGRAPH-4E0A,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),屋,Lo,CJK UNIFIED IDEOGRAPH-5C4B,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),👄,So,MOUTH,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),١,Nd,ARABIC-INDIC DIGIT ONE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),水,Lo,CJK UNIFIED IDEOGRAPH-6C34,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ē,Ll,LATIN SMALL LETTER E WITH MACRON,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ù,Ll,LATIN SMALL LETTER U WITH GRAVE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ž,Ll,LATIN SMALL LETTER Z WITH CARON,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),京,Lo,CJK UNIFIED IDEOGRAPH-4EAC,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),७,Nd,DEVANAGARI DIGIT SEVEN,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ý,Ll,LATIN SMALL LETTER Y WITH ACUTE,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๗,Nd,THAI DIGIT SEVEN,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๘,Nd,THAI DIGIT EIGHT,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๙,Nd,THAI DIGIT NINE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๐,Nd,THAI DIGIT ZERO,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),๓,Nd,THAI DIGIT THREE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),🤔,So,THINKING FACE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),٣,Nd,ARABIC-INDIC DIGIT THREE,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),Č,Lu,LATIN CAPITAL LETTER C WITH CARON,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ł,Ll,LATIN SMALL LETTER L WITH STROKE,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),西,Lo,CJK UNIFIED IDEOGRAPH-897F,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ā,Ll,LATIN SMALL LETTER A WITH MACRON,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),→,Sm,RIGHTWARDS ARROW,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),垂,Lo,CJK UNIFIED IDEOGRAPH-5782,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ʽ,Lm,MODIFIER LETTER REVERSED COMMA,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),霧,Lo,CJK UNIFIED IDEOGRAPH-9727,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),朝,Lo,CJK UNIFIED IDEOGRAPH-671D,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),戸,Lo,CJK UNIFIED IDEOGRAPH-6238,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),😔,So,PENSIVE FACE,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),神,Lo,CJK UNIFIED IDEOGRAPH-795E,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),本,Lo,CJK UNIFIED IDEOGRAPH-672C,1,1,2019,0,0,0,0,0,0,1,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),💘,So,HEART WITH ARROW,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ə,Ll,LATIN SMALL LETTER SCHWA,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),ȧ,Ll,LATIN SMALL LETTER A WITH DOT ABOVE,1,1,2020,0,0,0,0,0,0,0,1,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),💔,So,BROKEN HEART,1,1,2018,0,0,0,0,0,1,0,0,0,0,0,0
+luo,Latn,luo_Latn,Luo (Kenya and Tanzania),‛,Pi,SINGLE HIGH-REVERSED-9 QUOTATION MARK,1,1,2021,0,0,0,0,0,0,0,0,1,0,0,0

@@ -1,0 +1,20 @@
+{
+  "language_code": "pis_Latn",
+  "iso_639_3": "pis",
+  "script": "Latn",
+  "language_name": "Pijin",
+  "total_characters": 87,
+  "total_frequency": 118754,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.947236"
+}

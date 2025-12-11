@@ -1,0 +1,17 @@
+{
+  "language_code": "hla_Latn",
+  "iso_639_3": "hla",
+  "script": "Latn",
+  "language_name": "Halia",
+  "total_characters": 90,
+  "total_frequency": 2512656,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:55.709225"
+}

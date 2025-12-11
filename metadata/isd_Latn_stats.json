@@ -1,0 +1,18 @@
+{
+  "language_code": "isd_Latn",
+  "iso_639_3": "isd",
+  "script": "Latn",
+  "language_name": "Isnag",
+  "total_characters": 93,
+  "total_frequency": 1409814,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:57.520158"
+}

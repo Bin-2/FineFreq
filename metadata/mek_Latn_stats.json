@@ -1,0 +1,16 @@
+{
+  "language_code": "mek_Latn",
+  "iso_639_3": "mek",
+  "script": "Latn",
+  "language_name": "Mekeo",
+  "total_characters": 88,
+  "total_frequency": 1626938,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:03.126685"
+}

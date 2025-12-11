@@ -1,0 +1,71 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2019_frequency
+sdq,Latn,sdq_Latn,Semandang, ,Zs,SPACE,1379,2,"2016,2019",379,1000
+sdq,Latn,sdq_Latn,Semandang,a,Ll,LATIN SMALL LETTER A,1165,2,"2016,2019",292,873
+sdq,Latn,sdq_Latn,Semandang,n,Ll,LATIN SMALL LETTER N,669,2,"2016,2019",164,505
+sdq,Latn,sdq_Latn,Semandang,e,Ll,LATIN SMALL LETTER E,581,2,"2016,2019",317,264
+sdq,Latn,sdq_Latn,Semandang,o,Ll,LATIN SMALL LETTER O,400,2,"2016,2019",158,242
+sdq,Latn,sdq_Latn,Semandang,i,Ll,LATIN SMALL LETTER I,395,2,"2016,2019",134,261
+sdq,Latn,sdq_Latn,Semandang,k,Ll,LATIN SMALL LETTER K,344,2,"2016,2019",133,211
+sdq,Latn,sdq_Latn,Semandang,s,Ll,LATIN SMALL LETTER S,270,2,"2016,2019",43,227
+sdq,Latn,sdq_Latn,Semandang,t,Ll,LATIN SMALL LETTER T,261,2,"2016,2019",70,191
+sdq,Latn,sdq_Latn,Semandang,r,Ll,LATIN SMALL LETTER R,250,2,"2016,2019",73,177
+sdq,Latn,sdq_Latn,Semandang,g,Ll,LATIN SMALL LETTER G,241,2,"2016,2019",84,157
+sdq,Latn,sdq_Latn,Semandang,m,Ll,LATIN SMALL LETTER M,221,2,"2016,2019",72,149
+sdq,Latn,sdq_Latn,Semandang,h,Ll,LATIN SMALL LETTER H,206,2,"2016,2019",53,153
+sdq,Latn,sdq_Latn,Semandang,u,Ll,LATIN SMALL LETTER U,197,2,"2016,2019",10,187
+sdq,Latn,sdq_Latn,Semandang,d,Ll,LATIN SMALL LETTER D,191,2,"2016,2019",71,120
+sdq,Latn,sdq_Latn,Semandang,b,Ll,LATIN SMALL LETTER B,188,2,"2016,2019",63,125
+sdq,Latn,sdq_Latn,Semandang,.,Po,FULL STOP,181,2,"2016,2019",87,94
+sdq,Latn,sdq_Latn,Semandang,l,Ll,LATIN SMALL LETTER L,177,2,"2016,2019",58,119
+sdq,Latn,sdq_Latn,Semandang,’,Pf,RIGHT SINGLE QUOTATION MARK,172,1,2019,0,172
+sdq,Latn,sdq_Latn,Semandang,p,Ll,LATIN SMALL LETTER P,148,2,"2016,2019",42,106
+sdq,Latn,sdq_Latn,Semandang,y,Ll,LATIN SMALL LETTER Y,134,2,"2016,2019",6,128
+sdq,Latn,sdq_Latn,Semandang,á,Ll,LATIN SMALL LETTER A WITH ACUTE,123,1,2019,0,123
+sdq,Latn,sdq_Latn,Semandang,j,Ll,LATIN SMALL LETTER J,83,2,"2016,2019",41,42
+sdq,Latn,sdq_Latn,Semandang,",",Po,COMMA,66,2,"2016,2019",24,42
+sdq,Latn,sdq_Latn,Semandang,é,Ll,LATIN SMALL LETTER E WITH ACUTE,53,1,2019,0,53
+sdq,Latn,sdq_Latn,Semandang,Y,Lu,LATIN CAPITAL LETTER Y,49,2,"2016,2019",1,48
+sdq,Latn,sdq_Latn,Semandang,A,Lu,LATIN CAPITAL LETTER A,44,2,"2016,2019",9,35
+sdq,Latn,sdq_Latn,Semandang,K,Lu,LATIN CAPITAL LETTER K,28,2,"2016,2019",4,24
+sdq,Latn,sdq_Latn,Semandang,M,Lu,LATIN CAPITAL LETTER M,27,2,"2016,2019",9,18
+sdq,Latn,sdq_Latn,Semandang,S,Lu,LATIN CAPITAL LETTER S,26,2,"2016,2019",6,20
+sdq,Latn,sdq_Latn,Semandang,I,Lu,LATIN CAPITAL LETTER I,24,1,2019,0,24
+sdq,Latn,sdq_Latn,Semandang,J,Lu,LATIN CAPITAL LETTER J,23,2,"2016,2019",2,21
+sdq,Latn,sdq_Latn,Semandang,w,Ll,LATIN SMALL LETTER W,21,2,"2016,2019",20,1
+sdq,Latn,sdq_Latn,Semandang,-,Pd,HYPHEN-MINUS,18,2,"2016,2019",2,16
+sdq,Latn,sdq_Latn,Semandang,D,Lu,LATIN CAPITAL LETTER D,18,2,"2016,2019",2,16
+sdq,Latn,sdq_Latn,Semandang,B,Lu,LATIN CAPITAL LETTER B,17,2,"2016,2019",9,8
+sdq,Latn,sdq_Latn,Semandang,T,Lu,LATIN CAPITAL LETTER T,16,2,"2016,2019",3,13
+sdq,Latn,sdq_Latn,Semandang,c,Ll,LATIN SMALL LETTER C,15,2,"2016,2019",3,12
+sdq,Latn,sdq_Latn,Semandang,2,Nd,DIGIT TWO,15,2,"2016,2019",5,10
+sdq,Latn,sdq_Latn,Semandang,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,13,1,2019,0,13
+sdq,Latn,sdq_Latn,Semandang,R,Lu,LATIN CAPITAL LETTER R,13,1,2019,0,13
+sdq,Latn,sdq_Latn,Semandang,1,Nd,DIGIT ONE,12,2,"2016,2019",2,10
+sdq,Latn,sdq_Latn,Semandang,H,Lu,LATIN CAPITAL LETTER H,11,2,"2016,2019",7,4
+sdq,Latn,sdq_Latn,Semandang,O,Lu,LATIN CAPITAL LETTER O,10,2,"2016,2019",2,8
+sdq,Latn,sdq_Latn,Semandang,E,Lu,LATIN CAPITAL LETTER E,10,1,2019,0,10
+sdq,Latn,sdq_Latn,Semandang,!,Po,EXCLAMATION MARK,10,1,2016,10,0
+sdq,Latn,sdq_Latn,Semandang,L,Lu,LATIN CAPITAL LETTER L,10,2,"2016,2019",7,3
+sdq,Latn,sdq_Latn,Semandang,?,Po,QUESTION MARK,9,1,2016,9,0
+sdq,Latn,sdq_Latn,Semandang,P,Lu,LATIN CAPITAL LETTER P,7,1,2019,0,7
+sdq,Latn,sdq_Latn,Semandang,N,Lu,LATIN CAPITAL LETTER N,7,2,"2016,2019",3,4
+sdq,Latn,sdq_Latn,Semandang,:,Po,COLON,7,2,"2016,2019",3,4
+sdq,Latn,sdq_Latn,Semandang,0,Nd,DIGIT ZERO,5,2,"2016,2019",4,1
+sdq,Latn,sdq_Latn,Semandang,W,Lu,LATIN CAPITAL LETTER W,5,1,2016,5,0
+sdq,Latn,sdq_Latn,Semandang,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,4,1,2019,0,4
+sdq,Latn,sdq_Latn,Semandang,U,Lu,LATIN CAPITAL LETTER U,3,1,2019,0,3
+sdq,Latn,sdq_Latn,Semandang,(,Ps,LEFT PARENTHESIS,3,1,2019,0,3
+sdq,Latn,sdq_Latn,Semandang,),Pe,RIGHT PARENTHESIS,3,1,2019,0,3
+sdq,Latn,sdq_Latn,Semandang,6,Nd,DIGIT SIX,2,1,2019,0,2
+sdq,Latn,sdq_Latn,Semandang,7,Nd,DIGIT SEVEN,2,2,"2016,2019",1,1
+sdq,Latn,sdq_Latn,Semandang,q,Ll,LATIN SMALL LETTER Q,2,1,2016,2,0
+sdq,Latn,sdq_Latn,Semandang,9,Nd,DIGIT NINE,2,2,"2016,2019",1,1
+sdq,Latn,sdq_Latn,Semandang,“,Pi,LEFT DOUBLE QUOTATION MARK,2,1,2019,0,2
+sdq,Latn,sdq_Latn,Semandang,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,1,2019,0,2
+sdq,Latn,sdq_Latn,Semandang,G,Lu,LATIN CAPITAL LETTER G,1,1,2016,1,0
+sdq,Latn,sdq_Latn,Semandang,8,Nd,DIGIT EIGHT,1,1,2019,0,1
+sdq,Latn,sdq_Latn,Semandang,;,Po,SEMICOLON,1,1,2019,0,1
+sdq,Latn,sdq_Latn,Semandang,3,Nd,DIGIT THREE,1,1,2019,0,1
+sdq,Latn,sdq_Latn,Semandang,4,Nd,DIGIT FOUR,1,1,2019,0,1
+sdq,Latn,sdq_Latn,Semandang,5,Nd,DIGIT FIVE,1,1,2019,0,1
+sdq,Latn,sdq_Latn,Semandang,C,Lu,LATIN CAPITAL LETTER C,1,1,2019,0,1

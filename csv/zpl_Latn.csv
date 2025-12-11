@@ -1,0 +1,92 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2014_frequency,year_2019_frequency,year_2020_frequency
+zpl,Latn,zpl_Latn,Lachixío Zapotec, ,Zs,SPACE,250266,4,"2013,2014,2019,2020",203520,8323,23534,14889
+zpl,Latn,zpl_Latn,Lachixío Zapotec,e,Ll,LATIN SMALL LETTER E,168082,4,"2013,2014,2019,2020",137888,5829,15057,9308
+zpl,Latn,zpl_Latn,Lachixío Zapotec,u,Ll,LATIN SMALL LETTER U,155552,4,"2013,2014,2019,2020",126949,5275,13699,9629
+zpl,Latn,zpl_Latn,Lachixío Zapotec,a,Ll,LATIN SMALL LETTER A,132975,4,"2013,2014,2019,2020",106376,4464,13780,8355
+zpl,Latn,zpl_Latn,Lachixío Zapotec,i,Ll,LATIN SMALL LETTER I,110082,4,"2013,2014,2019,2020",88880,3615,10500,7087
+zpl,Latn,zpl_Latn,Lachixío Zapotec,n,Ll,LATIN SMALL LETTER N,108367,4,"2013,2014,2019,2020",87735,3553,10412,6667
+zpl,Latn,zpl_Latn,Lachixío Zapotec,l,Ll,LATIN SMALL LETTER L,82151,4,"2013,2014,2019,2020",67095,2776,7692,4588
+zpl,Latn,zpl_Latn,Lachixío Zapotec,',Po,APOSTROPHE,57217,3,"2013,2014,2019",55187,2028,2,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,c,Ll,LATIN SMALL LETTER C,57042,4,"2013,2014,2019,2020",46255,1820,5475,3492
+zpl,Latn,zpl_Latn,Lachixío Zapotec,b,Ll,LATIN SMALL LETTER B,40665,4,"2013,2014,2019,2020",33627,1351,3567,2120
+zpl,Latn,zpl_Latn,Lachixío Zapotec,r,Ll,LATIN SMALL LETTER R,40192,4,"2013,2014,2019,2020",32267,1352,4123,2450
+zpl,Latn,zpl_Latn,Lachixío Zapotec,h,Ll,LATIN SMALL LETTER H,33668,4,"2013,2014,2019,2020",27277,1113,3207,2071
+zpl,Latn,zpl_Latn,Lachixío Zapotec,s,Ll,LATIN SMALL LETTER S,31559,4,"2013,2014,2019,2020",24934,1095,3414,2116
+zpl,Latn,zpl_Latn,Lachixío Zapotec,t,Ll,LATIN SMALL LETTER T,25771,4,"2013,2014,2019,2020",20672,906,2558,1635
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,20539,4,"2013,2014,2019,2020",16302,624,2360,1253
+zpl,Latn,zpl_Latn,Lachixío Zapotec,o,Ll,LATIN SMALL LETTER O,17638,4,"2013,2014,2019,2020",14064,563,1904,1107
+zpl,Latn,zpl_Latn,Lachixío Zapotec,q,Ll,LATIN SMALL LETTER Q,15763,4,"2013,2014,2019,2020",12573,501,1589,1100
+zpl,Latn,zpl_Latn,Lachixío Zapotec,z,Ll,LATIN SMALL LETTER Z,13480,4,"2013,2014,2019,2020",11105,421,1152,802
+zpl,Latn,zpl_Latn,Lachixío Zapotec,",",Po,COMMA,13406,4,"2013,2014,2019,2020",11024,449,1178,755
+zpl,Latn,zpl_Latn,Lachixío Zapotec,y,Ll,LATIN SMALL LETTER Y,11537,4,"2013,2014,2019,2020",9535,379,999,624
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,11272,3,"2014,2019,2020",0,287,6673,4312
+zpl,Latn,zpl_Latn,Lachixío Zapotec,.,Po,FULL STOP,10668,4,"2013,2014,2019,2020",8728,370,941,629
+zpl,Latn,zpl_Latn,Lachixío Zapotec,d,Ll,LATIN SMALL LETTER D,10441,4,"2013,2014,2019,2020",8442,329,1013,657
+zpl,Latn,zpl_Latn,Lachixío Zapotec,x,Ll,LATIN SMALL LETTER X,9076,4,"2013,2014,2019,2020",7498,311,759,508
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,7278,4,"2013,2014,2019,2020",5921,245,638,474
+zpl,Latn,zpl_Latn,Lachixío Zapotec,p,Ll,LATIN SMALL LETTER P,6060,4,"2013,2014,2019,2020",4928,255,516,361
+zpl,Latn,zpl_Latn,Lachixío Zapotec,D,Lu,LATIN CAPITAL LETTER D,5279,4,"2013,2014,2019,2020",4016,166,706,391
+zpl,Latn,zpl_Latn,Lachixío Zapotec,á,Ll,LATIN SMALL LETTER A WITH ACUTE,4624,4,"2013,2014,2019,2020",3834,151,367,272
+zpl,Latn,zpl_Latn,Lachixío Zapotec,J,Lu,LATIN CAPITAL LETTER J,4610,4,"2013,2014,2019,2020",3664,200,347,399
+zpl,Latn,zpl_Latn,Lachixío Zapotec,1,Nd,DIGIT ONE,4159,4,"2013,2014,2019,2020",3314,142,418,285
+zpl,Latn,zpl_Latn,Lachixío Zapotec,m,Ll,LATIN SMALL LETTER M,3706,4,"2013,2014,2019,2020",3076,109,371,150
+zpl,Latn,zpl_Latn,Lachixío Zapotec,N,Lu,LATIN CAPITAL LETTER N,3327,4,"2013,2014,2019,2020",2758,126,276,167
+zpl,Latn,zpl_Latn,Lachixío Zapotec,2,Nd,DIGIT TWO,2989,4,"2013,2014,2019,2020",2467,100,259,163
+zpl,Latn,zpl_Latn,Lachixío Zapotec,C,Lu,LATIN CAPITAL LETTER C,2754,4,"2013,2014,2019,2020",2418,113,61,162
+zpl,Latn,zpl_Latn,Lachixío Zapotec,g,Ll,LATIN SMALL LETTER G,2631,4,"2013,2014,2019,2020",2264,69,157,141
+zpl,Latn,zpl_Latn,Lachixío Zapotec,:,Po,COLON,2360,4,"2013,2014,2019,2020",2031,128,89,112
+zpl,Latn,zpl_Latn,Lachixío Zapotec,P,Lu,LATIN CAPITAL LETTER P,2355,4,"2013,2014,2019,2020",1963,72,190,130
+zpl,Latn,zpl_Latn,Lachixío Zapotec,L,Lu,LATIN CAPITAL LETTER L,2242,4,"2013,2014,2019,2020",1799,101,185,157
+zpl,Latn,zpl_Latn,Lachixío Zapotec,3,Nd,DIGIT THREE,2031,4,"2013,2014,2019,2020",1721,81,127,102
+zpl,Latn,zpl_Latn,Lachixío Zapotec,S,Lu,LATIN CAPITAL LETTER S,1772,4,"2013,2014,2019,2020",1393,59,198,122
+zpl,Latn,zpl_Latn,Lachixío Zapotec,―,Pd,HORIZONTAL BAR,1576,3,"2013,2014,2020",1412,100,0,64
+zpl,Latn,zpl_Latn,Lachixío Zapotec,4,Nd,DIGIT FOUR,1501,4,"2013,2014,2019,2020",1248,65,90,98
+zpl,Latn,zpl_Latn,Lachixío Zapotec,í,Ll,LATIN SMALL LETTER I WITH ACUTE,1354,4,"2013,2014,2019,2020",1096,60,93,105
+zpl,Latn,zpl_Latn,Lachixío Zapotec,E,Lu,LATIN CAPITAL LETTER E,1316,4,"2013,2014,2019,2020",1007,59,147,103
+zpl,Latn,zpl_Latn,Lachixío Zapotec,5,Nd,DIGIT FIVE,1178,4,"2013,2014,2019,2020",974,45,87,72
+zpl,Latn,zpl_Latn,Lachixío Zapotec,X,Lu,LATIN CAPITAL LETTER X,1159,4,"2013,2014,2019,2020",912,33,150,64
+zpl,Latn,zpl_Latn,Lachixío Zapotec,é,Ll,LATIN SMALL LETTER E WITH ACUTE,1147,4,"2013,2014,2019,2020",971,43,78,55
+zpl,Latn,zpl_Latn,Lachixío Zapotec,6,Nd,DIGIT SIX,1007,4,"2013,2014,2019,2020",830,34,81,62
+zpl,Latn,zpl_Latn,Lachixío Zapotec,U,Lu,LATIN CAPITAL LETTER U,999,4,"2013,2014,2019,2020",815,41,71,72
+zpl,Latn,zpl_Latn,Lachixío Zapotec,7,Nd,DIGIT SEVEN,944,4,"2013,2014,2019,2020",768,34,75,67
+zpl,Latn,zpl_Latn,Lachixío Zapotec,I,Lu,LATIN CAPITAL LETTER I,920,4,"2013,2014,2019,2020",726,16,154,24
+zpl,Latn,zpl_Latn,Lachixío Zapotec,8,Nd,DIGIT EIGHT,881,4,"2013,2014,2019,2020",720,33,71,57
+zpl,Latn,zpl_Latn,Lachixío Zapotec,¿,Po,INVERTED QUESTION MARK,868,4,"2013,2014,2019,2020",742,38,66,22
+zpl,Latn,zpl_Latn,Lachixío Zapotec,?,Po,QUESTION MARK,868,4,"2013,2014,2019,2020",742,38,66,22
+zpl,Latn,zpl_Latn,Lachixío Zapotec,9,Nd,DIGIT NINE,835,4,"2013,2014,2019,2020",686,29,69,51
+zpl,Latn,zpl_Latn,Lachixío Zapotec,0,Nd,DIGIT ZERO,812,4,"2013,2014,2019,2020",669,29,66,48
+zpl,Latn,zpl_Latn,Lachixío Zapotec,A,Lu,LATIN CAPITAL LETTER A,801,4,"2013,2014,2019,2020",615,13,131,42
+zpl,Latn,zpl_Latn,Lachixío Zapotec,B,Lu,LATIN CAPITAL LETTER B,795,4,"2013,2014,2019,2020",654,35,60,46
+zpl,Latn,zpl_Latn,Lachixío Zapotec,T,Lu,LATIN CAPITAL LETTER T,766,4,"2013,2014,2019,2020",605,33,80,48
+zpl,Latn,zpl_Latn,Lachixío Zapotec,f,Ll,LATIN SMALL LETTER F,765,4,"2013,2014,2019,2020",640,32,54,39
+zpl,Latn,zpl_Latn,Lachixío Zapotec,M,Lu,LATIN CAPITAL LETTER M,719,4,"2013,2014,2019,2020",600,31,37,51
+zpl,Latn,zpl_Latn,Lachixío Zapotec,“,Pi,LEFT DOUBLE QUOTATION MARK,549,4,"2013,2014,2019,2020",445,23,62,19
+zpl,Latn,zpl_Latn,Lachixío Zapotec,”,Pf,RIGHT DOUBLE QUOTATION MARK,547,4,"2013,2014,2019,2020",443,23,62,19
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,472,4,"2013,2014,2019,2020",391,12,30,39
+zpl,Latn,zpl_Latn,Lachixío Zapotec,j,Ll,LATIN SMALL LETTER J,346,4,"2013,2014,2019,2020",291,13,31,11
+zpl,Latn,zpl_Latn,Lachixío Zapotec,!,Po,EXCLAMATION MARK,340,4,"2013,2014,2019,2020",288,17,21,14
+zpl,Latn,zpl_Latn,Lachixío Zapotec,¡,Po,INVERTED EXCLAMATION MARK,339,4,"2013,2014,2019,2020",288,16,21,14
+zpl,Latn,zpl_Latn,Lachixío Zapotec,v,Ll,LATIN SMALL LETTER V,325,4,"2013,2014,2019,2020",269,16,30,10
+zpl,Latn,zpl_Latn,Lachixío Zapotec,H,Lu,LATIN CAPITAL LETTER H,302,4,"2013,2014,2019,2020",265,5,14,18
+zpl,Latn,zpl_Latn,Lachixío Zapotec,R,Lu,LATIN CAPITAL LETTER R,263,4,"2013,2014,2019,2020",204,9,33,17
+zpl,Latn,zpl_Latn,Lachixío Zapotec,’,Pf,RIGHT SINGLE QUOTATION MARK,261,3,"2013,2014,2020",257,3,0,1
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Y,Lu,LATIN CAPITAL LETTER Y,195,4,"2013,2014,2019,2020",158,6,20,11
+zpl,Latn,zpl_Latn,Lachixío Zapotec,G,Lu,LATIN CAPITAL LETTER G,157,4,"2013,2014,2019,2020",130,2,8,17
+zpl,Latn,zpl_Latn,Lachixío Zapotec,F,Lu,LATIN CAPITAL LETTER F,139,4,"2013,2014,2019,2020",112,7,8,12
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Z,Lu,LATIN CAPITAL LETTER Z,139,4,"2013,2014,2019,2020",113,1,1,24
+zpl,Latn,zpl_Latn,Lachixío Zapotec,;,Po,SEMICOLON,116,4,"2013,2014,2019,2020",90,3,3,20
+zpl,Latn,zpl_Latn,Lachixío Zapotec,~,Sm,TILDE,75,2,"2013,2014",70,5,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,60,4,"2013,2014,2019,2020",50,2,6,2
+zpl,Latn,zpl_Latn,Lachixío Zapotec,O,Lu,LATIN CAPITAL LETTER O,40,4,"2013,2014,2019,2020",26,2,8,4
+zpl,Latn,zpl_Latn,Lachixío Zapotec,-,Pd,HYPHEN-MINUS,30,3,"2013,2014,2020",3,3,0,24
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,24,1,2013,24,0,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,(,Ps,LEFT PARENTHESIS,21,3,"2013,2014,2020",8,1,0,12
+zpl,Latn,zpl_Latn,Lachixío Zapotec,),Pe,RIGHT PARENTHESIS,21,3,"2013,2014,2020",8,1,0,12
+zpl,Latn,zpl_Latn,Lachixío Zapotec,k,Ll,LATIN SMALL LETTER K,13,2,"2013,2020",12,0,0,1
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Q,Lu,LATIN CAPITAL LETTER Q,8,3,"2013,2014,2020",6,1,0,1
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,7,4,"2013,2014,2019,2020",1,1,2,3
+zpl,Latn,zpl_Latn,Lachixío Zapotec,‘,Pi,LEFT SINGLE QUOTATION MARK,2,1,2013,2,0,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,V,Lu,LATIN CAPITAL LETTER V,2,2,"2013,2014",1,1,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,1,1,2013,1,0,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,1,1,2014,0,1,0,0
+zpl,Latn,zpl_Latn,Lachixío Zapotec,ã,Ll,LATIN SMALL LETTER A WITH TILDE,1,1,2014,0,1,0,0

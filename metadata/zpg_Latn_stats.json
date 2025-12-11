@@ -1,0 +1,16 @@
+{
+  "language_code": "zpg_Latn",
+  "iso_639_3": "zpg",
+  "script": "Latn",
+  "language_name": "Guevea De Humboldt Zapotec",
+  "total_characters": 120,
+  "total_frequency": 30075,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.862923"
+}

@@ -1,0 +1,104 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency
+mcp,Latn,mcp_Latn,Makaa, ,Zs,SPACE,38138,2,"2019,2020",37004,1134
+mcp,Latn,mcp_Latn,Makaa,ə,Ll,LATIN SMALL LETTER SCHWA,14233,2,"2019,2020",13847,386
+mcp,Latn,mcp_Latn,Makaa,́,Mn,COMBINING ACUTE ACCENT,13230,2,"2019,2020",12829,401
+mcp,Latn,mcp_Latn,Makaa,n,Ll,LATIN SMALL LETTER N,7845,2,"2019,2020",7610,235
+mcp,Latn,mcp_Latn,Makaa,m,Ll,LATIN SMALL LETTER M,7700,2,"2019,2020",7462,238
+mcp,Latn,mcp_Latn,Makaa,b,Ll,LATIN SMALL LETTER B,6925,2,"2019,2020",6736,189
+mcp,Latn,mcp_Latn,Makaa,w,Ll,LATIN SMALL LETTER W,6167,2,"2019,2020",5962,205
+mcp,Latn,mcp_Latn,Makaa,g,Ll,LATIN SMALL LETTER G,6072,2,"2019,2020",5905,167
+mcp,Latn,mcp_Latn,Makaa,á,Ll,LATIN SMALL LETTER A WITH ACUTE,5823,2,"2019,2020",5655,168
+mcp,Latn,mcp_Latn,Makaa,s,Ll,LATIN SMALL LETTER S,5210,2,"2019,2020",5067,143
+mcp,Latn,mcp_Latn,Makaa,a,Ll,LATIN SMALL LETTER A,4895,2,"2019,2020",4771,124
+mcp,Latn,mcp_Latn,Makaa,y,Ll,LATIN SMALL LETTER Y,4554,2,"2019,2020",4425,129
+mcp,Latn,mcp_Latn,Makaa,d,Ll,LATIN SMALL LETTER D,4446,2,"2019,2020",4287,159
+mcp,Latn,mcp_Latn,Makaa,l,Ll,LATIN SMALL LETTER L,4429,2,"2019,2020",4306,123
+mcp,Latn,mcp_Latn,Makaa,ɛ,Ll,LATIN SMALL LETTER OPEN E,4194,2,"2019,2020",4081,113
+mcp,Latn,mcp_Latn,Makaa,ʉ,Ll,LATIN SMALL LETTER U BAR,3760,2,"2019,2020",3627,133
+mcp,Latn,mcp_Latn,Makaa,í,Ll,LATIN SMALL LETTER I WITH ACUTE,3641,2,"2019,2020",3522,119
+mcp,Latn,mcp_Latn,Makaa,ɔ,Ll,LATIN SMALL LETTER OPEN O,3325,2,"2019,2020",3212,113
+mcp,Latn,mcp_Latn,Makaa,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,3227,2,"2019,2020",3123,104
+mcp,Latn,mcp_Latn,Makaa,ŋ,Ll,LATIN SMALL LETTER ENG,3165,2,"2019,2020",3062,103
+mcp,Latn,mcp_Latn,Makaa,ɨ,Ll,LATIN SMALL LETTER I WITH STROKE,2997,2,"2019,2020",2920,77
+mcp,Latn,mcp_Latn,Makaa,u,Ll,LATIN SMALL LETTER U,2543,2,"2019,2020",2448,95
+mcp,Latn,mcp_Latn,Makaa,k,Ll,LATIN SMALL LETTER K,2292,2,"2019,2020",2197,95
+mcp,Latn,mcp_Latn,Makaa,",",Po,COMMA,2231,2,"2019,2020",2167,64
+mcp,Latn,mcp_Latn,Makaa,j,Ll,LATIN SMALL LETTER J,2152,2,"2019,2020",2089,63
+mcp,Latn,mcp_Latn,Makaa,h,Ll,LATIN SMALL LETTER H,2120,2,"2019,2020",2045,75
+mcp,Latn,mcp_Latn,Makaa,i,Ll,LATIN SMALL LETTER I,1955,2,"2019,2020",1896,59
+mcp,Latn,mcp_Latn,Makaa,.,Po,FULL STOP,1824,2,"2019,2020",1774,50
+mcp,Latn,mcp_Latn,Makaa,c,Ll,LATIN SMALL LETTER C,1560,2,"2019,2020",1517,43
+mcp,Latn,mcp_Latn,Makaa,t,Ll,LATIN SMALL LETTER T,1289,2,"2019,2020",1252,37
+mcp,Latn,mcp_Latn,Makaa,̂,Mn,COMBINING CIRCUMFLEX ACCENT,1274,2,"2019,2020",1233,41
+mcp,Latn,mcp_Latn,Makaa,é,Ll,LATIN SMALL LETTER E WITH ACUTE,1229,2,"2019,2020",1171,58
+mcp,Latn,mcp_Latn,Makaa,o,Ll,LATIN SMALL LETTER O,1170,2,"2019,2020",1133,37
+mcp,Latn,mcp_Latn,Makaa,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,1139,2,"2019,2020",1104,35
+mcp,Latn,mcp_Latn,Makaa,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,1001,2,"2019,2020",974,27
+mcp,Latn,mcp_Latn,Makaa,̧,Mn,COMBINING CEDILLA,830,2,"2019,2020",808,22
+mcp,Latn,mcp_Latn,Makaa,1,Nd,DIGIT ONE,762,2,"2019,2020",739,23
+mcp,Latn,mcp_Latn,Makaa,Z,Lu,LATIN CAPITAL LETTER Z,672,2,"2019,2020",650,22
+mcp,Latn,mcp_Latn,Makaa,f,Ll,LATIN SMALL LETTER F,600,2,"2019,2020",579,21
+mcp,Latn,mcp_Latn,Makaa,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,589,2,"2019,2020",576,13
+mcp,Latn,mcp_Latn,Makaa,z,Ll,LATIN SMALL LETTER Z,553,2,"2019,2020",534,19
+mcp,Latn,mcp_Latn,Makaa,p,Ll,LATIN SMALL LETTER P,553,2,"2019,2020",538,15
+mcp,Latn,mcp_Latn,Makaa,r,Ll,LATIN SMALL LETTER R,500,2,"2019,2020",497,3
+mcp,Latn,mcp_Latn,Makaa,M,Lu,LATIN CAPITAL LETTER M,450,2,"2019,2020",436,14
+mcp,Latn,mcp_Latn,Makaa,e,Ll,LATIN SMALL LETTER E,436,2,"2019,2020",416,20
+mcp,Latn,mcp_Latn,Makaa,2,Nd,DIGIT TWO,420,2,"2019,2020",416,4
+mcp,Latn,mcp_Latn,Makaa,N,Lu,LATIN CAPITAL LETTER N,406,2,"2019,2020",390,16
+mcp,Latn,mcp_Latn,Makaa,K,Lu,LATIN CAPITAL LETTER K,400,2,"2019,2020",394,6
+mcp,Latn,mcp_Latn,Makaa,Y,Lu,LATIN CAPITAL LETTER Y,371,2,"2019,2020",365,6
+mcp,Latn,mcp_Latn,Makaa,*,Po,ASTERISK,311,2,"2019,2020",306,5
+mcp,Latn,mcp_Latn,Makaa,B,Lu,LATIN CAPITAL LETTER B,302,2,"2019,2020",293,9
+mcp,Latn,mcp_Latn,Makaa,-,Pd,HYPHEN-MINUS,284,2,"2019,2020",275,9
+mcp,Latn,mcp_Latn,Makaa,û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,243,2,"2019,2020",227,16
+mcp,Latn,mcp_Latn,Makaa,S,Lu,LATIN CAPITAL LETTER S,236,2,"2019,2020",231,5
+mcp,Latn,mcp_Latn,Makaa,3,Nd,DIGIT THREE,215,2,"2019,2020",209,6
+mcp,Latn,mcp_Latn,Makaa,;,Po,SEMICOLON,205,2,"2019,2020",201,4
+mcp,Latn,mcp_Latn,Makaa,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,192,2,"2019,2020",190,2
+mcp,Latn,mcp_Latn,Makaa,4,Nd,DIGIT FOUR,182,2,"2019,2020",178,4
+mcp,Latn,mcp_Latn,Makaa,),Pe,RIGHT PARENTHESIS,180,1,2019,180,0
+mcp,Latn,mcp_Latn,Makaa,(,Ps,LEFT PARENTHESIS,180,1,2019,180,0
+mcp,Latn,mcp_Latn,Makaa,C,Lu,LATIN CAPITAL LETTER C,177,2,"2019,2020",176,1
+mcp,Latn,mcp_Latn,Makaa,:,Po,COLON,162,2,"2019,2020",158,4
+mcp,Latn,mcp_Latn,Makaa,A,Lu,LATIN CAPITAL LETTER A,161,2,"2019,2020",160,1
+mcp,Latn,mcp_Latn,Makaa,5,Nd,DIGIT FIVE,160,2,"2019,2020",156,4
+mcp,Latn,mcp_Latn,Makaa,6,Nd,DIGIT SIX,148,2,"2019,2020",144,4
+mcp,Latn,mcp_Latn,Makaa,J,Lu,LATIN CAPITAL LETTER J,145,2,"2019,2020",140,5
+mcp,Latn,mcp_Latn,Makaa,P,Lu,LATIN CAPITAL LETTER P,144,1,2019,144,0
+mcp,Latn,mcp_Latn,Makaa,7,Nd,DIGIT SEVEN,123,2,"2019,2020",119,4
+mcp,Latn,mcp_Latn,Makaa,D,Lu,LATIN CAPITAL LETTER D,122,2,"2019,2020",121,1
+mcp,Latn,mcp_Latn,Makaa,8,Nd,DIGIT EIGHT,118,2,"2019,2020",115,3
+mcp,Latn,mcp_Latn,Makaa,9,Nd,DIGIT NINE,105,2,"2019,2020",102,3
+mcp,Latn,mcp_Latn,Makaa,0,Nd,DIGIT ZERO,104,2,"2019,2020",102,2
+mcp,Latn,mcp_Latn,Makaa,I,Lu,LATIN CAPITAL LETTER I,100,2,"2019,2020",99,1
+mcp,Latn,mcp_Latn,Makaa,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,100,2,"2019,2020",97,3
+mcp,Latn,mcp_Latn,Makaa,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,99,2,"2019,2020",96,3
+mcp,Latn,mcp_Latn,Makaa,Ŋ,Lu,LATIN CAPITAL LETTER ENG,99,2,"2019,2020",92,7
+mcp,Latn,mcp_Latn,Makaa,T,Lu,LATIN CAPITAL LETTER T,84,1,2019,84,0
+mcp,Latn,mcp_Latn,Makaa,O,Lu,LATIN CAPITAL LETTER O,78,2,"2019,2020",74,4
+mcp,Latn,mcp_Latn,Makaa,?,Po,QUESTION MARK,78,2,"2019,2020",66,12
+mcp,Latn,mcp_Latn,Makaa,v,Ll,LATIN SMALL LETTER V,66,2,"2019,2020",59,7
+mcp,Latn,mcp_Latn,Makaa,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,61,2,"2019,2020",57,4
+mcp,Latn,mcp_Latn,Makaa,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,60,2,"2019,2020",57,3
+mcp,Latn,mcp_Latn,Makaa,W,Lu,LATIN CAPITAL LETTER W,60,1,2019,60,0
+mcp,Latn,mcp_Latn,Makaa,G,Lu,LATIN CAPITAL LETTER G,55,2,"2019,2020",54,1
+mcp,Latn,mcp_Latn,Makaa,F,Lu,LATIN CAPITAL LETTER F,51,2,"2019,2020",47,4
+mcp,Latn,mcp_Latn,Makaa,L,Lu,LATIN CAPITAL LETTER L,44,1,2019,44,0
+mcp,Latn,mcp_Latn,Makaa,–,Pd,EN DASH,24,1,2019,24,0
+mcp,Latn,mcp_Latn,Makaa,!,Po,EXCLAMATION MARK,24,2,"2019,2020",22,2
+mcp,Latn,mcp_Latn,Makaa,H,Lu,LATIN CAPITAL LETTER H,24,2,"2019,2020",23,1
+mcp,Latn,mcp_Latn,Makaa,R,Lu,LATIN CAPITAL LETTER R,15,1,2019,15,0
+mcp,Latn,mcp_Latn,Makaa,E,Lu,LATIN CAPITAL LETTER E,13,1,2019,13,0
+mcp,Latn,mcp_Latn,Makaa,†,Po,DAGGER,12,1,2019,12,0
+mcp,Latn,mcp_Latn,Makaa,̌,Mn,COMBINING CARON,10,2,"2019,2020",8,2
+mcp,Latn,mcp_Latn,Makaa,ǔ,Ll,LATIN SMALL LETTER U WITH CARON,3,1,2019,3,0
+mcp,Latn,mcp_Latn,Makaa,“,Pi,LEFT DOUBLE QUOTATION MARK,3,1,2019,3,0
+mcp,Latn,mcp_Latn,Makaa,”,Pf,RIGHT DOUBLE QUOTATION MARK,3,1,2019,3,0
+mcp,Latn,mcp_Latn,Makaa,‡,Po,DOUBLE DAGGER,2,1,2019,2,0
+mcp,Latn,mcp_Latn,Makaa,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,1,1,2019,1,0
+mcp,Latn,mcp_Latn,Makaa,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,1,1,2019,1,0
+mcp,Latn,mcp_Latn,Makaa,U,Lu,LATIN CAPITAL LETTER U,1,1,2019,1,0
+mcp,Latn,mcp_Latn,Makaa,[,Ps,LEFT SQUARE BRACKET,1,1,2019,1,0
+mcp,Latn,mcp_Latn,Makaa,],Pe,RIGHT SQUARE BRACKET,1,1,2019,1,0
+mcp,Latn,mcp_Latn,Makaa,ǎ,Ll,LATIN SMALL LETTER A WITH CARON,1,1,2019,1,0

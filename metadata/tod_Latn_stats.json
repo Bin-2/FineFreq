@@ -1,0 +1,18 @@
+{
+  "language_code": "tod_Latn",
+  "iso_639_3": "tod",
+  "script": "Latn",
+  "language_name": "Toma",
+  "total_characters": 97,
+  "total_frequency": 458590,
+  "years_covered": [
+    "2017",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:12.742565"
+}

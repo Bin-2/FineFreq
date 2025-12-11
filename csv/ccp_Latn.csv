@@ -1,0 +1,77 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency,year_2019_frequency,year_2022_frequency,year_2023_frequency
+ccp,Latn,ccp_Latn,Chakma, ,Zs,SPACE,2518,5,"2014,2017,2019,2022,2023",289,81,661,59,1428
+ccp,Latn,ccp_Latn,Chakma,a,Ll,LATIN SMALL LETTER A,1457,5,"2014,2017,2019,2022,2023",186,55,424,30,762
+ccp,Latn,ccp_Latn,Chakma,o,Ll,LATIN SMALL LETTER O,1376,5,"2014,2017,2019,2022,2023",150,38,402,29,757
+ccp,Latn,ccp_Latn,Chakma,e,Ll,LATIN SMALL LETTER E,1100,5,"2014,2017,2019,2022,2023",79,23,338,27,633
+ccp,Latn,ccp_Latn,Chakma,i,Ll,LATIN SMALL LETTER I,1056,5,"2014,2017,2019,2022,2023",131,35,325,22,543
+ccp,Latn,ccp_Latn,Chakma,n,Ll,LATIN SMALL LETTER N,1023,5,"2014,2017,2019,2022,2023",185,24,272,21,521
+ccp,Latn,ccp_Latn,Chakma,r,Ll,LATIN SMALL LETTER R,799,5,"2014,2017,2019,2022,2023",118,22,246,14,399
+ccp,Latn,ccp_Latn,Chakma,h,Ll,LATIN SMALL LETTER H,793,5,"2014,2017,2019,2022,2023",62,20,218,12,481
+ccp,Latn,ccp_Latn,Chakma,t,Ll,LATIN SMALL LETTER T,630,5,"2014,2017,2019,2022,2023",20,21,219,10,360
+ccp,Latn,ccp_Latn,Chakma,u,Ll,LATIN SMALL LETTER U,627,5,"2014,2017,2019,2022,2023",138,13,135,14,327
+ccp,Latn,ccp_Latn,Chakma,d,Ll,LATIN SMALL LETTER D,497,5,"2014,2017,2019,2022,2023",39,9,117,16,316
+ccp,Latn,ccp_Latn,Chakma,g,Ll,LATIN SMALL LETTER G,492,5,"2014,2017,2019,2022,2023",110,13,137,15,217
+ccp,Latn,ccp_Latn,Chakma,k,Ll,LATIN SMALL LETTER K,398,5,"2014,2017,2019,2022,2023",26,16,79,2,275
+ccp,Latn,ccp_Latn,Chakma,b,Ll,LATIN SMALL LETTER B,385,5,"2014,2017,2019,2022,2023",46,13,84,6,236
+ccp,Latn,ccp_Latn,Chakma,m,Ll,LATIN SMALL LETTER M,383,5,"2014,2017,2019,2022,2023",60,17,112,16,178
+ccp,Latn,ccp_Latn,Chakma,l,Ll,LATIN SMALL LETTER L,328,5,"2014,2017,2019,2022,2023",5,9,101,13,200
+ccp,Latn,ccp_Latn,Chakma,j,Ll,LATIN SMALL LETTER J,298,5,"2014,2017,2019,2022,2023",59,3,83,9,144
+ccp,Latn,ccp_Latn,Chakma,s,Ll,LATIN SMALL LETTER S,295,5,"2014,2017,2019,2022,2023",45,5,78,10,157
+ccp,Latn,ccp_Latn,Chakma,p,Ll,LATIN SMALL LETTER P,226,5,"2014,2017,2019,2022,2023",9,13,45,2,157
+ccp,Latn,ccp_Latn,Chakma,y,Ll,LATIN SMALL LETTER Y,220,5,"2014,2017,2019,2022,2023",30,4,83,3,100
+ccp,Latn,ccp_Latn,Chakma,c,Ll,LATIN SMALL LETTER C,183,5,"2014,2017,2019,2022,2023",15,4,107,3,54
+ccp,Latn,ccp_Latn,Chakma,.,Po,FULL STOP,153,5,"2014,2017,2019,2022,2023",12,9,44,4,84
+ccp,Latn,ccp_Latn,Chakma,w,Ll,LATIN SMALL LETTER W,141,5,"2014,2017,2019,2022,2023",11,11,1,6,112
+ccp,Latn,ccp_Latn,Chakma,",",Po,COMMA,104,4,"2017,2019,2022,2023",0,4,29,11,60
+ccp,Latn,ccp_Latn,Chakma,z,Ll,LATIN SMALL LETTER Z,56,4,"2017,2019,2022,2023",0,3,2,2,49
+ccp,Latn,ccp_Latn,Chakma,B,Lu,LATIN CAPITAL LETTER B,52,4,"2014,2019,2022,2023",16,0,3,1,32
+ccp,Latn,ccp_Latn,Chakma,A,Lu,LATIN CAPITAL LETTER A,48,5,"2014,2017,2019,2022,2023",15,1,17,2,13
+ccp,Latn,ccp_Latn,Chakma,S,Lu,LATIN CAPITAL LETTER S,47,5,"2014,2017,2019,2022,2023",1,4,10,2,30
+ccp,Latn,ccp_Latn,Chakma,T,Lu,LATIN CAPITAL LETTER T,37,4,"2014,2017,2019,2023",6,8,7,0,16
+ccp,Latn,ccp_Latn,Chakma,E,Lu,LATIN CAPITAL LETTER E,37,3,"2014,2022,2023",30,0,0,1,6
+ccp,Latn,ccp_Latn,Chakma,C,Lu,LATIN CAPITAL LETTER C,35,5,"2014,2017,2019,2022,2023",1,2,6,2,24
+ccp,Latn,ccp_Latn,Chakma,-,Pd,HYPHEN-MINUS,31,3,"2017,2019,2023",0,2,21,0,8
+ccp,Latn,ccp_Latn,Chakma,M,Lu,LATIN CAPITAL LETTER M,26,4,"2017,2019,2022,2023",0,1,7,1,17
+ccp,Latn,ccp_Latn,Chakma,N,Lu,LATIN CAPITAL LETTER N,23,4,"2014,2019,2022,2023",16,0,2,1,4
+ccp,Latn,ccp_Latn,Chakma,G,Lu,LATIN CAPITAL LETTER G,22,3,"2017,2022,2023",0,1,0,1,20
+ccp,Latn,ccp_Latn,Chakma,I,Lu,LATIN CAPITAL LETTER I,20,3,"2014,2019,2023",15,0,2,0,3
+ccp,Latn,ccp_Latn,Chakma,V,Lu,LATIN CAPITAL LETTER V,19,3,"2014,2017,2023",10,1,0,0,8
+ccp,Latn,ccp_Latn,Chakma,f,Ll,LATIN SMALL LETTER F,19,3,"2014,2019,2023",1,0,16,0,2
+ccp,Latn,ccp_Latn,Chakma,O,Lu,LATIN CAPITAL LETTER O,18,2,"2014,2023",17,0,0,0,1
+ccp,Latn,ccp_Latn,Chakma,P,Lu,LATIN CAPITAL LETTER P,16,4,"2014,2019,2022,2023",8,0,5,1,2
+ccp,Latn,ccp_Latn,Chakma,L,Lu,LATIN CAPITAL LETTER L,16,3,"2014,2019,2022",12,0,2,2,0
+ccp,Latn,ccp_Latn,Chakma,(,Ps,LEFT PARENTHESIS,15,3,"2014,2019,2023",1,0,7,0,7
+ccp,Latn,ccp_Latn,Chakma,),Pe,RIGHT PARENTHESIS,15,3,"2014,2019,2023",1,0,7,0,7
+ccp,Latn,ccp_Latn,Chakma,H,Lu,LATIN CAPITAL LETTER H,14,4,"2014,2017,2019,2023",5,2,4,0,3
+ccp,Latn,ccp_Latn,Chakma,”,Pf,RIGHT DOUBLE QUOTATION MARK,13,1,2023,0,0,0,0,13
+ccp,Latn,ccp_Latn,Chakma,“,Pi,LEFT DOUBLE QUOTATION MARK,13,1,2023,0,0,0,0,13
+ccp,Latn,ccp_Latn,Chakma,v,Ll,LATIN SMALL LETTER V,12,3,"2014,2019,2023",1,0,3,0,8
+ccp,Latn,ccp_Latn,Chakma,W,Lu,LATIN CAPITAL LETTER W,11,2,"2014,2023",10,0,0,0,1
+ccp,Latn,ccp_Latn,Chakma,0,Nd,DIGIT ZERO,9,2,"2019,2023",0,0,1,0,8
+ccp,Latn,ccp_Latn,Chakma,’,Pf,RIGHT SINGLE QUOTATION MARK,9,2,"2019,2023",0,0,7,0,2
+ccp,Latn,ccp_Latn,Chakma,D,Lu,LATIN CAPITAL LETTER D,9,3,"2019,2022,2023",0,0,1,1,7
+ccp,Latn,ccp_Latn,Chakma,ā,Ll,LATIN SMALL LETTER A WITH MACRON,7,1,2023,0,0,0,0,7
+ccp,Latn,ccp_Latn,Chakma,J,Lu,LATIN CAPITAL LETTER J,7,3,"2019,2022,2023",0,0,2,1,4
+ccp,Latn,ccp_Latn,Chakma,`,Sk,GRAVE ACCENT,7,1,2019,0,0,7,0,0
+ccp,Latn,ccp_Latn,Chakma,R,Lu,LATIN CAPITAL LETTER R,7,2,"2014,2019",5,0,2,0,0
+ccp,Latn,ccp_Latn,Chakma,3,Nd,DIGIT THREE,6,1,2023,0,0,0,0,6
+ccp,Latn,ccp_Latn,Chakma,U,Lu,LATIN CAPITAL LETTER U,5,2,"2022,2023",0,0,0,2,3
+ccp,Latn,ccp_Latn,Chakma,1,Nd,DIGIT ONE,5,2,"2019,2023",0,0,3,0,2
+ccp,Latn,ccp_Latn,Chakma,6,Nd,DIGIT SIX,5,2,"2019,2023",0,0,1,0,4
+ccp,Latn,ccp_Latn,Chakma,Y,Lu,LATIN CAPITAL LETTER Y,5,1,2014,5,0,0,0,0
+ccp,Latn,ccp_Latn,Chakma,F,Lu,LATIN CAPITAL LETTER F,5,1,2014,5,0,0,0,0
+ccp,Latn,ccp_Latn,Chakma,2,Nd,DIGIT TWO,5,1,2023,0,0,0,0,5
+ccp,Latn,ccp_Latn,Chakma,5,Nd,DIGIT FIVE,4,1,2023,0,0,0,0,4
+ccp,Latn,ccp_Latn,Chakma,7,Nd,DIGIT SEVEN,4,2,"2019,2023",0,0,1,0,3
+ccp,Latn,ccp_Latn,Chakma,!,Po,EXCLAMATION MARK,3,2,"2019,2023",0,0,1,0,2
+ccp,Latn,ccp_Latn,Chakma,:,Po,COLON,3,3,"2014,2017,2023",1,1,0,0,1
+ccp,Latn,ccp_Latn,Chakma,4,Nd,DIGIT FOUR,3,2,"2019,2023",0,0,1,0,2
+ccp,Latn,ccp_Latn,Chakma,9,Nd,DIGIT NINE,3,2,"2019,2023",0,0,2,0,1
+ccp,Latn,ccp_Latn,Chakma,8,Nd,DIGIT EIGHT,3,2,"2019,2023",0,0,1,0,2
+ccp,Latn,ccp_Latn,Chakma,?,Po,QUESTION MARK,3,2,"2019,2023",0,0,2,0,1
+ccp,Latn,ccp_Latn,Chakma,/,Po,SOLIDUS,2,1,2019,0,0,2,0,0
+ccp,Latn,ccp_Latn,Chakma,"""",Po,QUOTATION MARK,2,1,2014,2,0,0,0,0
+ccp,Latn,ccp_Latn,Chakma,K,Lu,LATIN CAPITAL LETTER K,2,2,"2019,2023",0,0,1,0,1
+ccp,Latn,ccp_Latn,Chakma,x,Ll,LATIN SMALL LETTER X,2,1,2019,0,0,2,0,0
+ccp,Latn,ccp_Latn,Chakma,Z,Lu,LATIN CAPITAL LETTER Z,2,1,2023,0,0,0,0,2
+ccp,Latn,ccp_Latn,Chakma,~,Sm,TILDE,1,1,2023,0,0,0,0,1

@@ -1,0 +1,71 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency
+tap,Latn,tap_Latn,Taabwa, ,Zs,SPACE,6712,2,"2017,2019",6302,410
+tap,Latn,tap_Latn,Taabwa,a,Ll,LATIN SMALL LETTER A,6095,2,"2017,2019",5644,451
+tap,Latn,tap_Latn,Taabwa,i,Ll,LATIN SMALL LETTER I,3929,2,"2017,2019",3716,213
+tap,Latn,tap_Latn,Taabwa,u,Ll,LATIN SMALL LETTER U,3516,2,"2017,2019",3330,186
+tap,Latn,tap_Latn,Taabwa,e,Ll,LATIN SMALL LETTER E,3249,2,"2017,2019",3050,199
+tap,Latn,tap_Latn,Taabwa,n,Ll,LATIN SMALL LETTER N,2757,2,"2017,2019",2656,101
+tap,Latn,tap_Latn,Taabwa,l,Ll,LATIN SMALL LETTER L,2144,2,"2017,2019",1992,152
+tap,Latn,tap_Latn,Taabwa,k,Ll,LATIN SMALL LETTER K,2131,2,"2017,2019",2019,112
+tap,Latn,tap_Latn,Taabwa,b,Ll,LATIN SMALL LETTER B,1666,2,"2017,2019",1601,65
+tap,Latn,tap_Latn,Taabwa,m,Ll,LATIN SMALL LETTER M,1663,2,"2017,2019",1565,98
+tap,Latn,tap_Latn,Taabwa,w,Ll,LATIN SMALL LETTER W,1323,2,"2017,2019",1218,105
+tap,Latn,tap_Latn,Taabwa,t,Ll,LATIN SMALL LETTER T,1209,2,"2017,2019",1163,46
+tap,Latn,tap_Latn,Taabwa,o,Ll,LATIN SMALL LETTER O,1170,2,"2017,2019",1078,92
+tap,Latn,tap_Latn,Taabwa,s,Ll,LATIN SMALL LETTER S,838,2,"2017,2019",792,46
+tap,Latn,tap_Latn,Taabwa,z,Ll,LATIN SMALL LETTER Z,697,2,"2017,2019",667,30
+tap,Latn,tap_Latn,Taabwa,y,Ll,LATIN SMALL LETTER Y,575,2,"2017,2019",513,62
+tap,Latn,tap_Latn,Taabwa,p,Ll,LATIN SMALL LETTER P,559,2,"2017,2019",540,19
+tap,Latn,tap_Latn,Taabwa,.,Po,FULL STOP,517,2,"2017,2019",492,25
+tap,Latn,tap_Latn,Taabwa,",",Po,COMMA,453,2,"2017,2019",396,57
+tap,Latn,tap_Latn,Taabwa,g,Ll,LATIN SMALL LETTER G,316,2,"2017,2019",307,9
+tap,Latn,tap_Latn,Taabwa,L,Lu,LATIN CAPITAL LETTER L,265,2,"2017,2019",260,5
+tap,Latn,tap_Latn,Taabwa,d,Ll,LATIN SMALL LETTER D,245,2,"2017,2019",220,25
+tap,Latn,tap_Latn,Taabwa,Y,Lu,LATIN CAPITAL LETTER Y,243,2,"2017,2019",212,31
+tap,Latn,tap_Latn,Taabwa,v,Ll,LATIN SMALL LETTER V,235,2,"2017,2019",180,55
+tap,Latn,tap_Latn,Taabwa,M,Lu,LATIN CAPITAL LETTER M,232,2,"2017,2019",215,17
+tap,Latn,tap_Latn,Taabwa,K,Lu,LATIN CAPITAL LETTER K,220,2,"2017,2019",212,8
+tap,Latn,tap_Latn,Taabwa,f,Ll,LATIN SMALL LETTER F,196,2,"2017,2019",182,14
+tap,Latn,tap_Latn,Taabwa,1,Nd,DIGIT ONE,196,2,"2017,2019",182,14
+tap,Latn,tap_Latn,Taabwa,A,Lu,LATIN CAPITAL LETTER A,165,2,"2017,2019",144,21
+tap,Latn,tap_Latn,Taabwa,:,Po,COLON,153,2,"2017,2019",152,1
+tap,Latn,tap_Latn,Taabwa,2,Nd,DIGIT TWO,128,2,"2017,2019",119,9
+tap,Latn,tap_Latn,Taabwa,B,Lu,LATIN CAPITAL LETTER B,127,2,"2017,2019",118,9
+tap,Latn,tap_Latn,Taabwa,O,Lu,LATIN CAPITAL LETTER O,110,2,"2017,2019",105,5
+tap,Latn,tap_Latn,Taabwa,r,Ll,LATIN SMALL LETTER R,106,2,"2017,2019",73,33
+tap,Latn,tap_Latn,Taabwa,N,Lu,LATIN CAPITAL LETTER N,96,2,"2017,2019",93,3
+tap,Latn,tap_Latn,Taabwa,S,Lu,LATIN CAPITAL LETTER S,92,2,"2017,2019",83,9
+tap,Latn,tap_Latn,Taabwa,E,Lu,LATIN CAPITAL LETTER E,87,2,"2017,2019",78,9
+tap,Latn,tap_Latn,Taabwa,I,Lu,LATIN CAPITAL LETTER I,72,2,"2017,2019",68,4
+tap,Latn,tap_Latn,Taabwa,T,Lu,LATIN CAPITAL LETTER T,68,2,"2017,2019",67,1
+tap,Latn,tap_Latn,Taabwa,3,Nd,DIGIT THREE,68,2,"2017,2019",65,3
+tap,Latn,tap_Latn,Taabwa,h,Ll,LATIN SMALL LETTER H,63,2,"2017,2019",46,17
+tap,Latn,tap_Latn,Taabwa,-,Pd,HYPHEN-MINUS,61,1,2017,61,0
+tap,Latn,tap_Latn,Taabwa,4,Nd,DIGIT FOUR,57,2,"2017,2019",54,3
+tap,Latn,tap_Latn,Taabwa,5,Nd,DIGIT FIVE,51,2,"2017,2019",48,3
+tap,Latn,tap_Latn,Taabwa,P,Lu,LATIN CAPITAL LETTER P,41,2,"2017,2019",37,4
+tap,Latn,tap_Latn,Taabwa,U,Lu,LATIN CAPITAL LETTER U,40,2,"2017,2019",37,3
+tap,Latn,tap_Latn,Taabwa,|,Sm,VERTICAL LINE,40,1,2017,40,0
+tap,Latn,tap_Latn,Taabwa,6,Nd,DIGIT SIX,37,2,"2017,2019",35,2
+tap,Latn,tap_Latn,Taabwa,"""",Po,QUOTATION MARK,36,2,"2017,2019",30,6
+tap,Latn,tap_Latn,Taabwa,0,Nd,DIGIT ZERO,34,2,"2017,2019",32,2
+tap,Latn,tap_Latn,Taabwa,8,Nd,DIGIT EIGHT,34,2,"2017,2019",32,2
+tap,Latn,tap_Latn,Taabwa,7,Nd,DIGIT SEVEN,32,2,"2017,2019",30,2
+tap,Latn,tap_Latn,Taabwa,9,Nd,DIGIT NINE,31,2,"2017,2019",29,2
+tap,Latn,tap_Latn,Taabwa,W,Lu,LATIN CAPITAL LETTER W,29,2,"2017,2019",27,2
+tap,Latn,tap_Latn,Taabwa,(,Ps,LEFT PARENTHESIS,27,2,"2017,2019",22,5
+tap,Latn,tap_Latn,Taabwa,),Pe,RIGHT PARENTHESIS,25,2,"2017,2019",20,5
+tap,Latn,tap_Latn,Taabwa,F,Lu,LATIN CAPITAL LETTER F,18,1,2017,18,0
+tap,Latn,tap_Latn,Taabwa,R,Lu,LATIN CAPITAL LETTER R,17,2,"2017,2019",13,4
+tap,Latn,tap_Latn,Taabwa,;,Po,SEMICOLON,17,1,2017,17,0
+tap,Latn,tap_Latn,Taabwa,D,Lu,LATIN CAPITAL LETTER D,14,2,"2017,2019",8,6
+tap,Latn,tap_Latn,Taabwa,?,Po,QUESTION MARK,11,1,2017,11,0
+tap,Latn,tap_Latn,Taabwa,c,Ll,LATIN SMALL LETTER C,8,1,2017,8,0
+tap,Latn,tap_Latn,Taabwa,!,Po,EXCLAMATION MARK,8,1,2017,8,0
+tap,Latn,tap_Latn,Taabwa,G,Lu,LATIN CAPITAL LETTER G,5,1,2017,5,0
+tap,Latn,tap_Latn,Taabwa,/,Po,SOLIDUS,5,1,2017,5,0
+tap,Latn,tap_Latn,Taabwa,H,Lu,LATIN CAPITAL LETTER H,3,2,"2017,2019",1,2
+tap,Latn,tap_Latn,Taabwa,J,Lu,LATIN CAPITAL LETTER J,2,1,2017,2,0
+tap,Latn,tap_Latn,Taabwa,',Po,APOSTROPHE,2,1,2017,2,0
+tap,Latn,tap_Latn,Taabwa,Z,Lu,LATIN CAPITAL LETTER Z,2,1,2019,0,2
+tap,Latn,tap_Latn,Taabwa,Q,Lu,LATIN CAPITAL LETTER Q,1,1,2017,1,0

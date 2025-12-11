@@ -1,0 +1,83 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency
+zsm,Arab,zsm_Arab,Standard Malay, ,Zs,SPACE,1882,3,"2017,2018,2019",78,1354,450
+zsm,Arab,zsm_Arab,Standard Malay,ا,Lo,ARABIC LETTER ALEF,1306,3,"2017,2018,2019",54,935,317
+zsm,Arab,zsm_Arab,Standard Malay,ي,Lo,ARABIC LETTER YEH,973,3,"2017,2018,2019",47,684,242
+zsm,Arab,zsm_Arab,Standard Malay,و,Lo,ARABIC LETTER WAW,785,3,"2017,2018,2019",42,575,168
+zsm,Arab,zsm_Arab,Standard Malay,ن,Lo,ARABIC LETTER NOON,737,3,"2017,2018,2019",30,544,163
+zsm,Arab,zsm_Arab,Standard Malay,م,Lo,ARABIC LETTER MEEM,550,3,"2017,2018,2019",23,402,125
+zsm,Arab,zsm_Arab,Standard Malay,ت,Lo,ARABIC LETTER TEH,545,3,"2017,2018,2019",25,400,120
+zsm,Arab,zsm_Arab,Standard Malay,س,Lo,ARABIC LETTER SEEN,513,3,"2017,2018,2019",15,377,121
+zsm,Arab,zsm_Arab,Standard Malay,ر,Lo,ARABIC LETTER REH,508,3,"2017,2018,2019",19,359,130
+zsm,Arab,zsm_Arab,Standard Malay,د,Lo,ARABIC LETTER DAL,406,3,"2017,2018,2019",15,282,109
+zsm,Arab,zsm_Arab,Standard Malay,ل,Lo,ARABIC LETTER LAM,381,3,"2017,2018,2019",11,278,92
+zsm,Arab,zsm_Arab,Standard Malay,ب,Lo,ARABIC LETTER BEH,341,3,"2017,2018,2019",18,228,95
+zsm,Arab,zsm_Arab,Standard Malay,ڤ,Lo,ARABIC LETTER VEH,309,3,"2017,2018,2019",11,214,84
+zsm,Arab,zsm_Arab,Standard Malay,ک,Lo,ARABIC LETTER KEHEH,285,2,"2018,2019",0,185,100
+zsm,Arab,zsm_Arab,Standard Malay,ڠ,Lo,ARABIC LETTER AIN WITH THREE DOTS ABOVE,283,3,"2017,2018,2019",21,193,69
+zsm,Arab,zsm_Arab,Standard Malay,ه,Lo,ARABIC LETTER HEH,244,3,"2017,2018,2019",14,171,59
+zsm,Arab,zsm_Arab,Standard Malay,ق,Lo,ARABIC LETTER QAF,188,3,"2017,2018,2019",5,143,40
+zsm,Arab,zsm_Arab,Standard Malay,ك,Lo,ARABIC LETTER KAF,150,2,"2017,2018",30,120,0
+zsm,Arab,zsm_Arab,Standard Malay,.,Po,FULL STOP,119,3,"2017,2018,2019",12,85,22
+zsm,Arab,zsm_Arab,Standard Malay,ڬ,Lo,ARABIC LETTER KAF WITH DOT ABOVE,107,3,"2017,2018,2019",5,76,26
+zsm,Arab,zsm_Arab,Standard Malay,ج,Lo,ARABIC LETTER JEEM,100,3,"2017,2018,2019",6,73,21
+zsm,Arab,zsm_Arab,Standard Malay,،,Po,ARABIC COMMA,67,3,"2017,2018,2019",1,48,18
+zsm,Arab,zsm_Arab,Standard Malay,ڽ,Lo,ARABIC LETTER NOON WITH THREE DOTS ABOVE,50,3,"2017,2018,2019",6,33,11
+zsm,Arab,zsm_Arab,Standard Malay,؞,Po,ARABIC TRIPLE DOT PUNCTUATION MARK,40,2,"2018,2019",0,25,15
+zsm,Arab,zsm_Arab,Standard Malay,چ,Lo,ARABIC LETTER TCHEH,39,3,"2017,2018,2019",3,27,9
+zsm,Arab,zsm_Arab,Standard Malay,پ,Lo,ARABIC LETTER PEH,29,2,"2018,2019",0,18,11
+zsm,Arab,zsm_Arab,Standard Malay,ع,Lo,ARABIC LETTER AIN,19,3,"2017,2018,2019",2,12,5
+zsm,Arab,zsm_Arab,Standard Malay,ف,Lo,ARABIC LETTER FEH,18,3,"2017,2018,2019",1,10,7
+zsm,Arab,zsm_Arab,Standard Malay,ز,Lo,ARABIC LETTER ZAIN,18,2,"2018,2019",0,11,7
+zsm,Arab,zsm_Arab,Standard Malay,ح,Lo,ARABIC LETTER HAH,17,2,"2017,2018",1,16,0
+zsm,Arab,zsm_Arab,Standard Malay,أ,Lo,ARABIC LETTER ALEF WITH HAMZA ABOVE,16,2,"2018,2019",0,7,9
+zsm,Arab,zsm_Arab,Standard Malay,-,Pd,HYPHEN-MINUS,14,3,"2017,2018,2019",1,9,4
+zsm,Arab,zsm_Arab,Standard Malay,“,Pi,LEFT DOUBLE QUOTATION MARK,12,2,"2018,2019",0,8,4
+zsm,Arab,zsm_Arab,Standard Malay,٢,Nd,ARABIC-INDIC DIGIT TWO,11,2,"2018,2019",0,8,3
+zsm,Arab,zsm_Arab,Standard Malay,ۏ,Lo,ARABIC LETTER WAW WITH DOT ABOVE,9,2,"2018,2019",0,8,1
+zsm,Arab,zsm_Arab,Standard Malay,ة,Lo,ARABIC LETTER TEH MARBUTA,8,3,"2017,2018,2019",1,5,2
+zsm,Arab,zsm_Arab,Standard Malay,0,Nd,DIGIT ZERO,8,3,"2017,2018,2019",2,2,4
+zsm,Arab,zsm_Arab,Standard Malay,ص,Lo,ARABIC LETTER SAD,7,2,"2018,2019",0,6,1
+zsm,Arab,zsm_Arab,Standard Malay,ذ,Lo,ARABIC LETTER THAL,7,1,2018,0,7,0
+zsm,Arab,zsm_Arab,Standard Malay,؟,Po,ARABIC QUESTION MARK,7,2,"2017,2019",4,0,3
+zsm,Arab,zsm_Arab,Standard Malay,ئ,Lo,ARABIC LETTER YEH WITH HAMZA ABOVE,7,2,"2018,2019",0,6,1
+zsm,Arab,zsm_Arab,Standard Malay,ش,Lo,ARABIC LETTER SHEEN,7,2,"2018,2019",0,5,2
+zsm,Arab,zsm_Arab,Standard Malay,”,Pf,RIGHT DOUBLE QUOTATION MARK,5,2,"2018,2019",0,3,2
+zsm,Arab,zsm_Arab,Standard Malay,R,Lu,LATIN CAPITAL LETTER R,4,2,"2017,2019",2,0,2
+zsm,Arab,zsm_Arab,Standard Malay,1,Nd,DIGIT ONE,4,1,2019,0,0,4
+zsm,Arab,zsm_Arab,Standard Malay,A,Lu,LATIN CAPITAL LETTER A,4,2,"2017,2018",3,1,0
+zsm,Arab,zsm_Arab,Standard Malay,خ,Lo,ARABIC LETTER KHAH,3,1,2018,0,3,0
+zsm,Arab,zsm_Arab,Standard Malay,4,Nd,DIGIT FOUR,3,2,"2018,2019",0,2,1
+zsm,Arab,zsm_Arab,Standard Malay,3,Nd,DIGIT THREE,3,1,2018,0,3,0
+zsm,Arab,zsm_Arab,Standard Malay,T,Lu,LATIN CAPITAL LETTER T,3,1,2017,3,0,0
+zsm,Arab,zsm_Arab,Standard Malay,g,Ll,LATIN SMALL LETTER G,3,1,2017,3,0,0
+zsm,Arab,zsm_Arab,Standard Malay,G,Lu,LATIN CAPITAL LETTER G,3,1,2018,0,3,0
+zsm,Arab,zsm_Arab,Standard Malay,5,Nd,DIGIT FIVE,2,1,2019,0,0,2
+zsm,Arab,zsm_Arab,Standard Malay,n,Ll,LATIN SMALL LETTER N,2,1,2017,2,0,0
+zsm,Arab,zsm_Arab,Standard Malay,a,Ll,LATIN SMALL LETTER A,2,1,2017,2,0,0
+zsm,Arab,zsm_Arab,Standard Malay,l,Ll,LATIN SMALL LETTER L,2,1,2017,2,0,0
+zsm,Arab,zsm_Arab,Standard Malay,M,Lu,LATIN CAPITAL LETTER M,2,1,2019,0,0,2
+zsm,Arab,zsm_Arab,Standard Malay,‘,Pi,LEFT SINGLE QUOTATION MARK,2,2,"2018,2019",0,1,1
+zsm,Arab,zsm_Arab,Standard Malay,",",Po,COMMA,2,1,2019,0,0,2
+zsm,Arab,zsm_Arab,Standard Malay,V,Lu,LATIN CAPITAL LETTER V,2,1,2018,0,2,0
+zsm,Arab,zsm_Arab,Standard Malay,’,Pf,RIGHT SINGLE QUOTATION MARK,2,2,"2018,2019",0,1,1
+zsm,Arab,zsm_Arab,Standard Malay,u,Ll,LATIN SMALL LETTER U,2,1,2017,2,0,0
+zsm,Arab,zsm_Arab,Standard Malay,S,Lu,LATIN CAPITAL LETTER S,2,1,2017,2,0,0
+zsm,Arab,zsm_Arab,Standard Malay,2,Nd,DIGIT TWO,2,2,"2017,2019",1,0,1
+zsm,Arab,zsm_Arab,Standard Malay,إ,Lo,ARABIC LETTER ALEF WITH HAMZA BELOW,2,1,2019,0,0,2
+zsm,Arab,zsm_Arab,Standard Malay,ض,Lo,ARABIC LETTER DAD,1,1,2019,0,0,1
+zsm,Arab,zsm_Arab,Standard Malay,7,Nd,DIGIT SEVEN,1,1,2019,0,0,1
+zsm,Arab,zsm_Arab,Standard Malay,y,Ll,LATIN SMALL LETTER Y,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,6,Nd,DIGIT SIX,1,1,2019,0,0,1
+zsm,Arab,zsm_Arab,Standard Malay,e,Ll,LATIN SMALL LETTER E,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,i,Ll,LATIN SMALL LETTER I,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,m,Ll,LATIN SMALL LETTER M,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,(,Ps,LEFT PARENTHESIS,1,1,2018,0,1,0
+zsm,Arab,zsm_Arab,Standard Malay,J,Lu,LATIN CAPITAL LETTER J,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,B,Lu,LATIN CAPITAL LETTER B,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,I,Lu,LATIN CAPITAL LETTER I,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,K,Lu,LATIN CAPITAL LETTER K,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,E,Lu,LATIN CAPITAL LETTER E,1,1,2017,1,0,0
+zsm,Arab,zsm_Arab,Standard Malay,9,Nd,DIGIT NINE,1,1,2018,0,1,0
+zsm,Arab,zsm_Arab,Standard Malay,O,Lu,LATIN CAPITAL LETTER O,1,1,2018,0,1,0
+zsm,Arab,zsm_Arab,Standard Malay,),Pe,RIGHT PARENTHESIS,1,1,2018,0,1,0
+zsm,Arab,zsm_Arab,Standard Malay,!,Po,EXCLAMATION MARK,1,1,2019,0,0,1

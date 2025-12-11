@@ -1,0 +1,75 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2024_frequency
+nri,Latn,nri_Latn,Chokri Naga, ,Zs,SPACE,3501,2,"2017,2024",145,3356
+nri,Latn,nri_Latn,Chokri Naga,o,Ll,LATIN SMALL LETTER O,2145,2,"2017,2024",58,2087
+nri,Latn,nri_Latn,Chokri Naga,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,1303,2,"2017,2024",98,1205
+nri,Latn,nri_Latn,Chokri Naga,h,Ll,LATIN SMALL LETTER H,1296,2,"2017,2024",62,1234
+nri,Latn,nri_Latn,Chokri Naga,k,Ll,LATIN SMALL LETTER K,1268,2,"2017,2024",56,1212
+nri,Latn,nri_Latn,Chokri Naga,i,Ll,LATIN SMALL LETTER I,1226,2,"2017,2024",49,1177
+nri,Latn,nri_Latn,Chokri Naga,a,Ll,LATIN SMALL LETTER A,1158,2,"2017,2024",30,1128
+nri,Latn,nri_Latn,Chokri Naga,e,Ll,LATIN SMALL LETTER E,1045,2,"2017,2024",35,1010
+nri,Latn,nri_Latn,Chokri Naga,u,Ll,LATIN SMALL LETTER U,754,2,"2017,2024",22,732
+nri,Latn,nri_Latn,Chokri Naga,t,Ll,LATIN SMALL LETTER T,750,2,"2017,2024",24,726
+nri,Latn,nri_Latn,Chokri Naga,m,Ll,LATIN SMALL LETTER M,714,2,"2017,2024",24,690
+nri,Latn,nri_Latn,Chokri Naga,s,Ll,LATIN SMALL LETTER S,681,2,"2017,2024",18,663
+nri,Latn,nri_Latn,Chokri Naga,r,Ll,LATIN SMALL LETTER R,654,2,"2017,2024",15,639
+nri,Latn,nri_Latn,Chokri Naga,l,Ll,LATIN SMALL LETTER L,486,2,"2017,2024",17,469
+nri,Latn,nri_Latn,Chokri Naga,p,Ll,LATIN SMALL LETTER P,466,2,"2017,2024",21,445
+nri,Latn,nri_Latn,Chokri Naga,n,Ll,LATIN SMALL LETTER N,427,2,"2017,2024",19,408
+nri,Latn,nri_Latn,Chokri Naga,y,Ll,LATIN SMALL LETTER Y,250,2,"2017,2024",27,223
+nri,Latn,nri_Latn,Chokri Naga,",",Po,COMMA,249,2,"2017,2024",7,242
+nri,Latn,nri_Latn,Chokri Naga,c,Ll,LATIN SMALL LETTER C,228,2,"2017,2024",8,220
+nri,Latn,nri_Latn,Chokri Naga,v,Ll,LATIN SMALL LETTER V,218,2,"2017,2024",8,210
+nri,Latn,nri_Latn,Chokri Naga,z,Ll,LATIN SMALL LETTER Z,216,2,"2017,2024",18,198
+nri,Latn,nri_Latn,Chokri Naga,d,Ll,LATIN SMALL LETTER D,194,2,"2017,2024",15,179
+nri,Latn,nri_Latn,Chokri Naga,b,Ll,LATIN SMALL LETTER B,182,2,"2017,2024",4,178
+nri,Latn,nri_Latn,Chokri Naga,w,Ll,LATIN SMALL LETTER W,164,2,"2017,2024",1,163
+nri,Latn,nri_Latn,Chokri Naga,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,148,1,2024,0,148
+nri,Latn,nri_Latn,Chokri Naga,.,Po,FULL STOP,134,2,"2017,2024",8,126
+nri,Latn,nri_Latn,Chokri Naga,N,Lu,LATIN CAPITAL LETTER N,131,2,"2017,2024",3,128
+nri,Latn,nri_Latn,Chokri Naga,R,Lu,LATIN CAPITAL LETTER R,127,2,"2017,2024",1,126
+nri,Latn,nri_Latn,Chokri Naga,g,Ll,LATIN SMALL LETTER G,125,2,"2017,2024",1,124
+nri,Latn,nri_Latn,Chokri Naga,f,Ll,LATIN SMALL LETTER F,111,1,2024,0,111
+nri,Latn,nri_Latn,Chokri Naga,j,Ll,LATIN SMALL LETTER J,77,1,2024,0,77
+nri,Latn,nri_Latn,Chokri Naga,M,Lu,LATIN CAPITAL LETTER M,64,2,"2017,2024",2,62
+nri,Latn,nri_Latn,Chokri Naga,-,Pd,HYPHEN-MINUS,52,2,"2017,2024",2,50
+nri,Latn,nri_Latn,Chokri Naga,P,Lu,LATIN CAPITAL LETTER P,51,1,2024,0,51
+nri,Latn,nri_Latn,Chokri Naga,F,Lu,LATIN CAPITAL LETTER F,48,1,2024,0,48
+nri,Latn,nri_Latn,Chokri Naga,D,Lu,LATIN CAPITAL LETTER D,34,1,2024,0,34
+nri,Latn,nri_Latn,Chokri Naga,S,Lu,LATIN CAPITAL LETTER S,27,2,"2017,2024",2,25
+nri,Latn,nri_Latn,Chokri Naga,),Pe,RIGHT PARENTHESIS,27,2,"2017,2024",1,26
+nri,Latn,nri_Latn,Chokri Naga,(,Ps,LEFT PARENTHESIS,27,2,"2017,2024",1,26
+nri,Latn,nri_Latn,Chokri Naga,K,Lu,LATIN CAPITAL LETTER K,21,2,"2017,2024",2,19
+nri,Latn,nri_Latn,Chokri Naga,1,Nd,DIGIT ONE,20,2,"2017,2024",12,8
+nri,Latn,nri_Latn,Chokri Naga,A,Lu,LATIN CAPITAL LETTER A,17,2,"2017,2024",3,14
+nri,Latn,nri_Latn,Chokri Naga,U,Lu,LATIN CAPITAL LETTER U,17,2,"2017,2024",1,16
+nri,Latn,nri_Latn,Chokri Naga,2,Nd,DIGIT TWO,15,2,"2017,2024",1,14
+nri,Latn,nri_Latn,Chokri Naga,T,Lu,LATIN CAPITAL LETTER T,14,2,"2017,2024",1,13
+nri,Latn,nri_Latn,Chokri Naga,H,Lu,LATIN CAPITAL LETTER H,12,2,"2017,2024",1,11
+nri,Latn,nri_Latn,Chokri Naga,O,Lu,LATIN CAPITAL LETTER O,12,2,"2017,2024",1,11
+nri,Latn,nri_Latn,Chokri Naga,C,Lu,LATIN CAPITAL LETTER C,11,2,"2017,2024",2,9
+nri,Latn,nri_Latn,Chokri Naga,I,Lu,LATIN CAPITAL LETTER I,8,2,"2017,2024",1,7
+nri,Latn,nri_Latn,Chokri Naga,0,Nd,DIGIT ZERO,8,2,"2017,2024",2,6
+nri,Latn,nri_Latn,Chokri Naga,V,Lu,LATIN CAPITAL LETTER V,8,1,2024,0,8
+nri,Latn,nri_Latn,Chokri Naga,E,Lu,LATIN CAPITAL LETTER E,7,2,"2017,2024",2,5
+nri,Latn,nri_Latn,Chokri Naga,:,Po,COLON,6,2,"2017,2024",2,4
+nri,Latn,nri_Latn,Chokri Naga,L,Lu,LATIN CAPITAL LETTER L,6,1,2024,0,6
+nri,Latn,nri_Latn,Chokri Naga,q,Ll,LATIN SMALL LETTER Q,6,1,2024,0,6
+nri,Latn,nri_Latn,Chokri Naga,–,Pd,EN DASH,5,1,2024,0,5
+nri,Latn,nri_Latn,Chokri Naga,”,Pf,RIGHT DOUBLE QUOTATION MARK,5,1,2024,0,5
+nri,Latn,nri_Latn,Chokri Naga,“,Pi,LEFT DOUBLE QUOTATION MARK,5,1,2024,0,5
+nri,Latn,nri_Latn,Chokri Naga,5,Nd,DIGIT FIVE,4,2,"2017,2024",1,3
+nri,Latn,nri_Latn,Chokri Naga,J,Lu,LATIN CAPITAL LETTER J,4,2,"2017,2024",3,1
+nri,Latn,nri_Latn,Chokri Naga,8,Nd,DIGIT EIGHT,4,2,"2017,2024",2,2
+nri,Latn,nri_Latn,Chokri Naga,9,Nd,DIGIT NINE,4,1,2024,0,4
+nri,Latn,nri_Latn,Chokri Naga,G,Lu,LATIN CAPITAL LETTER G,4,2,"2017,2024",1,3
+nri,Latn,nri_Latn,Chokri Naga,3,Nd,DIGIT THREE,3,2,"2017,2024",1,2
+nri,Latn,nri_Latn,Chokri Naga,4,Nd,DIGIT FOUR,3,2,"2017,2024",1,2
+nri,Latn,nri_Latn,Chokri Naga,B,Lu,LATIN CAPITAL LETTER B,3,2,"2017,2024",1,2
+nri,Latn,nri_Latn,Chokri Naga,6,Nd,DIGIT SIX,2,1,2017,2,0
+nri,Latn,nri_Latn,Chokri Naga,x,Ll,LATIN SMALL LETTER X,2,1,2024,0,2
+nri,Latn,nri_Latn,Chokri Naga,/,Po,SOLIDUS,2,1,2024,0,2
+nri,Latn,nri_Latn,Chokri Naga,Y,Lu,LATIN CAPITAL LETTER Y,1,1,2024,0,1
+nri,Latn,nri_Latn,Chokri Naga,&,Po,AMPERSAND,1,1,2024,0,1
+nri,Latn,nri_Latn,Chokri Naga,7,Nd,DIGIT SEVEN,1,1,2017,1,0
+nri,Latn,nri_Latn,Chokri Naga,?,Po,QUESTION MARK,1,1,2024,0,1
+nri,Latn,nri_Latn,Chokri Naga,;,Po,SEMICOLON,1,1,2024,0,1

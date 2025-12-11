@@ -1,0 +1,76 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2024_frequency
+frd,Latn,frd_Latn,Fordata,a,Ll,LATIN SMALL LETTER A,25055,4,"2017,2018,2019,2024",182,576,588,23709
+frd,Latn,frd_Latn,Fordata, ,Zs,SPACE,24137,4,"2017,2018,2019,2024",212,567,580,22778
+frd,Latn,frd_Latn,Fordata,n,Ll,LATIN SMALL LETTER N,9952,4,"2017,2018,2019,2024",83,295,301,9273
+frd,Latn,frd_Latn,Fordata,i,Ll,LATIN SMALL LETTER I,9679,4,"2017,2018,2019,2024",80,218,225,9156
+frd,Latn,frd_Latn,Fordata,r,Ll,LATIN SMALL LETTER R,7331,4,"2017,2018,2019,2024",64,157,160,6950
+frd,Latn,frd_Latn,Fordata,u,Ll,LATIN SMALL LETTER U,5362,4,"2017,2018,2019,2024",45,134,144,5039
+frd,Latn,frd_Latn,Fordata,t,Ll,LATIN SMALL LETTER T,5188,4,"2017,2018,2019,2024",55,99,99,4935
+frd,Latn,frd_Latn,Fordata,l,Ll,LATIN SMALL LETTER L,4345,4,"2017,2018,2019,2024",34,85,85,4141
+frd,Latn,frd_Latn,Fordata,o,Ll,LATIN SMALL LETTER O,3645,4,"2017,2018,2019,2024",28,69,68,3480
+frd,Latn,frd_Latn,Fordata,v,Ll,LATIN SMALL LETTER V,3622,4,"2017,2018,2019,2024",17,61,61,3483
+frd,Latn,frd_Latn,Fordata,m,Ll,LATIN SMALL LETTER M,3598,4,"2017,2018,2019,2024",48,62,63,3425
+frd,Latn,frd_Latn,Fordata,e,Ll,LATIN SMALL LETTER E,3479,4,"2017,2018,2019,2024",67,109,111,3192
+frd,Latn,frd_Latn,Fordata,k,Ll,LATIN SMALL LETTER K,3198,4,"2017,2018,2019,2024",24,64,67,3043
+frd,Latn,frd_Latn,Fordata,s,Ll,LATIN SMALL LETTER S,2323,4,"2017,2018,2019,2024",43,92,106,2082
+frd,Latn,frd_Latn,Fordata,",",Po,COMMA,1800,4,"2017,2018,2019,2024",15,54,54,1677
+frd,Latn,frd_Latn,Fordata,f,Ll,LATIN SMALL LETTER F,1792,4,"2017,2018,2019,2024",23,32,32,1705
+frd,Latn,frd_Latn,Fordata,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,1690,2,"2019,2024",0,0,35,1655
+frd,Latn,frd_Latn,Fordata,b,Ll,LATIN SMALL LETTER B,1583,4,"2017,2018,2019,2024",26,61,64,1432
+frd,Latn,frd_Latn,Fordata,w,Ll,LATIN SMALL LETTER W,1568,4,"2017,2018,2019,2024",17,24,24,1503
+frd,Latn,frd_Latn,Fordata,y,Ll,LATIN SMALL LETTER Y,1435,4,"2017,2018,2019,2024",12,58,60,1305
+frd,Latn,frd_Latn,Fordata,.,Po,FULL STOP,1251,4,"2017,2018,2019,2024",14,40,41,1156
+frd,Latn,frd_Latn,Fordata,g,Ll,LATIN SMALL LETTER G,1080,4,"2017,2018,2019,2024",8,4,3,1065
+frd,Latn,frd_Latn,Fordata,d,Ll,LATIN SMALL LETTER D,922,4,"2017,2018,2019,2024",18,26,25,853
+frd,Latn,frd_Latn,Fordata,h,Ll,LATIN SMALL LETTER H,676,4,"2017,2018,2019,2024",1,30,29,616
+frd,Latn,frd_Latn,Fordata,Y,Lu,LATIN CAPITAL LETTER Y,502,4,"2017,2018,2019,2024",9,32,36,425
+frd,Latn,frd_Latn,Fordata,N,Lu,LATIN CAPITAL LETTER N,476,4,"2017,2018,2019,2024",7,13,14,442
+frd,Latn,frd_Latn,Fordata,U,Lu,LATIN CAPITAL LETTER U,454,4,"2017,2018,2019,2024",1,6,7,440
+frd,Latn,frd_Latn,Fordata,I,Lu,LATIN CAPITAL LETTER I,375,3,"2018,2019,2024",0,18,18,339
+frd,Latn,frd_Latn,Fordata,1,Nd,DIGIT ONE,371,4,"2017,2018,2019,2024",6,13,17,335
+frd,Latn,frd_Latn,Fordata,2,Nd,DIGIT TWO,225,4,"2017,2018,2019,2024",2,9,13,201
+frd,Latn,frd_Latn,Fordata,B,Lu,LATIN CAPITAL LETTER B,215,3,"2018,2019,2024",0,12,12,191
+frd,Latn,frd_Latn,Fordata,M,Lu,LATIN CAPITAL LETTER M,206,4,"2017,2018,2019,2024",3,14,13,176
+frd,Latn,frd_Latn,Fordata,T,Lu,LATIN CAPITAL LETTER T,202,4,"2017,2018,2019,2024",1,8,8,185
+frd,Latn,frd_Latn,Fordata,-,Pd,HYPHEN-MINUS,188,4,"2017,2018,2019,2024",1,1,3,183
+frd,Latn,frd_Latn,Fordata,D,Lu,LATIN CAPITAL LETTER D,149,3,"2018,2019,2024",0,10,10,129
+frd,Latn,frd_Latn,Fordata,A,Lu,LATIN CAPITAL LETTER A,144,4,"2017,2018,2019,2024",3,21,21,99
+frd,Latn,frd_Latn,Fordata,3,Nd,DIGIT THREE,142,3,"2018,2019,2024",0,3,6,133
+frd,Latn,frd_Latn,Fordata,R,Lu,LATIN CAPITAL LETTER R,126,4,"2017,2018,2019,2024",3,11,12,100
+frd,Latn,frd_Latn,Fordata,”,Pf,RIGHT DOUBLE QUOTATION MARK,118,3,"2018,2019,2024",0,2,2,114
+frd,Latn,frd_Latn,Fordata,“,Pi,LEFT DOUBLE QUOTATION MARK,117,3,"2018,2019,2024",0,2,2,113
+frd,Latn,frd_Latn,Fordata,4,Nd,DIGIT FOUR,111,3,"2018,2019,2024",0,3,4,104
+frd,Latn,frd_Latn,Fordata,p,Ll,LATIN SMALL LETTER P,107,3,"2017,2018,2024",3,1,0,103
+frd,Latn,frd_Latn,Fordata,K,Lu,LATIN CAPITAL LETTER K,96,4,"2017,2018,2019,2024",1,4,6,85
+frd,Latn,frd_Latn,Fordata,F,Lu,LATIN CAPITAL LETTER F,91,2,"2017,2024",1,0,0,90
+frd,Latn,frd_Latn,Fordata,:,Po,COLON,82,4,"2017,2018,2019,2024",1,2,6,73
+frd,Latn,frd_Latn,Fordata,5,Nd,DIGIT FIVE,80,3,"2018,2019,2024",0,3,3,74
+frd,Latn,frd_Latn,Fordata,7,Nd,DIGIT SEVEN,74,4,"2017,2018,2019,2024",1,2,4,67
+frd,Latn,frd_Latn,Fordata,8,Nd,DIGIT EIGHT,71,4,"2017,2018,2019,2024",1,2,3,65
+frd,Latn,frd_Latn,Fordata,S,Lu,LATIN CAPITAL LETTER S,70,4,"2017,2018,2019,2024",4,6,6,54
+frd,Latn,frd_Latn,Fordata,6,Nd,DIGIT SIX,68,4,"2017,2018,2019,2024",2,2,2,62
+frd,Latn,frd_Latn,Fordata,0,Nd,DIGIT ZERO,68,4,"2017,2018,2019,2024",2,2,2,62
+frd,Latn,frd_Latn,Fordata,j,Ll,LATIN SMALL LETTER J,68,3,"2018,2019,2024",0,4,4,60
+frd,Latn,frd_Latn,Fordata,W,Lu,LATIN CAPITAL LETTER W,66,2,"2017,2024",1,0,0,65
+frd,Latn,frd_Latn,Fordata,!,Po,EXCLAMATION MARK,66,2,"2017,2024",1,0,0,65
+frd,Latn,frd_Latn,Fordata,9,Nd,DIGIT NINE,64,4,"2017,2018,2019,2024",1,2,2,59
+frd,Latn,frd_Latn,Fordata,O,Lu,LATIN CAPITAL LETTER O,61,3,"2018,2019,2024",0,2,2,57
+frd,Latn,frd_Latn,Fordata,V,Lu,LATIN CAPITAL LETTER V,54,3,"2018,2019,2024",0,1,1,52
+frd,Latn,frd_Latn,Fordata,',Po,APOSTROPHE,44,3,"2017,2018,2024",9,34,0,1
+frd,Latn,frd_Latn,Fordata,’,Pf,RIGHT SINGLE QUOTATION MARK,43,3,"2018,2019,2024",0,1,1,41
+frd,Latn,frd_Latn,Fordata,‘,Pi,LEFT SINGLE QUOTATION MARK,43,3,"2018,2019,2024",0,1,1,41
+frd,Latn,frd_Latn,Fordata,L,Lu,LATIN CAPITAL LETTER L,38,4,"2017,2018,2019,2024",1,1,3,33
+frd,Latn,frd_Latn,Fordata,P,Lu,LATIN CAPITAL LETTER P,36,3,"2018,2019,2024",0,2,2,32
+frd,Latn,frd_Latn,Fordata,z,Ll,LATIN SMALL LETTER Z,34,3,"2018,2019,2024",0,10,10,14
+frd,Latn,frd_Latn,Fordata,E,Lu,LATIN CAPITAL LETTER E,31,3,"2018,2019,2024",0,6,6,19
+frd,Latn,frd_Latn,Fordata,?,Po,QUESTION MARK,28,1,2024,0,0,0,28
+frd,Latn,frd_Latn,Fordata,H,Lu,LATIN CAPITAL LETTER H,24,3,"2018,2019,2024",0,4,4,16
+frd,Latn,frd_Latn,Fordata,(,Ps,LEFT PARENTHESIS,17,2,"2019,2024",0,0,1,16
+frd,Latn,frd_Latn,Fordata,),Pe,RIGHT PARENTHESIS,17,2,"2019,2024",0,0,1,16
+frd,Latn,frd_Latn,Fordata,c,Ll,LATIN SMALL LETTER C,16,1,2024,0,0,0,16
+frd,Latn,frd_Latn,Fordata,;,Po,SEMICOLON,16,1,2024,0,0,0,16
+frd,Latn,frd_Latn,Fordata,Z,Lu,LATIN CAPITAL LETTER Z,12,3,"2018,2019,2024",0,5,5,2
+frd,Latn,frd_Latn,Fordata,G,Lu,LATIN CAPITAL LETTER G,8,2,"2017,2024",1,0,0,7
+frd,Latn,frd_Latn,Fordata,—,Pd,EM DASH,5,1,2024,0,0,0,5
+frd,Latn,frd_Latn,Fordata,C,Lu,LATIN CAPITAL LETTER C,1,1,2018,0,1,0,0
+frd,Latn,frd_Latn,Fordata,#,Po,NUMBER SIGN,1,1,2019,0,0,1,0

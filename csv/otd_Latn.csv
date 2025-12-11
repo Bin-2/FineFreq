@@ -1,0 +1,71 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2023_frequency
+otd,Latn,otd_Latn,Ot Danum,a,Ll,LATIN SMALL LETTER A,10686,3,"2018,2019,2023",313,9077,1296
+otd,Latn,otd_Latn,Ot Danum,o,Ll,LATIN SMALL LETTER O,10243,3,"2018,2019,2023",172,9276,795
+otd,Latn,otd_Latn,Ot Danum, ,Zs,SPACE,10043,3,"2018,2019,2023",357,8049,1637
+otd,Latn,otd_Latn,Ot Danum,n,Ll,LATIN SMALL LETTER N,7151,3,"2018,2019,2023",172,6269,710
+otd,Latn,otd_Latn,Ot Danum,h,Ll,LATIN SMALL LETTER H,6526,3,"2018,2019,2023",160,5688,678
+otd,Latn,otd_Latn,Ot Danum,u,Ll,LATIN SMALL LETTER U,5182,3,"2018,2019,2023",123,4429,630
+otd,Latn,otd_Latn,Ot Danum,k,Ll,LATIN SMALL LETTER K,4754,3,"2018,2019,2023",88,3672,994
+otd,Latn,otd_Latn,Ot Danum,i,Ll,LATIN SMALL LETTER I,4732,3,"2018,2019,2023",184,4000,548
+otd,Latn,otd_Latn,Ot Danum,t,Ll,LATIN SMALL LETTER T,3033,3,"2018,2019,2023",100,2564,369
+otd,Latn,otd_Latn,Ot Danum,m,Ll,LATIN SMALL LETTER M,3003,3,"2018,2019,2023",41,2710,252
+otd,Latn,otd_Latn,Ot Danum,g,Ll,LATIN SMALL LETTER G,2876,3,"2018,2019,2023",42,2623,211
+otd,Latn,otd_Latn,Ot Danum,r,Ll,LATIN SMALL LETTER R,2550,3,"2018,2019,2023",80,2231,239
+otd,Latn,otd_Latn,Ot Danum,p,Ll,LATIN SMALL LETTER P,2291,3,"2018,2019,2023",25,2167,99
+otd,Latn,otd_Latn,Ot Danum,l,Ll,LATIN SMALL LETTER L,2194,3,"2018,2019,2023",57,1872,265
+otd,Latn,otd_Latn,Ot Danum,s,Ll,LATIN SMALL LETTER S,2065,3,"2018,2019,2023",69,1824,172
+otd,Latn,otd_Latn,Ot Danum,b,Ll,LATIN SMALL LETTER B,1926,3,"2018,2019,2023",46,1713,167
+otd,Latn,otd_Latn,Ot Danum,-,Pd,HYPHEN-MINUS,1440,3,"2018,2019,2023",15,1412,13
+otd,Latn,otd_Latn,Ot Danum,d,Ll,LATIN SMALL LETTER D,1231,3,"2018,2019,2023",25,1120,86
+otd,Latn,otd_Latn,Ot Danum,e,Ll,LATIN SMALL LETTER E,1127,3,"2018,2019,2023",59,898,170
+otd,Latn,otd_Latn,Ot Danum,',Po,APOSTROPHE,1014,2,"2018,2019",5,1009,0
+otd,Latn,otd_Latn,Ot Danum,j,Ll,LATIN SMALL LETTER J,848,3,"2018,2019,2023",15,711,122
+otd,Latn,otd_Latn,Ot Danum,y,Ll,LATIN SMALL LETTER Y,758,3,"2018,2019,2023",15,617,126
+otd,Latn,otd_Latn,Ot Danum,w,Ll,LATIN SMALL LETTER W,539,3,"2018,2019,2023",18,502,19
+otd,Latn,otd_Latn,Ot Danum,c,Ll,LATIN SMALL LETTER C,433,3,"2018,2019,2023",12,392,29
+otd,Latn,otd_Latn,Ot Danum,O,Lu,LATIN CAPITAL LETTER O,259,3,"2018,2019,2023",4,250,5
+otd,Latn,otd_Latn,Ot Danum,",",Po,COMMA,139,2,"2018,2023",56,0,83
+otd,Latn,otd_Latn,Ot Danum,K,Lu,LATIN CAPITAL LETTER K,130,3,"2018,2019,2023",4,93,33
+otd,Latn,otd_Latn,Ot Danum,.,Po,FULL STOP,129,2,"2018,2023",26,0,103
+otd,Latn,otd_Latn,Ot Danum,v,Ll,LATIN SMALL LETTER V,89,1,2023,0,0,89
+otd,Latn,otd_Latn,Ot Danum,M,Lu,LATIN CAPITAL LETTER M,73,3,"2018,2019,2023",14,33,26
+otd,Latn,otd_Latn,Ot Danum,I,Lu,LATIN CAPITAL LETTER I,65,3,"2018,2019,2023",13,1,51
+otd,Latn,otd_Latn,Ot Danum,A,Lu,LATIN CAPITAL LETTER A,60,3,"2018,2019,2023",15,1,44
+otd,Latn,otd_Latn,Ot Danum,H,Lu,LATIN CAPITAL LETTER H,51,2,"2018,2023",2,0,49
+otd,Latn,otd_Latn,Ot Danum,Y,Lu,LATIN CAPITAL LETTER Y,45,3,"2018,2019,2023",26,1,18
+otd,Latn,otd_Latn,Ot Danum,T,Lu,LATIN CAPITAL LETTER T,41,2,"2018,2023",13,0,28
+otd,Latn,otd_Latn,Ot Danum,2,Nd,DIGIT TWO,30,2,"2018,2023",9,0,21
+otd,Latn,otd_Latn,Ot Danum,1,Nd,DIGIT ONE,29,2,"2018,2023",9,0,20
+otd,Latn,otd_Latn,Ot Danum,ꞌ,Ll,LATIN SMALL LETTER SALTILLO,23,1,2023,0,0,23
+otd,Latn,otd_Latn,Ot Danum,6,Nd,DIGIT SIX,21,2,"2018,2023",3,0,18
+otd,Latn,otd_Latn,Ot Danum,E,Lu,LATIN CAPITAL LETTER E,21,2,"2018,2023",3,0,18
+otd,Latn,otd_Latn,Ot Danum,4,Nd,DIGIT FOUR,20,2,"2018,2023",1,0,19
+otd,Latn,otd_Latn,Ot Danum,P,Lu,LATIN CAPITAL LETTER P,20,3,"2018,2019,2023",6,3,11
+otd,Latn,otd_Latn,Ot Danum,J,Lu,LATIN CAPITAL LETTER J,20,2,"2018,2023",3,0,17
+otd,Latn,otd_Latn,Ot Danum,5,Nd,DIGIT FIVE,19,2,"2018,2023",1,0,18
+otd,Latn,otd_Latn,Ot Danum,7,Nd,DIGIT SEVEN,19,2,"2018,2023",1,0,18
+otd,Latn,otd_Latn,Ot Danum,3,Nd,DIGIT THREE,19,2,"2018,2023",1,0,18
+otd,Latn,otd_Latn,Ot Danum,:,Po,COLON,18,3,"2018,2019,2023",2,1,15
+otd,Latn,otd_Latn,Ot Danum,“,Pi,LEFT DOUBLE QUOTATION MARK,16,1,2023,0,0,16
+otd,Latn,otd_Latn,Ot Danum,”,Pf,RIGHT DOUBLE QUOTATION MARK,16,1,2023,0,0,16
+otd,Latn,otd_Latn,Ot Danum,D,Lu,LATIN CAPITAL LETTER D,15,3,"2018,2019,2023",7,1,7
+otd,Latn,otd_Latn,Ot Danum,U,Lu,LATIN CAPITAL LETTER U,15,3,"2018,2019,2023",3,1,11
+otd,Latn,otd_Latn,Ot Danum,S,Lu,LATIN CAPITAL LETTER S,14,3,"2018,2019,2023",6,1,7
+otd,Latn,otd_Latn,Ot Danum,N,Lu,LATIN CAPITAL LETTER N,14,2,"2018,2023",1,0,13
+otd,Latn,otd_Latn,Ot Danum,B,Lu,LATIN CAPITAL LETTER B,12,3,"2018,2019,2023",5,1,6
+otd,Latn,otd_Latn,Ot Danum,0,Nd,DIGIT ZERO,12,2,"2018,2023",1,0,11
+otd,Latn,otd_Latn,Ot Danum,L,Lu,LATIN CAPITAL LETTER L,12,2,"2018,2023",2,0,10
+otd,Latn,otd_Latn,Ot Danum,R,Lu,LATIN CAPITAL LETTER R,11,2,"2018,2023",6,0,5
+otd,Latn,otd_Latn,Ot Danum,8,Nd,DIGIT EIGHT,10,2,"2018,2023",1,0,9
+otd,Latn,otd_Latn,Ot Danum,9,Nd,DIGIT NINE,9,2,"2018,2023",1,0,8
+otd,Latn,otd_Latn,Ot Danum,!,Po,EXCLAMATION MARK,7,1,2023,0,0,7
+otd,Latn,otd_Latn,Ot Danum,),Pe,RIGHT PARENTHESIS,7,1,2018,7,0,0
+otd,Latn,otd_Latn,Ot Danum,(,Ps,LEFT PARENTHESIS,7,1,2018,7,0,0
+otd,Latn,otd_Latn,Ot Danum,G,Lu,LATIN CAPITAL LETTER G,6,1,2023,0,0,6
+otd,Latn,otd_Latn,Ot Danum,"""",Po,QUOTATION MARK,6,1,2018,6,0,0
+otd,Latn,otd_Latn,Ot Danum,?,Po,QUESTION MARK,4,1,2023,0,0,4
+otd,Latn,otd_Latn,Ot Danum,f,Ll,LATIN SMALL LETTER F,2,2,"2019,2023",0,1,1
+otd,Latn,otd_Latn,Ot Danum,z,Ll,LATIN SMALL LETTER Z,2,1,2023,0,0,2
+otd,Latn,otd_Latn,Ot Danum,C,Lu,LATIN CAPITAL LETTER C,1,1,2018,1,0,0
+otd,Latn,otd_Latn,Ot Danum,;,Po,SEMICOLON,1,1,2018,1,0,0
+otd,Latn,otd_Latn,Ot Danum,x,Ll,LATIN SMALL LETTER X,1,1,2023,0,0,1

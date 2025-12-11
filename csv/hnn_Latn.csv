@@ -1,0 +1,214 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2017_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency
+hnn,Latn,hnn_Latn,Hanunoo,a,Ll,LATIN SMALL LETTER A,72264,6,"2013,2017,2019,2020,2021,2022",404,622,620,4244,59261,7113
+hnn,Latn,hnn_Latn,Hanunoo, ,Zs,SPACE,55960,6,"2013,2017,2019,2020,2021,2022",306,573,598,3818,45156,5509
+hnn,Latn,hnn_Latn,Hanunoo,n,Ll,LATIN SMALL LETTER N,32619,6,"2013,2017,2019,2020,2021,2022",155,281,281,1677,27103,3122
+hnn,Latn,hnn_Latn,Hanunoo,i,Ll,LATIN SMALL LETTER I,20312,6,"2013,2017,2019,2020,2021,2022",125,287,285,1568,16099,1948
+hnn,Latn,hnn_Latn,Hanunoo,u,Ll,LATIN SMALL LETTER U,18827,6,"2013,2017,2019,2020,2021,2022",51,142,142,705,15797,1990
+hnn,Latn,hnn_Latn,Hanunoo,y,Ll,LATIN SMALL LETTER Y,16438,6,"2013,2017,2019,2020,2021,2022",35,123,122,650,13732,1776
+hnn,Latn,hnn_Latn,Hanunoo,s,Ll,LATIN SMALL LETTER S,13077,6,"2013,2017,2019,2020,2021,2022",79,173,173,1063,10394,1195
+hnn,Latn,hnn_Latn,Hanunoo,m,Ll,LATIN SMALL LETTER M,12179,6,"2013,2017,2019,2020,2021,2022",108,67,67,650,10096,1191
+hnn,Latn,hnn_Latn,Hanunoo,k,Ll,LATIN SMALL LETTER K,11548,6,"2013,2017,2019,2020,2021,2022",71,149,149,751,9401,1027
+hnn,Latn,hnn_Latn,Hanunoo,l,Ll,LATIN SMALL LETTER L,11434,6,"2013,2017,2019,2020,2021,2022",46,61,60,477,9559,1231
+hnn,Latn,hnn_Latn,Hanunoo,t,Ll,LATIN SMALL LETTER T,10847,6,"2013,2017,2019,2020,2021,2022",44,64,62,1000,8494,1183
+hnn,Latn,hnn_Latn,Hanunoo,g,Ll,LATIN SMALL LETTER G,10313,6,"2013,2017,2019,2020,2021,2022",124,101,100,1016,7973,999
+hnn,Latn,hnn_Latn,Hanunoo,p,Ll,LATIN SMALL LETTER P,9173,6,"2013,2017,2019,2020,2021,2022",56,53,52,509,7572,931
+hnn,Latn,hnn_Latn,Hanunoo,b,Ll,LATIN SMALL LETTER B,7798,6,"2013,2017,2019,2020,2021,2022",41,56,56,358,6404,883
+hnn,Latn,hnn_Latn,Hanunoo,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,5306,2,"2021,2022",0,0,0,0,4749,557
+hnn,Latn,hnn_Latn,Hanunoo,w,Ll,LATIN SMALL LETTER W,4716,6,"2013,2017,2019,2020,2021,2022",21,20,20,263,3981,411
+hnn,Latn,hnn_Latn,Hanunoo,d,Ll,LATIN SMALL LETTER D,4641,6,"2013,2017,2019,2020,2021,2022",26,56,55,430,3731,343
+hnn,Latn,hnn_Latn,Hanunoo,r,Ll,LATIN SMALL LETTER R,4596,6,"2013,2017,2019,2020,2021,2022",53,64,62,411,3565,441
+hnn,Latn,hnn_Latn,Hanunoo,.,Po,FULL STOP,3448,6,"2013,2017,2019,2020,2021,2022",14,39,39,190,2828,338
+hnn,Latn,hnn_Latn,Hanunoo,",",Po,COMMA,3139,6,"2013,2017,2019,2020,2021,2022",13,39,39,126,2569,353
+hnn,Latn,hnn_Latn,Hanunoo,o,Ll,LATIN SMALL LETTER O,2230,5,"2013,2017,2020,2021,2022",62,1,0,760,1342,65
+hnn,Latn,hnn_Latn,Hanunoo,e,Ll,LATIN SMALL LETTER E,1822,5,"2013,2017,2020,2021,2022",34,2,0,347,1291,148
+hnn,Latn,hnn_Latn,Hanunoo,N,Lu,LATIN CAPITAL LETTER N,1519,6,"2013,2017,2019,2020,2021,2022",1,5,5,48,1298,162
+hnn,Latn,hnn_Latn,Hanunoo,B,Lu,LATIN CAPITAL LETTER B,1443,6,"2013,2017,2019,2020,2021,2022",4,8,8,18,1213,192
+hnn,Latn,hnn_Latn,Hanunoo,P,Lu,LATIN CAPITAL LETTER P,1137,6,"2013,2017,2019,2020,2021,2022",4,7,7,64,988,67
+hnn,Latn,hnn_Latn,Hanunoo,-,Pd,HYPHEN-MINUS,1033,6,"2013,2017,2019,2020,2021,2022",8,11,11,80,805,118
+hnn,Latn,hnn_Latn,Hanunoo,1,Nd,DIGIT ONE,1033,5,"2017,2019,2020,2021,2022",0,13,14,2,876,128
+hnn,Latn,hnn_Latn,Hanunoo,S,Lu,LATIN CAPITAL LETTER S,755,6,"2013,2017,2019,2020,2021,2022",5,13,13,54,600,70
+hnn,Latn,hnn_Latn,Hanunoo,J,Lu,LATIN CAPITAL LETTER J,751,3,"2020,2021,2022",0,0,0,6,705,40
+hnn,Latn,hnn_Latn,Hanunoo,2,Nd,DIGIT TWO,687,6,"2013,2017,2019,2020,2021,2022",1,9,9,4,619,45
+hnn,Latn,hnn_Latn,Hanunoo,A,Lu,LATIN CAPITAL LETTER A,675,6,"2013,2017,2019,2020,2021,2022",5,23,23,17,525,82
+hnn,Latn,hnn_Latn,Hanunoo,K,Lu,LATIN CAPITAL LETTER K,614,6,"2013,2017,2019,2020,2021,2022",8,24,24,42,474,42
+hnn,Latn,hnn_Latn,Hanunoo,M,Lu,LATIN CAPITAL LETTER M,555,6,"2013,2017,2019,2020,2021,2022",9,16,15,39,440,36
+hnn,Latn,hnn_Latn,Hanunoo,C,Lu,LATIN CAPITAL LETTER C,460,4,"2017,2020,2021,2022",0,1,0,23,427,9
+hnn,Latn,hnn_Latn,Hanunoo,T,Lu,LATIN CAPITAL LETTER T,414,6,"2013,2017,2019,2020,2021,2022",4,2,2,31,306,69
+hnn,Latn,hnn_Latn,Hanunoo,h,Ll,LATIN SMALL LETTER H,401,6,"2013,2017,2019,2020,2021,2022",30,28,27,309,6,1
+hnn,Latn,hnn_Latn,Hanunoo,3,Nd,DIGIT THREE,381,5,"2017,2019,2020,2021,2022",0,3,3,1,352,22
+hnn,Latn,hnn_Latn,Hanunoo,I,Lu,LATIN CAPITAL LETTER I,345,6,"2013,2017,2019,2020,2021,2022",2,19,19,12,258,35
+hnn,Latn,hnn_Latn,Hanunoo,Y,Lu,LATIN CAPITAL LETTER Y,341,2,"2021,2022",0,0,0,0,262,79
+hnn,Latn,hnn_Latn,Hanunoo,“,Pi,LEFT DOUBLE QUOTATION MARK,323,4,"2013,2020,2021,2022",2,0,0,2,262,57
+hnn,Latn,hnn_Latn,Hanunoo,”,Pf,RIGHT DOUBLE QUOTATION MARK,320,3,"2020,2021,2022",0,0,0,1,262,57
+hnn,Latn,hnn_Latn,Hanunoo,D,Lu,LATIN CAPITAL LETTER D,301,5,"2017,2019,2020,2021,2022",0,11,11,162,106,11
+hnn,Latn,hnn_Latn,Hanunoo,4,Nd,DIGIT FOUR,265,5,"2017,2019,2020,2021,2022",0,3,3,1,221,37
+hnn,Latn,hnn_Latn,Hanunoo,|,Sm,VERTICAL LINE,240,1,2020,0,0,0,240,0,0
+hnn,Latn,hnn_Latn,Hanunoo,5,Nd,DIGIT FIVE,230,5,"2017,2019,2020,2021,2022",0,3,3,1,198,25
+hnn,Latn,hnn_Latn,Hanunoo,G,Lu,LATIN CAPITAL LETTER G,222,5,"2017,2019,2020,2021,2022",0,2,2,38,166,14
+hnn,Latn,hnn_Latn,Hanunoo,6,Nd,DIGIT SIX,213,5,"2017,2019,2020,2021,2022",0,2,2,3,178,28
+hnn,Latn,hnn_Latn,Hanunoo,7,Nd,DIGIT SEVEN,200,6,"2013,2017,2019,2020,2021,2022",1,2,2,2,167,26
+hnn,Latn,hnn_Latn,Hanunoo,8,Nd,DIGIT EIGHT,198,5,"2017,2019,2020,2021,2022",0,2,2,1,174,19
+hnn,Latn,hnn_Latn,Hanunoo,9,Nd,DIGIT NINE,188,4,"2017,2019,2021,2022",0,2,2,0,169,15
+hnn,Latn,hnn_Latn,Hanunoo,c,Ll,LATIN SMALL LETTER C,184,4,"2013,2020,2021,2022",5,0,0,46,128,5
+hnn,Latn,hnn_Latn,Hanunoo,0,Nd,DIGIT ZERO,181,6,"2013,2017,2019,2020,2021,2022",2,2,2,5,154,16
+hnn,Latn,hnn_Latn,Hanunoo,:,Po,COLON,145,3,"2020,2021,2022",0,0,0,68,56,21
+hnn,Latn,hnn_Latn,Hanunoo,H,Lu,LATIN CAPITAL LETTER H,145,5,"2017,2019,2020,2021,2022",0,30,30,61,23,1
+hnn,Latn,hnn_Latn,Hanunoo,!,Po,EXCLAMATION MARK,123,3,"2020,2021,2022",0,0,0,7,91,25
+hnn,Latn,hnn_Latn,Hanunoo,?,Po,QUESTION MARK,115,3,"2020,2021,2022",0,0,0,5,104,6
+hnn,Latn,hnn_Latn,Hanunoo,f,Ll,LATIN SMALL LETTER F,112,4,"2013,2020,2021,2022",6,0,0,50,52,4
+hnn,Latn,hnn_Latn,Hanunoo,L,Lu,LATIN CAPITAL LETTER L,105,3,"2020,2021,2022",0,0,0,7,89,9
+hnn,Latn,hnn_Latn,Hanunoo,E,Lu,LATIN CAPITAL LETTER E,104,4,"2013,2020,2021,2022",1,0,0,14,82,7
+hnn,Latn,hnn_Latn,Hanunoo,;,Po,SEMICOLON,71,2,"2020,2021",0,0,0,69,2,0
+hnn,Latn,hnn_Latn,Hanunoo,U,Lu,LATIN CAPITAL LETTER U,70,5,"2017,2019,2020,2021,2022",0,6,6,11,40,7
+hnn,Latn,hnn_Latn,Hanunoo,v,Ll,LATIN SMALL LETTER V,50,4,"2013,2020,2021,2022",3,0,0,40,4,3
+hnn,Latn,hnn_Latn,Hanunoo,R,Lu,LATIN CAPITAL LETTER R,45,6,"2013,2017,2019,2020,2021,2022",1,4,4,2,32,2
+hnn,Latn,hnn_Latn,Hanunoo,q,Ll,LATIN SMALL LETTER Q,40,1,2021,0,0,0,0,40,0
+hnn,Latn,hnn_Latn,Hanunoo,F,Lu,LATIN CAPITAL LETTER F,39,3,"2013,2020,2021",1,0,0,4,34,0
+hnn,Latn,hnn_Latn,Hanunoo,ा,Mc,DEVANAGARI VOWEL SIGN AA,35,1,2020,0,0,0,35,0,0
+hnn,Latn,hnn_Latn,Hanunoo,O,Lu,LATIN CAPITAL LETTER O,32,3,"2020,2021,2022",0,0,0,4,26,2
+hnn,Latn,hnn_Latn,Hanunoo,*,Po,ASTERISK,29,2,"2021,2022",0,0,0,0,18,11
+hnn,Latn,hnn_Latn,Hanunoo,्,Mn,DEVANAGARI SIGN VIRAMA,28,1,2020,0,0,0,28,0,0
+hnn,Latn,hnn_Latn,Hanunoo,다,Lo,HANGUL SYLLABLE DA,28,1,2020,0,0,0,28,0,0
+hnn,Latn,hnn_Latn,Hanunoo,र,Lo,DEVANAGARI LETTER RA,25,1,2020,0,0,0,25,0,0
+hnn,Latn,hnn_Latn,Hanunoo,क,Lo,DEVANAGARI LETTER KA,25,1,2020,0,0,0,25,0,0
+hnn,Latn,hnn_Latn,Hanunoo,어,Lo,HANGUL SYLLABLE EO,24,1,2020,0,0,0,24,0,0
+hnn,Latn,hnn_Latn,Hanunoo,’,Pf,RIGHT SINGLE QUOTATION MARK,23,3,"2013,2021,2022",3,0,0,0,19,1
+hnn,Latn,hnn_Latn,Hanunoo,ि,Mc,DEVANAGARI VOWEL SIGN I,21,1,2020,0,0,0,21,0,0
+hnn,Latn,hnn_Latn,Hanunoo,‘,Pi,LEFT SINGLE QUOTATION MARK,20,2,"2021,2022",0,0,0,0,19,1
+hnn,Latn,hnn_Latn,Hanunoo,†,Po,DAGGER,18,2,"2021,2022",0,0,0,0,12,6
+hnn,Latn,hnn_Latn,Hanunoo,न,Lo,DEVANAGARI LETTER NA,17,1,2020,0,0,0,17,0,0
+hnn,Latn,hnn_Latn,Hanunoo,_,Pc,LOW LINE,17,2,"2013,2020",16,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,े,Mn,DEVANAGARI VOWEL SIGN E,17,1,2020,0,0,0,17,0,0
+hnn,Latn,hnn_Latn,Hanunoo,지,Lo,HANGUL SYLLABLE JI,16,1,2020,0,0,0,16,0,0
+hnn,Latn,hnn_Latn,Hanunoo,용,Lo,HANGUL SYLLABLE YONG,16,1,2020,0,0,0,16,0,0
+hnn,Latn,hnn_Latn,Hanunoo,는,Lo,HANGUL SYLLABLE NEUN,16,1,2020,0,0,0,16,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ं,Mn,DEVANAGARI SIGN ANUSVARA,15,1,2020,0,0,0,15,0,0
+hnn,Latn,hnn_Latn,Hanunoo,‡,Po,DOUBLE DAGGER,15,2,"2021,2022",0,0,0,0,9,6
+hnn,Latn,hnn_Latn,Hanunoo,j,Ll,LATIN SMALL LETTER J,15,3,"2020,2021,2022",0,0,0,7,7,1
+hnn,Latn,hnn_Latn,Hanunoo,',Po,APOSTROPHE,14,3,"2020,2021,2022",0,0,0,7,6,1
+hnn,Latn,hnn_Latn,Hanunoo,त,Lo,DEVANAGARI LETTER TA,14,1,2020,0,0,0,14,0,0
+hnn,Latn,hnn_Latn,Hanunoo,य,Lo,DEVANAGARI LETTER YA,13,1,2020,0,0,0,13,0,0
+hnn,Latn,hnn_Latn,Hanunoo,되,Lo,HANGUL SYLLABLE DOE,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,화,Lo,HANGUL SYLLABLE HWA,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,x,Ll,LATIN SMALL LETTER X,12,2,"2020,2021",0,0,0,9,3,0
+hnn,Latn,hnn_Latn,Hanunoo,니,Lo,HANGUL SYLLABLE NI,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,언,Lo,HANGUL SYLLABLE EON,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,스,Lo,HANGUL SYLLABLE SEU,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,른,Lo,HANGUL SYLLABLE REUN,12,1,2020,0,0,0,12,0,0
+hnn,Latn,hnn_Latn,Hanunoo,W,Lu,LATIN CAPITAL LETTER W,10,2,"2020,2022",0,0,0,7,0,3
+hnn,Latn,hnn_Latn,Hanunoo,"""",Po,QUOTATION MARK,10,3,"2017,2019,2020",0,4,4,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,प,Lo,DEVANAGARI LETTER PA,10,1,2020,0,0,0,10,0,0
+hnn,Latn,hnn_Latn,Hanunoo,§,Po,SECTION SIGN,9,2,"2021,2022",0,0,0,0,6,3
+hnn,Latn,hnn_Latn,Hanunoo,श,Lo,DEVANAGARI LETTER SHA,9,1,2020,0,0,0,9,0,0
+hnn,Latn,hnn_Latn,Hanunoo,द,Lo,DEVANAGARI LETTER DA,9,1,2020,0,0,0,9,0,0
+hnn,Latn,hnn_Latn,Hanunoo,स,Lo,DEVANAGARI LETTER SA,9,1,2020,0,0,0,9,0,0
+hnn,Latn,hnn_Latn,Hanunoo,개,Lo,HANGUL SYLLABLE GAE,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,것,Lo,HANGUL SYLLABLE GEOS,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,은,Lo,HANGUL SYLLABLE EUN,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,사,Lo,HANGUL SYLLABLE SA,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,에,Lo,HANGUL SYLLABLE E,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,문,Lo,HANGUL SYLLABLE MUN,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ो,Mc,DEVANAGARI VOWEL SIGN O,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,번,Lo,HANGUL SYLLABLE BEON,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,트,Lo,HANGUL SYLLABLE TEU,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,립,Lo,HANGUL SYLLABLE RIB,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,크,Lo,HANGUL SYLLABLE KEU,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,그,Lo,HANGUL SYLLABLE GEU,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,위,Lo,HANGUL SYLLABLE WI,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,와,Lo,HANGUL SYLLABLE WA,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ल,Lo,DEVANAGARI LETTER LA,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,로,Lo,HANGUL SYLLABLE RO,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,이,Lo,HANGUL SYLLABLE I,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ु,Mn,DEVANAGARI VOWEL SIGN U,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,역,Lo,HANGUL SYLLABLE YEOG,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,야,Lo,HANGUL SYLLABLE YA,8,1,2020,0,0,0,8,0,0
+hnn,Latn,hnn_Latn,Hanunoo,],Pe,RIGHT SQUARE BRACKET,7,2,"2021,2022",0,0,0,0,6,1
+hnn,Latn,hnn_Latn,Hanunoo,Z,Lu,LATIN CAPITAL LETTER Z,7,2,"2021,2022",0,0,0,0,3,4
+hnn,Latn,hnn_Latn,Hanunoo,(,Ps,LEFT PARENTHESIS,7,4,"2017,2019,2020,2021",0,1,1,4,1,0
+hnn,Latn,hnn_Latn,Hanunoo,ब,Lo,DEVANAGARI LETTER BA,7,1,2020,0,0,0,7,0,0
+hnn,Latn,hnn_Latn,Hanunoo,z,Ll,LATIN SMALL LETTER Z,7,3,"2013,2021,2022",1,0,0,0,4,2
+hnn,Latn,hnn_Latn,Hanunoo,[,Ps,LEFT SQUARE BRACKET,7,2,"2021,2022",0,0,0,0,6,1
+hnn,Latn,hnn_Latn,Hanunoo,ष,Lo,DEVANAGARI LETTER SSA,7,1,2020,0,0,0,7,0,0
+hnn,Latn,hnn_Latn,Hanunoo,),Pe,RIGHT PARENTHESIS,7,4,"2017,2019,2020,2021",0,1,1,4,1,0
+hnn,Latn,hnn_Latn,Hanunoo,व,Lo,DEVANAGARI LETTER VA,6,1,2020,0,0,0,6,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ह,Lo,DEVANAGARI LETTER HA,6,1,2020,0,0,0,6,0,0
+hnn,Latn,hnn_Latn,Hanunoo,भ,Lo,DEVANAGARI LETTER BHA,5,1,2020,0,0,0,5,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ग,Lo,DEVANAGARI LETTER GA,5,1,2020,0,0,0,5,0,0
+hnn,Latn,hnn_Latn,Hanunoo,थ,Lo,DEVANAGARI LETTER THA,5,1,2020,0,0,0,5,0,0
+hnn,Latn,hnn_Latn,Hanunoo,을,Lo,HANGUL SYLLABLE EUL,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,본,Lo,HANGUL SYLLABLE BON,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,침,Lo,HANGUL SYLLABLE CIM,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,입,Lo,HANGUL SYLLABLE IB,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,기,Lo,HANGUL SYLLABLE GI,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,거,Lo,HANGUL SYLLABLE GEO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,생,Lo,HANGUL SYLLABLE SAENG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,각,Lo,HANGUL SYLLABLE GAG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,영,Lo,HANGUL SYLLABLE YEONG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,맞,Lo,HANGUL SYLLABLE MAJ,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,게,Lo,HANGUL SYLLABLE GE,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,조,Lo,HANGUL SYLLABLE JO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,정,Lo,HANGUL SYLLABLE JEONG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,합,Lo,HANGUL SYLLABLE HAB,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,몇,Lo,HANGUL SYLLABLE MYEOC,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,가,Lo,HANGUL SYLLABLE GA,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,념,Lo,HANGUL SYLLABLE NYEOM,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,나,Lo,HANGUL SYLLABLE NA,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,서,Lo,HANGUL SYLLABLE SEO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,듬,Lo,HANGUL SYLLABLE DEUM,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,한,Lo,HANGUL SYLLABLE HAN,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,략,Lo,HANGUL SYLLABLE RYAG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,음,Lo,HANGUL SYLLABLE EUM,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,청,Lo,HANGUL SYLLABLE CEONG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ी,Mc,DEVANAGARI VOWEL SIGN II,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,해,Lo,HANGUL SYLLABLE HAE,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ए,Lo,DEVANAGARI LETTER E,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,습,Lo,HANGUL SYLLABLE SEUB,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,있,Lo,HANGUL SYLLABLE ISS,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,도,Lo,HANGUL SYLLABLE DO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,수,Lo,HANGUL SYLLABLE SU,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,요,Lo,HANGUL SYLLABLE YO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,호,Lo,HANGUL SYLLABLE HO,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,주,Lo,HANGUL SYLLABLE JU,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,제,Lo,HANGUL SYLLABLE JE,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,녹,Lo,HANGUL SYLLABLE NOG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,할,Lo,HANGUL SYLLABLE HAL,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,중,Lo,HANGUL SYLLABLE JUNG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,목,Lo,HANGUL SYLLABLE MOG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,및,Lo,HANGUL SYLLABLE MIC,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,인,Lo,HANGUL SYLLABLE IN,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,경,Lo,HANGUL SYLLABLE GYEONG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,성,Lo,HANGUL SYLLABLE SEONG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,타,Lo,HANGUL SYLLABLE TA,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,적,Lo,HANGUL SYLLABLE JEOG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,분,Lo,HANGUL SYLLABLE BUN,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,세,Lo,HANGUL SYLLABLE SE,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,르,Lo,HANGUL SYLLABLE REU,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,장,Lo,HANGUL SYLLABLE JANG,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,일,Lo,HANGUL SYLLABLE IL,4,1,2020,0,0,0,4,0,0
+hnn,Latn,hnn_Latn,Hanunoo,।,Po,DEVANAGARI DANDA,3,1,2020,0,0,0,3,0,0
+hnn,Latn,hnn_Latn,Hanunoo,अ,Lo,DEVANAGARI LETTER A,3,1,2020,0,0,0,3,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ण,Lo,DEVANAGARI LETTER NNA,3,1,2020,0,0,0,3,0,0
+hnn,Latn,hnn_Latn,Hanunoo,&,Po,AMPERSAND,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,Q,Lu,LATIN CAPITAL LETTER Q,2,1,2021,0,0,0,0,2,0
+hnn,Latn,hnn_Latn,Hanunoo,/,Po,SOLIDUS,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,छ,Lo,DEVANAGARI LETTER CHA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ख,Lo,DEVANAGARI LETTER KHA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,इ,Lo,DEVANAGARI LETTER I,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,म,Lo,DEVANAGARI LETTER MA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ू,Mn,DEVANAGARI VOWEL SIGN UU,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,च,Lo,DEVANAGARI LETTER CA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,आ,Lo,DEVANAGARI LETTER AA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ट,Lo,DEVANAGARI LETTER TTA,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,उ,Lo,DEVANAGARI LETTER U,2,1,2020,0,0,0,2,0,0
+hnn,Latn,hnn_Latn,Hanunoo,औ,Lo,DEVANAGARI LETTER AU,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,V,Lu,LATIN CAPITAL LETTER V,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ः,Mc,DEVANAGARI SIGN VISARGA,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ै,Mn,DEVANAGARI VOWEL SIGN AI,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ड,Lo,DEVANAGARI LETTER DDA,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ौ,Mc,DEVANAGARI VOWEL SIGN AU,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ओ,Lo,DEVANAGARI LETTER O,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ध,Lo,DEVANAGARI LETTER DHA,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ढ,Lo,DEVANAGARI LETTER DDHA,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,#,Po,NUMBER SIGN,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,फ,Lo,DEVANAGARI LETTER PHA,1,1,2020,0,0,0,1,0,0
+hnn,Latn,hnn_Latn,Hanunoo,ृ,Mn,DEVANAGARI VOWEL SIGN VOCALIC R,1,1,2020,0,0,0,1,0,0

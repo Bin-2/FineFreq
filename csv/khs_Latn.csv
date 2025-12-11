@@ -1,0 +1,60 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency
+khs,Latn,khs_Latn,Kasua,e,Ll,LATIN SMALL LETTER E,345782,1,2018,345782
+khs,Latn,khs_Latn,Kasua,a,Ll,LATIN SMALL LETTER A,343587,1,2018,343587
+khs,Latn,khs_Latn,Kasua, ,Zs,SPACE,314716,1,2018,314716
+khs,Latn,khs_Latn,Kasua,i,Ll,LATIN SMALL LETTER I,150107,1,2018,150107
+khs,Latn,khs_Latn,Kasua,l,Ll,LATIN SMALL LETTER L,119142,1,2018,119142
+khs,Latn,khs_Latn,Kasua,o,Ll,LATIN SMALL LETTER O,118792,1,2018,118792
+khs,Latn,khs_Latn,Kasua,s,Ll,LATIN SMALL LETTER S,117493,1,2018,117493
+khs,Latn,khs_Latn,Kasua,n,Ll,LATIN SMALL LETTER N,106852,1,2018,106852
+khs,Latn,khs_Latn,Kasua,k,Ll,LATIN SMALL LETTER K,91805,1,2018,91805
+khs,Latn,khs_Latn,Kasua,t,Ll,LATIN SMALL LETTER T,90369,1,2018,90369
+khs,Latn,khs_Latn,Kasua,w,Ll,LATIN SMALL LETTER W,89902,1,2018,89902
+khs,Latn,khs_Latn,Kasua,y,Ll,LATIN SMALL LETTER Y,83470,1,2018,83470
+khs,Latn,khs_Latn,Kasua,p,Ll,LATIN SMALL LETTER P,83035,1,2018,83035
+khs,Latn,khs_Latn,Kasua,m,Ll,LATIN SMALL LETTER M,79249,1,2018,79249
+khs,Latn,khs_Latn,Kasua,:,Po,COLON,77852,1,2018,77852
+khs,Latn,khs_Latn,Kasua,u,Ll,LATIN SMALL LETTER U,54097,1,2018,54097
+khs,Latn,khs_Latn,Kasua,.,Po,FULL STOP,26685,1,2018,26685
+khs,Latn,khs_Latn,Kasua,",",Po,COMMA,21493,1,2018,21493
+khs,Latn,khs_Latn,Kasua,h,Ll,LATIN SMALL LETTER H,18231,1,2018,18231
+khs,Latn,khs_Latn,Kasua,K,Lu,LATIN CAPITAL LETTER K,15623,1,2018,15623
+khs,Latn,khs_Latn,Kasua,A,Lu,LATIN CAPITAL LETTER A,13248,1,2018,13248
+khs,Latn,khs_Latn,Kasua,Y,Lu,LATIN CAPITAL LETTER Y,7516,1,2018,7516
+khs,Latn,khs_Latn,Kasua,S,Lu,LATIN CAPITAL LETTER S,6602,1,2018,6602
+khs,Latn,khs_Latn,Kasua,E,Lu,LATIN CAPITAL LETTER E,6448,1,2018,6448
+khs,Latn,khs_Latn,Kasua,N,Lu,LATIN CAPITAL LETTER N,6295,1,2018,6295
+khs,Latn,khs_Latn,Kasua,1,Nd,DIGIT ONE,5814,1,2018,5814
+khs,Latn,khs_Latn,Kasua,2,Nd,DIGIT TWO,4066,1,2018,4066
+khs,Latn,khs_Latn,Kasua,f,Ll,LATIN SMALL LETTER F,3769,1,2018,3769
+khs,Latn,khs_Latn,Kasua,P,Lu,LATIN CAPITAL LETTER P,3749,1,2018,3749
+khs,Latn,khs_Latn,Kasua,“,Pi,LEFT DOUBLE QUOTATION MARK,3591,1,2018,3591
+khs,Latn,khs_Latn,Kasua,”,Pf,RIGHT DOUBLE QUOTATION MARK,3569,1,2018,3569
+khs,Latn,khs_Latn,Kasua,3,Nd,DIGIT THREE,2546,1,2018,2546
+khs,Latn,khs_Latn,Kasua,H,Lu,LATIN CAPITAL LETTER H,2481,1,2018,2481
+khs,Latn,khs_Latn,Kasua,M,Lu,LATIN CAPITAL LETTER M,2360,1,2018,2360
+khs,Latn,khs_Latn,Kasua,T,Lu,LATIN CAPITAL LETTER T,2051,1,2018,2051
+khs,Latn,khs_Latn,Kasua,I,Lu,LATIN CAPITAL LETTER I,2048,1,2018,2048
+khs,Latn,khs_Latn,Kasua,4,Nd,DIGIT FOUR,1905,1,2018,1905
+khs,Latn,khs_Latn,Kasua,-,Pd,HYPHEN-MINUS,1723,1,2018,1723
+khs,Latn,khs_Latn,Kasua,5,Nd,DIGIT FIVE,1501,1,2018,1501
+khs,Latn,khs_Latn,Kasua,W,Lu,LATIN CAPITAL LETTER W,1453,1,2018,1453
+khs,Latn,khs_Latn,Kasua,6,Nd,DIGIT SIX,1270,1,2018,1270
+khs,Latn,khs_Latn,Kasua,?,Po,QUESTION MARK,1246,1,2018,1246
+khs,Latn,khs_Latn,Kasua,0,Nd,DIGIT ZERO,1213,1,2018,1213
+khs,Latn,khs_Latn,Kasua,7,Nd,DIGIT SEVEN,1150,1,2018,1150
+khs,Latn,khs_Latn,Kasua,8,Nd,DIGIT EIGHT,1064,1,2018,1064
+khs,Latn,khs_Latn,Kasua,9,Nd,DIGIT NINE,1027,1,2018,1027
+khs,Latn,khs_Latn,Kasua,’,Pf,RIGHT SINGLE QUOTATION MARK,722,1,2018,722
+khs,Latn,khs_Latn,Kasua,‘,Pi,LEFT SINGLE QUOTATION MARK,722,1,2018,722
+khs,Latn,khs_Latn,Kasua,F,Lu,LATIN CAPITAL LETTER F,673,1,2018,673
+khs,Latn,khs_Latn,Kasua,L,Lu,LATIN CAPITAL LETTER L,647,1,2018,647
+khs,Latn,khs_Latn,Kasua,O,Lu,LATIN CAPITAL LETTER O,245,1,2018,245
+khs,Latn,khs_Latn,Kasua,+,Sm,PLUS SIGN,155,1,2018,155
+khs,Latn,khs_Latn,Kasua,(,Ps,LEFT PARENTHESIS,147,1,2018,147
+khs,Latn,khs_Latn,Kasua,),Pe,RIGHT PARENTHESIS,147,1,2018,147
+khs,Latn,khs_Latn,Kasua,!,Po,EXCLAMATION MARK,100,1,2018,100
+khs,Latn,khs_Latn,Kasua,U,Lu,LATIN CAPITAL LETTER U,25,1,2018,25
+khs,Latn,khs_Latn,Kasua,[,Ps,LEFT SQUARE BRACKET,16,1,2018,16
+khs,Latn,khs_Latn,Kasua,],Pe,RIGHT SQUARE BRACKET,16,1,2018,16
+khs,Latn,khs_Latn,Kasua,;,Po,SEMICOLON,9,1,2018,9

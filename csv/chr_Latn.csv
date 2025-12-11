@@ -1,0 +1,157 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency
+chr,Latn,chr_Latn,Cherokee, ,Zs,SPACE,9716,1,2017,9716
+chr,Latn,chr_Latn,Cherokee,i,Ll,LATIN SMALL LETTER I,5189,1,2017,5189
+chr,Latn,chr_Latn,Cherokee,a,Ll,LATIN SMALL LETTER A,4013,1,2017,4013
+chr,Latn,chr_Latn,Cherokee,e,Ll,LATIN SMALL LETTER E,3587,1,2017,3587
+chr,Latn,chr_Latn,Cherokee,s,Ll,LATIN SMALL LETTER S,3446,1,2017,3446
+chr,Latn,chr_Latn,Cherokee,n,Ll,LATIN SMALL LETTER N,3110,1,2017,3110
+chr,Latn,chr_Latn,Cherokee,d,Ll,LATIN SMALL LETTER D,2073,1,2017,2073
+chr,Latn,chr_Latn,Cherokee,u,Ll,LATIN SMALL LETTER U,1964,1,2017,1964
+chr,Latn,chr_Latn,Cherokee,o,Ll,LATIN SMALL LETTER O,1962,1,2017,1962
+chr,Latn,chr_Latn,Cherokee,v,Ll,LATIN SMALL LETTER V,1865,1,2017,1865
+chr,Latn,chr_Latn,Cherokee,g,Ll,LATIN SMALL LETTER G,1853,1,2017,1853
+chr,Latn,chr_Latn,Cherokee,l,Ll,LATIN SMALL LETTER L,1809,1,2017,1809
+chr,Latn,chr_Latn,Cherokee,t,Ll,LATIN SMALL LETTER T,1695,1,2017,1695
+chr,Latn,chr_Latn,Cherokee,h,Ll,LATIN SMALL LETTER H,1301,1,2017,1301
+chr,Latn,chr_Latn,Cherokee,",",Po,COMMA,1054,1,2017,1054
+chr,Latn,chr_Latn,Cherokee,y,Ll,LATIN SMALL LETTER Y,1026,1,2017,1026
+chr,Latn,chr_Latn,Cherokee,Ꭰ,Lu,CHEROKEE LETTER A,826,1,2017,826
+chr,Latn,chr_Latn,Cherokee,Ꮝ,Lu,CHEROKEE LETTER S,822,1,2017,822
+chr,Latn,chr_Latn,Cherokee,w,Ll,LATIN SMALL LETTER W,653,1,2017,653
+chr,Latn,chr_Latn,Cherokee,Ꭲ,Lu,CHEROKEE LETTER I,642,1,2017,642
+chr,Latn,chr_Latn,Cherokee,Ꮒ,Lu,CHEROKEE LETTER NI,532,1,2017,532
+chr,Latn,chr_Latn,Cherokee,Ꮧ,Lu,CHEROKEE LETTER DI,530,1,2017,530
+chr,Latn,chr_Latn,Cherokee,Ꭴ,Lu,CHEROKEE LETTER U,530,1,2017,530
+chr,Latn,chr_Latn,Cherokee,Ꮎ,Lu,CHEROKEE LETTER NA,527,1,2017,527
+chr,Latn,chr_Latn,Cherokee,Ꭿ,Lu,CHEROKEE LETTER HI,511,1,2017,511
+chr,Latn,chr_Latn,Cherokee,Ꮄ,Lu,CHEROKEE LETTER LE,509,1,2017,509
+chr,Latn,chr_Latn,Cherokee,Ꭹ,Lu,CHEROKEE LETTER GI,500,1,2017,500
+chr,Latn,chr_Latn,Cherokee,q,Ll,LATIN SMALL LETTER Q,481,1,2017,481
+chr,Latn,chr_Latn,Cherokee,Ꭶ,Lu,CHEROKEE LETTER GA,464,1,2017,464
+chr,Latn,chr_Latn,Cherokee,Ꮅ,Lu,CHEROKEE LETTER LI,418,1,2017,418
+chr,Latn,chr_Latn,Cherokee,Ꮣ,Lu,CHEROKEE LETTER DA,411,1,2017,411
+chr,Latn,chr_Latn,Cherokee,.,Po,FULL STOP,389,1,2017,389
+chr,Latn,chr_Latn,Cherokee,r,Ll,LATIN SMALL LETTER R,378,1,2017,378
+chr,Latn,chr_Latn,Cherokee,Ꮑ,Lu,CHEROKEE LETTER NE,373,1,2017,373
+chr,Latn,chr_Latn,Cherokee,Ꮓ,Lu,CHEROKEE LETTER NO,356,1,2017,356
+chr,Latn,chr_Latn,Cherokee,Ꮫ,Lu,CHEROKEE LETTER DV,337,1,2017,337
+chr,Latn,chr_Latn,Cherokee,;,Po,SEMICOLON,300,1,2017,300
+chr,Latn,chr_Latn,Cherokee,m,Ll,LATIN SMALL LETTER M,289,1,2017,289
+chr,Latn,chr_Latn,Cherokee,1,Nd,DIGIT ONE,286,1,2017,286
+chr,Latn,chr_Latn,Cherokee,Ꮕ,Lu,CHEROKEE LETTER NV,286,1,2017,286
+chr,Latn,chr_Latn,Cherokee,G,Lu,LATIN CAPITAL LETTER G,271,1,2017,271
+chr,Latn,chr_Latn,Cherokee,Ꮵ,Lu,CHEROKEE LETTER TSI,255,1,2017,255
+chr,Latn,chr_Latn,Cherokee,>,Sm,GREATER-THAN SIGN,255,1,2017,255
+chr,Latn,chr_Latn,Cherokee,Ꮞ,Lu,CHEROKEE LETTER SE,252,1,2017,252
+chr,Latn,chr_Latn,Cherokee,Ꭼ,Lu,CHEROKEE LETTER GV,243,1,2017,243
+chr,Latn,chr_Latn,Cherokee,2,Nd,DIGIT TWO,235,1,2017,235
+chr,Latn,chr_Latn,Cherokee,Ꭸ,Lu,CHEROKEE LETTER GE,227,1,2017,227
+chr,Latn,chr_Latn,Cherokee,Ᏹ,Lu,CHEROKEE LETTER YI,208,1,2017,208
+chr,Latn,chr_Latn,Cherokee,Ꮈ,Lu,CHEROKEE LETTER LV,202,1,2017,202
+chr,Latn,chr_Latn,Cherokee,Ᏼ,Lu,CHEROKEE LETTER YV,200,1,2017,200
+chr,Latn,chr_Latn,Cherokee,Ꮩ,Lu,CHEROKEE LETTER DO,189,1,2017,189
+chr,Latn,chr_Latn,Cherokee,Ꮪ,Lu,CHEROKEE LETTER DU,188,1,2017,188
+chr,Latn,chr_Latn,Cherokee,c,Ll,LATIN SMALL LETTER C,177,1,2017,177
+chr,Latn,chr_Latn,Cherokee,f,Ll,LATIN SMALL LETTER F,173,1,2017,173
+chr,Latn,chr_Latn,Cherokee,3,Nd,DIGIT THREE,172,1,2017,172
+chr,Latn,chr_Latn,Cherokee,Ꮥ,Lu,CHEROKEE LETTER DE,171,1,2017,171
+chr,Latn,chr_Latn,Cherokee,Ꮹ,Lu,CHEROKEE LETTER WA,171,1,2017,171
+chr,Latn,chr_Latn,Cherokee,p,Ll,LATIN SMALL LETTER P,167,1,2017,167
+chr,Latn,chr_Latn,Cherokee,Ꮙ,Lu,CHEROKEE LETTER QUO,165,1,2017,165
+chr,Latn,chr_Latn,Cherokee,Ꮷ,Lu,CHEROKEE LETTER TSU,162,1,2017,162
+chr,Latn,chr_Latn,Cherokee,4,Nd,DIGIT FOUR,158,1,2017,158
+chr,Latn,chr_Latn,Cherokee,Ᏻ,Lu,CHEROKEE LETTER YU,156,1,2017,156
+chr,Latn,chr_Latn,Cherokee,Ꮟ,Lu,CHEROKEE LETTER SI,152,1,2017,152
+chr,Latn,chr_Latn,Cherokee,Ꮺ,Lu,CHEROKEE LETTER WE,149,1,2017,149
+chr,Latn,chr_Latn,Cherokee,Ꮻ,Lu,CHEROKEE LETTER WI,145,1,2017,145
+chr,Latn,chr_Latn,Cherokee,Ꮢ,Lu,CHEROKEE LETTER SV,143,1,2017,143
+chr,Latn,chr_Latn,Cherokee,Ꭺ,Lu,CHEROKEE LETTER GO,137,1,2017,137
+chr,Latn,chr_Latn,Cherokee,Ꮴ,Lu,CHEROKEE LETTER TSE,136,1,2017,136
+chr,Latn,chr_Latn,Cherokee,Ꮤ,Lu,CHEROKEE LETTER TA,133,1,2017,133
+chr,Latn,chr_Latn,Cherokee,Ꮿ,Lu,CHEROKEE LETTER YA,132,1,2017,132
+chr,Latn,chr_Latn,Cherokee,Ꮔ,Lu,CHEROKEE LETTER NU,131,1,2017,131
+chr,Latn,chr_Latn,Cherokee,Ꭱ,Lu,CHEROKEE LETTER E,126,1,2017,126
+chr,Latn,chr_Latn,Cherokee,k,Ll,LATIN SMALL LETTER K,126,1,2017,126
+chr,Latn,chr_Latn,Cherokee,Ꮖ,Lu,CHEROKEE LETTER QUA,125,1,2017,125
+chr,Latn,chr_Latn,Cherokee,Ꮃ,Lu,CHEROKEE LETTER LA,123,1,2017,123
+chr,Latn,chr_Latn,Cherokee,Ꮳ,Lu,CHEROKEE LETTER TSA,119,1,2017,119
+chr,Latn,chr_Latn,Cherokee,Ᏺ,Lu,CHEROKEE LETTER YO,118,1,2017,118
+chr,Latn,chr_Latn,Cherokee,Ꮘ,Lu,CHEROKEE LETTER QUI,104,1,2017,104
+chr,Latn,chr_Latn,Cherokee,Ꮋ,Lu,CHEROKEE LETTER MI,103,1,2017,103
+chr,Latn,chr_Latn,Cherokee,Ꮨ,Lu,CHEROKEE LETTER TI,102,1,2017,102
+chr,Latn,chr_Latn,Cherokee,Ꭵ,Lu,CHEROKEE LETTER V,99,1,2017,99
+chr,Latn,chr_Latn,Cherokee,Ꭾ,Lu,CHEROKEE LETTER HE,97,1,2017,97
+chr,Latn,chr_Latn,Cherokee,Ꮆ,Lu,CHEROKEE LETTER LO,97,1,2017,97
+chr,Latn,chr_Latn,Cherokee,Ꮂ,Lu,CHEROKEE LETTER HV,95,1,2017,95
+chr,Latn,chr_Latn,Cherokee,5,Nd,DIGIT FIVE,94,1,2017,94
+chr,Latn,chr_Latn,Cherokee,-,Pd,HYPHEN-MINUS,91,1,2017,91
+chr,Latn,chr_Latn,Cherokee,Ꭽ,Lu,CHEROKEE LETTER HA,83,1,2017,83
+chr,Latn,chr_Latn,Cherokee,Ꮶ,Lu,CHEROKEE LETTER TSO,79,1,2017,79
+chr,Latn,chr_Latn,Cherokee,Ꮗ,Lu,CHEROKEE LETTER QUE,74,1,2017,74
+chr,Latn,chr_Latn,Cherokee,Ᏸ,Lu,CHEROKEE LETTER YE,74,1,2017,74
+chr,Latn,chr_Latn,Cherokee,Ꮏ,Lu,CHEROKEE LETTER HNA,73,1,2017,73
+chr,Latn,chr_Latn,Cherokee,7,Nd,DIGIT SEVEN,73,1,2017,73
+chr,Latn,chr_Latn,Cherokee,6,Nd,DIGIT SIX,73,1,2017,73
+chr,Latn,chr_Latn,Cherokee,"""",Po,QUOTATION MARK,70,1,2017,70
+chr,Latn,chr_Latn,Cherokee,8,Nd,DIGIT EIGHT,69,1,2017,69
+chr,Latn,chr_Latn,Cherokee,9,Nd,DIGIT NINE,65,1,2017,65
+chr,Latn,chr_Latn,Cherokee,0,Nd,DIGIT ZERO,65,1,2017,65
+chr,Latn,chr_Latn,Cherokee,Ꭳ,Lu,CHEROKEE LETTER O,64,1,2017,64
+chr,Latn,chr_Latn,Cherokee,Ꭷ,Lu,CHEROKEE LETTER KA,61,1,2017,61
+chr,Latn,chr_Latn,Cherokee,C,Lu,LATIN CAPITAL LETTER C,60,1,2017,60
+chr,Latn,chr_Latn,Cherokee,Ꮜ,Lu,CHEROKEE LETTER SA,60,1,2017,60
+chr,Latn,chr_Latn,Cherokee,[,Ps,LEFT SQUARE BRACKET,46,1,2017,46
+chr,Latn,chr_Latn,Cherokee,],Pe,RIGHT SQUARE BRACKET,46,1,2017,46
+chr,Latn,chr_Latn,Cherokee,Ꮠ,Lu,CHEROKEE LETTER SO,45,1,2017,45
+chr,Latn,chr_Latn,Cherokee,Ꮲ,Lu,CHEROKEE LETTER TLV,45,1,2017,45
+chr,Latn,chr_Latn,Cherokee,Ꮭ,Lu,CHEROKEE LETTER TLA,43,1,2017,43
+chr,Latn,chr_Latn,Cherokee,I,Lu,LATIN CAPITAL LETTER I,41,1,2017,41
+chr,Latn,chr_Latn,Cherokee,T,Lu,LATIN CAPITAL LETTER T,33,1,2017,33
+chr,Latn,chr_Latn,Cherokee,M,Lu,LATIN CAPITAL LETTER M,33,1,2017,33
+chr,Latn,chr_Latn,Cherokee,b,Ll,LATIN SMALL LETTER B,32,1,2017,32
+chr,Latn,chr_Latn,Cherokee,:,Po,COLON,32,1,2017,32
+chr,Latn,chr_Latn,Cherokee,R,Lu,LATIN CAPITAL LETTER R,32,1,2017,32
+chr,Latn,chr_Latn,Cherokee,P,Lu,LATIN CAPITAL LETTER P,32,1,2017,32
+chr,Latn,chr_Latn,Cherokee,S,Lu,LATIN CAPITAL LETTER S,31,1,2017,31
+chr,Latn,chr_Latn,Cherokee,Ꮼ,Lu,CHEROKEE LETTER WO,30,1,2017,30
+chr,Latn,chr_Latn,Cherokee,?,Po,QUESTION MARK,29,1,2017,29
+chr,Latn,chr_Latn,Cherokee,Ꮰ,Lu,CHEROKEE LETTER TLO,29,1,2017,29
+chr,Latn,chr_Latn,Cherokee,A,Lu,LATIN CAPITAL LETTER A,28,1,2017,28
+chr,Latn,chr_Latn,Cherokee,Ꮉ,Lu,CHEROKEE LETTER MA,28,1,2017,28
+chr,Latn,chr_Latn,Cherokee,x,Ll,LATIN SMALL LETTER X,26,1,2017,26
+chr,Latn,chr_Latn,Cherokee,Ꮸ,Lu,CHEROKEE LETTER TSV,26,1,2017,26
+chr,Latn,chr_Latn,Cherokee,Ꮇ,Lu,CHEROKEE LETTER LU,25,1,2017,25
+chr,Latn,chr_Latn,Cherokee,E,Lu,LATIN CAPITAL LETTER E,25,1,2017,25
+chr,Latn,chr_Latn,Cherokee,U,Lu,LATIN CAPITAL LETTER U,25,1,2017,25
+chr,Latn,chr_Latn,Cherokee,Ꮯ,Lu,CHEROKEE LETTER TLI,24,1,2017,24
+chr,Latn,chr_Latn,Cherokee,O,Lu,LATIN CAPITAL LETTER O,24,1,2017,24
+chr,Latn,chr_Latn,Cherokee,',Po,APOSTROPHE,23,1,2017,23
+chr,Latn,chr_Latn,Cherokee,Ꮁ,Lu,CHEROKEE LETTER HU,22,1,2017,22
+chr,Latn,chr_Latn,Cherokee,j,Ll,LATIN SMALL LETTER J,19,1,2017,19
+chr,Latn,chr_Latn,Cherokee,Ꮌ,Lu,CHEROKEE LETTER MO,19,1,2017,19
+chr,Latn,chr_Latn,Cherokee,F,Lu,LATIN CAPITAL LETTER F,18,1,2017,18
+chr,Latn,chr_Latn,Cherokee,N,Lu,LATIN CAPITAL LETTER N,17,1,2017,17
+chr,Latn,chr_Latn,Cherokee,Ꮽ,Lu,CHEROKEE LETTER WU,17,1,2017,17
+chr,Latn,chr_Latn,Cherokee,Ꮀ,Lu,CHEROKEE LETTER HO,14,1,2017,14
+chr,Latn,chr_Latn,Cherokee,Ꭻ,Lu,CHEROKEE LETTER GU,14,1,2017,14
+chr,Latn,chr_Latn,Cherokee,B,Lu,LATIN CAPITAL LETTER B,13,1,2017,13
+chr,Latn,chr_Latn,Cherokee,Ꮡ,Lu,CHEROKEE LETTER SU,13,1,2017,13
+chr,Latn,chr_Latn,Cherokee,W,Lu,LATIN CAPITAL LETTER W,11,1,2017,11
+chr,Latn,chr_Latn,Cherokee,L,Lu,LATIN CAPITAL LETTER L,11,1,2017,11
+chr,Latn,chr_Latn,Cherokee,D,Lu,LATIN CAPITAL LETTER D,11,1,2017,11
+chr,Latn,chr_Latn,Cherokee,Ꮊ,Lu,CHEROKEE LETTER ME,10,1,2017,10
+chr,Latn,chr_Latn,Cherokee,Y,Lu,LATIN CAPITAL LETTER Y,10,1,2017,10
+chr,Latn,chr_Latn,Cherokee,H,Lu,LATIN CAPITAL LETTER H,10,1,2017,10
+chr,Latn,chr_Latn,Cherokee,K,Lu,LATIN CAPITAL LETTER K,9,1,2017,9
+chr,Latn,chr_Latn,Cherokee,Ꮮ,Lu,CHEROKEE LETTER TLE,9,1,2017,9
+chr,Latn,chr_Latn,Cherokee,!,Po,EXCLAMATION MARK,8,1,2017,8
+chr,Latn,chr_Latn,Cherokee,(,Ps,LEFT PARENTHESIS,7,1,2017,7
+chr,Latn,chr_Latn,Cherokee,),Pe,RIGHT PARENTHESIS,7,1,2017,7
+chr,Latn,chr_Latn,Cherokee,J,Lu,LATIN CAPITAL LETTER J,7,1,2017,7
+chr,Latn,chr_Latn,Cherokee,Ꮛ,Lu,CHEROKEE LETTER QUV,6,1,2017,6
+chr,Latn,chr_Latn,Cherokee,&,Po,AMPERSAND,5,1,2017,5
+chr,Latn,chr_Latn,Cherokee,~,Sm,TILDE,5,1,2017,5
+chr,Latn,chr_Latn,Cherokee,Ꮱ,Lu,CHEROKEE LETTER TLU,3,1,2017,3
+chr,Latn,chr_Latn,Cherokee,V,Lu,LATIN CAPITAL LETTER V,2,1,2017,2
+chr,Latn,chr_Latn,Cherokee,̅,Mn,COMBINING OVERLINE,2,1,2017,2
+chr,Latn,chr_Latn,Cherokee,Ꮦ,Lu,CHEROKEE LETTER TE,1,1,2017,1

@@ -1,0 +1,73 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2023_frequency
+fad,Latn,fad_Latn,Wagi, ,Zs,SPACE,3496,2,"2019,2023",1596,1900
+fad,Latn,fad_Latn,Wagi,a,Ll,LATIN SMALL LETTER A,2281,2,"2019,2023",1089,1192
+fad,Latn,fad_Latn,Wagi,i,Ll,LATIN SMALL LETTER I,1313,2,"2019,2023",625,688
+fad,Latn,fad_Latn,Wagi,e,Ll,LATIN SMALL LETTER E,1217,2,"2019,2023",571,646
+fad,Latn,fad_Latn,Wagi,n,Ll,LATIN SMALL LETTER N,1190,2,"2019,2023",567,623
+fad,Latn,fad_Latn,Wagi,g,Ll,LATIN SMALL LETTER G,908,2,"2019,2023",435,473
+fad,Latn,fad_Latn,Wagi,u,Ll,LATIN SMALL LETTER U,814,2,"2019,2023",375,439
+fad,Latn,fad_Latn,Wagi,r,Ll,LATIN SMALL LETTER R,742,2,"2019,2023",354,388
+fad,Latn,fad_Latn,Wagi,o,Ll,LATIN SMALL LETTER O,718,2,"2019,2023",336,382
+fad,Latn,fad_Latn,Wagi,w,Ll,LATIN SMALL LETTER W,671,2,"2019,2023",322,349
+fad,Latn,fad_Latn,Wagi,k,Ll,LATIN SMALL LETTER K,636,2,"2019,2023",297,339
+fad,Latn,fad_Latn,Wagi,s,Ll,LATIN SMALL LETTER S,547,2,"2019,2023",254,293
+fad,Latn,fad_Latn,Wagi,d,Ll,LATIN SMALL LETTER D,544,2,"2019,2023",255,289
+fad,Latn,fad_Latn,Wagi,l,Ll,LATIN SMALL LETTER L,492,2,"2019,2023",232,260
+fad,Latn,fad_Latn,Wagi,m,Ll,LATIN SMALL LETTER M,476,2,"2019,2023",225,251
+fad,Latn,fad_Latn,Wagi,h,Ll,LATIN SMALL LETTER H,329,2,"2019,2023",155,174
+fad,Latn,fad_Latn,Wagi,ŕ,Ll,LATIN SMALL LETTER R WITH ACUTE,266,2,"2019,2023",127,139
+fad,Latn,fad_Latn,Wagi,.,Po,FULL STOP,262,2,"2019,2023",122,140
+fad,Latn,fad_Latn,Wagi,é,Ll,LATIN SMALL LETTER E WITH ACUTE,251,2,"2019,2023",116,135
+fad,Latn,fad_Latn,Wagi,t,Ll,LATIN SMALL LETTER T,241,2,"2019,2023",115,126
+fad,Latn,fad_Latn,Wagi,q,Ll,LATIN SMALL LETTER Q,213,2,"2019,2023",100,113
+fad,Latn,fad_Latn,Wagi,",",Po,COMMA,179,2,"2019,2023",89,90
+fad,Latn,fad_Latn,Wagi,b,Ll,LATIN SMALL LETTER B,148,2,"2019,2023",71,77
+fad,Latn,fad_Latn,Wagi,p,Ll,LATIN SMALL LETTER P,138,2,"2019,2023",66,72
+fad,Latn,fad_Latn,Wagi,T,Lu,LATIN CAPITAL LETTER T,126,2,"2019,2023",60,66
+fad,Latn,fad_Latn,Wagi,N,Lu,LATIN CAPITAL LETTER N,124,2,"2019,2023",56,68
+fad,Latn,fad_Latn,Wagi,1,Nd,DIGIT ONE,91,2,"2019,2023",24,67
+fad,Latn,fad_Latn,Wagi,2,Nd,DIGIT TWO,58,2,"2019,2023",18,40
+fad,Latn,fad_Latn,Wagi,4,Nd,DIGIT FOUR,54,2,"2019,2023",18,36
+fad,Latn,fad_Latn,Wagi,6,Nd,DIGIT SIX,53,2,"2019,2023",22,31
+fad,Latn,fad_Latn,Wagi,5,Nd,DIGIT FIVE,53,2,"2019,2023",20,33
+fad,Latn,fad_Latn,Wagi,Y,Lu,LATIN CAPITAL LETTER Y,52,2,"2019,2023",19,33
+fad,Latn,fad_Latn,Wagi,3,Nd,DIGIT THREE,52,2,"2019,2023",18,34
+fad,Latn,fad_Latn,Wagi,:,Po,COLON,49,2,"2019,2023",5,44
+fad,Latn,fad_Latn,Wagi,D,Lu,LATIN CAPITAL LETTER D,48,2,"2019,2023",24,24
+fad,Latn,fad_Latn,Wagi,7,Nd,DIGIT SEVEN,48,2,"2019,2023",19,29
+fad,Latn,fad_Latn,Wagi,S,Lu,LATIN CAPITAL LETTER S,48,2,"2019,2023",24,24
+fad,Latn,fad_Latn,Wagi,K,Lu,LATIN CAPITAL LETTER K,48,2,"2019,2023",22,26
+fad,Latn,fad_Latn,Wagi,f,Ll,LATIN SMALL LETTER F,44,2,"2019,2023",21,23
+fad,Latn,fad_Latn,Wagi,A,Lu,LATIN CAPITAL LETTER A,42,2,"2019,2023",20,22
+fad,Latn,fad_Latn,Wagi,y,Ll,LATIN SMALL LETTER Y,41,2,"2019,2023",17,24
+fad,Latn,fad_Latn,Wagi,E,Lu,LATIN CAPITAL LETTER E,40,2,"2019,2023",20,20
+fad,Latn,fad_Latn,Wagi,”,Pf,RIGHT DOUBLE QUOTATION MARK,39,2,"2019,2023",19,20
+fad,Latn,fad_Latn,Wagi,“,Pi,LEFT DOUBLE QUOTATION MARK,39,2,"2019,2023",19,20
+fad,Latn,fad_Latn,Wagi,G,Lu,LATIN CAPITAL LETTER G,34,2,"2019,2023",16,18
+fad,Latn,fad_Latn,Wagi,M,Lu,LATIN CAPITAL LETTER M,34,2,"2019,2023",17,17
+fad,Latn,fad_Latn,Wagi,8,Nd,DIGIT EIGHT,27,2,"2019,2023",10,17
+fad,Latn,fad_Latn,Wagi,0,Nd,DIGIT ZERO,24,2,"2019,2023",8,16
+fad,Latn,fad_Latn,Wagi,9,Nd,DIGIT NINE,23,2,"2019,2023",8,15
+fad,Latn,fad_Latn,Wagi,L,Lu,LATIN CAPITAL LETTER L,21,2,"2019,2023",6,15
+fad,Latn,fad_Latn,Wagi,-,Pd,HYPHEN-MINUS,19,2,"2019,2023",2,17
+fad,Latn,fad_Latn,Wagi,Q,Lu,LATIN CAPITAL LETTER Q,16,2,"2019,2023",8,8
+fad,Latn,fad_Latn,Wagi,;,Po,SEMICOLON,15,1,2023,0,15
+fad,Latn,fad_Latn,Wagi,(,Ps,LEFT PARENTHESIS,12,1,2023,0,12
+fad,Latn,fad_Latn,Wagi,),Pe,RIGHT PARENTHESIS,12,1,2023,0,12
+fad,Latn,fad_Latn,Wagi,?,Po,QUESTION MARK,10,2,"2019,2023",5,5
+fad,Latn,fad_Latn,Wagi,I,Lu,LATIN CAPITAL LETTER I,9,2,"2019,2023",4,5
+fad,Latn,fad_Latn,Wagi,H,Lu,LATIN CAPITAL LETTER H,8,2,"2019,2023",3,5
+fad,Latn,fad_Latn,Wagi,P,Lu,LATIN CAPITAL LETTER P,6,2,"2019,2023",3,3
+fad,Latn,fad_Latn,Wagi,—,Pd,EM DASH,5,1,2023,0,5
+fad,Latn,fad_Latn,Wagi,#,Po,NUMBER SIGN,4,1,2019,4,0
+fad,Latn,fad_Latn,Wagi,B,Lu,LATIN CAPITAL LETTER B,4,2,"2019,2023",2,2
+fad,Latn,fad_Latn,Wagi,W,Lu,LATIN CAPITAL LETTER W,3,2,"2019,2023",1,2
+fad,Latn,fad_Latn,Wagi,‡,Po,DOUBLE DAGGER,2,1,2023,0,2
+fad,Latn,fad_Latn,Wagi,†,Po,DAGGER,2,1,2023,0,2
+fad,Latn,fad_Latn,Wagi,*,Po,ASTERISK,2,1,2023,0,2
+fad,Latn,fad_Latn,Wagi,O,Lu,LATIN CAPITAL LETTER O,2,2,"2019,2023",1,1
+fad,Latn,fad_Latn,Wagi,U,Lu,LATIN CAPITAL LETTER U,2,1,2023,0,2
+fad,Latn,fad_Latn,Wagi,’,Pf,RIGHT SINGLE QUOTATION MARK,2,2,"2019,2023",1,1
+fad,Latn,fad_Latn,Wagi,‘,Pi,LEFT SINGLE QUOTATION MARK,2,2,"2019,2023",1,1
+fad,Latn,fad_Latn,Wagi,Ŕ,Lu,LATIN CAPITAL LETTER R WITH ACUTE,2,2,"2019,2023",1,1
+fad,Latn,fad_Latn,Wagi,§,Po,SECTION SIGN,2,1,2023,0,2

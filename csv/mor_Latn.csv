@@ -1,0 +1,55 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2019_frequency
+mor,Latn,mor_Latn,Moro, ,Zs,SPACE,2797,2,"2017,2019",2387,410
+mor,Latn,mor_Latn,Moro,a,Ll,LATIN SMALL LETTER A,2443,2,"2017,2019",2043,400
+mor,Latn,mor_Latn,Moro,ǝ,Ll,LATIN SMALL LETTER TURNED E,1234,2,"2017,2019",1089,145
+mor,Latn,mor_Latn,Moro,i,Ll,LATIN SMALL LETTER I,1204,2,"2017,2019",1039,165
+mor,Latn,mor_Latn,Moro,n,Ll,LATIN SMALL LETTER N,1136,2,"2017,2019",989,147
+mor,Latn,mor_Latn,Moro,e,Ll,LATIN SMALL LETTER E,943,2,"2017,2019",872,71
+mor,Latn,mor_Latn,Moro,ŋ,Ll,LATIN SMALL LETTER ENG,932,2,"2017,2019",829,103
+mor,Latn,mor_Latn,Moro,g,Ll,LATIN SMALL LETTER G,816,2,"2017,2019",698,118
+mor,Latn,mor_Latn,Moro,r,Ll,LATIN SMALL LETTER R,739,2,"2017,2019",671,68
+mor,Latn,mor_Latn,Moro,l,Ll,LATIN SMALL LETTER L,685,2,"2017,2019",552,133
+mor,Latn,mor_Latn,Moro,đ,Ll,LATIN SMALL LETTER D WITH STROKE,598,2,"2017,2019",546,52
+mor,Latn,mor_Latn,Moro,u,Ll,LATIN SMALL LETTER U,488,2,"2017,2019",401,87
+mor,Latn,mor_Latn,Moro,o,Ll,LATIN SMALL LETTER O,458,2,"2017,2019",384,74
+mor,Latn,mor_Latn,Moro,ṯ,Ll,LATIN SMALL LETTER T WITH LINE BELOW,449,2,"2017,2019",413,36
+mor,Latn,mor_Latn,Moro,m,Ll,LATIN SMALL LETTER M,398,2,"2017,2019",326,72
+mor,Latn,mor_Latn,Moro,w,Ll,LATIN SMALL LETTER W,305,2,"2017,2019",266,39
+mor,Latn,mor_Latn,Moro,b,Ll,LATIN SMALL LETTER B,258,2,"2017,2019",215,43
+mor,Latn,mor_Latn,Moro,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,227,2,"2017,2019",214,13
+mor,Latn,mor_Latn,Moro,s,Ll,LATIN SMALL LETTER S,206,2,"2017,2019",141,65
+mor,Latn,mor_Latn,Moro,.,Po,FULL STOP,200,2,"2017,2019",174,26
+mor,Latn,mor_Latn,Moro,y,Ll,LATIN SMALL LETTER Y,193,2,"2017,2019",138,55
+mor,Latn,mor_Latn,Moro,ɽ,Ll,LATIN SMALL LETTER R WITH TAIL,191,2,"2017,2019",170,21
+mor,Latn,mor_Latn,Moro,d,Ll,LATIN SMALL LETTER D,165,2,"2017,2019",151,14
+mor,Latn,mor_Latn,Moro,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,148,2,"2017,2019",146,2
+mor,Latn,mor_Latn,Moro,f,Ll,LATIN SMALL LETTER F,108,2,"2017,2019",94,14
+mor,Latn,mor_Latn,Moro,",",Po,COMMA,103,2,"2017,2019",95,8
+mor,Latn,mor_Latn,Moro,1,Nd,DIGIT ONE,91,2,"2017,2019",77,14
+mor,Latn,mor_Latn,Moro,ḏ,Ll,LATIN SMALL LETTER D WITH LINE BELOW,63,2,"2017,2019",34,29
+mor,Latn,mor_Latn,Moro,2,Nd,DIGIT TWO,49,2,"2017,2019",40,9
+mor,Latn,mor_Latn,Moro,k,Ll,LATIN SMALL LETTER K,39,2,"2017,2019",31,8
+mor,Latn,mor_Latn,Moro,t,Ll,LATIN SMALL LETTER T,37,2,"2017,2019",34,3
+mor,Latn,mor_Latn,Moro,c,Ll,LATIN SMALL LETTER C,35,2,"2017,2019",30,5
+mor,Latn,mor_Latn,Moro,p,Ll,LATIN SMALL LETTER P,29,1,2017,29,0
+mor,Latn,mor_Latn,Moro,3,Nd,DIGIT THREE,18,2,"2017,2019",15,3
+mor,Latn,mor_Latn,Moro,4,Nd,DIGIT FOUR,18,2,"2017,2019",15,3
+mor,Latn,mor_Latn,Moro,5,Nd,DIGIT FIVE,17,2,"2017,2019",14,3
+mor,Latn,mor_Latn,Moro,j,Ll,LATIN SMALL LETTER J,15,2,"2017,2019",12,3
+mor,Latn,mor_Latn,Moro,8,Nd,DIGIT EIGHT,14,2,"2017,2019",12,2
+mor,Latn,mor_Latn,Moro,7,Nd,DIGIT SEVEN,14,2,"2017,2019",12,2
+mor,Latn,mor_Latn,Moro,6,Nd,DIGIT SIX,14,2,"2017,2019",12,2
+mor,Latn,mor_Latn,Moro,9,Nd,DIGIT NINE,14,2,"2017,2019",12,2
+mor,Latn,mor_Latn,Moro,0,Nd,DIGIT ZERO,13,2,"2017,2019",11,2
+mor,Latn,mor_Latn,Moro,/,Po,SOLIDUS,10,1,2017,10,0
+mor,Latn,mor_Latn,Moro,h,Ll,LATIN SMALL LETTER H,5,1,2017,5,0
+mor,Latn,mor_Latn,Moro,?,Po,QUESTION MARK,4,1,2017,4,0
+mor,Latn,mor_Latn,Moro,S,Lu,LATIN CAPITAL LETTER S,4,1,2017,4,0
+mor,Latn,mor_Latn,Moro,M,Lu,LATIN CAPITAL LETTER M,3,1,2017,3,0
+mor,Latn,mor_Latn,Moro,B,Lu,LATIN CAPITAL LETTER B,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,J,Lu,LATIN CAPITAL LETTER J,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,:,Po,COLON,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,R,Lu,LATIN CAPITAL LETTER R,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,O,Lu,LATIN CAPITAL LETTER O,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,-,Pd,HYPHEN-MINUS,2,1,2017,2,0
+mor,Latn,mor_Latn,Moro,C,Lu,LATIN CAPITAL LETTER C,1,1,2017,1,0

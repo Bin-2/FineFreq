@@ -1,0 +1,19 @@
+{
+  "language_code": "pah_Latn",
+  "iso_639_3": "pah",
+  "script": "Latn",
+  "language_name": "Tenharim",
+  "total_characters": 104,
+  "total_frequency": 1363036,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.597220"
+}

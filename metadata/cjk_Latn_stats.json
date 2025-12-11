@@ -1,0 +1,20 @@
+{
+  "language_code": "cjk_Latn",
+  "iso_639_3": "cjk",
+  "script": "Latn",
+  "language_name": "Chokwe",
+  "total_characters": 92,
+  "total_frequency": 77379,
+  "years_covered": [
+    "2013",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:50.656275"
+}

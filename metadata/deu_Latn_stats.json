@@ -1,0 +1,24 @@
+{
+  "language_code": "deu_Latn",
+  "iso_639_3": "deu",
+  "script": "Latn",
+  "language_name": "German",
+  "total_characters": 37599,
+  "total_frequency": 1620982694281,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:51.967513"
+}

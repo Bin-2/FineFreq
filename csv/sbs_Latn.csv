@@ -1,0 +1,54 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2021_frequency
+sbs,Latn,sbs_Latn,Subiya, ,Zs,SPACE,516,2,"2018,2021",113,403
+sbs,Latn,sbs_Latn,Subiya,a,Ll,LATIN SMALL LETTER A,424,2,"2018,2021",111,313
+sbs,Latn,sbs_Latn,Subiya,i,Ll,LATIN SMALL LETTER I,391,2,"2018,2021",82,309
+sbs,Latn,sbs_Latn,Subiya,n,Ll,LATIN SMALL LETTER N,279,2,"2018,2021",49,230
+sbs,Latn,sbs_Latn,Subiya,u,Ll,LATIN SMALL LETTER U,279,2,"2018,2021",72,207
+sbs,Latn,sbs_Latn,Subiya,e,Ll,LATIN SMALL LETTER E,215,2,"2018,2021",41,174
+sbs,Latn,sbs_Latn,Subiya,k,Ll,LATIN SMALL LETTER K,186,2,"2018,2021",43,143
+sbs,Latn,sbs_Latn,Subiya,l,Ll,LATIN SMALL LETTER L,141,2,"2018,2021",43,98
+sbs,Latn,sbs_Latn,Subiya,t,Ll,LATIN SMALL LETTER T,119,2,"2018,2021",40,79
+sbs,Latn,sbs_Latn,Subiya,z,Ll,LATIN SMALL LETTER Z,119,2,"2018,2021",32,87
+sbs,Latn,sbs_Latn,Subiya,m,Ll,LATIN SMALL LETTER M,117,2,"2018,2021",18,99
+sbs,Latn,sbs_Latn,Subiya,o,Ll,LATIN SMALL LETTER O,113,2,"2018,2021",26,87
+sbs,Latn,sbs_Latn,Subiya,h,Ll,LATIN SMALL LETTER H,111,2,"2018,2021",11,100
+sbs,Latn,sbs_Latn,Subiya,w,Ll,LATIN SMALL LETTER W,109,2,"2018,2021",22,87
+sbs,Latn,sbs_Latn,Subiya,b,Ll,LATIN SMALL LETTER B,94,2,"2018,2021",21,73
+sbs,Latn,sbs_Latn,Subiya,s,Ll,LATIN SMALL LETTER S,82,2,"2018,2021",18,64
+sbs,Latn,sbs_Latn,Subiya,c,Ll,LATIN SMALL LETTER C,54,2,"2018,2021",3,51
+sbs,Latn,sbs_Latn,Subiya,y,Ll,LATIN SMALL LETTER Y,53,2,"2018,2021",16,37
+sbs,Latn,sbs_Latn,Subiya,.,Po,FULL STOP,52,2,"2018,2021",13,39
+sbs,Latn,sbs_Latn,Subiya,",",Po,COMMA,46,2,"2018,2021",4,42
+sbs,Latn,sbs_Latn,Subiya,g,Ll,LATIN SMALL LETTER G,33,2,"2018,2021",6,27
+sbs,Latn,sbs_Latn,Subiya,I,Lu,LATIN CAPITAL LETTER I,31,2,"2018,2021",6,25
+sbs,Latn,sbs_Latn,Subiya,p,Ll,LATIN SMALL LETTER P,24,2,"2018,2021",6,18
+sbs,Latn,sbs_Latn,Subiya,d,Ll,LATIN SMALL LETTER D,17,2,"2018,2021",6,11
+sbs,Latn,sbs_Latn,Subiya,K,Lu,LATIN CAPITAL LETTER K,13,2,"2018,2021",3,10
+sbs,Latn,sbs_Latn,Subiya,1,Nd,DIGIT ONE,13,1,2021,0,13
+sbs,Latn,sbs_Latn,Subiya,r,Ll,LATIN SMALL LETTER R,13,1,2021,0,13
+sbs,Latn,sbs_Latn,Subiya,N,Lu,LATIN CAPITAL LETTER N,10,1,2021,0,10
+sbs,Latn,sbs_Latn,Subiya,M,Lu,LATIN CAPITAL LETTER M,10,2,"2018,2021",3,7
+sbs,Latn,sbs_Latn,Subiya,f,Ll,LATIN SMALL LETTER F,10,2,"2018,2021",5,5
+sbs,Latn,sbs_Latn,Subiya,2,Nd,DIGIT TWO,7,1,2021,0,7
+sbs,Latn,sbs_Latn,Subiya,B,Lu,LATIN CAPITAL LETTER B,6,2,"2018,2021",2,4
+sbs,Latn,sbs_Latn,Subiya,J,Lu,LATIN CAPITAL LETTER J,5,2,"2018,2021",1,4
+sbs,Latn,sbs_Latn,Subiya,S,Lu,LATIN CAPITAL LETTER S,5,1,2021,0,5
+sbs,Latn,sbs_Latn,Subiya,C,Lu,LATIN CAPITAL LETTER C,4,1,2021,0,4
+sbs,Latn,sbs_Latn,Subiya,Z,Lu,LATIN CAPITAL LETTER Z,4,2,"2018,2021",3,1
+sbs,Latn,sbs_Latn,Subiya,v,Ll,LATIN SMALL LETTER V,3,1,2021,0,3
+sbs,Latn,sbs_Latn,Subiya,3,Nd,DIGIT THREE,3,1,2021,0,3
+sbs,Latn,sbs_Latn,Subiya,T,Lu,LATIN CAPITAL LETTER T,3,2,"2018,2021",2,1
+sbs,Latn,sbs_Latn,Subiya,4,Nd,DIGIT FOUR,3,1,2021,0,3
+sbs,Latn,sbs_Latn,Subiya,?,Po,QUESTION MARK,3,1,2018,3,0
+sbs,Latn,sbs_Latn,Subiya,E,Lu,LATIN CAPITAL LETTER E,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,j,Ll,LATIN SMALL LETTER J,2,2,"2018,2021",1,1
+sbs,Latn,sbs_Latn,Subiya,L,Lu,LATIN CAPITAL LETTER L,2,1,2018,2,0
+sbs,Latn,sbs_Latn,Subiya,H,Lu,LATIN CAPITAL LETTER H,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,5,Nd,DIGIT FIVE,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,6,Nd,DIGIT SIX,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,7,Nd,DIGIT SEVEN,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,8,Nd,DIGIT EIGHT,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,9,Nd,DIGIT NINE,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,0,Nd,DIGIT ZERO,2,1,2021,0,2
+sbs,Latn,sbs_Latn,Subiya,:,Po,COLON,1,1,2021,0,1
+sbs,Latn,sbs_Latn,Subiya,A,Lu,LATIN CAPITAL LETTER A,1,1,2021,0,1

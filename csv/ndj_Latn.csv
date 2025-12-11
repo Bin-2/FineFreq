@@ -1,0 +1,78 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency,year_2021_frequency
+ndj,Latn,ndj_Latn,Ndamba,a,Ll,LATIN SMALL LETTER A,6018,3,"2018,2019,2021",958,3781,1279
+ndj,Latn,ndj_Latn,Ndamba, ,Zs,SPACE,5282,3,"2018,2019,2021",812,3302,1168
+ndj,Latn,ndj_Latn,Ndamba,i,Ll,LATIN SMALL LETTER I,3905,3,"2018,2019,2021",627,2351,927
+ndj,Latn,ndj_Latn,Ndamba,u,Ll,LATIN SMALL LETTER U,2667,3,"2018,2019,2021",402,1738,527
+ndj,Latn,ndj_Latn,Ndamba,l,Ll,LATIN SMALL LETTER L,2295,3,"2018,2019,2021",355,1429,511
+ndj,Latn,ndj_Latn,Ndamba,n,Ll,LATIN SMALL LETTER N,2098,3,"2018,2019,2021",373,1289,436
+ndj,Latn,ndj_Latn,Ndamba,m,Ll,LATIN SMALL LETTER M,1623,3,"2018,2019,2021",229,984,410
+ndj,Latn,ndj_Latn,Ndamba,k,Ll,LATIN SMALL LETTER K,1607,3,"2018,2019,2021",238,1025,344
+ndj,Latn,ndj_Latn,Ndamba,e,Ll,LATIN SMALL LETTER E,1285,3,"2018,2019,2021",200,760,325
+ndj,Latn,ndj_Latn,Ndamba,w,Ll,LATIN SMALL LETTER W,1118,3,"2018,2019,2021",203,679,236
+ndj,Latn,ndj_Latn,Ndamba,v,Ll,LATIN SMALL LETTER V,1092,3,"2018,2019,2021",135,719,238
+ndj,Latn,ndj_Latn,Ndamba,o,Ll,LATIN SMALL LETTER O,1005,3,"2018,2019,2021",138,643,224
+ndj,Latn,ndj_Latn,Ndamba,y,Ll,LATIN SMALL LETTER Y,996,3,"2018,2019,2021",163,611,222
+ndj,Latn,ndj_Latn,Ndamba,h,Ll,LATIN SMALL LETTER H,919,3,"2018,2019,2021",157,560,202
+ndj,Latn,ndj_Latn,Ndamba,d,Ll,LATIN SMALL LETTER D,771,3,"2018,2019,2021",119,470,182
+ndj,Latn,ndj_Latn,Ndamba,g,Ll,LATIN SMALL LETTER G,745,3,"2018,2019,2021",125,492,128
+ndj,Latn,ndj_Latn,Ndamba,s,Ll,LATIN SMALL LETTER S,669,3,"2018,2019,2021",117,408,144
+ndj,Latn,ndj_Latn,Ndamba,t,Ll,LATIN SMALL LETTER T,539,3,"2018,2019,2021",82,323,134
+ndj,Latn,ndj_Latn,Ndamba,b,Ll,LATIN SMALL LETTER B,482,3,"2018,2019,2021",70,291,121
+ndj,Latn,ndj_Latn,Ndamba,p,Ll,LATIN SMALL LETTER P,472,3,"2018,2019,2021",84,287,101
+ndj,Latn,ndj_Latn,Ndamba,",",Po,COMMA,449,3,"2018,2019,2021",90,261,98
+ndj,Latn,ndj_Latn,Ndamba,.,Po,FULL STOP,355,3,"2018,2019,2021",55,228,72
+ndj,Latn,ndj_Latn,Ndamba,f,Ll,LATIN SMALL LETTER F,301,3,"2018,2019,2021",39,223,39
+ndj,Latn,ndj_Latn,Ndamba,c,Ll,LATIN SMALL LETTER C,282,3,"2018,2019,2021",26,186,70
+ndj,Latn,ndj_Latn,Ndamba,Y,Lu,LATIN CAPITAL LETTER Y,258,3,"2018,2019,2021",48,150,60
+ndj,Latn,ndj_Latn,Ndamba,M,Lu,LATIN CAPITAL LETTER M,233,3,"2018,2019,2021",41,140,52
+ndj,Latn,ndj_Latn,Ndamba,1,Nd,DIGIT ONE,177,3,"2018,2019,2021",23,124,30
+ndj,Latn,ndj_Latn,Ndamba,2,Nd,DIGIT TWO,126,3,"2018,2019,2021",16,88,22
+ndj,Latn,ndj_Latn,Ndamba,j,Ll,LATIN SMALL LETTER J,117,3,"2018,2019,2021",11,93,13
+ndj,Latn,ndj_Latn,Ndamba,C,Lu,LATIN CAPITAL LETTER C,104,3,"2018,2019,2021",34,48,22
+ndj,Latn,ndj_Latn,Ndamba,”,Pf,RIGHT DOUBLE QUOTATION MARK,91,3,"2018,2019,2021",30,48,13
+ndj,Latn,ndj_Latn,Ndamba,“,Pi,LEFT DOUBLE QUOTATION MARK,91,3,"2018,2019,2021",30,48,13
+ndj,Latn,ndj_Latn,Ndamba,N,Lu,LATIN CAPITAL LETTER N,91,3,"2018,2019,2021",22,50,19
+ndj,Latn,ndj_Latn,Ndamba,V,Lu,LATIN CAPITAL LETTER V,88,3,"2018,2019,2021",9,66,13
+ndj,Latn,ndj_Latn,Ndamba,K,Lu,LATIN CAPITAL LETTER K,85,3,"2018,2019,2021",16,51,18
+ndj,Latn,ndj_Latn,Ndamba,A,Lu,LATIN CAPITAL LETTER A,83,3,"2018,2019,2021",11,47,25
+ndj,Latn,ndj_Latn,Ndamba,3,Nd,DIGIT THREE,82,3,"2018,2019,2021",17,54,11
+ndj,Latn,ndj_Latn,Ndamba,P,Lu,LATIN CAPITAL LETTER P,78,3,"2018,2019,2021",11,58,9
+ndj,Latn,ndj_Latn,Ndamba,L,Lu,LATIN CAPITAL LETTER L,73,3,"2018,2019,2021",10,46,17
+ndj,Latn,ndj_Latn,Ndamba,4,Nd,DIGIT FOUR,70,3,"2018,2019,2021",15,49,6
+ndj,Latn,ndj_Latn,Ndamba,5,Nd,DIGIT FIVE,58,3,"2018,2019,2021",7,43,8
+ndj,Latn,ndj_Latn,Ndamba,T,Lu,LATIN CAPITAL LETTER T,54,3,"2018,2019,2021",7,37,10
+ndj,Latn,ndj_Latn,Ndamba,:,Po,COLON,49,3,"2018,2019,2021",3,41,5
+ndj,Latn,ndj_Latn,Ndamba,-,Pd,HYPHEN-MINUS,46,3,"2018,2019,2021",3,38,5
+ndj,Latn,ndj_Latn,Ndamba,B,Lu,LATIN CAPITAL LETTER B,43,3,"2018,2019,2021",4,22,17
+ndj,Latn,ndj_Latn,Ndamba,z,Ll,LATIN SMALL LETTER Z,42,2,"2019,2021",0,24,18
+ndj,Latn,ndj_Latn,Ndamba,S,Lu,LATIN CAPITAL LETTER S,40,3,"2018,2019,2021",5,26,9
+ndj,Latn,ndj_Latn,Ndamba,6,Nd,DIGIT SIX,39,3,"2018,2019,2021",5,28,6
+ndj,Latn,ndj_Latn,Ndamba,!,Po,EXCLAMATION MARK,38,3,"2018,2019,2021",15,20,3
+ndj,Latn,ndj_Latn,Ndamba,8,Nd,DIGIT EIGHT,38,3,"2018,2019,2021",7,26,5
+ndj,Latn,ndj_Latn,Ndamba,H,Lu,LATIN CAPITAL LETTER H,38,2,"2019,2021",0,24,14
+ndj,Latn,ndj_Latn,Ndamba,',Po,APOSTROPHE,38,3,"2018,2019,2021",12,19,7
+ndj,Latn,ndj_Latn,Ndamba,I,Lu,LATIN CAPITAL LETTER I,35,3,"2018,2019,2021",4,26,5
+ndj,Latn,ndj_Latn,Ndamba,9,Nd,DIGIT NINE,35,3,"2018,2019,2021",5,25,5
+ndj,Latn,ndj_Latn,Ndamba,7,Nd,DIGIT SEVEN,34,3,"2018,2019,2021",5,24,5
+ndj,Latn,ndj_Latn,Ndamba,0,Nd,DIGIT ZERO,33,3,"2018,2019,2021",5,24,4
+ndj,Latn,ndj_Latn,Ndamba,?,Po,QUESTION MARK,31,3,"2018,2019,2021",11,18,2
+ndj,Latn,ndj_Latn,Ndamba,U,Lu,LATIN CAPITAL LETTER U,26,3,"2018,2019,2021",2,17,7
+ndj,Latn,ndj_Latn,Ndamba,D,Lu,LATIN CAPITAL LETTER D,25,3,"2018,2019,2021",2,12,11
+ndj,Latn,ndj_Latn,Ndamba,E,Lu,LATIN CAPITAL LETTER E,25,3,"2018,2019,2021",2,15,8
+ndj,Latn,ndj_Latn,Ndamba,r,Ll,LATIN SMALL LETTER R,24,1,2019,0,24,0
+ndj,Latn,ndj_Latn,Ndamba,G,Lu,LATIN CAPITAL LETTER G,18,3,"2018,2019,2021",1,15,2
+ndj,Latn,ndj_Latn,Ndamba,O,Lu,LATIN CAPITAL LETTER O,17,2,"2019,2021",0,14,3
+ndj,Latn,ndj_Latn,Ndamba,Z,Lu,LATIN CAPITAL LETTER Z,15,2,"2019,2021",0,10,5
+ndj,Latn,ndj_Latn,Ndamba,W,Lu,LATIN CAPITAL LETTER W,14,3,"2018,2019,2021",1,11,2
+ndj,Latn,ndj_Latn,Ndamba,F,Lu,LATIN CAPITAL LETTER F,13,3,"2018,2019,2021",7,3,3
+ndj,Latn,ndj_Latn,Ndamba,R,Lu,LATIN CAPITAL LETTER R,11,2,"2019,2021",0,10,1
+ndj,Latn,ndj_Latn,Ndamba,‘,Pi,LEFT SINGLE QUOTATION MARK,8,3,"2018,2019,2021",4,3,1
+ndj,Latn,ndj_Latn,Ndamba,’,Pf,RIGHT SINGLE QUOTATION MARK,8,3,"2018,2019,2021",4,3,1
+ndj,Latn,ndj_Latn,Ndamba,(,Ps,LEFT PARENTHESIS,7,2,"2019,2021",0,4,3
+ndj,Latn,ndj_Latn,Ndamba,),Pe,RIGHT PARENTHESIS,7,2,"2019,2021",0,4,3
+ndj,Latn,ndj_Latn,Ndamba,"""",Po,QUOTATION MARK,5,1,2019,0,5,0
+ndj,Latn,ndj_Latn,Ndamba,x,Ll,LATIN SMALL LETTER X,4,1,2019,0,4,0
+ndj,Latn,ndj_Latn,Ndamba,/,Po,SOLIDUS,4,1,2019,0,4,0
+ndj,Latn,ndj_Latn,Ndamba,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,3,1,2019,0,3,0
+ndj,Latn,ndj_Latn,Ndamba,́,Mn,COMBINING ACUTE ACCENT,1,1,2019,0,1,0
+ndj,Latn,ndj_Latn,Ndamba,J,Lu,LATIN CAPITAL LETTER J,1,1,2019,0,1,0

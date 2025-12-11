@@ -1,0 +1,104 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency
+shu,Arab,shu_Arab,Chadian Arabic,َ,Mn,ARABIC FATHA,4821,5,"2016,2017,2018,2019,2020",134,476,805,1656,1750
+shu,Arab,shu_Arab,Chadian Arabic, ,Zs,SPACE,4364,5,"2016,2017,2018,2019,2020",108,437,872,1471,1476
+shu,Arab,shu_Arab,Chadian Arabic,ْ,Mn,ARABIC SUKUN,3142,5,"2016,2017,2018,2019,2020",108,348,327,1093,1266
+shu,Arab,shu_Arab,Chadian Arabic,ا,Lo,ARABIC LETTER ALEF,2363,5,"2016,2017,2018,2019,2020",68,188,452,824,831
+shu,Arab,shu_Arab,Chadian Arabic,ل,Lo,ARABIC LETTER LAM,1840,5,"2016,2017,2018,2019,2020",54,164,335,615,672
+shu,Arab,shu_Arab,Chadian Arabic,ِ,Mn,ARABIC KASRA,1729,5,"2016,2017,2018,2019,2020",59,237,269,568,596
+shu,Arab,shu_Arab,Chadian Arabic,و,Lo,ARABIC LETTER WAW,1547,5,"2016,2017,2018,2019,2020",23,214,289,503,518
+shu,Arab,shu_Arab,Chadian Arabic,ي,Lo,ARABIC LETTER YEH,1168,4,"2016,2017,2019,2020",44,135,0,518,471
+shu,Arab,shu_Arab,Chadian Arabic,ُ,Mn,ARABIC DAMMA,1015,5,"2016,2017,2018,2019,2020",21,112,244,276,362
+shu,Arab,shu_Arab,Chadian Arabic,ن,Lo,ARABIC LETTER NOON,914,5,"2016,2017,2018,2019,2020",21,62,139,364,328
+shu,Arab,shu_Arab,Chadian Arabic,ّ,Mn,ARABIC SHADDA,882,5,"2016,2017,2018,2019,2020",15,67,195,274,331
+shu,Arab,shu_Arab,Chadian Arabic,م,Lo,ARABIC LETTER MEEM,857,5,"2016,2017,2018,2019,2020",27,98,149,279,304
+shu,Arab,shu_Arab,Chadian Arabic,ه,Lo,ARABIC LETTER HEH,730,5,"2016,2017,2018,2019,2020",11,61,194,246,218
+shu,Arab,shu_Arab,Chadian Arabic,د,Lo,ARABIC LETTER DAL,699,5,"2016,2017,2018,2019,2020",24,119,172,205,179
+shu,Arab,shu_Arab,Chadian Arabic,ر,Lo,ARABIC LETTER REH,614,5,"2016,2017,2018,2019,2020",28,53,138,161,234
+shu,Arab,shu_Arab,Chadian Arabic,ب,Lo,ARABIC LETTER BEH,603,5,"2016,2017,2018,2019,2020",17,73,102,192,219
+shu,Arab,shu_Arab,Chadian Arabic,ق,Lo,ARABIC LETTER QAF,434,5,"2016,2017,2018,2019,2020",5,33,77,146,173
+shu,Arab,shu_Arab,Chadian Arabic,ع,Lo,ARABIC LETTER AIN,433,5,"2016,2017,2018,2019,2020",23,50,97,139,124
+shu,Arab,shu_Arab,Chadian Arabic,ت,Lo,ARABIC LETTER TEH,414,5,"2016,2017,2018,2019,2020",20,32,85,154,123
+shu,Arab,shu_Arab,Chadian Arabic,س,Lo,ARABIC LETTER SEEN,412,5,"2016,2017,2018,2019,2020",8,49,55,193,107
+shu,Arab,shu_Arab,Chadian Arabic,ف,Lo,ARABIC LETTER FEH,407,5,"2016,2017,2018,2019,2020",16,26,69,141,155
+shu,Arab,shu_Arab,Chadian Arabic,ك,Lo,ARABIC LETTER KAF,365,5,"2016,2017,2018,2019,2020",5,21,51,121,167
+shu,Arab,shu_Arab,Chadian Arabic,.,Po,FULL STOP,334,5,"2016,2017,2018,2019,2020",4,55,18,112,145
+shu,Arab,shu_Arab,Chadian Arabic,أ,Lo,ARABIC LETTER ALEF WITH HAMZA ABOVE,294,5,"2016,2017,2018,2019,2020",11,37,35,101,110
+shu,Arab,shu_Arab,Chadian Arabic,ح,Lo,ARABIC LETTER HAH,272,5,"2016,2017,2018,2019,2020",9,32,32,101,98
+shu,Arab,shu_Arab,Chadian Arabic,ش,Lo,ARABIC LETTER SHEEN,245,5,"2016,2017,2018,2019,2020",18,25,27,84,91
+shu,Arab,shu_Arab,Chadian Arabic,ة,Lo,ARABIC LETTER TEH MARBUTA,211,5,"2016,2017,2018,2019,2020",12,16,60,72,51
+shu,Arab,shu_Arab,Chadian Arabic,ج,Lo,ARABIC LETTER JEEM,177,5,"2016,2017,2018,2019,2020",10,12,50,50,55
+shu,Arab,shu_Arab,Chadian Arabic,خ,Lo,ARABIC LETTER KHAH,152,5,"2016,2017,2018,2019,2020",8,8,34,32,70
+shu,Arab,shu_Arab,Chadian Arabic,ض,Lo,ARABIC LETTER DAD,144,4,"2016,2018,2019,2020",5,0,92,9,38
+shu,Arab,shu_Arab,Chadian Arabic,ى,Lo,ARABIC LETTER ALEF MAKSURA,128,5,"2016,2017,2018,2019,2020",3,13,13,75,24
+shu,Arab,shu_Arab,Chadian Arabic,ی,Lo,ARABIC LETTER FARSI YEH,112,1,2018,0,0,112,0,0
+shu,Arab,shu_Arab,Chadian Arabic,1,Nd,DIGIT ONE,104,4,"2017,2018,2019,2020",0,16,15,42,31
+shu,Arab,shu_Arab,Chadian Arabic,ص,Lo,ARABIC LETTER SAD,95,5,"2016,2017,2018,2019,2020",1,9,25,28,32
+shu,Arab,shu_Arab,Chadian Arabic,:,Po,COLON,92,4,"2017,2018,2019,2020",0,3,12,51,26
+shu,Arab,shu_Arab,Chadian Arabic,2,Nd,DIGIT TWO,78,4,"2017,2018,2019,2020",0,10,6,32,30
+shu,Arab,shu_Arab,Chadian Arabic,إ,Lo,ARABIC LETTER ALEF WITH HAMZA BELOW,78,5,"2016,2017,2018,2019,2020",7,8,17,32,14
+shu,Arab,shu_Arab,Chadian Arabic,ء,Lo,ARABIC LETTER HAMZA,77,5,"2016,2017,2018,2019,2020",4,3,12,27,31
+shu,Arab,shu_Arab,Chadian Arabic,،,Po,ARABIC COMMA,74,5,"2016,2017,2018,2019,2020",4,5,3,30,32
+shu,Arab,shu_Arab,Chadian Arabic,ز,Lo,ARABIC LETTER ZAIN,73,5,"2016,2017,2018,2019,2020",6,17,20,14,16
+shu,Arab,shu_Arab,Chadian Arabic,ط,Lo,ARABIC LETTER TAH,72,5,"2016,2017,2018,2019,2020",3,4,19,26,20
+shu,Arab,shu_Arab,Chadian Arabic,3,Nd,DIGIT THREE,52,4,"2017,2018,2019,2020",0,3,9,19,21
+shu,Arab,shu_Arab,Chadian Arabic,4,Nd,DIGIT FOUR,45,4,"2017,2018,2019,2020",0,3,3,20,19
+shu,Arab,shu_Arab,Chadian Arabic,ذ,Lo,ARABIC LETTER THAL,41,5,"2016,2017,2018,2019,2020",1,3,14,14,9
+shu,Arab,shu_Arab,Chadian Arabic,ث,Lo,ARABIC LETTER THEH,37,4,"2017,2018,2019,2020",0,3,9,7,18
+shu,Arab,shu_Arab,Chadian Arabic,غ,Lo,ARABIC LETTER GHAIN,36,5,"2016,2017,2018,2019,2020",1,5,10,12,8
+shu,Arab,shu_Arab,Chadian Arabic,5,Nd,DIGIT FIVE,31,4,"2017,2018,2019,2020",0,3,1,15,12
+shu,Arab,shu_Arab,Chadian Arabic,a,Ll,LATIN SMALL LETTER A,25,1,2018,0,0,25,0,0
+shu,Arab,shu_Arab,Chadian Arabic,0,Nd,DIGIT ZERO,25,4,"2017,2018,2019,2020",0,2,7,8,8
+shu,Arab,shu_Arab,Chadian Arabic,9,Nd,DIGIT NINE,24,4,"2017,2018,2019,2020",0,2,6,8,8
+shu,Arab,shu_Arab,Chadian Arabic,6,Nd,DIGIT SIX,23,4,"2017,2018,2019,2020",0,2,4,9,8
+shu,Arab,shu_Arab,Chadian Arabic,e,Ll,LATIN SMALL LETTER E,23,1,2018,0,0,23,0,0
+shu,Arab,shu_Arab,Chadian Arabic,؟,Po,ARABIC QUESTION MARK,22,2,"2019,2020",0,0,0,14,8
+shu,Arab,shu_Arab,Chadian Arabic,آ,Lo,ARABIC LETTER ALEF WITH MADDA ABOVE,20,4,"2016,2018,2019,2020",3,0,5,6,6
+shu,Arab,shu_Arab,Chadian Arabic,8,Nd,DIGIT EIGHT,19,3,"2017,2019,2020",0,2,0,9,8
+shu,Arab,shu_Arab,Chadian Arabic,s,Ll,LATIN SMALL LETTER S,19,1,2018,0,0,19,0,0
+shu,Arab,shu_Arab,Chadian Arabic,7,Nd,DIGIT SEVEN,18,4,"2017,2018,2019,2020",0,2,1,7,8
+shu,Arab,shu_Arab,Chadian Arabic,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,17,2,"2019,2020",0,0,0,4,13
+shu,Arab,shu_Arab,Chadian Arabic,r,Ll,LATIN SMALL LETTER R,17,1,2018,0,0,17,0,0
+shu,Arab,shu_Arab,Chadian Arabic,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,17,2,"2019,2020",0,0,0,4,13
+shu,Arab,shu_Arab,Chadian Arabic,ـ,Lm,ARABIC TATWEEL,16,1,2018,0,0,16,0,0
+shu,Arab,shu_Arab,Chadian Arabic,t,Ll,LATIN SMALL LETTER T,16,1,2018,0,0,16,0,0
+shu,Arab,shu_Arab,Chadian Arabic,i,Ll,LATIN SMALL LETTER I,16,1,2018,0,0,16,0,0
+shu,Arab,shu_Arab,Chadian Arabic,گ,Lo,ARABIC LETTER GAF,14,1,2018,0,0,14,0,0
+shu,Arab,shu_Arab,Chadian Arabic,ظ,Lo,ARABIC LETTER ZAH,14,2,"2016,2018",2,0,12,0,0
+shu,Arab,shu_Arab,Chadian Arabic,o,Ll,LATIN SMALL LETTER O,14,1,2018,0,0,14,0,0
+shu,Arab,shu_Arab,Chadian Arabic,h,Ll,LATIN SMALL LETTER H,13,1,2018,0,0,13,0,0
+shu,Arab,shu_Arab,Chadian Arabic,ٰ,Mn,ARABIC LETTER SUPERSCRIPT ALEF,12,1,2020,0,0,0,0,12
+shu,Arab,shu_Arab,Chadian Arabic,ئ,Lo,ARABIC LETTER YEH WITH HAMZA ABOVE,12,4,"2017,2018,2019,2020",0,1,2,7,2
+shu,Arab,shu_Arab,Chadian Arabic,u,Ll,LATIN SMALL LETTER U,12,1,2018,0,0,12,0,0
+shu,Arab,shu_Arab,Chadian Arabic,p,Ll,LATIN SMALL LETTER P,11,1,2018,0,0,11,0,0
+shu,Arab,shu_Arab,Chadian Arabic,l,Ll,LATIN SMALL LETTER L,11,1,2018,0,0,11,0,0
+shu,Arab,shu_Arab,Chadian Arabic,ً,Mn,ARABIC FATHATAN,9,3,"2018,2019,2020",0,0,7,1,1
+shu,Arab,shu_Arab,Chadian Arabic,ک,Lo,ARABIC LETTER KEHEH,9,1,2018,0,0,9,0,0
+shu,Arab,shu_Arab,Chadian Arabic,g,Ll,LATIN SMALL LETTER G,7,1,2018,0,0,7,0,0
+shu,Arab,shu_Arab,Chadian Arabic,f,Ll,LATIN SMALL LETTER F,7,1,2018,0,0,7,0,0
+shu,Arab,shu_Arab,Chadian Arabic,y,Ll,LATIN SMALL LETTER Y,7,1,2018,0,0,7,0,0
+shu,Arab,shu_Arab,Chadian Arabic,n,Ll,LATIN SMALL LETTER N,7,1,2018,0,0,7,0,0
+shu,Arab,shu_Arab,Chadian Arabic,ٍ,Mn,ARABIC KASRATAN,6,1,2018,0,0,6,0,0
+shu,Arab,shu_Arab,Chadian Arabic,d,Ll,LATIN SMALL LETTER D,6,1,2018,0,0,6,0,0
+shu,Arab,shu_Arab,Chadian Arabic,چ,Lo,ARABIC LETTER TCHEH,6,1,2018,0,0,6,0,0
+shu,Arab,shu_Arab,Chadian Arabic,-,Pd,HYPHEN-MINUS,5,2,"2018,2019",0,0,3,2,0
+shu,Arab,shu_Arab,Chadian Arabic,#,Po,NUMBER SIGN,5,2,"2017,2019",0,1,0,4,0
+shu,Arab,shu_Arab,Chadian Arabic,!,Po,EXCLAMATION MARK,5,3,"2018,2019,2020",0,0,2,1,2
+shu,Arab,shu_Arab,Chadian Arabic,ؤ,Lo,ARABIC LETTER WAW WITH HAMZA ABOVE,4,2,"2018,2020",0,0,3,0,1
+shu,Arab,shu_Arab,Chadian Arabic,پ,Lo,ARABIC LETTER PEH,4,1,2018,0,0,4,0,0
+shu,Arab,shu_Arab,Chadian Arabic,c,Ll,LATIN SMALL LETTER C,4,1,2018,0,0,4,0,0
+shu,Arab,shu_Arab,Chadian Arabic,k,Ll,LATIN SMALL LETTER K,3,1,2018,0,0,3,0,0
+shu,Arab,shu_Arab,Chadian Arabic,﴾,Pe,ORNATE LEFT PARENTHESIS,3,2,"2017,2019",0,1,0,2,0
+shu,Arab,shu_Arab,Chadian Arabic,﴿,Ps,ORNATE RIGHT PARENTHESIS,3,2,"2017,2019",0,1,0,2,0
+shu,Arab,shu_Arab,Chadian Arabic,I,Lu,LATIN CAPITAL LETTER I,3,1,2018,0,0,3,0,0
+shu,Arab,shu_Arab,Chadian Arabic,v,Ll,LATIN SMALL LETTER V,3,1,2018,0,0,3,0,0
+shu,Arab,shu_Arab,Chadian Arabic,ٌ,Mn,ARABIC DAMMATAN,3,2,"2016,2018",1,0,2,0,0
+shu,Arab,shu_Arab,Chadian Arabic,",",Po,COMMA,2,1,2018,0,0,2,0,0
+shu,Arab,shu_Arab,Chadian Arabic,w,Ll,LATIN SMALL LETTER W,2,1,2018,0,0,2,0,0
+shu,Arab,shu_Arab,Chadian Arabic,m,Ll,LATIN SMALL LETTER M,2,1,2018,0,0,2,0,0
+shu,Arab,shu_Arab,Chadian Arabic,x,Ll,LATIN SMALL LETTER X,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,b,Ll,LATIN SMALL LETTER B,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,',Po,APOSTROPHE,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,P,Lu,LATIN CAPITAL LETTER P,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,T,Lu,LATIN CAPITAL LETTER T,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,(,Ps,LEFT PARENTHESIS,1,1,2018,0,0,1,0,0
+shu,Arab,shu_Arab,Chadian Arabic,),Pe,RIGHT PARENTHESIS,1,1,2018,0,0,1,0,0

@@ -1,0 +1,80 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2019_frequency
+rme,Latn,rme_Latn,Angloromani, ,Zs,SPACE,1127,2,"2018,2019",505,622
+rme,Latn,rme_Latn,Angloromani,o,Ll,LATIN SMALL LETTER O,656,2,"2018,2019",274,382
+rme,Latn,rme_Latn,Angloromani,a,Ll,LATIN SMALL LETTER A,574,2,"2018,2019",190,384
+rme,Latn,rme_Latn,Angloromani,e,Ll,LATIN SMALL LETTER E,574,2,"2018,2019",274,300
+rme,Latn,rme_Latn,Angloromani,t,Ll,LATIN SMALL LETTER T,462,2,"2018,2019",159,303
+rme,Latn,rme_Latn,Angloromani,i,Ll,LATIN SMALL LETTER I,372,2,"2018,2019",147,225
+rme,Latn,rme_Latn,Angloromani,s,Ll,LATIN SMALL LETTER S,347,2,"2018,2019",152,195
+rme,Latn,rme_Latn,Angloromani,r,Ll,LATIN SMALL LETTER R,301,2,"2018,2019",141,160
+rme,Latn,rme_Latn,Angloromani,n,Ll,LATIN SMALL LETTER N,259,2,"2018,2019",94,165
+rme,Latn,rme_Latn,Angloromani,l,Ll,LATIN SMALL LETTER L,249,2,"2018,2019",154,95
+rme,Latn,rme_Latn,Angloromani,k,Ll,LATIN SMALL LETTER K,226,2,"2018,2019",68,158
+rme,Latn,rme_Latn,Angloromani,u,Ll,LATIN SMALL LETTER U,179,2,"2018,2019",63,116
+rme,Latn,rme_Latn,Angloromani,h,Ll,LATIN SMALL LETTER H,163,2,"2018,2019",80,83
+rme,Latn,rme_Latn,Angloromani,m,Ll,LATIN SMALL LETTER M,148,2,"2018,2019",84,64
+rme,Latn,rme_Latn,Angloromani,v,Ll,LATIN SMALL LETTER V,134,2,"2018,2019",53,81
+rme,Latn,rme_Latn,Angloromani,d,Ll,LATIN SMALL LETTER D,134,2,"2018,2019",52,82
+rme,Latn,rme_Latn,Angloromani,b,Ll,LATIN SMALL LETTER B,117,2,"2018,2019",39,78
+rme,Latn,rme_Latn,Angloromani,p,Ll,LATIN SMALL LETTER P,77,2,"2018,2019",47,30
+rme,Latn,rme_Latn,Angloromani,c,Ll,LATIN SMALL LETTER C,73,2,"2018,2019",51,22
+rme,Latn,rme_Latn,Angloromani,.,Po,FULL STOP,72,2,"2018,2019",23,49
+rme,Latn,rme_Latn,Angloromani,w,Ll,LATIN SMALL LETTER W,71,2,"2018,2019",43,28
+rme,Latn,rme_Latn,Angloromani,",",Po,COMMA,68,2,"2018,2019",34,34
+rme,Latn,rme_Latn,Angloromani,g,Ll,LATIN SMALL LETTER G,57,2,"2018,2019",22,35
+rme,Latn,rme_Latn,Angloromani,j,Ll,LATIN SMALL LETTER J,34,2,"2018,2019",9,25
+rme,Latn,rme_Latn,Angloromani,I,Lu,LATIN CAPITAL LETTER I,33,2,"2018,2019",9,24
+rme,Latn,rme_Latn,Angloromani,M,Lu,LATIN CAPITAL LETTER M,33,2,"2018,2019",16,17
+rme,Latn,rme_Latn,Angloromani,é,Ll,LATIN SMALL LETTER E WITH ACUTE,30,2,"2018,2019",15,15
+rme,Latn,rme_Latn,Angloromani,D,Lu,LATIN CAPITAL LETTER D,29,2,"2018,2019",12,17
+rme,Latn,rme_Latn,Angloromani,1,Nd,DIGIT ONE,28,2,"2018,2019",18,10
+rme,Latn,rme_Latn,Angloromani,0,Nd,DIGIT ZERO,24,2,"2018,2019",22,2
+rme,Latn,rme_Latn,Angloromani,ĥ,Ll,LATIN SMALL LETTER H WITH CIRCUMFLEX,21,1,2019,0,21
+rme,Latn,rme_Latn,Angloromani,5,Nd,DIGIT FIVE,20,2,"2018,2019",18,2
+rme,Latn,rme_Latn,Angloromani,f,Ll,LATIN SMALL LETTER F,19,2,"2018,2019",12,7
+rme,Latn,rme_Latn,Angloromani,4,Nd,DIGIT FOUR,13,2,"2018,2019",11,2
+rme,Latn,rme_Latn,Angloromani,á,Ll,LATIN SMALL LETTER A WITH ACUTE,12,2,"2018,2019",6,6
+rme,Latn,rme_Latn,Angloromani,y,Ll,LATIN SMALL LETTER Y,12,2,"2018,2019",11,1
+rme,Latn,rme_Latn,Angloromani,š,Ll,LATIN SMALL LETTER S WITH CARON,12,1,2019,0,12
+rme,Latn,rme_Latn,Angloromani,',Po,APOSTROPHE,12,1,2019,0,12
+rme,Latn,rme_Latn,Angloromani,S,Lu,LATIN CAPITAL LETTER S,12,2,"2018,2019",3,9
+rme,Latn,rme_Latn,Angloromani,K,Lu,LATIN CAPITAL LETTER K,12,2,"2018,2019",4,8
+rme,Latn,rme_Latn,Angloromani,(,Ps,LEFT PARENTHESIS,10,2,"2018,2019",4,6
+rme,Latn,rme_Latn,Angloromani,2,Nd,DIGIT TWO,10,2,"2018,2019",8,2
+rme,Latn,rme_Latn,Angloromani,),Pe,RIGHT PARENTHESIS,10,2,"2018,2019",4,6
+rme,Latn,rme_Latn,Angloromani,7,Nd,DIGIT SEVEN,9,2,"2018,2019",6,3
+rme,Latn,rme_Latn,Angloromani,-,Pd,HYPHEN-MINUS,9,2,"2018,2019",3,6
+rme,Latn,rme_Latn,Angloromani,3,Nd,DIGIT THREE,8,2,"2018,2019",6,2
+rme,Latn,rme_Latn,Angloromani,A,Lu,LATIN CAPITAL LETTER A,7,2,"2018,2019",3,4
+rme,Latn,rme_Latn,Angloromani,’,Pf,RIGHT SINGLE QUOTATION MARK,7,1,2018,7,0
+rme,Latn,rme_Latn,Angloromani,T,Lu,LATIN CAPITAL LETTER T,7,1,2019,0,7
+rme,Latn,rme_Latn,Angloromani,N,Lu,LATIN CAPITAL LETTER N,6,2,"2018,2019",3,3
+rme,Latn,rme_Latn,Angloromani,ž,Ll,LATIN SMALL LETTER Z WITH CARON,6,1,2019,0,6
+rme,Latn,rme_Latn,Angloromani,:,Po,COLON,6,2,"2018,2019",3,3
+rme,Latn,rme_Latn,Angloromani,V,Lu,LATIN CAPITAL LETTER V,5,1,2019,0,5
+rme,Latn,rme_Latn,Angloromani,6,Nd,DIGIT SIX,5,2,"2018,2019",3,2
+rme,Latn,rme_Latn,Angloromani,9,Nd,DIGIT NINE,5,2,"2018,2019",4,1
+rme,Latn,rme_Latn,Angloromani,R,Lu,LATIN CAPITAL LETTER R,5,2,"2018,2019",2,3
+rme,Latn,rme_Latn,Angloromani,‘,Pi,LEFT SINGLE QUOTATION MARK,5,1,2018,5,0
+rme,Latn,rme_Latn,Angloromani,x,Ll,LATIN SMALL LETTER X,5,2,"2018,2019",4,1
+rme,Latn,rme_Latn,Angloromani,E,Lu,LATIN CAPITAL LETTER E,5,2,"2018,2019",1,4
+rme,Latn,rme_Latn,Angloromani,J,Lu,LATIN CAPITAL LETTER J,4,2,"2018,2019",2,2
+rme,Latn,rme_Latn,Angloromani,8,Nd,DIGIT EIGHT,4,2,"2018,2019",2,2
+rme,Latn,rme_Latn,Angloromani,ō,Ll,LATIN SMALL LETTER O WITH MACRON,4,2,"2018,2019",2,2
+rme,Latn,rme_Latn,Angloromani,O,Lu,LATIN CAPITAL LETTER O,4,2,"2018,2019",3,1
+rme,Latn,rme_Latn,Angloromani,–,Pd,EN DASH,3,2,"2018,2019",1,2
+rme,Latn,rme_Latn,Angloromani,B,Lu,LATIN CAPITAL LETTER B,3,2,"2018,2019",2,1
+rme,Latn,rme_Latn,Angloromani,L,Lu,LATIN CAPITAL LETTER L,2,2,"2018,2019",1,1
+rme,Latn,rme_Latn,Angloromani,ö,Ll,LATIN SMALL LETTER O WITH DIAERESIS,2,1,2019,0,2
+rme,Latn,rme_Latn,Angloromani,P,Lu,LATIN CAPITAL LETTER P,2,1,2019,0,2
+rme,Latn,rme_Latn,Angloromani,X,Lu,LATIN CAPITAL LETTER X,2,1,2019,0,2
+rme,Latn,rme_Latn,Angloromani,H,Lu,LATIN CAPITAL LETTER H,2,1,2019,0,2
+rme,Latn,rme_Latn,Angloromani,í,Ll,LATIN SMALL LETTER I WITH ACUTE,2,2,"2018,2019",1,1
+rme,Latn,rme_Latn,Angloromani,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,2,2,"2018,2019",1,1
+rme,Latn,rme_Latn,Angloromani,+,Sm,PLUS SIGN,1,1,2019,0,1
+rme,Latn,rme_Latn,Angloromani,W,Lu,LATIN CAPITAL LETTER W,1,1,2018,1,0
+rme,Latn,rme_Latn,Angloromani,C,Lu,LATIN CAPITAL LETTER C,1,1,2019,0,1
+rme,Latn,rme_Latn,Angloromani,G,Lu,LATIN CAPITAL LETTER G,1,1,2018,1,0
+rme,Latn,rme_Latn,Angloromani,z,Ll,LATIN SMALL LETTER Z,1,1,2018,1,0
+rme,Latn,rme_Latn,Angloromani,Y,Lu,LATIN CAPITAL LETTER Y,1,1,2018,1,0
+rme,Latn,rme_Latn,Angloromani,/,Po,SOLIDUS,1,1,2019,0,1

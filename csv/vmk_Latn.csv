@@ -1,0 +1,100 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2013_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2023_frequency
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,a,Ll,LATIN SMALL LETTER A,32075,5,"2013,2017,2018,2019,2023",2961,3085,3575,20436,2018
+vmk,Latn,vmk_Latn,Makhuwa-Shirima, ,Zs,SPACE,25215,5,"2013,2017,2018,2019,2023",2296,2355,2572,15703,2289
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,e,Ll,LATIN SMALL LETTER E,17516,5,"2013,2017,2018,2019,2023",1624,1757,1525,11424,1186
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,o,Ll,LATIN SMALL LETTER O,15172,5,"2013,2017,2018,2019,2023",1176,1489,1577,10055,875
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,i,Ll,LATIN SMALL LETTER I,12428,5,"2013,2017,2018,2019,2023",1136,1248,1447,7642,955
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,n,Ll,LATIN SMALL LETTER N,11423,5,"2013,2017,2018,2019,2023",924,1117,1201,7202,979
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,u,Ll,LATIN SMALL LETTER U,11358,5,"2013,2017,2018,2019,2023",1008,977,1087,7236,1050
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,h,Ll,LATIN SMALL LETTER H,9023,5,"2013,2017,2018,2019,2023",689,912,923,5676,823
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,w,Ll,LATIN SMALL LETTER W,7970,5,"2013,2017,2018,2019,2023",681,773,817,5000,699
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,l,Ll,LATIN SMALL LETTER L,7631,5,"2013,2017,2018,2019,2023",783,657,735,4754,702
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,t,Ll,LATIN SMALL LETTER T,7137,5,"2013,2017,2018,2019,2023",594,698,787,4410,648
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,k,Ll,LATIN SMALL LETTER K,6998,5,"2013,2017,2018,2019,2023",648,654,765,4333,598
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,m,Ll,LATIN SMALL LETTER M,6997,5,"2013,2017,2018,2019,2023",688,660,665,4581,403
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,r,Ll,LATIN SMALL LETTER R,6208,5,"2013,2017,2018,2019,2023",548,634,629,3966,431
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,y,Ll,LATIN SMALL LETTER Y,4467,5,"2013,2017,2018,2019,2023",414,507,466,2736,344
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,s,Ll,LATIN SMALL LETTER S,3378,5,"2013,2017,2018,2019,2023",272,242,370,2160,334
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,.,Po,FULL STOP,2909,5,"2013,2017,2018,2019,2023",271,284,316,1829,209
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,p,Ll,LATIN SMALL LETTER P,2408,5,"2013,2017,2018,2019,2023",182,188,263,1557,218
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,v,Ll,LATIN SMALL LETTER V,1868,5,"2013,2017,2018,2019,2023",203,188,168,1150,159
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,M,Lu,LATIN CAPITAL LETTER M,1780,5,"2013,2017,2018,2019,2023",170,146,184,1090,190
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,",",Po,COMMA,1710,5,"2013,2017,2018,2019,2023",172,143,166,1095,134
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,Y,Lu,LATIN CAPITAL LETTER Y,1023,5,"2013,2017,2018,2019,2023",42,87,91,718,85
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,:,Po,COLON,856,5,"2013,2017,2018,2019,2023",89,75,97,535,60
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,A,Lu,LATIN CAPITAL LETTER A,832,5,"2013,2017,2018,2019,2023",72,80,109,518,53
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,x,Ll,LATIN SMALL LETTER X,648,5,"2013,2017,2018,2019,2023",35,51,89,370,103
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,E,Lu,LATIN CAPITAL LETTER E,566,5,"2013,2017,2018,2019,2023",75,79,48,332,32
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,c,Ll,LATIN SMALL LETTER C,512,5,"2013,2017,2018,2019,2023",31,67,56,354,4
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,d,Ll,LATIN SMALL LETTER D,498,5,"2013,2017,2018,2019,2023",60,62,60,309,7
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,O,Lu,LATIN CAPITAL LETTER O,493,5,"2013,2017,2018,2019,2023",45,42,36,341,29
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,"""",Po,QUOTATION MARK,479,5,"2013,2017,2018,2019,2023",27,57,22,353,20
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,N,Lu,LATIN CAPITAL LETTER N,460,5,"2013,2017,2018,2019,2023",45,66,44,275,30
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,S,Lu,LATIN CAPITAL LETTER S,415,5,"2013,2017,2018,2019,2023",85,29,69,223,9
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,1,Nd,DIGIT ONE,408,5,"2013,2017,2018,2019,2023",53,20,50,234,51
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,b,Ll,LATIN SMALL LETTER B,387,5,"2013,2017,2018,2019,2023",21,27,19,274,46
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,|,Sm,VERTICAL LINE,320,3,"2017,2018,2019",0,40,40,240,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,g,Ll,LATIN SMALL LETTER G,301,5,"2013,2017,2018,2019,2023",10,20,38,227,6
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,I,Lu,LATIN CAPITAL LETTER I,245,5,"2013,2017,2018,2019,2023",53,19,49,118,6
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,2,Nd,DIGIT TWO,242,5,"2013,2017,2018,2019,2023",25,13,28,141,35
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,W,Lu,LATIN CAPITAL LETTER W,161,5,"2013,2017,2018,2019,2023",13,6,22,107,13
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,D,Lu,LATIN CAPITAL LETTER D,154,4,"2013,2017,2018,2019",48,31,13,62,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,-,Pd,HYPHEN-MINUS,150,5,"2013,2017,2018,2019,2023",19,3,22,92,14
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,K,Lu,LATIN CAPITAL LETTER K,148,5,"2013,2017,2018,2019,2023",10,6,25,82,25
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,B,Lu,LATIN CAPITAL LETTER B,144,5,"2013,2017,2018,2019,2023",24,15,13,79,13
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,V,Lu,LATIN CAPITAL LETTER V,140,5,"2013,2017,2018,2019,2023",11,16,12,90,11
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,P,Lu,LATIN CAPITAL LETTER P,132,4,"2017,2018,2019,2023",0,5,2,123,2
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,f,Ll,LATIN SMALL LETTER F,126,5,"2013,2017,2018,2019,2023",17,7,2,99,1
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,?,Po,QUESTION MARK,121,5,"2013,2017,2018,2019,2023",6,11,2,76,26
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,3,Nd,DIGIT THREE,112,5,"2013,2017,2018,2019,2023",12,4,15,55,26
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,4,Nd,DIGIT FOUR,105,5,"2013,2017,2018,2019,2023",7,5,13,66,14
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,T,Lu,LATIN CAPITAL LETTER T,96,5,"2013,2017,2018,2019,2023",6,8,8,64,10
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,H,Lu,LATIN CAPITAL LETTER H,95,5,"2013,2017,2018,2019,2023",4,24,12,53,2
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,R,Lu,LATIN CAPITAL LETTER R,80,2,"2013,2019",28,0,0,52,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,',Po,APOSTROPHE,76,5,"2013,2017,2018,2019,2023",16,18,4,33,5
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,5,Nd,DIGIT FIVE,74,5,"2013,2017,2018,2019,2023",11,3,8,42,10
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,G,Lu,LATIN CAPITAL LETTER G,68,4,"2013,2017,2018,2019",7,3,26,32,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,8,Nd,DIGIT EIGHT,67,5,"2013,2017,2018,2019,2023",6,4,6,34,17
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,0,Nd,DIGIT ZERO,67,5,"2013,2017,2018,2019,2023",7,4,12,31,13
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,63,1,2023,0,0,0,0,63
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,6,Nd,DIGIT SIX,62,5,"2013,2017,2018,2019,2023",6,2,12,33,9
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,L,Lu,LATIN CAPITAL LETTER L,61,5,"2013,2017,2018,2019,2023",2,1,3,53,2
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,7,Nd,DIGIT SEVEN,60,5,"2013,2017,2018,2019,2023",7,2,10,34,7
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,9,Nd,DIGIT NINE,56,5,"2013,2017,2018,2019,2023",5,2,5,35,9
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,),Pe,RIGHT PARENTHESIS,53,3,"2018,2019,2023",0,0,1,14,38
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,F,Lu,LATIN CAPITAL LETTER F,44,3,"2013,2018,2019",10,0,14,20,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,(,Ps,LEFT PARENTHESIS,43,3,"2018,2019,2023",0,0,1,5,37
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,á,Ll,LATIN SMALL LETTER A WITH ACUTE,41,4,"2017,2018,2019,2023",0,2,4,31,4
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,!,Po,EXCLAMATION MARK,37,5,"2013,2017,2018,2019,2023",1,5,3,23,5
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,z,Ll,LATIN SMALL LETTER Z,35,4,"2017,2018,2019,2023",0,2,2,21,10
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,é,Ll,LATIN SMALL LETTER E WITH ACUTE,32,4,"2013,2017,2018,2019",4,2,5,21,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,à,Ll,LATIN SMALL LETTER A WITH GRAVE,29,1,2023,0,0,0,0,29
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,23,2,"2019,2023",0,0,0,1,22
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,Ă,Lu,LATIN CAPITAL LETTER A WITH BREVE,23,1,2013,23,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,“,Pi,LEFT DOUBLE QUOTATION MARK,23,2,"2019,2023",0,0,0,2,21
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,j,Ll,LATIN SMALL LETTER J,23,2,"2019,2023",0,0,0,11,12
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,;,Po,SEMICOLON,22,4,"2017,2018,2019,2023",0,1,2,9,10
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,”,Pf,RIGHT DOUBLE QUOTATION MARK,21,2,"2019,2023",0,0,0,2,19
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,/,Po,SOLIDUS,20,2,"2019,2023",0,0,0,16,4
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,16,2,"2018,2019",0,0,7,9,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,15,1,2023,0,0,0,0,15
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,è,Ll,LATIN SMALL LETTER E WITH GRAVE,13,1,2023,0,0,0,0,13
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,í,Ll,LATIN SMALL LETTER I WITH ACUTE,12,1,2019,0,0,0,12,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,X,Lu,LATIN CAPITAL LETTER X,12,4,"2013,2017,2018,2019",2,1,1,8,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,J,Lu,LATIN CAPITAL LETTER J,11,3,"2017,2018,2019",0,1,2,8,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,10,2,"2018,2019",0,0,2,8,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,Ą,Lu,LATIN CAPITAL LETTER A WITH OGONEK,10,1,2013,10,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,C,Lu,LATIN CAPITAL LETTER C,5,1,2019,0,0,0,5,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,U,Lu,LATIN CAPITAL LETTER U,5,2,"2013,2019",2,0,0,3,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ș,Ll,LATIN SMALL LETTER S WITH COMMA BELOW,5,1,2013,5,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,–,Pd,EN DASH,5,1,2023,0,0,0,0,5
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,’,Pf,RIGHT SINGLE QUOTATION MARK,5,1,2023,0,0,0,0,5
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,_,Pc,LOW LINE,4,1,2019,0,0,0,4,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,©,So,COPYRIGHT SIGN,4,1,2013,4,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,Q,Lu,LATIN CAPITAL LETTER Q,3,3,"2017,2018,2019",0,1,1,1,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,¬,Sm,NOT SIGN,1,1,2023,0,0,0,0,1
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ã,Ll,LATIN SMALL LETTER A WITH TILDE,1,1,2019,0,0,0,1,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,å,Ll,LATIN SMALL LETTER A WITH RING ABOVE,1,1,2013,1,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,Ò,Lu,LATIN CAPITAL LETTER O WITH GRAVE,1,1,2023,0,0,0,0,1
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,ł,Ll,LATIN SMALL LETTER L WITH STROKE,1,1,2013,1,0,0,0,0
+vmk,Latn,vmk_Latn,Makhuwa-Shirima,q,Ll,LATIN SMALL LETTER Q,1,1,2023,0,0,0,0,1

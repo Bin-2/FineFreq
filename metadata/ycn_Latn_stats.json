@@ -1,0 +1,19 @@
+{
+  "language_code": "ycn_Latn",
+  "iso_639_3": "ycn",
+  "script": "Latn",
+  "language_name": "Yucuna",
+  "total_characters": 95,
+  "total_frequency": 310111,
+  "years_covered": [
+    "2013",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:16.176608"
+}

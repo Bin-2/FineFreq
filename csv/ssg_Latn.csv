@@ -1,0 +1,89 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2020_frequency,year_2024_frequency
+ssg,Latn,ssg_Latn,Seimat, ,Zs,SPACE,198382,3,"2018,2020,2024",197695,414,273
+ssg,Latn,ssg_Latn,Seimat,a,Ll,LATIN SMALL LETTER A,151914,3,"2018,2020,2024",151428,280,206
+ssg,Latn,ssg_Latn,Seimat,i,Ll,LATIN SMALL LETTER I,103361,3,"2018,2020,2024",103004,171,186
+ssg,Latn,ssg_Latn,Seimat,e,Ll,LATIN SMALL LETTER E,87612,3,"2018,2020,2024",87311,195,106
+ssg,Latn,ssg_Latn,Seimat,n,Ll,LATIN SMALL LETTER N,65820,3,"2018,2020,2024",65490,254,76
+ssg,Latn,ssg_Latn,Seimat,t,Ll,LATIN SMALL LETTER T,62782,3,"2018,2020,2024",62504,173,105
+ssg,Latn,ssg_Latn,Seimat,l,Ll,LATIN SMALL LETTER L,51459,3,"2018,2020,2024",51218,189,52
+ssg,Latn,ssg_Latn,Seimat,o,Ll,LATIN SMALL LETTER O,49881,3,"2018,2020,2024",49686,154,41
+ssg,Latn,ssg_Latn,Seimat,h,Ll,LATIN SMALL LETTER H,43382,2,"2018,2024",43350,0,32
+ssg,Latn,ssg_Latn,Seimat,k,Ll,LATIN SMALL LETTER K,43331,2,"2018,2024",43260,0,71
+ssg,Latn,ssg_Latn,Seimat,u,Ll,LATIN SMALL LETTER U,42331,2,"2018,2024",42259,0,72
+ssg,Latn,ssg_Latn,Seimat,s,Ll,LATIN SMALL LETTER S,37297,2,"2018,2024",37274,0,23
+ssg,Latn,ssg_Latn,Seimat,m,Ll,LATIN SMALL LETTER M,27167,2,"2018,2024",27104,0,63
+ssg,Latn,ssg_Latn,Seimat,p,Ll,LATIN SMALL LETTER P,18421,3,"2018,2020,2024",18237,162,22
+ssg,Latn,ssg_Latn,Seimat,w,Ll,LATIN SMALL LETTER W,17431,2,"2018,2024",17415,0,16
+ssg,Latn,ssg_Latn,Seimat,.,Po,FULL STOP,12686,2,"2018,2024",12667,0,19
+ssg,Latn,ssg_Latn,Seimat,r,Ll,LATIN SMALL LETTER R,12058,2,"2018,2024",12052,0,6
+ssg,Latn,ssg_Latn,Seimat,g,Ll,LATIN SMALL LETTER G,9292,2,"2018,2024",9282,0,10
+ssg,Latn,ssg_Latn,Seimat,x,Ll,LATIN SMALL LETTER X,8630,3,"2018,2020,2024",8527,53,50
+ssg,Latn,ssg_Latn,Seimat,",",Po,COMMA,8606,2,"2018,2024",8579,0,27
+ssg,Latn,ssg_Latn,Seimat,H,Lu,LATIN CAPITAL LETTER H,6241,2,"2018,2024",6238,0,3
+ssg,Latn,ssg_Latn,Seimat,T,Lu,LATIN CAPITAL LETTER T,5938,2,"2018,2024",5934,0,4
+ssg,Latn,ssg_Latn,Seimat,J,Lu,LATIN CAPITAL LETTER J,4089,1,2018,4089,0,0
+ssg,Latn,ssg_Latn,Seimat,d,Ll,LATIN SMALL LETTER D,3991,2,"2018,2024",3989,0,2
+ssg,Latn,ssg_Latn,Seimat,1,Nd,DIGIT ONE,3713,3,"2018,2020,2024",3708,3,2
+ssg,Latn,ssg_Latn,Seimat,S,Lu,LATIN CAPITAL LETTER S,3562,2,"2018,2024",3548,0,14
+ssg,Latn,ssg_Latn,Seimat,K,Lu,LATIN CAPITAL LETTER K,3450,2,"2018,2024",3446,0,4
+ssg,Latn,ssg_Latn,Seimat,b,Ll,LATIN SMALL LETTER B,2936,2,"2018,2024",2933,0,3
+ssg,Latn,ssg_Latn,Seimat,N,Lu,LATIN CAPITAL LETTER N,2774,2,"2018,2024",2770,0,4
+ssg,Latn,ssg_Latn,Seimat,c,Ll,LATIN SMALL LETTER C,2617,1,2018,2617,0,0
+ssg,Latn,ssg_Latn,Seimat,A,Lu,LATIN CAPITAL LETTER A,2594,2,"2018,2024",2587,0,7
+ssg,Latn,ssg_Latn,Seimat,V,Lu,LATIN CAPITAL LETTER V,2300,1,2018,2300,0,0
+ssg,Latn,ssg_Latn,Seimat,2,Nd,DIGIT TWO,2246,2,"2018,2024",2244,0,2
+ssg,Latn,ssg_Latn,Seimat,I,Lu,LATIN CAPITAL LETTER I,2232,2,"2018,2024",2231,0,1
+ssg,Latn,ssg_Latn,Seimat,E,Lu,LATIN CAPITAL LETTER E,1912,1,2018,1912,0,0
+ssg,Latn,ssg_Latn,Seimat,f,Ll,LATIN SMALL LETTER F,1796,2,"2018,2024",1795,0,1
+ssg,Latn,ssg_Latn,Seimat,P,Lu,LATIN CAPITAL LETTER P,1792,2,"2018,2024",1788,0,4
+ssg,Latn,ssg_Latn,Seimat,*,Po,ASTERISK,1774,1,2018,1774,0,0
+ssg,Latn,ssg_Latn,Seimat,“,Pi,LEFT DOUBLE QUOTATION MARK,1464,1,2018,1464,0,0
+ssg,Latn,ssg_Latn,Seimat,3,Nd,DIGIT THREE,1378,3,"2018,2020,2024",1375,1,2
+ssg,Latn,ssg_Latn,Seimat,y,Ll,LATIN SMALL LETTER Y,1355,2,"2018,2024",1354,0,1
+ssg,Latn,ssg_Latn,Seimat,M,Lu,LATIN CAPITAL LETTER M,1332,2,"2018,2024",1326,0,6
+ssg,Latn,ssg_Latn,Seimat,',Po,APOSTROPHE,1324,1,2018,1324,0,0
+ssg,Latn,ssg_Latn,Seimat,v,Ll,LATIN SMALL LETTER V,1312,2,"2018,2024",1311,0,1
+ssg,Latn,ssg_Latn,Seimat,L,Lu,LATIN CAPITAL LETTER L,1263,2,"2018,2024",1256,0,7
+ssg,Latn,ssg_Latn,Seimat,”,Pf,RIGHT DOUBLE QUOTATION MARK,1131,1,2018,1131,0,0
+ssg,Latn,ssg_Latn,Seimat,G,Lu,LATIN CAPITAL LETTER G,1072,2,"2018,2024",1071,0,1
+ssg,Latn,ssg_Latn,Seimat,4,Nd,DIGIT FOUR,1049,2,"2018,2020",1048,1,0
+ssg,Latn,ssg_Latn,Seimat,0,Nd,DIGIT ZERO,916,3,"2018,2020,2024",910,1,5
+ssg,Latn,ssg_Latn,Seimat,U,Lu,LATIN CAPITAL LETTER U,885,1,2018,885,0,0
+ssg,Latn,ssg_Latn,Seimat,5,Nd,DIGIT FIVE,817,3,"2018,2020,2024",815,1,1
+ssg,Latn,ssg_Latn,Seimat,8,Nd,DIGIT EIGHT,817,2,"2018,2020",816,1,0
+ssg,Latn,ssg_Latn,Seimat,6,Nd,DIGIT SIX,685,2,"2018,2020",684,1,0
+ssg,Latn,ssg_Latn,Seimat,C,Lu,LATIN CAPITAL LETTER C,669,1,2018,669,0,0
+ssg,Latn,ssg_Latn,Seimat,7,Nd,DIGIT SEVEN,630,3,"2018,2020,2024",627,1,2
+ssg,Latn,ssg_Latn,Seimat,9,Nd,DIGIT NINE,589,1,2018,589,0,0
+ssg,Latn,ssg_Latn,Seimat,B,Lu,LATIN CAPITAL LETTER B,586,1,2018,586,0,0
+ssg,Latn,ssg_Latn,Seimat,W,Lu,LATIN CAPITAL LETTER W,566,2,"2018,2024",564,0,2
+ssg,Latn,ssg_Latn,Seimat,-,Pd,HYPHEN-MINUS,473,2,"2018,2020",469,4,0
+ssg,Latn,ssg_Latn,Seimat,?,Po,QUESTION MARK,465,1,2018,465,0,0
+ssg,Latn,ssg_Latn,Seimat,D,Lu,LATIN CAPITAL LETTER D,401,1,2018,401,0,0
+ssg,Latn,ssg_Latn,Seimat,R,Lu,LATIN CAPITAL LETTER R,340,1,2018,340,0,0
+ssg,Latn,ssg_Latn,Seimat,:,Po,COLON,306,1,2018,306,0,0
+ssg,Latn,ssg_Latn,Seimat,!,Po,EXCLAMATION MARK,284,1,2018,284,0,0
+ssg,Latn,ssg_Latn,Seimat,F,Lu,LATIN CAPITAL LETTER F,245,1,2018,245,0,0
+ssg,Latn,ssg_Latn,Seimat,`,Sk,GRAVE ACCENT,212,1,2018,212,0,0
+ssg,Latn,ssg_Latn,Seimat,q,Ll,LATIN SMALL LETTER Q,212,1,2018,212,0,0
+ssg,Latn,ssg_Latn,Seimat,©,So,COPYRIGHT SIGN,212,1,2018,212,0,0
+ssg,Latn,ssg_Latn,Seimat,’,Pf,RIGHT SINGLE QUOTATION MARK,197,1,2018,197,0,0
+ssg,Latn,ssg_Latn,Seimat,‘,Pi,LEFT SINGLE QUOTATION MARK,196,1,2018,196,0,0
+ssg,Latn,ssg_Latn,Seimat,),Pe,RIGHT PARENTHESIS,166,1,2018,166,0,0
+ssg,Latn,ssg_Latn,Seimat,(,Ps,LEFT PARENTHESIS,166,1,2018,166,0,0
+ssg,Latn,ssg_Latn,Seimat,O,Lu,LATIN CAPITAL LETTER O,105,1,2018,105,0,0
+ssg,Latn,ssg_Latn,Seimat,•,Po,BULLET,90,1,2018,90,0,0
+ssg,Latn,ssg_Latn,Seimat,&,Po,AMPERSAND,90,1,2018,90,0,0
+ssg,Latn,ssg_Latn,Seimat,Y,Lu,LATIN CAPITAL LETTER Y,90,1,2018,90,0,0
+ssg,Latn,ssg_Latn,Seimat,X,Lu,LATIN CAPITAL LETTER X,45,2,"2018,2024",44,0,1
+ssg,Latn,ssg_Latn,Seimat,j,Ll,LATIN SMALL LETTER J,27,1,2018,27,0,0
+ssg,Latn,ssg_Latn,Seimat,в,Ll,CYRILLIC SMALL LETTER VE,16,1,2020,0,16,0
+ssg,Latn,ssg_Latn,Seimat,С,Lu,CYRILLIC CAPITAL LETTER ES,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,л,Ll,CYRILLIC SMALL LETTER EL,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,о,Ll,CYRILLIC SMALL LETTER O,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,а,Ll,CYRILLIC SMALL LETTER A,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,з,Ll,CYRILLIC SMALL LETTER ZE,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,б,Ll,CYRILLIC SMALL LETTER BE,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,у,Ll,CYRILLIC SMALL LETTER U,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,к,Ll,CYRILLIC SMALL LETTER KA,8,1,2020,0,8,0
+ssg,Latn,ssg_Latn,Seimat,;,Po,SEMICOLON,5,1,2018,5,0,0

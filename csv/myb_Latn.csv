@@ -1,0 +1,72 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2019_frequency,year_2022_frequency
+myb,Latn,myb_Latn,Mbay, ,Zs,SPACE,1800,3,"2016,2019,2022",374,602,824
+myb,Latn,myb_Latn,Mbay,a,Ll,LATIN SMALL LETTER A,900,3,"2016,2019,2022",228,272,400
+myb,Latn,myb_Latn,Mbay,n,Ll,LATIN SMALL LETTER N,689,3,"2016,2019,2022",124,257,308
+myb,Latn,myb_Latn,Mbay,k,Ll,LATIN SMALL LETTER K,527,3,"2016,2019,2022",79,253,195
+myb,Latn,myb_Latn,Mbay,ï,Ll,LATIN SMALL LETTER I WITH DIAERESIS,426,3,"2016,2019,2022",47,200,179
+myb,Latn,myb_Latn,Mbay,o,Ll,LATIN SMALL LETTER O,417,3,"2016,2019,2022",174,90,153
+myb,Latn,myb_Latn,Mbay,d,Ll,LATIN SMALL LETTER D,393,3,"2016,2019,2022",54,164,175
+myb,Latn,myb_Latn,Mbay,t,Ll,LATIN SMALL LETTER T,391,3,"2016,2019,2022",75,138,178
+myb,Latn,myb_Latn,Mbay,e,Ll,LATIN SMALL LETTER E,324,3,"2016,2019,2022",83,75,166
+myb,Latn,myb_Latn,Mbay,g,Ll,LATIN SMALL LETTER G,260,3,"2016,2019,2022",42,101,117
+myb,Latn,myb_Latn,Mbay,i,Ll,LATIN SMALL LETTER I,258,3,"2016,2019,2022",81,69,108
+myb,Latn,myb_Latn,Mbay,l,Ll,LATIN SMALL LETTER L,210,3,"2016,2019,2022",50,61,99
+myb,Latn,myb_Latn,Mbay,m,Ll,LATIN SMALL LETTER M,185,3,"2016,2019,2022",40,60,85
+myb,Latn,myb_Latn,Mbay,j,Ll,LATIN SMALL LETTER J,172,3,"2016,2019,2022",73,37,62
+myb,Latn,myb_Latn,Mbay,ø,Ll,LATIN SMALL LETTER O WITH STROKE,170,3,"2016,2019,2022",23,92,55
+myb,Latn,myb_Latn,Mbay,",",Po,COMMA,161,3,"2016,2019,2022",52,46,63
+myb,Latn,myb_Latn,Mbay,u,Ll,LATIN SMALL LETTER U,160,3,"2016,2019,2022",20,79,61
+myb,Latn,myb_Latn,Mbay,r,Ll,LATIN SMALL LETTER R,131,3,"2016,2019,2022",50,32,49
+myb,Latn,myb_Latn,Mbay,b,Ll,LATIN SMALL LETTER B,118,3,"2016,2019,2022",42,41,35
+myb,Latn,myb_Latn,Mbay,h,Ll,LATIN SMALL LETTER H,99,3,"2016,2019,2022",15,55,29
+myb,Latn,myb_Latn,Mbay,.,Po,FULL STOP,86,3,"2016,2019,2022",13,40,33
+myb,Latn,myb_Latn,Mbay,y,Ll,LATIN SMALL LETTER Y,82,3,"2016,2019,2022",7,44,31
+myb,Latn,myb_Latn,Mbay,w,Ll,LATIN SMALL LETTER W,77,3,"2016,2019,2022",11,37,29
+myb,Latn,myb_Latn,Mbay,s,Ll,LATIN SMALL LETTER S,74,3,"2016,2019,2022",42,9,23
+myb,Latn,myb_Latn,Mbay,ð,Ll,LATIN SMALL LETTER ETH,66,3,"2016,2019,2022",5,23,38
+myb,Latn,myb_Latn,Mbay,',Po,APOSTROPHE,66,2,"2019,2022",0,17,49
+myb,Latn,myb_Latn,Mbay,L,Lu,LATIN CAPITAL LETTER L,61,3,"2016,2019,2022",2,41,18
+myb,Latn,myb_Latn,Mbay,J,Lu,LATIN CAPITAL LETTER J,53,2,"2016,2022",33,0,20
+myb,Latn,myb_Latn,Mbay,1,Nd,DIGIT ONE,52,3,"2016,2019,2022",14,15,23
+myb,Latn,myb_Latn,Mbay,ã,Ll,LATIN SMALL LETTER A WITH TILDE,48,3,"2016,2019,2022",7,11,30
+myb,Latn,myb_Latn,Mbay,N,Lu,LATIN CAPITAL LETTER N,40,3,"2016,2019,2022",10,9,21
+myb,Latn,myb_Latn,Mbay,2,Nd,DIGIT TWO,38,3,"2016,2019,2022",9,13,16
+myb,Latn,myb_Latn,Mbay,õ,Ll,LATIN SMALL LETTER O WITH TILDE,37,3,"2016,2019,2022",6,14,17
+myb,Latn,myb_Latn,Mbay,þ,Ll,LATIN SMALL LETTER THORN,37,3,"2016,2019,2022",14,15,8
+myb,Latn,myb_Latn,Mbay,:,Po,COLON,32,3,"2016,2019,2022",4,12,16
+myb,Latn,myb_Latn,Mbay,A,Lu,LATIN CAPITAL LETTER A,27,3,"2016,2019,2022",23,1,3
+myb,Latn,myb_Latn,Mbay,K,Lu,LATIN CAPITAL LETTER K,24,3,"2016,2019,2022",4,12,8
+myb,Latn,myb_Latn,Mbay,3,Nd,DIGIT THREE,22,3,"2016,2019,2022",3,5,14
+myb,Latn,myb_Latn,Mbay,D,Lu,LATIN CAPITAL LETTER D,20,3,"2016,2019,2022",7,2,11
+myb,Latn,myb_Latn,Mbay,M,Lu,LATIN CAPITAL LETTER M,16,2,"2016,2022",12,0,4
+myb,Latn,myb_Latn,Mbay,p,Ll,LATIN SMALL LETTER P,16,2,"2016,2022",9,0,7
+myb,Latn,myb_Latn,Mbay,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,15,3,"2016,2019,2022",7,2,6
+myb,Latn,myb_Latn,Mbay,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,14,3,"2016,2019,2022",2,5,7
+myb,Latn,myb_Latn,Mbay,;,Po,SEMICOLON,13,2,"2016,2022",5,0,8
+myb,Latn,myb_Latn,Mbay,6,Nd,DIGIT SIX,13,3,"2016,2019,2022",2,3,8
+myb,Latn,myb_Latn,Mbay,5,Nd,DIGIT FIVE,13,3,"2016,2019,2022",3,3,7
+myb,Latn,myb_Latn,Mbay,E,Lu,LATIN CAPITAL LETTER E,12,1,2016,12,0,0
+myb,Latn,myb_Latn,Mbay,à,Ll,LATIN SMALL LETTER A WITH GRAVE,11,1,2019,0,11,0
+myb,Latn,myb_Latn,Mbay,4,Nd,DIGIT FOUR,11,3,"2016,2019,2022",3,3,5
+myb,Latn,myb_Latn,Mbay,O,Lu,LATIN CAPITAL LETTER O,11,3,"2016,2019,2022",6,2,3
+myb,Latn,myb_Latn,Mbay,B,Lu,LATIN CAPITAL LETTER B,10,2,"2016,2022",9,0,1
+myb,Latn,myb_Latn,Mbay,8,Nd,DIGIT EIGHT,9,3,"2016,2019,2022",2,3,4
+myb,Latn,myb_Latn,Mbay,7,Nd,DIGIT SEVEN,9,3,"2016,2019,2022",2,3,4
+myb,Latn,myb_Latn,Mbay,’,Pf,RIGHT SINGLE QUOTATION MARK,9,1,2016,9,0,0
+myb,Latn,myb_Latn,Mbay,R,Lu,LATIN CAPITAL LETTER R,9,2,"2016,2022",4,0,5
+myb,Latn,myb_Latn,Mbay,S,Lu,LATIN CAPITAL LETTER S,9,2,"2016,2022",8,0,1
+myb,Latn,myb_Latn,Mbay,9,Nd,DIGIT NINE,9,3,"2016,2019,2022",2,3,4
+myb,Latn,myb_Latn,Mbay,0,Nd,DIGIT ZERO,8,3,"2016,2019,2022",2,3,3
+myb,Latn,myb_Latn,Mbay,I,Lu,LATIN CAPITAL LETTER I,7,2,"2016,2022",6,0,1
+myb,Latn,myb_Latn,Mbay,T,Lu,LATIN CAPITAL LETTER T,6,3,"2016,2019,2022",2,2,2
+myb,Latn,myb_Latn,Mbay,Î,Lu,LATIN CAPITAL LETTER I WITH CIRCUMFLEX,5,2,"2019,2022",0,1,4
+myb,Latn,myb_Latn,Mbay,é,Ll,LATIN SMALL LETTER E WITH ACUTE,5,2,"2019,2022",0,2,3
+myb,Latn,myb_Latn,Mbay,?,Po,QUESTION MARK,5,1,2022,0,0,5
+myb,Latn,myb_Latn,Mbay,á,Ll,LATIN SMALL LETTER A WITH ACUTE,3,1,2019,0,3,0
+myb,Latn,myb_Latn,Mbay,G,Lu,LATIN CAPITAL LETTER G,3,2,"2016,2022",1,0,2
+myb,Latn,myb_Latn,Mbay,P,Lu,LATIN CAPITAL LETTER P,3,2,"2016,2022",2,0,1
+myb,Latn,myb_Latn,Mbay,(,Ps,LEFT PARENTHESIS,2,1,2022,0,0,2
+myb,Latn,myb_Latn,Mbay,),Pe,RIGHT PARENTHESIS,2,1,2022,0,0,2
+myb,Latn,myb_Latn,Mbay,U,Lu,LATIN CAPITAL LETTER U,1,1,2016,1,0,0
+myb,Latn,myb_Latn,Mbay,Õ,Lu,LATIN CAPITAL LETTER O WITH TILDE,1,1,2019,0,1,0
+myb,Latn,myb_Latn,Mbay,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,1,1,2019,0,1,0

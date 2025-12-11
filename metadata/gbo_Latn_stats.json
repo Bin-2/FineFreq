@@ -1,0 +1,17 @@
+{
+  "language_code": "gbo_Latn",
+  "iso_639_3": "gbo",
+  "script": "Latn",
+  "language_name": "Northern Grebo",
+  "total_characters": 114,
+  "total_frequency": 1420092,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:54.016529"
+}

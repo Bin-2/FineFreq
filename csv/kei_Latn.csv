@@ -1,0 +1,58 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2021_frequency,year_2022_frequency
+kei,Latn,kei_Latn,Kei, ,Zs,SPACE,908,2,"2021,2022",474,434
+kei,Latn,kei_Latn,Kei,a,Ll,LATIN SMALL LETTER A,654,2,"2021,2022",335,319
+kei,Latn,kei_Latn,Kei,n,Ll,LATIN SMALL LETTER N,406,2,"2021,2022",224,182
+kei,Latn,kei_Latn,Kei,e,Ll,LATIN SMALL LETTER E,317,2,"2021,2022",164,153
+kei,Latn,kei_Latn,Kei,i,Ll,LATIN SMALL LETTER I,274,2,"2021,2022",138,136
+kei,Latn,kei_Latn,Kei,r,Ll,LATIN SMALL LETTER R,212,2,"2021,2022",120,92
+kei,Latn,kei_Latn,Kei,t,Ll,LATIN SMALL LETTER T,189,2,"2021,2022",90,99
+kei,Latn,kei_Latn,Kei,o,Ll,LATIN SMALL LETTER O,189,2,"2021,2022",88,101
+kei,Latn,kei_Latn,Kei,u,Ll,LATIN SMALL LETTER U,180,2,"2021,2022",99,81
+kei,Latn,kei_Latn,Kei,l,Ll,LATIN SMALL LETTER L,109,2,"2021,2022",46,63
+kei,Latn,kei_Latn,Kei,d,Ll,LATIN SMALL LETTER D,102,2,"2021,2022",47,55
+kei,Latn,kei_Latn,Kei,v,Ll,LATIN SMALL LETTER V,101,2,"2021,2022",52,49
+kei,Latn,kei_Latn,Kei,k,Ll,LATIN SMALL LETTER K,101,2,"2021,2022",56,45
+kei,Latn,kei_Latn,Kei,m,Ll,LATIN SMALL LETTER M,100,2,"2021,2022",48,52
+kei,Latn,kei_Latn,Kei,h,Ll,LATIN SMALL LETTER H,88,2,"2021,2022",43,45
+kei,Latn,kei_Latn,Kei,b,Ll,LATIN SMALL LETTER B,84,2,"2021,2022",42,42
+kei,Latn,kei_Latn,Kei,s,Ll,LATIN SMALL LETTER S,78,2,"2021,2022",47,31
+kei,Latn,kei_Latn,Kei,f,Ll,LATIN SMALL LETTER F,67,2,"2021,2022",32,35
+kei,Latn,kei_Latn,Kei,g,Ll,LATIN SMALL LETTER G,48,2,"2021,2022",24,24
+kei,Latn,kei_Latn,Kei,w,Ll,LATIN SMALL LETTER W,40,2,"2021,2022",25,15
+kei,Latn,kei_Latn,Kei,",",Po,COMMA,40,2,"2021,2022",19,21
+kei,Latn,kei_Latn,Kei,A,Lu,LATIN CAPITAL LETTER A,39,2,"2021,2022",19,20
+kei,Latn,kei_Latn,Kei,N,Lu,LATIN CAPITAL LETTER N,38,2,"2021,2022",28,10
+kei,Latn,kei_Latn,Kei,M,Lu,LATIN CAPITAL LETTER M,36,2,"2021,2022",17,19
+kei,Latn,kei_Latn,Kei,W,Lu,LATIN CAPITAL LETTER W,34,2,"2021,2022",18,16
+kei,Latn,kei_Latn,Kei,I,Lu,LATIN CAPITAL LETTER I,32,2,"2021,2022",16,16
+kei,Latn,kei_Latn,Kei,L,Lu,LATIN CAPITAL LETTER L,29,2,"2021,2022",11,18
+kei,Latn,kei_Latn,Kei,y,Ll,LATIN SMALL LETTER Y,29,2,"2021,2022",12,17
+kei,Latn,kei_Latn,Kei,T,Lu,LATIN CAPITAL LETTER T,26,2,"2021,2022",14,12
+kei,Latn,kei_Latn,Kei,S,Lu,LATIN CAPITAL LETTER S,25,2,"2021,2022",10,15
+kei,Latn,kei_Latn,Kei,.,Po,FULL STOP,22,2,"2021,2022",9,13
+kei,Latn,kei_Latn,Kei,K,Lu,LATIN CAPITAL LETTER K,21,2,"2021,2022",7,14
+kei,Latn,kei_Latn,Kei,R,Lu,LATIN CAPITAL LETTER R,19,2,"2021,2022",10,9
+kei,Latn,kei_Latn,Kei,U,Lu,LATIN CAPITAL LETTER U,18,2,"2021,2022",11,7
+kei,Latn,kei_Latn,Kei,’,Pf,RIGHT SINGLE QUOTATION MARK,15,1,2022,0,15
+kei,Latn,kei_Latn,Kei,H,Lu,LATIN CAPITAL LETTER H,14,2,"2021,2022",6,8
+kei,Latn,kei_Latn,Kei,E,Lu,LATIN CAPITAL LETTER E,13,2,"2021,2022",12,1
+kei,Latn,kei_Latn,Kei,D,Lu,LATIN CAPITAL LETTER D,13,2,"2021,2022",9,4
+kei,Latn,kei_Latn,Kei,O,Lu,LATIN CAPITAL LETTER O,13,2,"2021,2022",9,4
+kei,Latn,kei_Latn,Kei,Y,Lu,LATIN CAPITAL LETTER Y,13,2,"2021,2022",4,9
+kei,Latn,kei_Latn,Kei,j,Ll,LATIN SMALL LETTER J,12,2,"2021,2022",5,7
+kei,Latn,kei_Latn,Kei,B,Lu,LATIN CAPITAL LETTER B,10,2,"2021,2022",6,4
+kei,Latn,kei_Latn,Kei,V,Lu,LATIN CAPITAL LETTER V,10,1,2021,10,0
+kei,Latn,kei_Latn,Kei,2,Nd,DIGIT TWO,5,2,"2021,2022",2,3
+kei,Latn,kei_Latn,Kei,G,Lu,LATIN CAPITAL LETTER G,5,2,"2021,2022",3,2
+kei,Latn,kei_Latn,Kei,P,Lu,LATIN CAPITAL LETTER P,4,2,"2021,2022",1,3
+kei,Latn,kei_Latn,Kei,-,Pd,HYPHEN-MINUS,4,2,"2021,2022",3,1
+kei,Latn,kei_Latn,Kei,p,Ll,LATIN SMALL LETTER P,4,2,"2021,2022",1,3
+kei,Latn,kei_Latn,Kei,J,Lu,LATIN CAPITAL LETTER J,2,2,"2021,2022",1,1
+kei,Latn,kei_Latn,Kei,0,Nd,DIGIT ZERO,2,2,"2021,2022",1,1
+kei,Latn,kei_Latn,Kei,–,Pd,EN DASH,2,2,"2021,2022",1,1
+kei,Latn,kei_Latn,Kei,F,Lu,LATIN CAPITAL LETTER F,1,1,2021,1,0
+kei,Latn,kei_Latn,Kei,1,Nd,DIGIT ONE,1,1,2021,1,0
+kei,Latn,kei_Latn,Kei,8,Nd,DIGIT EIGHT,1,1,2021,1,0
+kei,Latn,kei_Latn,Kei,;,Po,SEMICOLON,1,1,2022,0,1
+kei,Latn,kei_Latn,Kei,c,Ll,LATIN SMALL LETTER C,1,1,2022,0,1
+kei,Latn,kei_Latn,Kei,:,Po,COLON,1,1,2022,0,1

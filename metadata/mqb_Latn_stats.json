@@ -1,0 +1,20 @@
+{
+  "language_code": "mqb_Latn",
+  "iso_639_3": "mqb",
+  "script": "Latn",
+  "language_name": "Mbuko",
+  "total_characters": 119,
+  "total_frequency": 1688212,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2019",
+    "2020",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:04.287775"
+}

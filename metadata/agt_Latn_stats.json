@@ -1,0 +1,18 @@
+{
+  "language_code": "agt_Latn",
+  "iso_639_3": "agt",
+  "script": "Latn",
+  "language_name": "Central Cagayan Agta",
+  "total_characters": 72,
+  "total_frequency": 403630,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.628353"
+}

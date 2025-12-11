@@ -1,0 +1,18 @@
+{
+  "language_code": "kjs_Latn",
+  "iso_639_3": "kjs",
+  "script": "Latn",
+  "language_name": "East Kewa",
+  "total_characters": 80,
+  "total_frequency": 1455642,
+  "years_covered": [
+    "2013",
+    "2018",
+    "2019",
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:59.532890"
+}

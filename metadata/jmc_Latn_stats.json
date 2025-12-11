@@ -1,0 +1,15 @@
+{
+  "language_code": "jmc_Latn",
+  "iso_639_3": "jmc",
+  "script": "Latn",
+  "language_name": "Machame",
+  "total_characters": 77,
+  "total_frequency": 131735,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:58.435084"
+}

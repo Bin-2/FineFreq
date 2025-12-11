@@ -1,0 +1,109 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2020_frequency,year_2023_frequency
+bbk,Latn,bbk_Latn,Babanki, ,Zs,SPACE,1420,2,"2020,2023",1089,331
+bbk,Latn,bbk_Latn,Babanki,n,Ll,LATIN SMALL LETTER N,531,2,"2020,2023",441,90
+bbk,Latn,bbk_Latn,Babanki,ə,Ll,LATIN SMALL LETTER SCHWA,449,2,"2020,2023",306,143
+bbk,Latn,bbk_Latn,Babanki,a,Ll,LATIN SMALL LETTER A,366,2,"2020,2023",302,64
+bbk,Latn,bbk_Latn,Babanki,e,Ll,LATIN SMALL LETTER E,296,2,"2020,2023",239,57
+bbk,Latn,bbk_Latn,Babanki,t,Ll,LATIN SMALL LETTER T,293,2,"2020,2023",258,35
+bbk,Latn,bbk_Latn,Babanki,o,Ll,LATIN SMALL LETTER O,222,2,"2020,2023",184,38
+bbk,Latn,bbk_Latn,Babanki,s,Ll,LATIN SMALL LETTER S,219,2,"2020,2023",185,34
+bbk,Latn,bbk_Latn,Babanki,i,Ll,LATIN SMALL LETTER I,215,2,"2020,2023",172,43
+bbk,Latn,bbk_Latn,Babanki,y,Ll,LATIN SMALL LETTER Y,208,2,"2020,2023",172,36
+bbk,Latn,bbk_Latn,Babanki,h,Ll,LATIN SMALL LETTER H,205,2,"2020,2023",177,28
+bbk,Latn,bbk_Latn,Babanki,ʼ,Lm,MODIFIER LETTER APOSTROPHE,195,2,"2020,2023",162,33
+bbk,Latn,bbk_Latn,Babanki,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,177,2,"2020,2023",165,12
+bbk,Latn,bbk_Latn,Babanki,l,Ll,LATIN SMALL LETTER L,175,2,"2020,2023",150,25
+bbk,Latn,bbk_Latn,Babanki,w,Ll,LATIN SMALL LETTER W,173,2,"2020,2023",119,54
+bbk,Latn,bbk_Latn,Babanki,d,Ll,LATIN SMALL LETTER D,167,2,"2020,2023",147,20
+bbk,Latn,bbk_Latn,Babanki,m,Ll,LATIN SMALL LETTER M,159,2,"2020,2023",113,46
+bbk,Latn,bbk_Latn,Babanki,k,Ll,LATIN SMALL LETTER K,141,2,"2020,2023",112,29
+bbk,Latn,bbk_Latn,Babanki,à,Ll,LATIN SMALL LETTER A WITH GRAVE,133,2,"2020,2023",116,17
+bbk,Latn,bbk_Latn,Babanki,g,Ll,LATIN SMALL LETTER G,117,2,"2020,2023",92,25
+bbk,Latn,bbk_Latn,Babanki,v,Ll,LATIN SMALL LETTER V,110,2,"2020,2023",96,14
+bbk,Latn,bbk_Latn,Babanki,.,Po,FULL STOP,95,2,"2020,2023",72,23
+bbk,Latn,bbk_Latn,Babanki,̀,Mn,COMBINING GRAVE ACCENT,93,2,"2020,2023",79,14
+bbk,Latn,bbk_Latn,Babanki,u,Ll,LATIN SMALL LETTER U,85,2,"2020,2023",57,28
+bbk,Latn,bbk_Latn,Babanki,è,Ll,LATIN SMALL LETTER E WITH GRAVE,83,2,"2020,2023",77,6
+bbk,Latn,bbk_Latn,Babanki,b,Ll,LATIN SMALL LETTER B,82,2,"2020,2023",62,20
+bbk,Latn,bbk_Latn,Babanki,r,Ll,LATIN SMALL LETTER R,80,2,"2020,2023",74,6
+bbk,Latn,bbk_Latn,Babanki,",",Po,COMMA,73,2,"2020,2023",66,7
+bbk,Latn,bbk_Latn,Babanki,f,Ll,LATIN SMALL LETTER F,64,2,"2020,2023",56,8
+bbk,Latn,bbk_Latn,Babanki,ò,Ll,LATIN SMALL LETTER O WITH GRAVE,64,2,"2020,2023",58,6
+bbk,Latn,bbk_Latn,Babanki,p,Ll,LATIN SMALL LETTER P,55,2,"2020,2023",54,1
+bbk,Latn,bbk_Latn,Babanki,ɨ,Ll,LATIN SMALL LETTER I WITH STROKE,48,2,"2020,2023",38,10
+bbk,Latn,bbk_Latn,Babanki,ù,Ll,LATIN SMALL LETTER U WITH GRAVE,48,2,"2020,2023",38,10
+bbk,Latn,bbk_Latn,Babanki,z,Ll,LATIN SMALL LETTER Z,46,2,"2020,2023",33,13
+bbk,Latn,bbk_Latn,Babanki,c,Ll,LATIN SMALL LETTER C,45,2,"2020,2023",40,5
+bbk,Latn,bbk_Latn,Babanki,ŋ,Ll,LATIN SMALL LETTER ENG,42,2,"2020,2023",26,16
+bbk,Latn,bbk_Latn,Babanki,ʉ,Ll,LATIN SMALL LETTER U BAR,42,2,"2020,2023",24,18
+bbk,Latn,bbk_Latn,Babanki,A,Lu,LATIN CAPITAL LETTER A,30,2,"2020,2023",25,5
+bbk,Latn,bbk_Latn,Babanki,K,Lu,LATIN CAPITAL LETTER K,27,2,"2020,2023",9,18
+bbk,Latn,bbk_Latn,Babanki,ɛ,Ll,LATIN SMALL LETTER OPEN E,27,1,2020,27,0
+bbk,Latn,bbk_Latn,Babanki,J,Lu,LATIN CAPITAL LETTER J,25,1,2020,25,0
+bbk,Latn,bbk_Latn,Babanki,ɔ,Ll,LATIN SMALL LETTER OPEN O,24,1,2020,24,0
+bbk,Latn,bbk_Latn,Babanki,1,Nd,DIGIT ONE,19,1,2020,19,0
+bbk,Latn,bbk_Latn,Babanki,M,Lu,LATIN CAPITAL LETTER M,18,2,"2020,2023",15,3
+bbk,Latn,bbk_Latn,Babanki,á,Ll,LATIN SMALL LETTER A WITH ACUTE,16,1,2020,16,0
+bbk,Latn,bbk_Latn,Babanki,ɲ,Ll,LATIN SMALL LETTER N WITH LEFT HOOK,14,1,2020,14,0
+bbk,Latn,bbk_Latn,Babanki,G,Lu,LATIN CAPITAL LETTER G,14,2,"2020,2023",10,4
+bbk,Latn,bbk_Latn,Babanki,̂,Mn,COMBINING CIRCUMFLEX ACCENT,14,1,2020,14,0
+bbk,Latn,bbk_Latn,Babanki,2,Nd,DIGIT TWO,14,1,2020,14,0
+bbk,Latn,bbk_Latn,Babanki,H,Lu,LATIN CAPITAL LETTER H,13,1,2020,13,0
+bbk,Latn,bbk_Latn,Babanki,î,Ll,LATIN SMALL LETTER I WITH CIRCUMFLEX,12,1,2020,12,0
+bbk,Latn,bbk_Latn,Babanki,N,Lu,LATIN CAPITAL LETTER N,12,2,"2020,2023",11,1
+bbk,Latn,bbk_Latn,Babanki,ê,Ll,LATIN SMALL LETTER E WITH CIRCUMFLEX,11,1,2020,11,0
+bbk,Latn,bbk_Latn,Babanki,Y,Lu,LATIN CAPITAL LETTER Y,10,1,2020,10,0
+bbk,Latn,bbk_Latn,Babanki,ʔ,Lo,LATIN LETTER GLOTTAL STOP,10,1,2020,10,0
+bbk,Latn,bbk_Latn,Babanki,j,Ll,LATIN SMALL LETTER J,10,2,"2020,2023",9,1
+bbk,Latn,bbk_Latn,Babanki,B,Lu,LATIN CAPITAL LETTER B,9,2,"2020,2023",8,1
+bbk,Latn,bbk_Latn,Babanki,I,Lu,LATIN CAPITAL LETTER I,8,1,2020,8,0
+bbk,Latn,bbk_Latn,Babanki,S,Lu,LATIN CAPITAL LETTER S,8,2,"2020,2023",6,2
+bbk,Latn,bbk_Latn,Babanki,E,Lu,LATIN CAPITAL LETTER E,8,1,2020,8,0
+bbk,Latn,bbk_Latn,Babanki,È,Lu,LATIN CAPITAL LETTER E WITH GRAVE,8,1,2020,8,0
+bbk,Latn,bbk_Latn,Babanki,â,Ll,LATIN SMALL LETTER A WITH CIRCUMFLEX,7,1,2020,7,0
+bbk,Latn,bbk_Latn,Babanki,"""",Po,QUOTATION MARK,7,2,"2020,2023",3,4
+bbk,Latn,bbk_Latn,Babanki,!,Po,EXCLAMATION MARK,7,1,2020,7,0
+bbk,Latn,bbk_Latn,Babanki,L,Lu,LATIN CAPITAL LETTER L,7,2,"2020,2023",6,1
+bbk,Latn,bbk_Latn,Babanki,V,Lu,LATIN CAPITAL LETTER V,7,2,"2020,2023",2,5
+bbk,Latn,bbk_Latn,Babanki,᷇,Mn,COMBINING ACUTE-MACRON,7,1,2020,7,0
+bbk,Latn,bbk_Latn,Babanki,Z,Lu,LATIN CAPITAL LETTER Z,6,1,2020,6,0
+bbk,Latn,bbk_Latn,Babanki,;,Po,SEMICOLON,6,1,2020,6,0
+bbk,Latn,bbk_Latn,Babanki,D,Lu,LATIN CAPITAL LETTER D,6,1,2020,6,0
+bbk,Latn,bbk_Latn,Babanki,́,Mn,COMBINING ACUTE ACCENT,6,1,2020,6,0
+bbk,Latn,bbk_Latn,Babanki,Ə,Lu,LATIN CAPITAL LETTER SCHWA,6,2,"2020,2023",5,1
+bbk,Latn,bbk_Latn,Babanki,?,Po,QUESTION MARK,5,1,2020,5,0
+bbk,Latn,bbk_Latn,Babanki,-,Pd,HYPHEN-MINUS,5,1,2020,5,0
+bbk,Latn,bbk_Latn,Babanki,),Pe,RIGHT PARENTHESIS,4,2,"2020,2023",3,1
+bbk,Latn,bbk_Latn,Babanki,O,Lu,LATIN CAPITAL LETTER O,4,1,2020,4,0
+bbk,Latn,bbk_Latn,Babanki,4,Nd,DIGIT FOUR,4,2,"2020,2023",3,1
+bbk,Latn,bbk_Latn,Babanki,(,Ps,LEFT PARENTHESIS,4,2,"2020,2023",3,1
+bbk,Latn,bbk_Latn,Babanki,T,Lu,LATIN CAPITAL LETTER T,4,2,"2020,2023",3,1
+bbk,Latn,bbk_Latn,Babanki,û,Ll,LATIN SMALL LETTER U WITH CIRCUMFLEX,3,1,2020,3,0
+bbk,Latn,bbk_Latn,Babanki,0,Nd,DIGIT ZERO,3,2,"2020,2023",2,1
+bbk,Latn,bbk_Latn,Babanki,C,Lu,LATIN CAPITAL LETTER C,3,2,"2020,2023",1,2
+bbk,Latn,bbk_Latn,Babanki,5,Nd,DIGIT FIVE,3,1,2020,3,0
+bbk,Latn,bbk_Latn,Babanki,3,Nd,DIGIT THREE,3,1,2020,3,0
+bbk,Latn,bbk_Latn,Babanki,ô,Ll,LATIN SMALL LETTER O WITH CIRCUMFLEX,3,1,2020,3,0
+bbk,Latn,bbk_Latn,Babanki,q,Ll,LATIN SMALL LETTER Q,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,:,Po,COLON,2,2,"2020,2023",1,1
+bbk,Latn,bbk_Latn,Babanki,7,Nd,DIGIT SEVEN,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,“,Pi,LEFT DOUBLE QUOTATION MARK,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,6,Nd,DIGIT SIX,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,̄,Mn,COMBINING MACRON,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,8,Nd,DIGIT EIGHT,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,Ò,Lu,LATIN CAPITAL LETTER O WITH GRAVE,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,”,Pf,RIGHT DOUBLE QUOTATION MARK,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,9,Nd,DIGIT NINE,2,1,2020,2,0
+bbk,Latn,bbk_Latn,Babanki,ā,Ll,LATIN SMALL LETTER A WITH MACRON,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,ī,Ll,LATIN SMALL LETTER I WITH MACRON,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,ʃ,Ll,LATIN SMALL LETTER ESH,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,W,Lu,LATIN CAPITAL LETTER W,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,',Po,APOSTROPHE,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,í,Ll,LATIN SMALL LETTER I WITH ACUTE,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,‘,Pi,LEFT SINGLE QUOTATION MARK,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,’,Pf,RIGHT SINGLE QUOTATION MARK,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,P,Lu,LATIN CAPITAL LETTER P,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,ē,Ll,LATIN SMALL LETTER E WITH MACRON,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,x,Ll,LATIN SMALL LETTER X,1,1,2020,1,0
+bbk,Latn,bbk_Latn,Babanki,ɣ,Ll,LATIN SMALL LETTER GAMMA,1,1,2020,1,0

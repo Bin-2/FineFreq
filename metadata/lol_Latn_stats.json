@@ -1,0 +1,15 @@
+{
+  "language_code": "lol_Latn",
+  "iso_639_3": "lol",
+  "script": "Latn",
+  "language_name": "Mongo",
+  "total_characters": 68,
+  "total_frequency": 3550,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2022"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:02.090913"
+}

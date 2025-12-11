@@ -1,0 +1,69 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2021_frequency
+lln,Latn,lln_Latn,Lele (Chad), ,Zs,SPACE,4012,2,"2017,2021",3846,166
+lln,Latn,lln_Latn,Lele (Chad),a,Ll,LATIN SMALL LETTER A,1905,2,"2017,2021",1820,85
+lln,Latn,lln_Latn,Lele (Chad),n,Ll,LATIN SMALL LETTER N,1460,2,"2017,2021",1422,38
+lln,Latn,lln_Latn,Lele (Chad),o,Ll,LATIN SMALL LETTER O,1199,2,"2017,2021",1156,43
+lln,Latn,lln_Latn,Lele (Chad),g,Ll,LATIN SMALL LETTER G,1160,2,"2017,2021",1109,51
+lln,Latn,lln_Latn,Lele (Chad),e,Ll,LATIN SMALL LETTER E,1124,2,"2017,2021",1064,60
+lln,Latn,lln_Latn,Lele (Chad),i,Ll,LATIN SMALL LETTER I,1071,2,"2017,2021",1020,51
+lln,Latn,lln_Latn,Lele (Chad),ŋ,Ll,LATIN SMALL LETTER ENG,839,2,"2017,2021",826,13
+lln,Latn,lln_Latn,Lele (Chad),u,Ll,LATIN SMALL LETTER U,809,2,"2017,2021",801,8
+lln,Latn,lln_Latn,Lele (Chad),k,Ll,LATIN SMALL LETTER K,711,2,"2017,2021",682,29
+lln,Latn,lln_Latn,Lele (Chad),y,Ll,LATIN SMALL LETTER Y,654,2,"2017,2021",639,15
+lln,Latn,lln_Latn,Lele (Chad),d,Ll,LATIN SMALL LETTER D,580,2,"2017,2021",568,12
+lln,Latn,lln_Latn,Lele (Chad),l,Ll,LATIN SMALL LETTER L,527,2,"2017,2021",510,17
+lln,Latn,lln_Latn,Lele (Chad),m,Ll,LATIN SMALL LETTER M,341,2,"2017,2021",321,20
+lln,Latn,lln_Latn,Lele (Chad),b,Ll,LATIN SMALL LETTER B,304,2,"2017,2021",291,13
+lln,Latn,lln_Latn,Lele (Chad),s,Ll,LATIN SMALL LETTER S,303,2,"2017,2021",292,11
+lln,Latn,lln_Latn,Lele (Chad),",",Po,COMMA,298,2,"2017,2021",295,3
+lln,Latn,lln_Latn,Lele (Chad),r,Ll,LATIN SMALL LETTER R,260,2,"2017,2021",237,23
+lln,Latn,lln_Latn,Lele (Chad),á,Ll,LATIN SMALL LETTER A WITH ACUTE,260,2,"2017,2021",254,6
+lln,Latn,lln_Latn,Lele (Chad),ỹ,Ll,LATIN SMALL LETTER Y WITH TILDE,191,2,"2017,2021",178,13
+lln,Latn,lln_Latn,Lele (Chad),K,Lu,LATIN CAPITAL LETTER K,171,2,"2017,2021",169,2
+lln,Latn,lln_Latn,Lele (Chad),t,Ll,LATIN SMALL LETTER T,168,2,"2017,2021",155,13
+lln,Latn,lln_Latn,Lele (Chad),.,Po,FULL STOP,161,2,"2017,2021",152,9
+lln,Latn,lln_Latn,Lele (Chad),j,Ll,LATIN SMALL LETTER J,159,2,"2017,2021",151,8
+lln,Latn,lln_Latn,Lele (Chad),ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,135,2,"2017,2021",124,11
+lln,Latn,lln_Latn,Lele (Chad),c,Ll,LATIN SMALL LETTER C,116,2,"2017,2021",115,1
+lln,Latn,lln_Latn,Lele (Chad),w,Ll,LATIN SMALL LETTER W,108,2,"2017,2021",104,4
+lln,Latn,lln_Latn,Lele (Chad),é,Ll,LATIN SMALL LETTER E WITH ACUTE,108,2,"2017,2021",96,12
+lln,Latn,lln_Latn,Lele (Chad),p,Ll,LATIN SMALL LETTER P,66,2,"2017,2021",55,11
+lln,Latn,lln_Latn,Lele (Chad),1,Nd,DIGIT ONE,62,1,2017,62,0
+lln,Latn,lln_Latn,Lele (Chad),ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,51,2,"2017,2021",49,2
+lln,Latn,lln_Latn,Lele (Chad),ó,Ll,LATIN SMALL LETTER O WITH ACUTE,46,1,2017,46,0
+lln,Latn,lln_Latn,Lele (Chad),G,Lu,LATIN CAPITAL LETTER G,35,2,"2017,2021",34,1
+lln,Latn,lln_Latn,Lele (Chad),B,Lu,LATIN CAPITAL LETTER B,33,2,"2017,2021",30,3
+lln,Latn,lln_Latn,Lele (Chad),2,Nd,DIGIT TWO,33,2,"2017,2021",31,2
+lln,Latn,lln_Latn,Lele (Chad),N,Lu,LATIN CAPITAL LETTER N,32,2,"2017,2021",30,2
+lln,Latn,lln_Latn,Lele (Chad),J,Lu,LATIN CAPITAL LETTER J,31,2,"2017,2021",30,1
+lln,Latn,lln_Latn,Lele (Chad),D,Lu,LATIN CAPITAL LETTER D,30,2,"2017,2021",27,3
+lln,Latn,lln_Latn,Lele (Chad),:,Po,COLON,29,2,"2017,2021",24,5
+lln,Latn,lln_Latn,Lele (Chad),í,Ll,LATIN SMALL LETTER I WITH ACUTE,21,2,"2017,2021",18,3
+lln,Latn,lln_Latn,Lele (Chad),A,Lu,LATIN CAPITAL LETTER A,19,2,"2017,2021",13,6
+lln,Latn,lln_Latn,Lele (Chad),h,Ll,LATIN SMALL LETTER H,17,2,"2017,2021",15,2
+lln,Latn,lln_Latn,Lele (Chad),T,Lu,LATIN CAPITAL LETTER T,16,2,"2017,2021",15,1
+lln,Latn,lln_Latn,Lele (Chad),4,Nd,DIGIT FOUR,14,2,"2017,2021",12,2
+lln,Latn,lln_Latn,Lele (Chad),0,Nd,DIGIT ZERO,13,2,"2017,2021",9,4
+lln,Latn,lln_Latn,Lele (Chad),3,Nd,DIGIT THREE,13,2,"2017,2021",12,1
+lln,Latn,lln_Latn,Lele (Chad),Ŋ,Lu,LATIN CAPITAL LETTER ENG,13,1,2017,13,0
+lln,Latn,lln_Latn,Lele (Chad),W,Lu,LATIN CAPITAL LETTER W,12,1,2017,12,0
+lln,Latn,lln_Latn,Lele (Chad),M,Lu,LATIN CAPITAL LETTER M,12,2,"2017,2021",6,6
+lln,Latn,lln_Latn,Lele (Chad),5,Nd,DIGIT FIVE,11,1,2017,11,0
+lln,Latn,lln_Latn,Lele (Chad),6,Nd,DIGIT SIX,11,2,"2017,2021",10,1
+lln,Latn,lln_Latn,Lele (Chad),7,Nd,DIGIT SEVEN,11,2,"2017,2021",10,1
+lln,Latn,lln_Latn,Lele (Chad),8,Nd,DIGIT EIGHT,11,2,"2017,2021",10,1
+lln,Latn,lln_Latn,Lele (Chad),9,Nd,DIGIT NINE,10,1,2017,10,0
+lln,Latn,lln_Latn,Lele (Chad),/,Po,SOLIDUS,6,1,2017,6,0
+lln,Latn,lln_Latn,Lele (Chad),̃,Mn,COMBINING TILDE,5,1,2017,5,0
+lln,Latn,lln_Latn,Lele (Chad),),Pe,RIGHT PARENTHESIS,3,1,2021,0,3
+lln,Latn,lln_Latn,Lele (Chad),-,Pd,HYPHEN-MINUS,3,1,2017,3,0
+lln,Latn,lln_Latn,Lele (Chad),P,Lu,LATIN CAPITAL LETTER P,3,2,"2017,2021",2,1
+lln,Latn,lln_Latn,Lele (Chad),(,Ps,LEFT PARENTHESIS,3,1,2021,0,3
+lln,Latn,lln_Latn,Lele (Chad),H,Lu,LATIN CAPITAL LETTER H,2,1,2021,0,2
+lln,Latn,lln_Latn,Lele (Chad),ú,Ll,LATIN SMALL LETTER U WITH ACUTE,2,1,2017,2,0
+lln,Latn,lln_Latn,Lele (Chad),S,Lu,LATIN CAPITAL LETTER S,2,2,"2017,2021",1,1
+lln,Latn,lln_Latn,Lele (Chad),L,Lu,LATIN CAPITAL LETTER L,2,1,2017,2,0
+lln,Latn,lln_Latn,Lele (Chad),Ɗ,Lu,LATIN CAPITAL LETTER D WITH HOOK,1,1,2017,1,0
+lln,Latn,lln_Latn,Lele (Chad),v,Ll,LATIN SMALL LETTER V,1,1,2021,0,1
+lln,Latn,lln_Latn,Lele (Chad),O,Lu,LATIN CAPITAL LETTER O,1,1,2017,1,0
+lln,Latn,lln_Latn,Lele (Chad),f,Ll,LATIN SMALL LETTER F,1,1,2021,0,1

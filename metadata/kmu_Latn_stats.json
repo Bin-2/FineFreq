@@ -1,0 +1,16 @@
+{
+  "language_code": "kmu_Latn",
+  "iso_639_3": "kmu",
+  "script": "Latn",
+  "language_name": "Kanite",
+  "total_characters": 76,
+  "total_frequency": 1714438,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:59.878343"
+}

@@ -1,0 +1,44 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2018_frequency,year_2023_frequency
+loe,Latn,loe_Latn,Saluan,a,Ll,LATIN SMALL LETTER A,363,2,"2018,2023",104,259
+loe,Latn,loe_Latn,Saluan, ,Zs,SPACE,319,2,"2018,2023",83,236
+loe,Latn,loe_Latn,Saluan,n,Ll,LATIN SMALL LETTER N,174,2,"2018,2023",37,137
+loe,Latn,loe_Latn,Saluan,o,Ll,LATIN SMALL LETTER O,147,2,"2018,2023",25,122
+loe,Latn,loe_Latn,Saluan,i,Ll,LATIN SMALL LETTER I,133,2,"2018,2023",40,93
+loe,Latn,loe_Latn,Saluan,m,Ll,LATIN SMALL LETTER M,97,2,"2018,2023",25,72
+loe,Latn,loe_Latn,Saluan,u,Ll,LATIN SMALL LETTER U,87,2,"2018,2023",28,59
+loe,Latn,loe_Latn,Saluan,k,Ll,LATIN SMALL LETTER K,80,2,"2018,2023",28,52
+loe,Latn,loe_Latn,Saluan,s,Ll,LATIN SMALL LETTER S,79,2,"2018,2023",24,55
+loe,Latn,loe_Latn,Saluan,t,Ll,LATIN SMALL LETTER T,74,2,"2018,2023",16,58
+loe,Latn,loe_Latn,Saluan,',Po,APOSTROPHE,62,1,2023,0,62
+loe,Latn,loe_Latn,Saluan,l,Ll,LATIN SMALL LETTER L,52,2,"2018,2023",24,28
+loe,Latn,loe_Latn,Saluan,g,Ll,LATIN SMALL LETTER G,49,2,"2018,2023",10,39
+loe,Latn,loe_Latn,Saluan,b,Ll,LATIN SMALL LETTER B,45,2,"2018,2023",11,34
+loe,Latn,loe_Latn,Saluan,h,Ll,LATIN SMALL LETTER H,40,2,"2018,2023",11,29
+loe,Latn,loe_Latn,Saluan,e,Ll,LATIN SMALL LETTER E,37,2,"2018,2023",9,28
+loe,Latn,loe_Latn,Saluan,p,Ll,LATIN SMALL LETTER P,32,2,"2018,2023",7,25
+loe,Latn,loe_Latn,Saluan,.,Po,FULL STOP,27,2,"2018,2023",8,19
+loe,Latn,loe_Latn,Saluan,’,Pf,RIGHT SINGLE QUOTATION MARK,23,1,2018,23,0
+loe,Latn,loe_Latn,Saluan,y,Ll,LATIN SMALL LETTER Y,20,2,"2018,2023",4,16
+loe,Latn,loe_Latn,Saluan,d,Ll,LATIN SMALL LETTER D,19,2,"2018,2023",3,16
+loe,Latn,loe_Latn,Saluan,j,Ll,LATIN SMALL LETTER J,17,2,"2018,2023",4,13
+loe,Latn,loe_Latn,Saluan,",",Po,COMMA,15,2,"2018,2023",4,11
+loe,Latn,loe_Latn,Saluan,-,Pd,HYPHEN-MINUS,14,2,"2018,2023",4,10
+loe,Latn,loe_Latn,Saluan,K,Lu,LATIN CAPITAL LETTER K,12,2,"2018,2023",9,3
+loe,Latn,loe_Latn,Saluan,A,Lu,LATIN CAPITAL LETTER A,12,2,"2018,2023",7,5
+loe,Latn,loe_Latn,Saluan,w,Ll,LATIN SMALL LETTER W,9,2,"2018,2023",7,2
+loe,Latn,loe_Latn,Saluan,r,Ll,LATIN SMALL LETTER R,9,2,"2018,2023",2,7
+loe,Latn,loe_Latn,Saluan,c,Ll,LATIN SMALL LETTER C,8,1,2023,0,8
+loe,Latn,loe_Latn,Saluan,S,Lu,LATIN CAPITAL LETTER S,8,2,"2018,2023",3,5
+loe,Latn,loe_Latn,Saluan,T,Lu,LATIN CAPITAL LETTER T,6,1,2023,0,6
+loe,Latn,loe_Latn,Saluan,f,Ll,LATIN SMALL LETTER F,5,1,2023,0,5
+loe,Latn,loe_Latn,Saluan,Y,Lu,LATIN CAPITAL LETTER Y,4,1,2018,4,0
+loe,Latn,loe_Latn,Saluan,I,Lu,LATIN CAPITAL LETTER I,4,1,2023,0,4
+loe,Latn,loe_Latn,Saluan,B,Lu,LATIN CAPITAL LETTER B,3,2,"2018,2023",1,2
+loe,Latn,loe_Latn,Saluan,“,Pi,LEFT DOUBLE QUOTATION MARK,3,1,2023,0,3
+loe,Latn,loe_Latn,Saluan,”,Pf,RIGHT DOUBLE QUOTATION MARK,3,1,2023,0,3
+loe,Latn,loe_Latn,Saluan,z,Ll,LATIN SMALL LETTER Z,3,1,2023,0,3
+loe,Latn,loe_Latn,Saluan,M,Lu,LATIN CAPITAL LETTER M,2,1,2023,0,2
+loe,Latn,loe_Latn,Saluan,L,Lu,LATIN CAPITAL LETTER L,2,1,2023,0,2
+loe,Latn,loe_Latn,Saluan,N,Lu,LATIN CAPITAL LETTER N,2,2,"2018,2023",1,1
+loe,Latn,loe_Latn,Saluan,O,Lu,LATIN CAPITAL LETTER O,1,1,2018,1,0
+loe,Latn,loe_Latn,Saluan,:,Po,COLON,1,1,2023,0,1

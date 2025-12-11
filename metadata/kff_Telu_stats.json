@@ -1,0 +1,14 @@
+{
+  "language_code": "kff_Telu",
+  "iso_639_3": "kff",
+  "script": "Telu",
+  "language_name": "Koya",
+  "total_characters": 103,
+  "total_frequency": 282473,
+  "years_covered": [
+    "2017",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:59.222902"
+}

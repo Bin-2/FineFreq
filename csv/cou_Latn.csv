@@ -1,0 +1,83 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2019_frequency,year_2020_frequency,year_2022_frequency
+cou,Latn,cou_Latn,Wamey, ,Zs,SPACE,1774,3,"2019,2020,2022",637,692,445
+cou,Latn,cou_Latn,Wamey,a,Ll,LATIN SMALL LETTER A,1143,3,"2019,2020,2022",339,503,301
+cou,Latn,cou_Latn,Wamey,ë,Ll,LATIN SMALL LETTER E WITH DIAERESIS,854,3,"2019,2020,2022",331,337,186
+cou,Latn,cou_Latn,Wamey,n,Ll,LATIN SMALL LETTER N,745,3,"2019,2020,2022",279,326,140
+cou,Latn,cou_Latn,Wamey,h,Ll,LATIN SMALL LETTER H,461,3,"2019,2020,2022",134,184,143
+cou,Latn,cou_Latn,Wamey,o,Ll,LATIN SMALL LETTER O,397,3,"2019,2020,2022",142,123,132
+cou,Latn,cou_Latn,Wamey,i,Ll,LATIN SMALL LETTER I,392,3,"2019,2020,2022",141,160,91
+cou,Latn,cou_Latn,Wamey,k,Ll,LATIN SMALL LETTER K,365,3,"2019,2020,2022",146,149,70
+cou,Latn,cou_Latn,Wamey,e,Ll,LATIN SMALL LETTER E,342,3,"2019,2020,2022",100,119,123
+cou,Latn,cou_Latn,Wamey,w,Ll,LATIN SMALL LETTER W,318,3,"2019,2020,2022",149,124,45
+cou,Latn,cou_Latn,Wamey,l,Ll,LATIN SMALL LETTER L,225,3,"2019,2020,2022",81,92,52
+cou,Latn,cou_Latn,Wamey,m,Ll,LATIN SMALL LETTER M,217,3,"2019,2020,2022",66,63,88
+cou,Latn,cou_Latn,Wamey,u,Ll,LATIN SMALL LETTER U,212,3,"2019,2020,2022",90,82,40
+cou,Latn,cou_Latn,Wamey,r,Ll,LATIN SMALL LETTER R,209,3,"2019,2020,2022",54,66,89
+cou,Latn,cou_Latn,Wamey,t,Ll,LATIN SMALL LETTER T,207,3,"2019,2020,2022",68,97,42
+cou,Latn,cou_Latn,Wamey,y,Ll,LATIN SMALL LETTER Y,195,3,"2019,2020,2022",56,56,83
+cou,Latn,cou_Latn,Wamey,s,Ll,LATIN SMALL LETTER S,169,3,"2019,2020,2022",40,62,67
+cou,Latn,cou_Latn,Wamey,.,Po,FULL STOP,149,3,"2019,2020,2022",42,48,59
+cou,Latn,cou_Latn,Wamey,f,Ll,LATIN SMALL LETTER F,142,3,"2019,2020,2022",58,54,30
+cou,Latn,cou_Latn,Wamey,̃,Mn,COMBINING TILDE,142,3,"2019,2020,2022",81,52,9
+cou,Latn,cou_Latn,Wamey,d,Ll,LATIN SMALL LETTER D,139,3,"2019,2020,2022",50,56,33
+cou,Latn,cou_Latn,Wamey,g,Ll,LATIN SMALL LETTER G,137,3,"2019,2020,2022",60,52,25
+cou,Latn,cou_Latn,Wamey,v,Ll,LATIN SMALL LETTER V,118,3,"2019,2020,2022",48,44,26
+cou,Latn,cou_Latn,Wamey,ŋ,Ll,LATIN SMALL LETTER ENG,116,3,"2019,2020,2022",61,49,6
+cou,Latn,cou_Latn,Wamey,c,Ll,LATIN SMALL LETTER C,110,3,"2019,2020,2022",43,47,20
+cou,Latn,cou_Latn,Wamey,p,Ll,LATIN SMALL LETTER P,108,3,"2019,2020,2022",48,47,13
+cou,Latn,cou_Latn,Wamey,",",Po,COMMA,104,3,"2019,2020,2022",33,45,26
+cou,Latn,cou_Latn,Wamey,ɗ,Ll,LATIN SMALL LETTER D WITH HOOK,100,3,"2019,2020,2022",30,54,16
+cou,Latn,cou_Latn,Wamey,ỹ,Ll,LATIN SMALL LETTER Y WITH TILDE,78,3,"2019,2020,2022",17,29,32
+cou,Latn,cou_Latn,Wamey,b,Ll,LATIN SMALL LETTER B,71,3,"2019,2020,2022",20,24,27
+cou,Latn,cou_Latn,Wamey,A,Lu,LATIN CAPITAL LETTER A,62,3,"2019,2020,2022",12,24,26
+cou,Latn,cou_Latn,Wamey,1,Nd,DIGIT ONE,60,3,"2019,2020,2022",18,20,22
+cou,Latn,cou_Latn,Wamey,W,Lu,LATIN CAPITAL LETTER W,58,3,"2019,2020,2022",29,24,5
+cou,Latn,cou_Latn,Wamey,2,Nd,DIGIT TWO,46,3,"2019,2020,2022",13,15,18
+cou,Latn,cou_Latn,Wamey,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,36,3,"2019,2020,2022",20,11,5
+cou,Latn,cou_Latn,Wamey,Y,Lu,LATIN CAPITAL LETTER Y,32,2,"2020,2022",0,3,29
+cou,Latn,cou_Latn,Wamey,:,Po,COLON,28,3,"2019,2020,2022",13,10,5
+cou,Latn,cou_Latn,Wamey,',Po,APOSTROPHE,28,3,"2019,2020,2022",12,15,1
+cou,Latn,cou_Latn,Wamey,j,Ll,LATIN SMALL LETTER J,24,3,"2019,2020,2022",11,10,3
+cou,Latn,cou_Latn,Wamey,S,Lu,LATIN CAPITAL LETTER S,23,2,"2020,2022",0,7,16
+cou,Latn,cou_Latn,Wamey,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,21,3,"2019,2020,2022",16,3,2
+cou,Latn,cou_Latn,Wamey,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,21,3,"2019,2020,2022",16,3,2
+cou,Latn,cou_Latn,Wamey,N,Lu,LATIN CAPITAL LETTER N,19,3,"2019,2020,2022",13,4,2
+cou,Latn,cou_Latn,Wamey,E,Lu,LATIN CAPITAL LETTER E,18,2,"2020,2022",0,7,11
+cou,Latn,cou_Latn,Wamey,M,Lu,LATIN CAPITAL LETTER M,17,2,"2020,2022",0,9,8
+cou,Latn,cou_Latn,Wamey,D,Lu,LATIN CAPITAL LETTER D,17,3,"2019,2020,2022",9,1,7
+cou,Latn,cou_Latn,Wamey,3,Nd,DIGIT THREE,16,3,"2019,2020,2022",5,6,5
+cou,Latn,cou_Latn,Wamey,4,Nd,DIGIT FOUR,16,3,"2019,2020,2022",3,7,6
+cou,Latn,cou_Latn,Wamey,K,Lu,LATIN CAPITAL LETTER K,16,3,"2019,2020,2022",2,10,4
+cou,Latn,cou_Latn,Wamey,I,Lu,LATIN CAPITAL LETTER I,14,2,"2020,2022",0,5,9
+cou,Latn,cou_Latn,Wamey,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,12,3,"2019,2020,2022",3,5,4
+cou,Latn,cou_Latn,Wamey,;,Po,SEMICOLON,12,2,"2019,2022",10,0,2
+cou,Latn,cou_Latn,Wamey,5,Nd,DIGIT FIVE,12,3,"2019,2020,2022",3,6,3
+cou,Latn,cou_Latn,Wamey,7,Nd,DIGIT SEVEN,11,3,"2019,2020,2022",3,4,4
+cou,Latn,cou_Latn,Wamey,0,Nd,DIGIT ZERO,11,3,"2019,2020,2022",3,5,3
+cou,Latn,cou_Latn,Wamey,6,Nd,DIGIT SIX,10,3,"2019,2020,2022",3,5,2
+cou,Latn,cou_Latn,Wamey,#,Po,NUMBER SIGN,9,2,"2020,2022",0,2,7
+cou,Latn,cou_Latn,Wamey,8,Nd,DIGIT EIGHT,8,3,"2019,2020,2022",3,2,3
+cou,Latn,cou_Latn,Wamey,H,Lu,LATIN CAPITAL LETTER H,8,3,"2019,2020,2022",2,2,4
+cou,Latn,cou_Latn,Wamey,!,Po,EXCLAMATION MARK,8,2,"2019,2020",7,1,0
+cou,Latn,cou_Latn,Wamey,ƴ,Ll,LATIN SMALL LETTER Y WITH HOOK,8,2,"2019,2022",2,0,6
+cou,Latn,cou_Latn,Wamey,9,Nd,DIGIT NINE,7,3,"2019,2020,2022",3,2,2
+cou,Latn,cou_Latn,Wamey,R,Lu,LATIN CAPITAL LETTER R,7,1,2022,0,0,7
+cou,Latn,cou_Latn,Wamey,–,Pd,EN DASH,6,3,"2019,2020,2022",1,4,1
+cou,Latn,cou_Latn,Wamey,T,Lu,LATIN CAPITAL LETTER T,6,3,"2019,2020,2022",2,3,1
+cou,Latn,cou_Latn,Wamey,F,Lu,LATIN CAPITAL LETTER F,5,2,"2020,2022",0,3,2
+cou,Latn,cou_Latn,Wamey,P,Lu,LATIN CAPITAL LETTER P,5,2,"2020,2022",0,3,2
+cou,Latn,cou_Latn,Wamey,-,Pd,HYPHEN-MINUS,5,3,"2019,2020,2022",2,1,2
+cou,Latn,cou_Latn,Wamey,(,Ps,LEFT PARENTHESIS,4,1,2020,0,4,0
+cou,Latn,cou_Latn,Wamey,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,4,2,"2020,2022",0,3,1
+cou,Latn,cou_Latn,Wamey,),Pe,RIGHT PARENTHESIS,4,1,2020,0,4,0
+cou,Latn,cou_Latn,Wamey,O,Lu,LATIN CAPITAL LETTER O,4,1,2022,0,0,4
+cou,Latn,cou_Latn,Wamey,B,Lu,LATIN CAPITAL LETTER B,4,1,2022,0,0,4
+cou,Latn,cou_Latn,Wamey,á,Ll,LATIN SMALL LETTER A WITH ACUTE,3,1,2020,0,3,0
+cou,Latn,cou_Latn,Wamey,G,Lu,LATIN CAPITAL LETTER G,3,2,"2019,2020",1,2,0
+cou,Latn,cou_Latn,Wamey,U,Lu,LATIN CAPITAL LETTER U,3,2,"2020,2022",0,1,2
+cou,Latn,cou_Latn,Wamey,C,Lu,LATIN CAPITAL LETTER C,2,1,2020,0,2,0
+cou,Latn,cou_Latn,Wamey,“,Pi,LEFT DOUBLE QUOTATION MARK,1,1,2020,0,1,0
+cou,Latn,cou_Latn,Wamey,V,Lu,LATIN CAPITAL LETTER V,1,1,2022,0,0,1
+cou,Latn,cou_Latn,Wamey,/,Po,SOLIDUS,1,1,2020,0,1,0
+cou,Latn,cou_Latn,Wamey,”,Pf,RIGHT DOUBLE QUOTATION MARK,1,1,2020,0,1,0
+cou,Latn,cou_Latn,Wamey,Ỹ,Lu,LATIN CAPITAL LETTER Y WITH TILDE,1,1,2022,0,0,1

@@ -1,0 +1,147 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+kas,Latn,kas_Latn,Kashmiri, ,Zs,SPACE,17514,7,"2017,2018,2019,2020,2021,2022,2023",1118,14880,152,792,369,105,98
+kas,Latn,kas_Latn,Kashmiri,a,Ll,LATIN SMALL LETTER A,15326,7,"2017,2018,2019,2020,2021,2022,2023",901,13005,99,899,189,105,128
+kas,Latn,kas_Latn,Kashmiri,i,Ll,LATIN SMALL LETTER I,7613,7,"2017,2018,2019,2020,2021,2022,2023",426,6629,83,321,105,17,32
+kas,Latn,kas_Latn,Kashmiri,n,Ll,LATIN SMALL LETTER N,6263,7,"2017,2018,2019,2020,2021,2022,2023",404,5444,51,223,80,32,29
+kas,Latn,kas_Latn,Kashmiri,t,Ll,LATIN SMALL LETTER T,5741,7,"2017,2018,2019,2020,2021,2022,2023",303,5062,47,211,76,20,22
+kas,Latn,kas_Latn,Kashmiri,h,Ll,LATIN SMALL LETTER H,5239,7,"2017,2018,2019,2020,2021,2022,2023",316,4490,51,233,79,32,38
+kas,Latn,kas_Latn,Kashmiri,s,Ll,LATIN SMALL LETTER S,4575,7,"2017,2018,2019,2020,2021,2022,2023",307,3888,47,201,82,25,25
+kas,Latn,kas_Latn,Kashmiri,u,Ll,LATIN SMALL LETTER U,3758,7,"2017,2018,2019,2020,2021,2022,2023",180,3332,35,150,25,28,8
+kas,Latn,kas_Latn,Kashmiri,r,Ll,LATIN SMALL LETTER R,3064,7,"2017,2018,2019,2020,2021,2022,2023",265,2399,44,234,73,30,19
+kas,Latn,kas_Latn,Kashmiri,k,Ll,LATIN SMALL LETTER K,2821,7,"2017,2018,2019,2020,2021,2022,2023",195,2472,25,96,20,11,2
+kas,Latn,kas_Latn,Kashmiri,e,Ll,LATIN SMALL LETTER E,2670,7,"2017,2018,2019,2020,2021,2022,2023",293,1898,34,243,126,38,38
+kas,Latn,kas_Latn,Kashmiri,m,Ll,LATIN SMALL LETTER M,2532,7,"2017,2018,2019,2020,2021,2022,2023",227,2088,24,113,37,26,17
+kas,Latn,kas_Latn,Kashmiri,o,Ll,LATIN SMALL LETTER O,2361,7,"2017,2018,2019,2020,2021,2022,2023",166,1846,36,199,55,41,18
+kas,Latn,kas_Latn,Kashmiri,d,Ll,LATIN SMALL LETTER D,2178,7,"2017,2018,2019,2020,2021,2022,2023",125,1835,15,141,41,8,13
+kas,Latn,kas_Latn,Kashmiri,y,Ll,LATIN SMALL LETTER Y,1718,7,"2017,2018,2019,2020,2021,2022,2023",96,1422,17,134,27,12,10
+kas,Latn,kas_Latn,Kashmiri,p,Ll,LATIN SMALL LETTER P,1383,7,"2017,2018,2019,2020,2021,2022,2023",105,1147,15,83,17,12,4
+kas,Latn,kas_Latn,Kashmiri,l,Ll,LATIN SMALL LETTER L,1368,7,"2017,2018,2019,2020,2021,2022,2023",102,1085,21,92,38,20,10
+kas,Latn,kas_Latn,Kashmiri,",",Po,COMMA,1362,6,"2017,2018,2020,2021,2022,2023",35,1258,0,33,9,10,17
+kas,Latn,kas_Latn,Kashmiri,z,Ll,LATIN SMALL LETTER Z,1339,7,"2017,2018,2019,2020,2021,2022,2023",94,1153,10,48,15,11,8
+kas,Latn,kas_Latn,Kashmiri,w,Ll,LATIN SMALL LETTER W,1181,7,"2017,2018,2019,2020,2021,2022,2023",62,1013,5,62,24,8,7
+kas,Latn,kas_Latn,Kashmiri,b,Ll,LATIN SMALL LETTER B,1164,7,"2017,2018,2019,2020,2021,2022,2023",84,961,17,49,30,9,14
+kas,Latn,kas_Latn,Kashmiri,c,Ll,LATIN SMALL LETTER C,971,7,"2017,2018,2019,2020,2021,2022,2023",13,849,21,62,13,6,7
+kas,Latn,kas_Latn,Kashmiri,.,Po,FULL STOP,831,5,"2017,2018,2019,2020,2021",96,663,1,69,2,0,0
+kas,Latn,kas_Latn,Kashmiri,T,Lu,LATIN CAPITAL LETTER T,742,5,"2017,2018,2019,2020,2021",11,674,1,48,8,0,0
+kas,Latn,kas_Latn,Kashmiri,g,Ll,LATIN SMALL LETTER G,719,7,"2017,2018,2019,2020,2021,2022,2023",81,538,11,45,19,13,12
+kas,Latn,kas_Latn,Kashmiri,A,Lu,LATIN CAPITAL LETTER A,630,6,"2017,2018,2019,2020,2021,2022",8,590,1,28,1,2,0
+kas,Latn,kas_Latn,Kashmiri,v,Ll,LATIN SMALL LETTER V,613,7,"2017,2018,2019,2020,2021,2022,2023",101,449,18,29,6,7,3
+kas,Latn,kas_Latn,Kashmiri,',Po,APOSTROPHE,389,3,"2018,2019,2020",0,378,6,5,0,0,0
+kas,Latn,kas_Latn,Kashmiri,Y,Lu,LATIN CAPITAL LETTER Y,381,6,"2017,2018,2020,2021,2022,2023",14,361,0,2,1,1,2
+kas,Latn,kas_Latn,Kashmiri,;,Po,SEMICOLON,378,3,"2017,2018,2020",1,376,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,S,Lu,LATIN CAPITAL LETTER S,372,5,"2017,2018,2019,2020,2021",5,348,1,16,2,0,0
+kas,Latn,kas_Latn,Kashmiri,I,Lu,LATIN CAPITAL LETTER I,361,6,"2017,2018,2020,2021,2022,2023",1,346,0,10,2,1,1
+kas,Latn,kas_Latn,Kashmiri,N,Lu,LATIN CAPITAL LETTER N,342,5,"2017,2018,2019,2020,2021",3,325,1,12,1,0,0
+kas,Latn,kas_Latn,Kashmiri,j,Ll,LATIN SMALL LETTER J,338,6,"2017,2018,2019,2020,2021,2022",42,270,3,16,3,4,0
+kas,Latn,kas_Latn,Kashmiri,K,Lu,LATIN CAPITAL LETTER K,306,7,"2017,2018,2019,2020,2021,2022,2023",26,241,3,21,12,1,2
+kas,Latn,kas_Latn,Kashmiri,f,Ll,LATIN SMALL LETTER F,269,7,"2017,2018,2019,2020,2021,2022,2023",19,181,6,41,19,2,1
+kas,Latn,kas_Latn,Kashmiri,ā,Ll,LATIN SMALL LETTER A WITH MACRON,268,1,2017,268,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,q,Ll,LATIN SMALL LETTER Q,217,4,"2017,2018,2020,2021",5,205,0,1,6,0,0
+kas,Latn,kas_Latn,Kashmiri,H,Lu,LATIN CAPITAL LETTER H,213,5,"2018,2020,2021,2022,2023",0,198,0,7,5,2,1
+kas,Latn,kas_Latn,Kashmiri,M,Lu,LATIN CAPITAL LETTER M,194,7,"2017,2018,2019,2020,2021,2022,2023",15,164,1,7,5,1,1
+kas,Latn,kas_Latn,Kashmiri,R,Lu,LATIN CAPITAL LETTER R,183,6,"2017,2018,2020,2021,2022,2023",35,128,0,16,1,2,1
+kas,Latn,kas_Latn,Kashmiri,U,Lu,LATIN CAPITAL LETTER U,167,3,"2018,2020,2022",0,165,0,1,0,1,0
+kas,Latn,kas_Latn,Kashmiri,D,Lu,LATIN CAPITAL LETTER D,163,6,"2017,2018,2020,2021,2022,2023",4,149,0,6,1,1,2
+kas,Latn,kas_Latn,Kashmiri,L,Lu,LATIN CAPITAL LETTER L,139,7,"2017,2018,2019,2020,2021,2022,2023",6,124,1,4,2,1,1
+kas,Latn,kas_Latn,Kashmiri,?,Po,QUESTION MARK,135,3,"2017,2018,2020",7,126,0,2,0,0,0
+kas,Latn,kas_Latn,Kashmiri,:,Po,COLON,128,4,"2017,2018,2019,2020",1,76,45,6,0,0,0
+kas,Latn,kas_Latn,Kashmiri,P,Lu,LATIN CAPITAL LETTER P,128,3,"2017,2018,2020",15,106,0,7,0,0,0
+kas,Latn,kas_Latn,Kashmiri,B,Lu,LATIN CAPITAL LETTER B,128,5,"2017,2018,2020,2021,2022",4,109,0,13,1,1,0
+kas,Latn,kas_Latn,Kashmiri,G,Lu,LATIN CAPITAL LETTER G,89,5,"2017,2018,2020,2021,2023",7,74,0,4,3,0,1
+kas,Latn,kas_Latn,Kashmiri,č,Ll,LATIN SMALL LETTER C WITH CARON,84,1,2017,84,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,Z,Lu,LATIN CAPITAL LETTER Z,84,3,"2017,2018,2021",2,81,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,-,Pd,HYPHEN-MINUS,82,5,"2017,2018,2019,2020,2021",8,44,1,27,2,0,0
+kas,Latn,kas_Latn,Kashmiri,\,Po,REVERSE SOLIDUS,72,1,2020,0,0,0,72,0,0,0
+kas,Latn,kas_Latn,Kashmiri,W,Lu,LATIN CAPITAL LETTER W,65,6,"2017,2018,2019,2020,2021,2022",4,53,3,1,2,2,0
+kas,Latn,kas_Latn,Kashmiri,E,Lu,LATIN CAPITAL LETTER E,61,2,"2018,2020",0,60,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,O,Lu,LATIN CAPITAL LETTER O,54,3,"2018,2019,2020",0,49,2,3,0,0,0
+kas,Latn,kas_Latn,Kashmiri,C,Lu,LATIN CAPITAL LETTER C,54,5,"2018,2020,2021,2022,2023",0,27,0,23,1,2,1
+kas,Latn,kas_Latn,Kashmiri,F,Lu,LATIN CAPITAL LETTER F,50,4,"2017,2018,2019,2021",3,45,1,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,ṭ,Ll,LATIN SMALL LETTER T WITH DOT BELOW,47,1,2017,47,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ا,Lo,ARABIC LETTER ALEF,39,1,2021,0,0,0,0,39,0,0
+kas,Latn,kas_Latn,Kashmiri,ن,Lo,ARABIC LETTER NOON,38,1,2021,0,0,0,0,38,0,0
+kas,Latn,kas_Latn,Kashmiri,š,Ll,LATIN SMALL LETTER S WITH CARON,36,1,2017,36,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,Q,Lu,LATIN CAPITAL LETTER Q,28,1,2018,0,28,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ر,Lo,ARABIC LETTER REH,27,1,2021,0,0,0,0,27,0,0
+kas,Latn,kas_Latn,Kashmiri,ت,Lo,ARABIC LETTER TEH,27,1,2021,0,0,0,0,27,0,0
+kas,Latn,kas_Latn,Kashmiri,ھ,Lo,ARABIC LETTER HEH DOACHASHMEE,26,1,2021,0,0,0,0,26,0,0
+kas,Latn,kas_Latn,Kashmiri,س,Lo,ARABIC LETTER SEEN,25,1,2021,0,0,0,0,25,0,0
+kas,Latn,kas_Latn,Kashmiri,’,Pf,RIGHT SINGLE QUOTATION MARK,24,1,2018,0,24,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,“,Pi,LEFT DOUBLE QUOTATION MARK,22,2,"2017,2018",17,5,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ō,Ll,LATIN SMALL LETTER O WITH MACRON,22,1,2017,22,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,”,Pf,RIGHT DOUBLE QUOTATION MARK,21,2,"2017,2018",16,5,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ی,Lo,ARABIC LETTER FARSI YEH,21,1,2021,0,0,0,0,21,0,0
+kas,Latn,kas_Latn,Kashmiri,و,Lo,ARABIC LETTER WAW,20,1,2021,0,0,0,0,20,0,0
+kas,Latn,kas_Latn,Kashmiri,ب,Lo,ARABIC LETTER BEH,20,1,2021,0,0,0,0,20,0,0
+kas,Latn,kas_Latn,Kashmiri,J,Lu,LATIN CAPITAL LETTER J,20,3,"2018,2020,2021",0,17,0,2,1,0,0
+kas,Latn,kas_Latn,Kashmiri,م,Lo,ARABIC LETTER MEEM,18,1,2021,0,0,0,0,18,0,0
+kas,Latn,kas_Latn,Kashmiri,/,Po,SOLIDUS,17,2,"2018,2020",0,5,0,12,0,0,0
+kas,Latn,kas_Latn,Kashmiri,!,Po,EXCLAMATION MARK,17,1,2018,0,17,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ū,Ll,LATIN SMALL LETTER U WITH MACRON,17,1,2017,17,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ز,Lo,ARABIC LETTER ZAIN,16,1,2021,0,0,0,0,16,0,0
+kas,Latn,kas_Latn,Kashmiri,ؠ,Lo,ARABIC LETTER KASHMIRI YEH,16,1,2021,0,0,0,0,16,0,0
+kas,Latn,kas_Latn,Kashmiri,ī,Ll,LATIN SMALL LETTER I WITH MACRON,15,1,2017,15,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ہ,Lo,ARABIC LETTER HEH GOAL,14,1,2021,0,0,0,0,14,0,0
+kas,Latn,kas_Latn,Kashmiri,ٔ,Mn,ARABIC HAMZA ABOVE,14,1,2021,0,0,0,0,14,0,0
+kas,Latn,kas_Latn,Kashmiri,ک,Lo,ARABIC LETTER KEHEH,14,1,2021,0,0,0,0,14,0,0
+kas,Latn,kas_Latn,Kashmiri,ṛ,Ll,LATIN SMALL LETTER R WITH DOT BELOW,13,1,2017,13,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ِ,Mn,ARABIC KASRA,13,1,2021,0,0,0,0,13,0,0
+kas,Latn,kas_Latn,Kashmiri,ُ,Mn,ARABIC DAMMA,11,1,2021,0,0,0,0,11,0,0
+kas,Latn,kas_Latn,Kashmiri,2,Nd,DIGIT TWO,11,3,"2018,2020,2023",0,7,0,1,0,0,3
+kas,Latn,kas_Latn,Kashmiri,1,Nd,DIGIT ONE,11,2,"2018,2020",0,10,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ٕ,Mn,ARABIC HAMZA BELOW,10,1,2021,0,0,0,0,10,0,0
+kas,Latn,kas_Latn,Kashmiri,ٲ,Lo,ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE,10,1,2021,0,0,0,0,10,0,0
+kas,Latn,kas_Latn,Kashmiri,V,Lu,LATIN CAPITAL LETTER V,10,2,"2018,2019",0,9,1,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,گ,Lo,ARABIC LETTER GAF,9,1,2021,0,0,0,0,9,0,0
+kas,Latn,kas_Latn,Kashmiri,ے,Lo,ARABIC LETTER YEH BARREE,9,1,2021,0,0,0,0,9,0,0
+kas,Latn,kas_Latn,Kashmiri,x,Ll,LATIN SMALL LETTER X,9,3,"2019,2020,2023",0,0,2,3,0,0,4
+kas,Latn,kas_Latn,Kashmiri,د,Lo,ARABIC LETTER DAL,9,1,2021,0,0,0,0,9,0,0
+kas,Latn,kas_Latn,Kashmiri,ḍ,Ll,LATIN SMALL LETTER D WITH DOT BELOW,8,1,2017,8,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ل,Lo,ARABIC LETTER LAM,8,1,2021,0,0,0,0,8,0,0
+kas,Latn,kas_Latn,Kashmiri,—,Pd,EM DASH,8,2,"2017,2021",7,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,),Pe,RIGHT PARENTHESIS,7,3,"2017,2018,2020",1,4,0,2,0,0,0
+kas,Latn,kas_Latn,Kashmiri,Č,Lu,LATIN CAPITAL LETTER C WITH CARON,7,1,2017,7,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,"""",Po,QUOTATION MARK,6,1,2020,0,0,0,6,0,0,0
+kas,Latn,kas_Latn,Kashmiri,(,Ps,LEFT PARENTHESIS,6,3,"2017,2018,2020",1,4,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,پ,Lo,ARABIC LETTER PEH,6,1,2021,0,0,0,0,6,0,0
+kas,Latn,kas_Latn,Kashmiri,0,Nd,DIGIT ZERO,5,2,"2018,2020",0,2,0,3,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ش,Lo,ARABIC LETTER SHEEN,5,1,2021,0,0,0,0,5,0,0
+kas,Latn,kas_Latn,Kashmiri,ح,Lo,ARABIC LETTER HAH,5,1,2021,0,0,0,0,5,0,0
+kas,Latn,kas_Latn,Kashmiri,_,Pc,LOW LINE,5,2,"2017,2020",2,0,0,3,0,0,0
+kas,Latn,kas_Latn,Kashmiri,چ,Lo,ARABIC LETTER TCHEH,5,1,2021,0,0,0,0,5,0,0
+kas,Latn,kas_Latn,Kashmiri,ق,Lo,ARABIC LETTER QAF,4,1,2021,0,0,0,0,4,0,0
+kas,Latn,kas_Latn,Kashmiri,َ,Mn,ARABIC FATHA,4,1,2021,0,0,0,0,4,0,0
+kas,Latn,kas_Latn,Kashmiri,Š,Lu,LATIN CAPITAL LETTER S WITH CARON,3,1,2017,3,0,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,آ,Lo,ARABIC LETTER ALEF WITH MADDA ABOVE,3,1,2021,0,0,0,0,3,0,0
+kas,Latn,kas_Latn,Kashmiri,ج,Lo,ARABIC LETTER JEEM,3,1,2021,0,0,0,0,3,0,0
+kas,Latn,kas_Latn,Kashmiri,5,Nd,DIGIT FIVE,3,1,2018,0,3,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ۄ,Lo,ARABIC LETTER WAW WITH RING,3,1,2021,0,0,0,0,3,0,0
+kas,Latn,kas_Latn,Kashmiri,4,Nd,DIGIT FOUR,3,2,"2018,2023",0,2,0,0,0,0,1
+kas,Latn,kas_Latn,Kashmiri,|,Sm,VERTICAL LINE,3,1,2020,0,0,0,3,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ٹ,Lo,ARABIC LETTER TTEH,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,*,Po,ASTERISK,2,1,2020,0,0,0,2,0,0,0
+kas,Latn,kas_Latn,Kashmiri,7,Nd,DIGIT SEVEN,2,2,"2018,2020",0,1,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ث,Lo,ARABIC LETTER THEH,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,8,Nd,DIGIT EIGHT,2,2,"2018,2020",0,1,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,‘,Pi,LEFT SINGLE QUOTATION MARK,2,1,2018,0,2,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ڈ,Lo,ARABIC LETTER DDAL,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,ڑ,Lo,ARABIC LETTER RREH,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,6,Nd,DIGIT SIX,2,1,2018,0,2,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,3,Nd,DIGIT THREE,2,1,2018,0,2,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,خ,Lo,ARABIC LETTER KHAH,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,ع,Lo,ARABIC LETTER AIN,2,1,2021,0,0,0,0,2,0,0
+kas,Latn,kas_Latn,Kashmiri,ç,Ll,LATIN SMALL LETTER C WITH CEDILLA,1,1,2018,0,1,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ۂ,Lo,ARABIC LETTER HEH GOAL WITH HAMZA ABOVE,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,ژ,Lo,ARABIC LETTER JEH,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,ّ,Mn,ARABIC SHADDA,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,ٟ,Mn,ARABIC WAVY HAMZA BELOW,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,9,Nd,DIGIT NINE,1,1,2018,0,1,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ؤ,Lo,ARABIC LETTER WAW WITH HAMZA ABOVE,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,–,Pd,EN DASH,1,1,2018,0,1,0,0,0,0,0
+kas,Latn,kas_Latn,Kashmiri,[,Ps,LEFT SQUARE BRACKET,1,1,2020,0,0,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,©,So,COPYRIGHT SIGN,1,1,2020,0,0,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ئ,Lo,ARABIC LETTER YEH WITH HAMZA ABOVE,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,&,Po,AMPERSAND,1,1,2020,0,0,0,1,0,0,0
+kas,Latn,kas_Latn,Kashmiri,ي,Lo,ARABIC LETTER YEH,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,ك,Lo,ARABIC LETTER KAF,1,1,2021,0,0,0,0,1,0,0
+kas,Latn,kas_Latn,Kashmiri,@,Po,COMMERCIAL AT,1,1,2021,0,0,0,0,1,0,0

@@ -1,0 +1,18 @@
+{
+  "language_code": "cpa_Latn",
+  "iso_639_3": "cpa",
+  "script": "Latn",
+  "language_name": "Palantla Chinantec",
+  "total_characters": 96,
+  "total_frequency": 1849606,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2017",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:51.196584"
+}

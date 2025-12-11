@@ -1,0 +1,109 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency
+qul,Latn,qul_Latn,North Bolivian Quechua,a,Ll,LATIN SMALL LETTER A,31570,6,"2017,2018,2019,2021,2022,2023",22965,2924,2359,1521,846,955
+qul,Latn,qul_Latn,North Bolivian Quechua, ,Zs,SPACE,18350,6,"2017,2018,2019,2021,2022,2023",13597,1522,1211,797,594,629
+qul,Latn,qul_Latn,North Bolivian Quechua,i,Ll,LATIN SMALL LETTER I,12996,6,"2017,2018,2019,2021,2022,2023",9978,1019,867,546,281,305
+qul,Latn,qul_Latn,North Bolivian Quechua,n,Ll,LATIN SMALL LETTER N,12721,6,"2017,2018,2019,2021,2022,2023",9112,1239,1063,663,305,339
+qul,Latn,qul_Latn,North Bolivian Quechua,u,Ll,LATIN SMALL LETTER U,11714,6,"2017,2018,2019,2021,2022,2023",8426,1109,931,577,290,381
+qul,Latn,qul_Latn,North Bolivian Quechua,c,Ll,LATIN SMALL LETTER C,8518,6,"2017,2018,2019,2021,2022,2023",7090,496,439,226,103,164
+qul,Latn,qul_Latn,North Bolivian Quechua,s,Ll,LATIN SMALL LETTER S,7266,6,"2017,2018,2019,2021,2022,2023",5715,487,508,253,139,164
+qul,Latn,qul_Latn,North Bolivian Quechua,h,Ll,LATIN SMALL LETTER H,7045,6,"2017,2018,2019,2021,2022,2023",5407,561,486,266,116,209
+qul,Latn,qul_Latn,North Bolivian Quechua,k,Ll,LATIN SMALL LETTER K,6407,6,"2017,2018,2019,2021,2022,2023",4054,817,591,431,209,305
+qul,Latn,qul_Latn,North Bolivian Quechua,p,Ll,LATIN SMALL LETTER P,5827,6,"2017,2018,2019,2021,2022,2023",4294,517,367,263,180,206
+qul,Latn,qul_Latn,North Bolivian Quechua,t,Ll,LATIN SMALL LETTER T,5511,6,"2017,2018,2019,2021,2022,2023",4001,504,444,250,163,149
+qul,Latn,qul_Latn,North Bolivian Quechua,m,Ll,LATIN SMALL LETTER M,5051,6,"2017,2018,2019,2021,2022,2023",3643,521,382,295,91,119
+qul,Latn,qul_Latn,North Bolivian Quechua,q,Ll,LATIN SMALL LETTER Q,4881,6,"2017,2018,2019,2021,2022,2023",2971,675,545,362,155,173
+qul,Latn,qul_Latn,North Bolivian Quechua,y,Ll,LATIN SMALL LETTER Y,4777,6,"2017,2018,2019,2021,2022,2023",3008,576,437,282,238,236
+qul,Latn,qul_Latn,North Bolivian Quechua,r,Ll,LATIN SMALL LETTER R,4451,6,"2017,2018,2019,2021,2022,2023",3334,402,306,207,110,92
+qul,Latn,qul_Latn,North Bolivian Quechua,l,Ll,LATIN SMALL LETTER L,3991,6,"2017,2018,2019,2021,2022,2023",2971,338,273,155,148,106
+qul,Latn,qul_Latn,North Bolivian Quechua,o,Ll,LATIN SMALL LETTER O,2510,6,"2017,2018,2019,2021,2022,2023",2140,152,121,62,29,6
+qul,Latn,qul_Latn,North Bolivian Quechua,e,Ll,LATIN SMALL LETTER E,2191,6,"2017,2018,2019,2021,2022,2023",1893,99,138,28,27,6
+qul,Latn,qul_Latn,North Bolivian Quechua,j,Ll,LATIN SMALL LETTER J,2041,6,"2017,2018,2019,2021,2022,2023",1608,176,137,74,17,29
+qul,Latn,qul_Latn,North Bolivian Quechua,.,Po,FULL STOP,1886,6,"2017,2018,2019,2021,2022,2023",1510,95,126,57,59,39
+qul,Latn,qul_Latn,North Bolivian Quechua,",",Po,COMMA,1847,6,"2017,2018,2019,2021,2022,2023",1306,162,165,77,72,65
+qul,Latn,qul_Latn,North Bolivian Quechua,w,Ll,LATIN SMALL LETTER W,1569,6,"2017,2018,2019,2021,2022,2023",778,258,195,128,96,114
+qul,Latn,qul_Latn,North Bolivian Quechua,-,Pd,HYPHEN-MINUS,1039,5,"2017,2018,2019,2022,2023",1015,1,1,0,16,6
+qul,Latn,qul_Latn,North Bolivian Quechua,d,Ll,LATIN SMALL LETTER D,916,6,"2017,2018,2019,2021,2022,2023",797,41,61,6,9,2
+qul,Latn,qul_Latn,North Bolivian Quechua,g,Ll,LATIN SMALL LETTER G,853,6,"2017,2018,2019,2021,2022,2023",785,11,45,2,7,3
+qul,Latn,qul_Latn,North Bolivian Quechua,C,Lu,LATIN CAPITAL LETTER C,715,6,"2017,2018,2019,2021,2022,2023",602,34,57,16,4,2
+qul,Latn,qul_Latn,North Bolivian Quechua,D,Lu,LATIN CAPITAL LETTER D,687,5,"2017,2018,2019,2021,2022",590,45,24,27,1,0
+qul,Latn,qul_Latn,North Bolivian Quechua,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,533,6,"2017,2018,2019,2021,2022,2023",377,50,39,25,20,22
+qul,Latn,qul_Latn,North Bolivian Quechua,:,Po,COLON,512,6,"2017,2018,2019,2021,2022,2023",466,23,16,1,4,2
+qul,Latn,qul_Latn,North Bolivian Quechua,b,Ll,LATIN SMALL LETTER B,478,5,"2017,2018,2019,2021,2022",430,25,7,1,15,0
+qul,Latn,qul_Latn,North Bolivian Quechua,',Po,APOSTROPHE,467,4,"2017,2018,2019,2021",348,60,35,24,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,J,Lu,LATIN CAPITAL LETTER J,460,6,"2017,2018,2019,2021,2022,2023",410,17,19,9,2,3
+qul,Latn,qul_Latn,North Bolivian Quechua,S,Lu,LATIN CAPITAL LETTER S,435,6,"2017,2018,2019,2021,2022,2023",394,8,25,4,1,3
+qul,Latn,qul_Latn,North Bolivian Quechua,|,Sm,VERTICAL LINE,424,1,2017,424,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,M,Lu,LATIN CAPITAL LETTER M,310,6,"2017,2018,2019,2021,2022,2023",249,24,19,6,2,10
+qul,Latn,qul_Latn,North Bolivian Quechua,A,Lu,LATIN CAPITAL LETTER A,295,5,"2017,2018,2019,2021,2022",209,30,35,10,11,0
+qul,Latn,qul_Latn,North Bolivian Quechua,P,Lu,LATIN CAPITAL LETTER P,249,5,"2017,2018,2019,2021,2022",204,16,12,11,6,0
+qul,Latn,qul_Latn,North Bolivian Quechua,K,Lu,LATIN CAPITAL LETTER K,242,6,"2017,2018,2019,2021,2022,2023",200,7,21,3,6,5
+qul,Latn,qul_Latn,North Bolivian Quechua,Q,Lu,LATIN CAPITAL LETTER Q,222,5,"2017,2018,2019,2021,2022",201,8,5,5,3,0
+qul,Latn,qul_Latn,North Bolivian Quechua,1,Nd,DIGIT ONE,217,6,"2017,2018,2019,2021,2022,2023",111,32,39,17,11,7
+qul,Latn,qul_Latn,North Bolivian Quechua,T,Lu,LATIN CAPITAL LETTER T,212,6,"2017,2018,2019,2021,2022,2023",147,26,21,8,7,3
+qul,Latn,qul_Latn,North Bolivian Quechua,v,Ll,LATIN SMALL LETTER V,196,5,"2017,2018,2019,2021,2022",151,9,19,8,9,0
+qul,Latn,qul_Latn,North Bolivian Quechua,E,Lu,LATIN CAPITAL LETTER E,182,5,"2017,2018,2019,2021,2022",158,10,12,1,1,0
+qul,Latn,qul_Latn,North Bolivian Quechua,0,Nd,DIGIT ZERO,160,6,"2017,2018,2019,2021,2022,2023",100,12,31,4,9,4
+qul,Latn,qul_Latn,North Bolivian Quechua,2,Nd,DIGIT TWO,156,6,"2017,2018,2019,2021,2022,2023",80,26,21,15,12,2
+qul,Latn,qul_Latn,North Bolivian Quechua,;,Po,SEMICOLON,154,5,"2017,2018,2019,2021,2022",129,12,5,7,1,0
+qul,Latn,qul_Latn,North Bolivian Quechua,R,Lu,LATIN CAPITAL LETTER R,137,6,"2017,2018,2019,2021,2022,2023",102,6,8,3,16,2
+qul,Latn,qul_Latn,North Bolivian Quechua,I,Lu,LATIN CAPITAL LETTER I,127,6,"2017,2018,2019,2021,2022,2023",78,14,25,4,5,1
+qul,Latn,qul_Latn,North Bolivian Quechua,B,Lu,LATIN CAPITAL LETTER B,125,5,"2017,2018,2019,2021,2022",108,4,7,3,3,0
+qul,Latn,qul_Latn,North Bolivian Quechua,N,Lu,LATIN CAPITAL LETTER N,123,5,"2017,2018,2019,2021,2022",98,6,7,5,7,0
+qul,Latn,qul_Latn,North Bolivian Quechua,9,Nd,DIGIT NINE,123,6,"2017,2018,2019,2021,2022,2023",98,8,5,3,5,4
+qul,Latn,qul_Latn,North Bolivian Quechua,),Pe,RIGHT PARENTHESIS,115,5,"2017,2018,2019,2022,2023",96,4,1,0,10,4
+qul,Latn,qul_Latn,North Bolivian Quechua,(,Ps,LEFT PARENTHESIS,114,5,"2017,2018,2019,2022,2023",96,4,1,0,9,4
+qul,Latn,qul_Latn,North Bolivian Quechua,’,Pf,RIGHT SINGLE QUOTATION MARK,113,6,"2017,2018,2019,2021,2022,2023",61,16,28,6,1,1
+qul,Latn,qul_Latn,North Bolivian Quechua,“,Pi,LEFT DOUBLE QUOTATION MARK,111,4,"2017,2018,2019,2021",99,5,3,4,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,f,Ll,LATIN SMALL LETTER F,110,5,"2017,2018,2019,2022,2023",82,3,19,0,2,4
+qul,Latn,qul_Latn,North Bolivian Quechua,L,Lu,LATIN CAPITAL LETTER L,108,5,"2017,2019,2021,2022,2023",81,0,6,5,15,1
+qul,Latn,qul_Latn,North Bolivian Quechua,U,Lu,LATIN CAPITAL LETTER U,100,6,"2017,2018,2019,2021,2022,2023",76,3,16,1,3,1
+qul,Latn,qul_Latn,North Bolivian Quechua,”,Pf,RIGHT DOUBLE QUOTATION MARK,98,4,"2017,2018,2019,2021",85,5,4,4,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,—,Pd,EM DASH,94,1,2017,94,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,z,Ll,LATIN SMALL LETTER Z,92,4,"2017,2018,2019,2021",85,3,1,3,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,H,Lu,LATIN CAPITAL LETTER H,85,4,"2017,2018,2019,2021",78,2,4,1,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,á,Ll,LATIN SMALL LETTER A WITH ACUTE,85,4,"2017,2018,2019,2022",67,7,9,0,2,0
+qul,Latn,qul_Latn,North Bolivian Quechua,í,Ll,LATIN SMALL LETTER I WITH ACUTE,82,4,"2017,2018,2019,2021",69,8,2,3,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,81,3,"2017,2018,2019",66,10,5,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,W,Lu,LATIN CAPITAL LETTER W,78,6,"2017,2018,2019,2021,2022,2023",55,5,6,2,1,9
+qul,Latn,qul_Latn,North Bolivian Quechua,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,72,1,2017,72,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,Y,Lu,LATIN CAPITAL LETTER Y,68,6,"2017,2018,2019,2021,2022,2023",50,3,4,3,6,2
+qul,Latn,qul_Latn,North Bolivian Quechua,́,Mn,COMBINING ACUTE ACCENT,68,3,"2017,2022,2023",6,0,0,0,33,29
+qul,Latn,qul_Latn,North Bolivian Quechua,5,Nd,DIGIT FIVE,59,6,"2017,2018,2019,2021,2022,2023",32,7,13,3,3,1
+qul,Latn,qul_Latn,North Bolivian Quechua,7,Nd,DIGIT SEVEN,56,5,"2017,2018,2019,2021,2022",38,5,8,2,3,0
+qul,Latn,qul_Latn,North Bolivian Quechua,3,Nd,DIGIT THREE,55,5,"2017,2018,2019,2021,2023",26,11,10,6,0,2
+qul,Latn,qul_Latn,North Bolivian Quechua,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,54,6,"2017,2018,2019,2021,2022,2023",45,4,1,1,2,1
+qul,Latn,qul_Latn,North Bolivian Quechua,4,Nd,DIGIT FOUR,54,5,"2017,2018,2019,2021,2022",35,7,7,3,2,0
+qul,Latn,qul_Latn,North Bolivian Quechua,8,Nd,DIGIT EIGHT,48,6,"2017,2018,2019,2021,2022,2023",29,7,5,3,3,1
+qul,Latn,qul_Latn,North Bolivian Quechua,→,Sm,RIGHTWARDS ARROW,47,1,2017,47,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,?,Po,QUESTION MARK,45,3,"2017,2018,2019",31,11,3,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,–,Pd,EN DASH,43,5,"2017,2018,2019,2021,2022",31,5,4,1,2,0
+qul,Latn,qul_Latn,North Bolivian Quechua,O,Lu,LATIN CAPITAL LETTER O,41,4,"2017,2018,2019,2022",35,3,2,0,1,0
+qul,Latn,qul_Latn,North Bolivian Quechua,G,Lu,LATIN CAPITAL LETTER G,41,4,"2017,2018,2019,2021",33,2,5,1,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,"""",Po,QUOTATION MARK,40,3,"2017,2018,2019",30,8,2,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,‘,Pi,LEFT SINGLE QUOTATION MARK,39,1,2017,39,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,6,Nd,DIGIT SIX,37,6,"2017,2018,2019,2021,2022,2023",15,7,6,4,2,3
+qul,Latn,qul_Latn,North Bolivian Quechua,¿,Po,INVERTED QUESTION MARK,30,1,2017,30,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,F,Lu,LATIN CAPITAL LETTER F,23,3,"2017,2019,2021",15,0,6,2,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,!,Po,EXCLAMATION MARK,23,4,"2017,2018,2019,2021",16,2,2,3,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,é,Ll,LATIN SMALL LETTER E WITH ACUTE,21,3,"2017,2018,2019",15,2,4,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,/,Po,SOLIDUS,18,2,"2017,2019",16,0,2,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,¡,Po,INVERTED EXCLAMATION MARK,15,3,"2017,2018,2019",11,2,2,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,x,Ll,LATIN SMALL LETTER X,13,2,"2017,2022",11,0,0,0,2,0
+qul,Latn,qul_Latn,North Bolivian Quechua,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,10,1,2017,10,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,6,1,2017,6,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,V,Lu,LATIN CAPITAL LETTER V,5,2,"2017,2021",4,0,0,1,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,>,Sm,GREATER-THAN SIGN,5,1,2019,0,0,5,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,4,2,"2018,2021",0,2,0,2,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,%,Po,PERCENT SIGN,3,2,"2018,2019",0,2,1,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,+,Sm,PLUS SIGN,3,2,"2017,2019",2,0,1,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,3,1,2019,0,0,3,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,],Pe,RIGHT SQUARE BRACKET,3,1,2017,3,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,[,Ps,LEFT SQUARE BRACKET,3,1,2017,3,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,`,Sk,GRAVE ACCENT,2,1,2017,2,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,X,Lu,LATIN CAPITAL LETTER X,2,1,2017,2,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,©,So,COPYRIGHT SIGN,2,1,2017,2,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,2,1,2017,2,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,ì,Ll,LATIN SMALL LETTER I WITH GRAVE,1,1,2017,1,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,*,Po,ASTERISK,1,1,2017,1,0,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,1,1,2018,0,1,0,0,0,0
+qul,Latn,qul_Latn,North Bolivian Quechua,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,1,1,2019,0,0,1,0,0,0

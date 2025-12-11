@@ -1,0 +1,95 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2017_frequency,year_2018_frequency,year_2023_frequency
+bmq,Latn,bmq_Latn,Bomu, ,Zs,SPACE,5566,3,"2017,2018,2023",1309,4177,80
+bmq,Latn,bmq_Latn,Bomu,a,Ll,LATIN SMALL LETTER A,3123,3,"2017,2018,2023",795,2285,43
+bmq,Latn,bmq_Latn,Bomu,i,Ll,LATIN SMALL LETTER I,1659,3,"2017,2018,2023",454,1169,36
+bmq,Latn,bmq_Latn,Bomu,n,Ll,LATIN SMALL LETTER N,1588,3,"2017,2018,2023",404,1163,21
+bmq,Latn,bmq_Latn,Bomu,o,Ll,LATIN SMALL LETTER O,1505,3,"2017,2018,2023",340,1135,30
+bmq,Latn,bmq_Latn,Bomu,e,Ll,LATIN SMALL LETTER E,1491,3,"2017,2018,2023",383,1092,16
+bmq,Latn,bmq_Latn,Bomu,u,Ll,LATIN SMALL LETTER U,1073,3,"2017,2018,2023",282,766,25
+bmq,Latn,bmq_Latn,Bomu,w,Ll,LATIN SMALL LETTER W,812,3,"2017,2018,2023",157,649,6
+bmq,Latn,bmq_Latn,Bomu,m,Ll,LATIN SMALL LETTER M,739,3,"2017,2018,2023",205,518,16
+bmq,Latn,bmq_Latn,Bomu,l,Ll,LATIN SMALL LETTER L,690,3,"2017,2018,2023",166,501,23
+bmq,Latn,bmq_Latn,Bomu,r,Ll,LATIN SMALL LETTER R,687,3,"2017,2018,2023",213,460,14
+bmq,Latn,bmq_Latn,Bomu,ɛ,Ll,LATIN SMALL LETTER OPEN E,652,3,"2017,2018,2023",213,427,12
+bmq,Latn,bmq_Latn,Bomu,b,Ll,LATIN SMALL LETTER B,619,3,"2017,2018,2023",145,454,20
+bmq,Latn,bmq_Latn,Bomu,y,Ll,LATIN SMALL LETTER Y,561,3,"2017,2018,2023",127,427,7
+bmq,Latn,bmq_Latn,Bomu,s,Ll,LATIN SMALL LETTER S,472,3,"2017,2018,2023",144,320,8
+bmq,Latn,bmq_Latn,Bomu,t,Ll,LATIN SMALL LETTER T,465,3,"2017,2018,2023",176,280,9
+bmq,Latn,bmq_Latn,Bomu,h,Ll,LATIN SMALL LETTER H,353,3,"2017,2018,2023",84,268,1
+bmq,Latn,bmq_Latn,Bomu,.,Po,FULL STOP,312,3,"2017,2018,2023",76,231,5
+bmq,Latn,bmq_Latn,Bomu,z,Ll,LATIN SMALL LETTER Z,288,3,"2017,2018,2023",62,223,3
+bmq,Latn,bmq_Latn,Bomu,",",Po,COMMA,253,3,"2017,2018,2023",62,184,7
+bmq,Latn,bmq_Latn,Bomu,ɓ,Ll,LATIN SMALL LETTER B WITH HOOK,244,2,"2017,2018",66,178,0
+bmq,Latn,bmq_Latn,Bomu,v,Ll,LATIN SMALL LETTER V,196,2,"2017,2018",42,154,0
+bmq,Latn,bmq_Latn,Bomu,d,Ll,LATIN SMALL LETTER D,194,3,"2017,2018,2023",46,146,2
+bmq,Latn,bmq_Latn,Bomu,’,Pf,RIGHT SINGLE QUOTATION MARK,162,2,"2017,2018",32,130,0
+bmq,Latn,bmq_Latn,Bomu,A,Lu,LATIN CAPITAL LETTER A,146,3,"2017,2018,2023",55,89,2
+bmq,Latn,bmq_Latn,Bomu,f,Ll,LATIN SMALL LETTER F,141,3,"2017,2018,2023",49,88,4
+bmq,Latn,bmq_Latn,Bomu,B,Lu,LATIN CAPITAL LETTER B,119,3,"2017,2018,2023",52,60,7
+bmq,Latn,bmq_Latn,Bomu,è,Ll,LATIN SMALL LETTER E WITH GRAVE,110,1,2018,0,110,0
+bmq,Latn,bmq_Latn,Bomu,ɲ,Ll,LATIN SMALL LETTER N WITH LEFT HOOK,101,3,"2017,2018,2023",22,77,2
+bmq,Latn,bmq_Latn,Bomu,c,Ll,LATIN SMALL LETTER C,93,3,"2017,2018,2023",23,69,1
+bmq,Latn,bmq_Latn,Bomu,L,Lu,LATIN CAPITAL LETTER L,77,2,"2017,2018",26,51,0
+bmq,Latn,bmq_Latn,Bomu,p,Ll,LATIN SMALL LETTER P,75,3,"2017,2018,2023",28,42,5
+bmq,Latn,bmq_Latn,Bomu,J,Lu,LATIN CAPITAL LETTER J,74,2,"2017,2018",8,66,0
+bmq,Latn,bmq_Latn,Bomu,I,Lu,LATIN CAPITAL LETTER I,72,2,"2017,2018",30,42,0
+bmq,Latn,bmq_Latn,Bomu,Z,Lu,LATIN CAPITAL LETTER Z,70,2,"2017,2018",24,46,0
+bmq,Latn,bmq_Latn,Bomu,D,Lu,LATIN CAPITAL LETTER D,70,2,"2017,2018",27,43,0
+bmq,Latn,bmq_Latn,Bomu,k,Ll,LATIN SMALL LETTER K,69,3,"2017,2018,2023",26,41,2
+bmq,Latn,bmq_Latn,Bomu,R,Lu,LATIN CAPITAL LETTER R,69,2,"2017,2018",25,44,0
+bmq,Latn,bmq_Latn,Bomu,S,Lu,LATIN CAPITAL LETTER S,58,2,"2017,2018",25,33,0
+bmq,Latn,bmq_Latn,Bomu,M,Lu,LATIN CAPITAL LETTER M,58,3,"2017,2018,2023",29,27,2
+bmq,Latn,bmq_Latn,Bomu,1,Nd,DIGIT ONE,56,2,"2017,2018",26,30,0
+bmq,Latn,bmq_Latn,Bomu,?,Po,QUESTION MARK,50,2,"2017,2018",4,46,0
+bmq,Latn,bmq_Latn,Bomu,O,Lu,LATIN CAPITAL LETTER O,50,3,"2017,2018,2023",24,25,1
+bmq,Latn,bmq_Latn,Bomu,H,Lu,LATIN CAPITAL LETTER H,50,2,"2017,2018",10,40,0
+bmq,Latn,bmq_Latn,Bomu,/,Po,SOLIDUS,48,1,2017,48,0,0
+bmq,Latn,bmq_Latn,Bomu,U,Lu,LATIN CAPITAL LETTER U,48,2,"2017,2018",23,25,0
+bmq,Latn,bmq_Latn,Bomu,:,Po,COLON,47,2,"2017,2018",10,37,0
+bmq,Latn,bmq_Latn,Bomu,E,Lu,LATIN CAPITAL LETTER E,39,2,"2017,2018",17,22,0
+bmq,Latn,bmq_Latn,Bomu,T,Lu,LATIN CAPITAL LETTER T,39,2,"2017,2018",9,30,0
+bmq,Latn,bmq_Latn,Bomu,2,Nd,DIGIT TWO,39,2,"2017,2018",15,24,0
+bmq,Latn,bmq_Latn,Bomu,Y,Lu,LATIN CAPITAL LETTER Y,35,3,"2017,2018,2023",13,21,1
+bmq,Latn,bmq_Latn,Bomu,-,Pd,HYPHEN-MINUS,31,2,"2017,2018",8,23,0
+bmq,Latn,bmq_Latn,Bomu,',Po,APOSTROPHE,31,2,"2017,2023",30,0,1
+bmq,Latn,bmq_Latn,Bomu,!,Po,EXCLAMATION MARK,29,1,2018,0,29,0
+bmq,Latn,bmq_Latn,Bomu,W,Lu,LATIN CAPITAL LETTER W,29,3,"2017,2018,2023",5,23,1
+bmq,Latn,bmq_Latn,Bomu,‘,Pi,LEFT SINGLE QUOTATION MARK,27,1,2018,0,27,0
+bmq,Latn,bmq_Latn,Bomu,P,Lu,LATIN CAPITAL LETTER P,26,2,"2017,2018",10,16,0
+bmq,Latn,bmq_Latn,Bomu,—,Pd,EM DASH,25,1,2018,0,25,0
+bmq,Latn,bmq_Latn,Bomu,N,Lu,LATIN CAPITAL LETTER N,24,2,"2017,2018",10,14,0
+bmq,Latn,bmq_Latn,Bomu,0,Nd,DIGIT ZERO,21,2,"2017,2018",13,8,0
+bmq,Latn,bmq_Latn,Bomu,5,Nd,DIGIT FIVE,19,2,"2017,2018",5,14,0
+bmq,Latn,bmq_Latn,Bomu,Ɓ,Lu,LATIN CAPITAL LETTER B WITH HOOK,19,2,"2017,2018",8,11,0
+bmq,Latn,bmq_Latn,Bomu,3,Nd,DIGIT THREE,19,2,"2017,2018",8,11,0
+bmq,Latn,bmq_Latn,Bomu,g,Ll,LATIN SMALL LETTER G,18,2,"2017,2023",17,0,1
+bmq,Latn,bmq_Latn,Bomu,K,Lu,LATIN CAPITAL LETTER K,15,2,"2017,2018",5,10,0
+bmq,Latn,bmq_Latn,Bomu,4,Nd,DIGIT FOUR,15,2,"2017,2018",5,10,0
+bmq,Latn,bmq_Latn,Bomu,_,Pc,LOW LINE,14,1,2017,14,0,0
+bmq,Latn,bmq_Latn,Bomu,F,Lu,LATIN CAPITAL LETTER F,12,2,"2017,2018",6,6,0
+bmq,Latn,bmq_Latn,Bomu,C,Lu,LATIN CAPITAL LETTER C,12,1,2017,12,0,0
+bmq,Latn,bmq_Latn,Bomu,;,Po,SEMICOLON,11,2,"2017,2018",1,10,0
+bmq,Latn,bmq_Latn,Bomu,6,Nd,DIGIT SIX,10,2,"2017,2018",2,8,0
+bmq,Latn,bmq_Latn,Bomu,á,Ll,LATIN SMALL LETTER A WITH ACUTE,10,2,"2017,2018",1,9,0
+bmq,Latn,bmq_Latn,Bomu,7,Nd,DIGIT SEVEN,10,2,"2017,2018",2,8,0
+bmq,Latn,bmq_Latn,Bomu,Ɲ,Lu,LATIN CAPITAL LETTER N WITH LEFT HOOK,9,2,"2017,2018",8,1,0
+bmq,Latn,bmq_Latn,Bomu,%,Po,PERCENT SIGN,8,1,2017,8,0,0
+bmq,Latn,bmq_Latn,Bomu,j,Ll,LATIN SMALL LETTER J,7,2,"2017,2023",6,0,1
+bmq,Latn,bmq_Latn,Bomu,G,Lu,LATIN CAPITAL LETTER G,7,1,2018,0,7,0
+bmq,Latn,bmq_Latn,Bomu,ū,Ll,LATIN SMALL LETTER U WITH MACRON,6,1,2018,0,6,0
+bmq,Latn,bmq_Latn,Bomu,Ɛ,Lu,LATIN CAPITAL LETTER OPEN E,6,1,2017,6,0,0
+bmq,Latn,bmq_Latn,Bomu,V,Lu,LATIN CAPITAL LETTER V,5,1,2017,5,0,0
+bmq,Latn,bmq_Latn,Bomu,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,4,2,"2017,2018",2,2,0
+bmq,Latn,bmq_Latn,Bomu,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,4,2,"2017,2018",2,2,0
+bmq,Latn,bmq_Latn,Bomu,&,Po,AMPERSAND,4,1,2017,4,0,0
+bmq,Latn,bmq_Latn,Bomu,8,Nd,DIGIT EIGHT,4,2,"2017,2018",2,2,0
+bmq,Latn,bmq_Latn,Bomu,é,Ll,LATIN SMALL LETTER E WITH ACUTE,3,1,2018,0,3,0
+bmq,Latn,bmq_Latn,Bomu,9,Nd,DIGIT NINE,3,2,"2017,2018",2,1,0
+bmq,Latn,bmq_Latn,Bomu,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,2,1,2018,0,2,0
+bmq,Latn,bmq_Latn,Bomu,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,2,1,2018,0,2,0
+bmq,Latn,bmq_Latn,Bomu,x,Ll,LATIN SMALL LETTER X,2,1,2017,2,0,0
+bmq,Latn,bmq_Latn,Bomu,q,Ll,LATIN SMALL LETTER Q,2,1,2017,2,0,0
+bmq,Latn,bmq_Latn,Bomu,í,Ll,LATIN SMALL LETTER I WITH ACUTE,1,1,2017,1,0,0
+bmq,Latn,bmq_Latn,Bomu,(,Ps,LEFT PARENTHESIS,1,1,2018,0,1,0
+bmq,Latn,bmq_Latn,Bomu,),Pe,RIGHT PARENTHESIS,1,1,2018,0,1,0
+bmq,Latn,bmq_Latn,Bomu,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,1,1,2018,0,1,0

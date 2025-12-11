@@ -1,0 +1,24 @@
+{
+  "language_code": "glg_Latn",
+  "iso_639_3": "glg",
+  "script": "Latn",
+  "language_name": "Galician",
+  "total_characters": 7845,
+  "total_frequency": 6741047876,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:54.334476"
+}

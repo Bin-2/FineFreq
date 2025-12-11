@@ -1,0 +1,124 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2014_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2021_frequency,year_2022_frequency,year_2024_frequency
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,a,Ll,LATIN SMALL LETTER A,297126,7,"2014,2017,2018,2019,2021,2022,2024",1032,3144,221230,2691,67692,520,817
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua, ,Zs,SPACE,171342,7,"2014,2017,2018,2019,2021,2022,2024",614,1799,128059,1366,38660,363,481
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,i,Ll,LATIN SMALL LETTER I,140703,7,"2014,2017,2018,2019,2021,2022,2024",483,1417,105251,1096,31859,226,371
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,c,Ll,LATIN SMALL LETTER C,113700,7,"2014,2017,2018,2019,2021,2022,2024",477,1218,85073,985,25428,175,344
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,n,Ll,LATIN SMALL LETTER N,105628,7,"2014,2017,2018,2019,2021,2022,2024",323,923,79305,916,23764,159,238
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,u,Ll,LATIN SMALL LETTER U,100068,7,"2014,2017,2018,2019,2021,2022,2024",380,1181,74570,1012,22440,202,283
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,h,Ll,LATIN SMALL LETTER H,86219,7,"2014,2017,2018,2019,2021,2022,2024",350,1033,63913,858,19661,155,249
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,s,Ll,LATIN SMALL LETTER S,66472,7,"2014,2017,2018,2019,2021,2022,2024",211,813,49522,579,15015,164,168
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,t,Ll,LATIN SMALL LETTER T,54973,7,"2014,2017,2018,2019,2021,2022,2024",196,585,40889,429,12640,106,128
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,p,Ll,LATIN SMALL LETTER P,54042,7,"2014,2017,2018,2019,2021,2022,2024",163,508,40544,434,12141,113,139
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,r,Ll,LATIN SMALL LETTER R,45574,7,"2014,2017,2018,2019,2021,2022,2024",239,545,33706,351,10460,122,151
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,m,Ll,LATIN SMALL LETTER M,43986,7,"2014,2017,2018,2019,2021,2022,2024",139,478,32821,401,9910,97,140
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,l,Ll,LATIN SMALL LETTER L,42945,7,"2014,2017,2018,2019,2021,2022,2024",142,418,32068,337,9740,102,138
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,o,Ll,LATIN SMALL LETTER O,28458,7,"2014,2017,2018,2019,2021,2022,2024",101,155,21705,89,6262,84,62
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,e,Ll,LATIN SMALL LETTER E,28164,7,"2014,2017,2018,2019,2021,2022,2024",94,97,21341,85,6329,116,102
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,j,Ll,LATIN SMALL LETTER J,24393,7,"2014,2017,2018,2019,2021,2022,2024",108,384,17829,351,5596,50,75
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,g,Ll,LATIN SMALL LETTER G,19463,7,"2014,2017,2018,2019,2021,2022,2024",50,164,14363,211,4601,26,48
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,d,Ll,LATIN SMALL LETTER D,17847,7,"2014,2017,2018,2019,2021,2022,2024",70,106,13281,105,4196,48,41
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,.,Po,FULL STOP,17444,7,"2014,2017,2018,2019,2021,2022,2024",66,213,12826,148,4091,42,58
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,",",Po,COMMA,11213,7,"2014,2017,2018,2019,2021,2022,2024",65,311,8422,216,2134,33,32
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,y,Ll,LATIN SMALL LETTER Y,10260,7,"2014,2017,2018,2019,2021,2022,2024",17,125,7447,109,2518,22,22
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,b,Ll,LATIN SMALL LETTER B,8305,7,"2014,2017,2018,2019,2021,2022,2024",43,63,6350,60,1755,29,5
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,v,Ll,LATIN SMALL LETTER V,7710,7,"2014,2017,2018,2019,2021,2022,2024",4,31,5704,36,1907,10,18
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,C,Lu,LATIN CAPITAL LETTER C,7521,7,"2014,2017,2018,2019,2021,2022,2024",40,61,5531,48,1810,9,22
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,A,Lu,LATIN CAPITAL LETTER A,7447,7,"2014,2017,2018,2019,2021,2022,2024",2,55,5692,50,1640,5,3
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,J,Lu,LATIN CAPITAL LETTER J,6976,7,"2014,2017,2018,2019,2021,2022,2024",5,67,5265,37,1558,16,28
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,q,Ll,LATIN SMALL LETTER Q,5540,7,"2014,2017,2018,2019,2021,2022,2024",8,36,4199,33,1247,12,5
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,S,Lu,LATIN CAPITAL LETTER S,5507,7,"2014,2017,2018,2019,2021,2022,2024",19,29,4179,26,1232,11,11
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,1,Nd,DIGIT ONE,5290,7,"2014,2017,2018,2019,2021,2022,2024",6,63,3963,49,1193,14,2
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,D,Lu,LATIN CAPITAL LETTER D,5289,7,"2014,2017,2018,2019,2021,2022,2024",15,60,4022,36,1143,3,10
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,I,Lu,LATIN CAPITAL LETTER I,4753,7,"2014,2017,2018,2019,2021,2022,2024",6,15,3663,31,1020,8,10
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ñ,Ll,LATIN SMALL LETTER N WITH TILDE,4678,7,"2014,2017,2018,2019,2021,2022,2024",6,71,3487,49,1030,21,14
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,:,Po,COLON,4209,7,"2014,2017,2018,2019,2021,2022,2024",17,12,3144,20,1005,3,8
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,T,Lu,LATIN CAPITAL LETTER T,3554,7,"2014,2017,2018,2019,2021,2022,2024",7,44,2582,34,879,3,5
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,¿,Po,INVERTED QUESTION MARK,3240,6,"2017,2018,2019,2021,2022,2024",0,1,2521,20,692,2,4
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,?,Po,QUESTION MARK,3230,6,"2017,2018,2019,2021,2022,2024",0,1,2511,21,691,2,4
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,P,Lu,LATIN CAPITAL LETTER P,3223,7,"2014,2017,2018,2019,2021,2022,2024",12,21,2276,17,892,2,3
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,N,Lu,LATIN CAPITAL LETTER N,2839,7,"2014,2017,2018,2019,2021,2022,2024",1,10,2165,17,632,3,11
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,2,Nd,DIGIT TWO,2760,7,"2014,2017,2018,2019,2021,2022,2024",1,20,1990,38,701,9,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,),Pe,RIGHT PARENTHESIS,2716,7,"2014,2017,2018,2019,2021,2022,2024",3,2,2069,10,627,3,2
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,á,Ll,LATIN SMALL LETTER A WITH ACUTE,2673,6,"2017,2018,2019,2021,2022,2024",0,8,2011,4,639,1,10
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,H,Lu,LATIN CAPITAL LETTER H,2382,7,"2014,2017,2018,2019,2021,2022,2024",7,7,1828,5,525,2,8
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,(,Ps,LEFT PARENTHESIS,2286,7,"2014,2017,2018,2019,2021,2022,2024",3,2,1725,10,541,3,2
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,f,Ll,LATIN SMALL LETTER F,2203,7,"2014,2017,2018,2019,2021,2022,2024",11,8,1700,18,456,5,5
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,B,Lu,LATIN CAPITAL LETTER B,2197,7,"2014,2017,2018,2019,2021,2022,2024",16,7,1686,2,466,16,4
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,U,Lu,LATIN CAPITAL LETTER U,2083,7,"2014,2017,2018,2019,2021,2022,2024",2,4,1544,12,518,2,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,M,Lu,LATIN CAPITAL LETTER M,2069,7,"2014,2017,2018,2019,2021,2022,2024",13,28,1519,24,475,4,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,z,Ll,LATIN SMALL LETTER Z,2030,7,"2014,2017,2018,2019,2021,2022,2024",3,19,1478,6,518,2,4
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,3,Nd,DIGIT THREE,1813,7,"2014,2017,2018,2019,2021,2022,2024",1,13,1337,18,439,4,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,4,Nd,DIGIT FOUR,1559,7,"2014,2017,2018,2019,2021,2022,2024",1,13,1115,16,409,4,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,R,Lu,LATIN CAPITAL LETTER R,1533,7,"2014,2017,2018,2019,2021,2022,2024",4,5,1184,6,332,1,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,L,Lu,LATIN CAPITAL LETTER L,1532,6,"2014,2017,2018,2019,2021,2022",2,4,1110,12,401,3,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,E,Lu,LATIN CAPITAL LETTER E,1501,7,"2014,2017,2018,2019,2021,2022,2024",5,18,1204,5,260,6,3
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,5,Nd,DIGIT FIVE,1335,6,"2017,2018,2019,2021,2022,2024",0,9,984,10,324,5,3
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,0,Nd,DIGIT ZERO,1273,7,"2014,2017,2018,2019,2021,2022,2024",2,7,896,11,344,12,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,“,Pi,LEFT DOUBLE QUOTATION MARK,1252,7,"2014,2017,2018,2019,2021,2022,2024",6,10,927,2,294,7,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,”,Pf,RIGHT DOUBLE QUOTATION MARK,1248,7,"2014,2017,2018,2019,2021,2022,2024",6,10,924,3,292,7,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,6,Nd,DIGIT SIX,1082,5,"2017,2018,2019,2021,2022",0,8,800,11,259,4,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,’,Pf,RIGHT SINGLE QUOTATION MARK,1058,4,"2018,2019,2021,2024",0,0,880,5,167,0,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,‘,Pi,LEFT SINGLE QUOTATION MARK,1057,4,"2018,2019,2021,2024",0,0,879,5,167,0,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,9,Nd,DIGIT NINE,974,6,"2014,2017,2018,2019,2021,2022",4,8,687,11,260,4,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,G,Lu,LATIN CAPITAL LETTER G,950,5,"2014,2018,2019,2021,2022",2,0,706,1,238,3,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,7,Nd,DIGIT SEVEN,949,6,"2017,2018,2019,2021,2022,2024",0,13,688,12,234,1,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Ñ,Lu,LATIN CAPITAL LETTER N WITH TILDE,900,6,"2017,2018,2019,2021,2022,2024",0,12,667,15,201,1,4
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,8,Nd,DIGIT EIGHT,878,6,"2014,2017,2018,2019,2021,2022",1,10,628,7,227,5,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,O,Lu,LATIN CAPITAL LETTER O,787,5,"2014,2017,2018,2019,2021",1,5,499,8,274,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ó,Ll,LATIN SMALL LETTER O WITH ACUTE,737,5,"2017,2018,2019,2021,2022",0,8,574,1,148,6,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,í,Ll,LATIN SMALL LETTER I WITH ACUTE,632,7,"2014,2017,2018,2019,2021,2022,2024",1,18,494,1,113,4,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,-,Pd,HYPHEN-MINUS,602,6,"2014,2017,2018,2019,2021,2022",29,4,399,12,153,5,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ú,Ll,LATIN SMALL LETTER U WITH ACUTE,456,5,"2017,2018,2019,2021,2022",0,4,341,5,99,7,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Q,Lu,LATIN CAPITAL LETTER Q,432,7,"2014,2017,2018,2019,2021,2022,2024",14,3,320,7,79,8,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Y,Lu,LATIN CAPITAL LETTER Y,411,4,"2017,2018,2019,2021",0,4,311,1,95,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,;,Po,SEMICOLON,404,5,"2014,2018,2019,2021,2022",1,0,285,2,115,1,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,V,Lu,LATIN CAPITAL LETTER V,386,4,"2014,2018,2019,2021",1,0,282,5,98,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,é,Ll,LATIN SMALL LETTER E WITH ACUTE,355,6,"2014,2017,2018,2021,2022,2024",1,6,244,0,94,4,6
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,x,Ll,LATIN SMALL LETTER X,302,4,"2014,2018,2021,2022",1,0,174,0,126,1,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,F,Lu,LATIN CAPITAL LETTER F,296,5,"2017,2018,2019,2021,2022",0,5,231,1,58,1,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,w,Ll,LATIN SMALL LETTER W,186,5,"2014,2018,2019,2021,2022",24,0,96,1,54,11,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,k,Ll,LATIN SMALL LETTER K,157,4,"2014,2018,2019,2021",6,0,78,2,71,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Í,Lu,LATIN CAPITAL LETTER I WITH ACUTE,137,3,"2014,2018,2021",1,0,28,0,108,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,],Pe,RIGHT SQUARE BRACKET,129,3,"2018,2021,2024",0,0,102,0,26,0,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,[,Ps,LEFT SQUARE BRACKET,129,3,"2018,2021,2024",0,0,102,0,26,0,1
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,*,Po,ASTERISK,98,2,"2018,2021",0,0,67,0,31,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,/,Po,SOLIDUS,92,4,"2014,2018,2019,2021",17,0,49,8,18,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,^,Sk,CIRCUMFLEX ACCENT,91,2,"2018,2021",0,0,60,0,31,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Á,Lu,LATIN CAPITAL LETTER A WITH ACUTE,85,3,"2018,2019,2021",0,0,57,1,27,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ü,Ll,LATIN SMALL LETTER U WITH DIAERESIS,81,2,"2018,2021",0,0,60,0,21,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Z,Lu,LATIN CAPITAL LETTER Z,75,3,"2017,2018,2021",0,5,64,0,6,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,K,Lu,LATIN CAPITAL LETTER K,72,4,"2014,2017,2018,2021",9,3,45,0,15,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,W,Lu,LATIN CAPITAL LETTER W,63,5,"2014,2017,2018,2019,2021",1,1,47,1,13,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,—,Pd,EM DASH,58,4,"2018,2019,2021,2022",0,0,42,4,6,6,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,•,Po,BULLET,41,3,"2018,2021,2022",0,0,22,0,3,16,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,É,Lu,LATIN CAPITAL LETTER E WITH ACUTE,40,2,"2018,2021",0,0,25,0,15,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Ó,Lu,LATIN CAPITAL LETTER O WITH ACUTE,28,2,"2018,2021",0,0,26,0,2,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,|,Sm,VERTICAL LINE,19,3,"2014,2018,2021",1,0,16,0,2,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,_,Pc,LOW LINE,19,4,"2014,2018,2019,2021",1,0,15,2,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Ú,Lu,LATIN CAPITAL LETTER U WITH ACUTE,16,3,"2017,2018,2021",0,2,9,0,5,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,!,Po,EXCLAMATION MARK,16,3,"2018,2019,2021",0,0,11,1,4,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,¡,Po,INVERTED EXCLAMATION MARK,15,3,"2018,2019,2021",0,0,12,1,2,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,>,Sm,GREATER-THAN SIGN,15,2,"2018,2021",0,0,8,0,7,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,–,Pd,EN DASH,15,3,"2014,2018,2021",1,0,13,0,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,%,Po,PERCENT SIGN,11,1,2018,0,0,11,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,®,So,REGISTERED SIGN,5,1,2021,0,0,0,0,5,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ć,Ll,LATIN SMALL LETTER C WITH ACUTE,5,1,2014,5,0,0,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,4,2,"2014,2021",3,0,0,0,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,X,Lu,LATIN CAPITAL LETTER X,4,2,"2018,2021",0,0,1,0,3,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,4,2,"2014,2021",3,0,0,0,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ʼ,Lm,MODIFIER LETTER APOSTROPHE,4,1,2021,0,0,0,0,4,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,▸,So,BLACK RIGHT-POINTING SMALL TRIANGLE,3,1,2018,0,0,3,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,−,Sm,MINUS SIGN,3,1,2018,0,0,3,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,י,Lo,HEBREW LETTER YOD,2,1,2018,0,0,2,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,±,Sm,PLUS-MINUS SIGN,2,1,2022,0,0,0,0,0,2,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,£,Sc,POUND SIGN,2,1,2022,0,0,0,0,0,2,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,●,So,BLACK CIRCLE,2,1,2021,0,0,0,0,2,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,○,So,WHITE CIRCLE,2,1,2021,0,0,0,0,2,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,Ü,Lu,LATIN CAPITAL LETTER U WITH DIAERESIS,1,1,2018,0,0,1,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ã,Ll,LATIN SMALL LETTER A WITH TILDE,1,1,2021,0,0,0,0,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,č,Ll,LATIN SMALL LETTER C WITH CARON,1,1,2021,0,0,0,0,1,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,',Po,APOSTROPHE,1,1,2019,0,0,0,1,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ä,Ll,LATIN SMALL LETTER A WITH DIAERESIS,1,1,2018,0,0,1,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,æ,Ll,LATIN SMALL LETTER AE,1,1,2018,0,0,1,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,ɩ,Ll,LATIN SMALL LETTER IOTA,1,1,2018,0,0,1,0,0,0,0
+qvi,Latn,qvi_Latn,Imbabura Highland Quichua,#,Po,NUMBER SIGN,1,1,2022,0,0,0,0,0,1,0

@@ -1,0 +1,105 @@
+iso_639_3,script,language_code,language_name,character,unicode_category,unicode_name,total_frequency_all_time,time_periods_with_data_count,time_periods_list,year_2016_frequency,year_2017_frequency,year_2018_frequency,year_2019_frequency,year_2020_frequency,year_2021_frequency,year_2022_frequency,year_2023_frequency,year_2024_frequency
+ses,Latn,ses_Latn,Koyraboro Senni Songhai, ,Zs,SPACE,20847,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",130,385,2354,2113,1600,11503,1028,1477,257
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,a,Ll,LATIN SMALL LETTER A,19027,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",101,359,2271,2019,1377,10358,947,1296,299
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,o,Ll,LATIN SMALL LETTER O,6896,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",64,94,1066,791,873,3186,313,439,70
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,n,Ll,LATIN SMALL LETTER N,5880,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",35,92,885,708,447,2916,275,440,82
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,e,Ll,LATIN SMALL LETTER E,4975,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",40,67,790,523,457,2477,250,324,47
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,i,Ll,LATIN SMALL LETTER I,4832,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",37,115,743,583,397,2284,227,377,69
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,y,Ll,LATIN SMALL LETTER Y,3893,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",16,73,497,354,320,2208,168,227,30
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,r,Ll,LATIN SMALL LETTER R,3758,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",28,91,536,440,326,1878,163,249,47
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,k,Ll,LATIN SMALL LETTER K,3635,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",33,67,458,443,295,1838,195,273,33
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,d,Ll,LATIN SMALL LETTER D,2696,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",20,55,437,345,257,1240,143,174,25
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,g,Ll,LATIN SMALL LETTER G,2613,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",18,50,315,262,190,1447,132,167,32
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,u,Ll,LATIN SMALL LETTER U,2232,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",11,61,230,267,205,1099,102,206,51
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,b,Ll,LATIN SMALL LETTER B,2223,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",13,42,297,228,231,1115,108,168,21
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,m,Ll,LATIN SMALL LETTER M,2097,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",13,61,226,199,162,1161,112,140,23
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,t,Ll,LATIN SMALL LETTER T,2014,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",27,29,429,309,190,800,89,125,16
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,s,Ll,LATIN SMALL LETTER S,1614,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",13,35,149,98,141,962,69,130,17
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,l,Ll,LATIN SMALL LETTER L,1611,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",11,31,386,183,216,580,72,102,30
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,h,Ll,LATIN SMALL LETTER H,1526,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",11,24,147,159,161,809,93,107,15
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,",",Po,COMMA,1490,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",5,25,96,107,120,957,83,89,8
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ŋ,Ll,LATIN SMALL LETTER ENG,1436,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",8,24,144,157,91,810,71,113,18
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,w,Ll,LATIN SMALL LETTER W,1270,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",20,29,180,89,135,695,27,78,17
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,.,Po,FULL STOP,1113,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",7,28,111,130,94,569,58,98,18
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,z,Ll,LATIN SMALL LETTER Z,698,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,10,127,53,43,332,37,54,42
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ʼ,Lm,MODIFIER LETTER APOSTROPHE,665,5,"2019,2021,2022,2023,2024",0,0,0,44,0,544,29,44,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,f,Ll,LATIN SMALL LETTER F,625,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,18,157,98,58,211,20,60,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,I,Lu,LATIN CAPITAL LETTER I,618,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",4,3,27,65,14,397,38,63,7
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,c,Ll,LATIN SMALL LETTER C,610,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",5,13,108,74,69,266,20,46,9
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,j,Ll,LATIN SMALL LETTER J,453,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",4,7,100,54,60,179,21,24,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,A,Lu,LATIN CAPITAL LETTER A,385,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",3,8,26,35,15,236,12,37,13
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,1,Nd,DIGIT ONE,350,8,"2016,2018,2019,2020,2021,2022,2023,2024",1,0,21,32,12,215,17,37,15
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,2,Nd,DIGIT TWO,309,7,"2018,2019,2020,2021,2022,2023,2024",0,0,18,27,17,196,15,20,16
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ɲ,Ll,LATIN SMALL LETTER N WITH LEFT HOOK,301,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",4,3,43,32,6,179,22,10,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,B,Lu,LATIN CAPITAL LETTER B,279,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",1,4,13,27,11,191,16,12,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,:,Po,COLON,266,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",2,6,9,19,6,178,12,32,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,W,Lu,LATIN CAPITAL LETTER W,253,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",3,5,14,24,25,114,6,27,35
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,š,Ll,LATIN SMALL LETTER S WITH CARON,253,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",8,3,54,21,40,96,11,13,7
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,«,Pi,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,229,6,"2019,2020,2021,2022,2023,2024",0,0,0,22,8,160,13,24,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,»,Pf,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,229,6,"2019,2020,2021,2022,2023,2024",0,0,0,22,8,160,13,24,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,3,Nd,DIGIT THREE,226,7,"2018,2019,2020,2021,2022,2023,2024",0,0,8,9,15,152,18,16,8
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,M,Lu,LATIN CAPITAL LETTER M,190,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",2,4,74,8,18,61,4,18,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,0,Nd,DIGIT ZERO,175,7,"2018,2019,2020,2021,2022,2023,2024",0,0,46,18,21,61,3,14,12
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,4,Nd,DIGIT FOUR,158,7,"2018,2019,2020,2021,2022,2023,2024",0,0,7,7,4,115,5,17,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,N,Lu,LATIN CAPITAL LETTER N,144,8,"2016,2017,2018,2019,2020,2021,2022,2023",1,2,11,6,10,91,12,11,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,',Po,APOSTROPHE,126,7,"2016,2018,2019,2020,2022,2023,2024",2,0,64,6,44,0,3,6,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,5,Nd,DIGIT FIVE,113,6,"2018,2019,2021,2022,2023,2024",0,0,4,7,0,79,4,16,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,p,Ll,LATIN SMALL LETTER P,109,7,"2016,2018,2019,2020,2021,2023,2024",1,0,59,4,25,11,0,7,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,?,Po,QUESTION MARK,104,5,"2017,2020,2021,2022,2023",0,1,0,0,3,80,5,15,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ž,Ll,LATIN SMALL LETTER Z WITH CARON,103,9,"2016,2017,2018,2019,2020,2021,2022,2023,2024",1,3,29,1,7,48,2,11,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,-,Pd,HYPHEN-MINUS,102,6,"2017,2018,2019,2020,2021,2023",0,4,53,19,6,13,0,7,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,6,Nd,DIGIT SIX,98,7,"2018,2019,2020,2021,2022,2023,2024",0,0,1,6,4,69,5,10,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,S,Lu,LATIN CAPITAL LETTER S,92,7,"2018,2019,2020,2021,2022,2023,2024",0,0,11,12,8,40,3,14,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,H,Lu,LATIN CAPITAL LETTER H,87,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,1,6,11,3,54,6,5,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,9,Nd,DIGIT NINE,85,7,"2018,2019,2020,2021,2022,2023,2024",0,0,9,6,4,49,4,9,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,K,Lu,LATIN CAPITAL LETTER K,83,8,"2016,2018,2019,2020,2021,2022,2023,2024",1,0,6,6,10,49,3,5,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,7,Nd,DIGIT SEVEN,80,6,"2018,2019,2021,2022,2023,2024",0,0,2,6,0,56,5,7,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,8,Nd,DIGIT EIGHT,77,6,"2018,2019,2021,2022,2023,2024",0,0,9,6,0,49,3,7,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,T,Lu,LATIN CAPITAL LETTER T,70,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,1,4,13,5,32,3,2,10
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,G,Lu,LATIN CAPITAL LETTER G,64,7,"2017,2018,2019,2020,2021,2022,2024",0,1,6,12,15,26,2,0,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,F,Lu,LATIN CAPITAL LETTER F,61,7,"2016,2018,2019,2020,2021,2022,2023",1,0,21,4,7,24,1,3,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,),Pe,RIGHT PARENTHESIS,55,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,2,5,4,14,16,1,9,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Z,Lu,LATIN CAPITAL LETTER Z,52,7,"2017,2018,2019,2020,2021,2022,2023",0,2,5,1,7,27,6,4,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,(,Ps,LEFT PARENTHESIS,52,8,"2017,2018,2019,2020,2021,2022,2023,2024",0,2,5,4,11,16,1,9,4
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,õ,Ll,LATIN SMALL LETTER O WITH TILDE,52,8,"2016,2017,2018,2019,2020,2021,2022,2023",1,2,8,1,6,29,2,3,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,C,Lu,LATIN CAPITAL LETTER C,44,7,"2017,2018,2019,2020,2021,2022,2023",0,1,6,15,3,14,1,4,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,‹,Pi,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,43,4,"2019,2021,2022,2023",0,0,0,1,0,32,2,8,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,›,Pf,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,43,4,"2019,2021,2022,2023",0,0,0,1,0,32,2,8,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,L,Lu,LATIN CAPITAL LETTER L,35,7,"2018,2019,2020,2021,2022,2023,2024",0,0,2,9,5,15,2,1,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ã,Ll,LATIN SMALL LETTER A WITH TILDE,32,7,"2016,2018,2019,2021,2022,2023,2024",1,0,15,3,0,10,1,1,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Ž,Lu,LATIN CAPITAL LETTER Z WITH CARON,31,4,"2021,2022,2023,2024",0,0,0,0,0,25,2,1,3
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Y,Lu,LATIN CAPITAL LETTER Y,30,5,"2018,2019,2020,2021,2022",0,0,2,2,2,18,6,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,D,Lu,LATIN CAPITAL LETTER D,25,6,"2017,2018,2019,2020,2021,2023",0,2,2,7,3,9,0,2,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,J,Lu,LATIN CAPITAL LETTER J,25,6,"2018,2019,2020,2021,2022,2023",0,0,11,2,4,5,2,1,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,[,Ps,LEFT SQUARE BRACKET,24,3,"2021,2022,2023",0,0,0,0,0,20,1,3,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,x,Ll,LATIN SMALL LETTER X,24,3,"2016,2018,2020",1,0,22,0,1,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,–,Pd,EN DASH,23,3,"2020,2021,2022",0,0,0,0,3,19,1,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,],Pe,RIGHT SQUARE BRACKET,23,3,"2021,2022,2023",0,0,0,0,0,19,1,3,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,;,Po,SEMICOLON,23,5,"2017,2018,2019,2020,2021",0,1,8,1,3,10,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,P,Lu,LATIN CAPITAL LETTER P,22,6,"2016,2018,2019,2020,2021,2024",4,0,3,3,1,9,0,0,2
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,!,Po,EXCLAMATION MARK,18,3,"2019,2021,2023",0,0,0,8,0,6,0,4,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,E,Lu,LATIN CAPITAL LETTER E,17,5,"2018,2019,2020,2021,2022",0,0,3,6,2,5,1,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,v,Ll,LATIN SMALL LETTER V,16,3,"2018,2020,2024",0,0,5,0,10,0,0,0,1
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,/,Po,SOLIDUS,14,4,"2016,2017,2018,2020",2,2,1,0,9,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,’,Pf,RIGHT SINGLE QUOTATION MARK,14,2,"2017,2022",0,11,0,0,0,0,3,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,R,Lu,LATIN CAPITAL LETTER R,11,6,"2018,2019,2020,2021,2022,2023",0,0,2,1,1,4,2,1,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Š,Lu,LATIN CAPITAL LETTER S WITH CARON,10,4,"2018,2020,2021,2023",0,0,1,0,4,4,0,1,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,—,Pd,EM DASH,9,2,"2018,2019",0,0,8,1,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,#,Po,NUMBER SIGN,7,2,"2018,2022",0,0,3,0,0,0,4,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,é,Ll,LATIN SMALL LETTER E WITH ACUTE,6,2,"2018,2020",0,0,1,0,5,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,O,Lu,LATIN CAPITAL LETTER O,5,3,"2018,2019,2020",0,0,3,1,1,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,%,Po,PERCENT SIGN,4,2,"2018,2020",0,0,3,0,1,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ẽ,Ll,LATIN SMALL LETTER E WITH TILDE,4,3,"2017,2021,2022",0,1,0,0,0,2,1,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,U,Lu,LATIN CAPITAL LETTER U,3,2,"2018,2020",0,0,1,0,2,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,|,Sm,VERTICAL LINE,3,1,2023,0,0,0,0,0,0,0,3,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,“,Pi,LEFT DOUBLE QUOTATION MARK,3,2,"2017,2018",0,1,2,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,”,Pf,RIGHT DOUBLE QUOTATION MARK,3,2,"2017,2018",0,1,2,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ǯ,Ll,LATIN SMALL LETTER EZH WITH CARON,2,1,2019,0,0,0,2,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,ʓ,Ll,LATIN SMALL LETTER EZH WITH CURL,2,1,2019,0,0,0,2,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Ŋ,Lu,LATIN CAPITAL LETTER ENG,1,1,2021,0,0,0,0,0,1,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,Ɲ,Lu,LATIN CAPITAL LETTER N WITH LEFT HOOK,1,1,2018,0,0,1,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,\,Po,REVERSE SOLIDUS,1,1,2016,1,0,0,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,$,Sc,DOLLAR SIGN,1,1,2016,1,0,0,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,+,Sm,PLUS SIGN,1,1,2019,0,0,0,1,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,*,Po,ASTERISK,1,1,2017,0,1,0,0,0,0,0,0,0
+ses,Latn,ses_Latn,Koyraboro Senni Songhai,q,Ll,LATIN SMALL LETTER Q,1,1,2024,0,0,0,0,0,0,0,0,1

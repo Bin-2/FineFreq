@@ -1,0 +1,23 @@
+{
+  "language_code": "acn_Latn",
+  "iso_639_3": "acn",
+  "script": "Latn",
+  "language_name": "Achang",
+  "total_characters": 154,
+  "total_frequency": 6261019,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.378354"
+}

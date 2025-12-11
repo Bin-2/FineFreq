@@ -1,0 +1,23 @@
+{
+  "language_code": "ady_Cyrl",
+  "iso_639_3": "ady",
+  "script": "Cyrl",
+  "language_name": "Adyghe",
+  "total_characters": 342,
+  "total_frequency": 22969681,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:46.458353"
+}

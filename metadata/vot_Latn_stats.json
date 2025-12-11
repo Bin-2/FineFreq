@@ -1,0 +1,15 @@
+{
+  "language_code": "vot_Latn",
+  "iso_639_3": "vot",
+  "script": "Latn",
+  "language_name": "Votic",
+  "total_characters": 129,
+  "total_frequency": 8268,
+  "years_covered": [
+    "2018",
+    "2019",
+    "2021"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:15.097620"
+}

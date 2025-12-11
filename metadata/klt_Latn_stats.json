@@ -1,0 +1,20 @@
+{
+  "language_code": "klt_Latn",
+  "iso_639_3": "klt",
+  "script": "Latn",
+  "language_name": "Nukna",
+  "total_characters": 89,
+  "total_frequency": 264673,
+  "years_covered": [
+    "2013",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:59.723060"
+}

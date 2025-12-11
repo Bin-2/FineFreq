@@ -1,0 +1,18 @@
+{
+  "language_code": "awx_Latn",
+  "iso_639_3": "awx",
+  "script": "Latn",
+  "language_name": "Awara",
+  "total_characters": 87,
+  "total_frequency": 348993,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:47.972460"
+}

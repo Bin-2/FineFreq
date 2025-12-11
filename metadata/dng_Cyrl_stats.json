@@ -1,0 +1,19 @@
+{
+  "language_code": "dng_Cyrl",
+  "iso_639_3": "dng",
+  "script": "Cyrl",
+  "language_name": "Dungan",
+  "total_characters": 298,
+  "total_frequency": 321692,
+  "years_covered": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:11:52.267514"
+}

@@ -1,0 +1,16 @@
+{
+  "language_code": "pbi_Latn",
+  "iso_639_3": "pbi",
+  "script": "Latn",
+  "language_name": "Parkwa",
+  "total_characters": 99,
+  "total_frequency": 151165,
+  "years_covered": [
+    "2013",
+    "2017",
+    "2019",
+    "2024"
+  ],
+  "data_source": "FineWeb2, v2.1.0",
+  "generated_on": "2025-12-03T18:12:07.737220"
+}
