@@ -24,6 +24,8 @@ Each character entry includes: Unicode codepoint and name; Script and general ca
 ├───figures
 ├── README.md
 ```
+<img src="./figures/fig_finefreq_char_rank.png" width="600">
+<img src="./figures/fig_finefreq_wc_cjk.png" width="600">
 
 ## Manifest File
 
